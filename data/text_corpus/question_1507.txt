@@ -1,0 +1,40 @@
+QUESTION ID: 1507
+
+QUESTION:
+Hi! So I've had my '88 iX about a year now, and have been driving it semi-regularly. Its in pretty good shape, but the few times I drove it last winter had me questioning the AWD...one instance had me sliding sideways down a hill in the oncoming traffic lane. I never really felt the front tires pulling, it felt more like my old RWD e30 in the snow. Pretty sure this points to the transfer case being donezo, but just want to get some opinions- I'd rather not do a jack test if I don't have to. If that's the case, my best bet is getting a known working case (either in the FS forum or (ugh) drop 2k on a rebuilt one?) given I don't really have the know how to rebuild one? Thanks for the help, Brendan
+
+ANSWER 1 (id: 1507_0):
+why do you not want to do a jack test ? its the best test out there and easy to do (do have to move very far on jack). only other way is with it on a lift lock one output shaft and try to turn the other (should be a lot of resistance if VC is good) chances of finding a good used one become slimmer by the day as people are finding out
+
+ANSWER 2 (id: 1507_1):
+Jack test is the best way. Otherwise you could jack up one of the front tires and try to spin it. It should be pretty hard to spin if the vc is still good.
+
+ANSWER 3 (id: 1507_10):
+Originally posted by AWD_E30 Woah...that is an interesting update! The resultant instability sort of makes sense to me. The viscous coupler is going to try to keep driveshafts at the same RPM which means your front tires are going to be trying to move slower. This is like slightly holding the front brakes while hitting hit gas in the rear. Like doing a burnout leaving a cars and coffee lol ​​​​​ ​​​​​ I would love to see high quality video of this in action in the snow. Hah, yeah it was kinda wild in slick conditions. Plan is to just snag a 4.10 LSD for the rear while the car is still apart.
+
+ANSWER 4 (id: 1507_11):
+dang. hope it didn't damage the transfercase! I feel like so many ix's got destroyed because of stupid crap like this. I'd hang onto that 3.91 though, if it's any good (or even if it's not). you could probably resell it at some point.
+
+ANSWER 5 (id: 1507_12):
+Originally posted by packratbimmer One front wheel up and a spin is so easy. If you fail there, do a jack test. This is easy - don't mean to sound like a jerk, but the iX is way over your head if these two tests are too much to handle. I would switch back to RW Should have read more closely - my bad. I have a 4.10 iX diff if you need one in ME
+
+ANSWER 6 (id: 1507_3):
+Did the test over the weekend, having problems uploading it to youtube though. From comparing it to other tests though, it appears that the TC is in the "on it's way out" category- there's a bit of rear wheel spin before the front wheels pull the car forward. Does this just leave me with the extra "wait for it to get worse before replacing" option in addition to the "replace/rebuild now" option?
+
+ANSWER 7 (id: 1507_4):
+Did you have snow tires on over the winter? Put snow tires on it if you're concerned. Even with a non-functional VC, the AWD is still better than RWD. www.car-parts.com for a T-case
+
+ANSWER 8 (id: 1507_5):
+Sorry to resurface an old thread, but I thought y'all would get a kick out of this- I've had the car off the road for a couple of years now, been slowly giving the car a full rebuild. This car is an '88, so 3.91 gears standard. Was giving the front diff a quick clean, and noticed the tag- 4.10. Having already taken care of the rear, I know that to be a 3.91. From the records, the M20 was replaced about 15 years ago- it must have happened then... I had always been confused when driving in the snow, as it felt super unstable. Now I know why.
+
+ANSWER 9 (id: 1507_6):
+Originally posted by DANGER Sorry to resurface an old thread, but I thought y'all would get a kick out of this- I've had the car off the road for a couple of years now, been slowly giving the car a full rebuild. This car is an '88, so 3.91 gears standard. Was giving the front diff a quick clean, and noticed the tag- 4.10. Having already taken care of the rear, I know that to be a 3.91. From the records, the M20 was replaced about 15 years ago- it must have happened then... I had always been confused when driving in the snow, as it felt super unstable. Now I know why. Thanks for the update! Interested to see what others here think having different front and rear ratios would do to the feel of the car. I'm not sure the instability you are feeling is fully related to different ratios?
+
+ANSWER 10 (id: 1507_7):
+Originally posted by spdracrm3 why do you not want to do a jack test ? its the best test out there and easy to do (do have to move very far on jack). only other way is with it on a lift lock one output shaft and try to turn the other (should be a lot of resistance if VC is good) chances of finding a good used one become slimmer by the day as people are finding out One front wheel up and a spin is so easy. If you fail there, do a jack test. This is easy - don't mean to sound like a jerk, but the iX is way over your head if these two tests are too much to handle. I would switch back to RW
+
+ANSWER 11 (id: 1507_8):
+Woah...that is an interesting update! The resultant instability sort of makes sense to me. The viscous coupler is going to try to keep driveshafts at the same RPM which means your front tires are going to be trying to move slower. This is like slightly holding the front brakes while hitting hit gas in the rear. Like doing a burnout leaving a cars and coffee lol ​​​​​ ​​​​​ I would love to see high quality video of this in action in the snow.
+
+ANSWER 12 (id: 1507_9):
+Originally posted by packratbimmer One front wheel up and a spin is so easy. If you fail there, do a jack test. This is easy - don't mean to sound like a jerk, but the iX is way over your head if these two tests are too much to handle. I would switch back to RW Thread was opened about 7 years ago, did a jack test then (rear wheels spun a lil bit before locking up the VC). IIRC I was scared of the car falling off the jack during the test.

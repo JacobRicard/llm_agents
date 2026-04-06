@@ -1,0 +1,10 @@
+QUESTION ID: 1763
+
+QUESTION:
+How common is it for a stock evaporator to go bad? Doing a refresh and wasnt sure if I should/could reuse the evap. Also, after removal, a couple of fins got bent so not sure I well it will perform its job anymore
+
+ANSWER 1 (id: 1763_0):
+I had a new one leak that replaced one that was a culprit. I will say, A new one flows a lot more air, Id at least take it out and inspect it. If no dye looks to be present, blow out the fins real good.
+
+ANSWER 2 (id: 1763_1):
+"it depends" I've seen bad evaporators go bad on newer vehicles than any E30 and original ones that are still holding charge on older cars than mine. Old cars like these, condition has a lot to do with it, if the HVAC sucks in a bunch of junk or you live near the ocean or it or gets a mouse nest in it there will be more of a risk of corrosion causing it to fail, if it sits there clean doing its job nice and clean then it has no outside risk to it. I'd straighten the fins, check the overall condition of it, and reuse it if it looks good with no evidence of corrosion or bent lines (that could fatigue and fail since it's probably aluminum). In the end chances are new ones are lower quality than OEM.

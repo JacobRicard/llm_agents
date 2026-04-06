@@ -1,0 +1,19 @@
+QUESTION ID: 2110
+
+QUESTION:
+Hi all, I was wondering what camshaft would be optimal for a naturally aspirated 2.7i engine (2.5 pistons, 2.7 crank and rods, 2.5 top end) I’m leaning towards either a 274 duration - 435 lift, 280/274 duration - 415 lift or a 274 duration 415 lift cam please let me know y’all’s thoughts!
+
+ANSWER 1 (id: 2110_0):
+Originally posted by travis_e30 Hi all, I was wondering what camshaft would be optimal for a naturally aspirated 2.7i engine (2.5 pistons, 2.7 crank and rods, 2.5 top end) I’m leaning towards either a 274 duration - 435 lift, 280/274 duration - 415 lift or a 274 duration 415 lift cam please let me know y’all’s thoughts! https://www.r3vlimited.com/board/forum/e30-technical-forums/engine-drivetrain/m20/64366-1-3-motronic-up-grade-2-7i-how-to
+
+ANSWER 2 (id: 2110_1):
+"i" pistons with a eta crank/rods are not going to work well together if at all. I have a 2.7i that I made from a 88 SETA. I used a stock bottom end with a Bimmerheads Head (cam: 280/274). This combo works for me.
+
+ANSWER 3 (id: 2110_2):
+Originally posted by It's Soda Not Pop "i" pistons with a eta crank/rods are not going to work well together if at all. I have a 2.7i that I made from a 88 SETA. I used a stock bottom end with a Bimmerheads Head (cam: 280/274). This combo works for me. Sorry I should have clarified I have the “lightweight pistons (1990-1992) they have proper skirt clearance, and the 280/274 is also what I’m leaning towards, are you still using a stock ecu?
+
+ANSWER 4 (id: 2110_4):
+Originally posted by travis_e30 Sorry I should have clarified I have the “lightweight pistons (1990-1992) they have proper skirt clearance, and the 280/274 is also what I’m leaning towards, are you still using a stock ecu? 525 DME with a SSSquid Chip and MAF conversion. Digger is right about the pistons being too low in the block
+
+ANSWER 5 (id: 2110_5):
+Originally posted by digger Have you decked the block ? Pistons will be down the hole 2mm. i would use 274 non split with higher lift Gonna thread jack here: My turbo build got put on hold, but I still have all the parts for a 2.7i build with a decked block for compression. I bought a BimmerHeads 280/274 Duration – 415 Lift cam for the turbo build. Why would you go for a 274 non-split on this NA engine? I may end up with MegaSquirt and long tube headers on this car.

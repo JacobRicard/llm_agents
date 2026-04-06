@@ -1,0 +1,7 @@
+QUESTION ID: 641
+
+QUESTION:
+Ok, I know many of you have done this and it's probably considered a "done a long time ago", type of mod, but does anyone have the wiring diagram for the blue base e36 switches? Any links I find to the StrictlyETA write ups are long since 404'd and most other write ups are for the white base switches. I have 2 large blue base switches, 5 wires, with the following wire colors sw/gr, sw/ws, sw/gn, rt/vi, and sw/bl I'm putting these into an 88 convertible if that makes any difference. ANY help or pointers in the right direction is greatly apprciated!
+
+ANSWER 1 (id: 641_0):
+you should be able to get wire diagrams and colours from the etm for both models from here Index of /Manuals/BMW edit: this is in the same subforum you posted in DIY - E36 window switch retrofit - R3VLimited Forums​ it's for the blue base switches. ​

@@ -1,0 +1,16 @@
+QUESTION ID: 2310
+
+QUESTION:
+Hello, I just picked up another m42 318i. This time it is a convertible. The car has some issues, my biggest concern is the car stalls after 5 mins of idle. The car starts right up and runs fine, but if you let it idle or stop at a traffic light, the car will bog down for a few seconds then stalls. I was checking the spark plugs and noticed that the coils are from a later model BMW, could this be the reason? Also, there is a heavy oil leak coming from the passenger side of the engine. (ac compressor is fully drenched in oil). I changed the oil filter housing gaskets today, but it is still leaking. Any idea where this leak could be coming from? Thanks in advance for the help! Paul
+
+ANSWER 1 (id: 2310_1):
+The coil on plug mod is fairly commonplace, I wouldn't sweat it. The stalling issue sounds like a vacuum leak to me. Can you hear any whistling while its running or as it stalls? I would visually check your throttle body boot and idle control valve for firm connections and no splits in the lines going to and from. They tend to get oil soaked and deteriorate after time.
+
+ANSWER 2 (id: 2310_2):
+Stalling sounds like it could possibly be a big vac leak somewhere or fuel issue. Your leaking oil filter housing gasket could just be non perfect matting surfaces which may need some help from a little RTV. Or there is another leak. Best bet is to clean the oil soaked stuff and check regularly to pinpoint the leak
+
+ANSWER 3 (id: 2310_4):
+Another easy test that you can do is to remove the gas cap and see if the stalling goes away. If it does, that means that your tank is probably under vacuum and a vent is plugged somewhere.
+
+ANSWER 4 (id: 2310_5):
+Thank you, I replaced all the m42 vacuum mess under the hood. Car runs much better now. The stalling is much less, when I gas it, the bog down goes away. Does this narrow it down to something?

@@ -1,0 +1,13 @@
+QUESTION ID: 1625
+
+QUESTION:
+Hey guys, I was wondering if anyone could shed some light on which radio unit came in my iX from factory.. from my understanding there was three different kinds? My car came with the premium sound package. (better speakers on the rear shelf and door tweeters) I ran my VIN on realoem but couldn't find anything.. the last seven of my car is ED52405 if that will help anyone.. Thanks!
+
+ANSWER 1 (id: 1625_0):
+Mine has premium sound also, but I never tried to look up the parts. It has the speakers you describe, plus balance thumb roller in one of the switch ports above the radio bay. However, the head unit had been removed before I bought the car, so I don't know what it originally had in that department.
+
+ANSWER 2 (id: 1625_2):
+Depends on the year. Factory stereos were 2 channel and 4 channel, alpine and pioneer. If you have an external fader knob above the radio opening you have 2 channel wiring. You can still use a 4 channel radio with a factory harness adapter. Per vin lookup on mdecoder.com you have a 3/89 build Canadian IX The factory CM5905 & CM5907 (2channel) and 5908 “slider” (4 channel) by Alpine can all be Bluetooth upgraded using a cantaloupe radio board. The KE81 (2 channel) & KE83 (4 channel) by Pioneer cannot be Bluetooth upgraded Please note as well that the factory blaupunkt premium amp often needs rebuilding. If you get noise in your speakers with the radio on and sound off it’s probably your amp is bad For more detail follow the link in my sig or check the audio forum
+
+ANSWER 3 (id: 1625_3):
+Originally posted by bradnic Depends on the year. Factory stereos were 2 channel and 4 channel, alpine and pioneer. If you have an external fader knob above the radio opening you have 2 channel wiring. You can still use a 4 channel radio with a factory harness adapter. Per vin lookup on mdecoder.com you have a 3/89 build Canadian IX The factory CM5905 & CM5907 (2channel) and 5908 “slider” (4 channel) by Alpine can all be Bluetooth upgraded using a cantaloupe radio board. The KE81 (2 channel) & KE83 (4 channel) by Pioneer cannot be Bluetooth upgraded Please note as well that the factory blaupunkt premium amp often needs rebuilding. If you get noise in your speakers with the radio on and sound off it’s probably your amp is bad For more detail follow the link in my sig or check the audio forum Awesome thank you! The car came with an aftermarket deck and I was looking for which ones may have come from factory, then I would just choose one to my liking and was planning to get it upgraded to the cantaloupe radio board. I do not have any issues regarding the premium amp, i have no noise that you are describing. I will definetly check out your thread and will probably be subscribing!

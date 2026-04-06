@@ -1,0 +1,7 @@
+QUESTION ID: 1739
+
+QUESTION:
+On my 87' 325is when I accelerate flat out I usually get a hiccup or two on the upper end of the tach ( 4-5 k rpm). Is this normal for e30s? If not any ideas?
+
+ANSWER 1 (id: 1739_1):
+Not normal most likely due to something failing in the spark ignition system I had an issue in the past of higher RPM hiccups and it was due to a fouled plug.. I'd start by pulling each plug and checking for built up shit on the tip.

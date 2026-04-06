@@ -1,0 +1,25 @@
+QUESTION ID: 2151
+
+QUESTION:
+I'm sure that at least some of this has been covered multiple times. I just wrapped up my head swap with a Bimmer Heads 274 cam and am super happy with it. Still need to get the 3.73 in the back, exhaust, and a chip. But on the whole it's a huge upgrade from the eta with a Turner chip and 3.25. So, to go to a single mass flywheel all I need is a 323 throwout bearing, correct? Next, my ac worked really well before, but I'm not sure what I need to do to retain it after the swap as all the connections were eliminated with the new harness. Hopefully there's a writeup on this someone can point me towards? Finally (for now) I had put a sssquid chip in my cart the other day and when I went back to buy it all chips are out of stock according to the site. Anyone know what's going on? Thanks in advance.
+
+ANSWER 1 (id: 2151_0):
+Old R3V Response: GTFO newbie!! Use the search button ya lazy bum... New R3V Response: Hi there. Thanks for all the questions and Im glad you're happy with the upgrade! Im not sure about the correct throwout bearing, but that sounds correct. Try searching ya lazy bum. What harness was changed? The A/C should still work regardless of ETA or I harness. A/C is in the same spot. Someone correct me if Im wrong. Chip shortage. Blame China
+
+ANSWER 2 (id: 2151_1):
+Might have to run AC wires if they aren't in the new harness? Single mass flywheel would need at least a new matching clutch disk. I don't know if the pressure plate is different or not, but you can probably find out from realoem. For the Throw Out Bearing, If you stack the new and old flywheel/pressure beside each other and they're the same height, you're good to use a regular 325i bearing, but if the old stackup was taller, that's when you'd want the 323i TOB. You can also measure the depth of the bellhousing on your G260 for this, but I don't know what the measurements are. I'd also do a new clutch pivot pin, and a new TOB regardless of if you need the 323 or not
+
+ANSWER 3 (id: 2151_2):
+My only anecdotal story is that when i swapped from a dual mass flywheel to a single mass i did indeed need a longer throw out bearing carrier. The clutch "bight point" was on the floor. it did work, but only just. I dont actually know what throw out bearing carrier i used as i had one in a pile of parts, might have been 323i, but it was definitely ~5-10mm longer or so. swapped that in and brought the pedal back up to its proper spot. As for the AC, the AC auxiliary fan has a signal from the AC switch on the dash, so use this as an input for new AC clutch wiring. I used the AC fan on signal to trigger a relay, and then +12 from the battery through the relay, then through the AC high/low pressure switch to the clutch with a fuse. I only did this as there is a fault somewhere in the oem circuit that i cant find. Your new wiring loom should have the AC wiring?
+
+ANSWER 4 (id: 2151_3):
+This is all very helpful! Thanks for your input. Also, I'm not lazy, just kinda dumb. I'll proceed with your suggestions and report back if things don't come up spades.
+
+ANSWER 5 (id: 2151_4):
+What year is your car? Dual mass is fairly rare. Most eta came with the heaver single mass. Heavy to light swap requires no odd parts. The late eta (seta, 87-88) came with a dual mass FW and has a different shaped bell housing that may require the longer TOB. There's a part number on your gearbox that will tell you before you open it. The clutch kits do NOT interchange from single to dual mass (single mass has springs on the disc, dual mass has springs in the FY). Dual mass has like 8mm alignment pins, both single mass have ~4mm pins.
+
+ANSWER 6 (id: 2151_5):
+If you have an early 325e with the slightly longer Getrag 260 bell housing, and swap (remove) a single mass eta flywheel for a single mass 325i flywheel, then use the 323i throwout bearing.
+
+ANSWER 7 (id: 2151_6):
+Originally posted by packratbimmer If you have an early 325e with the slightly longer Getrag 260 bell housing, and swap (remove) a single mass eta flywheel for a single mass 325i flywheel, then use the 323i throwout bearing. I believe it's the later ones? Typically with a larger Giubo. My 9/85 had the heavy single mass and was a direct swap. I know for a fact I did an 88 seta for a customer at work. He had the large Giubo, dual mass. The owner after him came in and got his engine rebuilt. EDIT: Either way, there's different part numbers on the gearbox that requires the longer TOB. EDIT # 2 after a quick search!:https://www.r3vlimited.com/board/for...-with-pictures

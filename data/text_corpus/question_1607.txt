@@ -1,0 +1,13 @@
+QUESTION ID: 1607
+
+QUESTION:
+Are the inner tie rods different as well? Edit: I kept putting a space between tie and rod, no wonder my searches didn't show anything! They are definitely different: http://www.e30tech.com/forum/showpost.php?p=1241394&postcount=17
+
+ANSWER 1 (id: 1607_0):
+I bought the I inner and found this out this weekend. Any idea how to replace the inner tie rod? Looked like I couldn't get to it even at full lock on the iX.
+
+ANSWER 2 (id: 1607_1):
+from full lock you'll have to pull the boot back and you might find a small lock plate bent over the flats of the inner joint where it attaches to the rack. Look in that picture posted above, there is no plate shown, but on the far left of the upper rod are the flats on the cup. If there is a lock plate, pry it back and you should be able to crack the cup loose to get it off. The cup should spin on the ball so no worry of twisting the rod.
+
+ANSWER 3 (id: 1607_2):
+I just had to replace an inner on a 318is and aside from being a bit shorter (atleast the replacement that I got was shorter) the awd inner tie rod is the same as the rwd inner tie rod.

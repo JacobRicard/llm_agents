@@ -1,0 +1,13 @@
+QUESTION ID: 1072
+
+QUESTION:
+I have an 86 m3 with the old style serpentine window regulator. Someone in the passed has taken the motors out and fitted manual winders. I would like to put the motors back in but they are very expensive. Has anyone tried to put the newer window regs in where the serpentine were? Thanks http://www.realoem.com/bmw/enUS/show...diagId=51_0304 http://www.realoem.com/bmw/enUS/show...diagId=51_0330
+
+ANSWER 1 (id: 1072_0):
+Doesnt look like they are interchangeable. One is moving threaded cable and the other is moving a toothed plate, so the drive teeth are not compatible. However, looks like the difference is only ~$80 Serpentine: $199.67 https://www.ecstuning.com/b-genuine-...t/51331386987/ Plate: $278.19 https://www.ecstuning.com/b-genuine-...t/51331380854/
+
+ANSWER 2 (id: 1072_1):
+It looks like you can only get the left motor. The motor and the reg are still available but there £700. I was looking into doing this- http://www.r3vlimited.com/board/showthread.php?t=367271
+
+ANSWER 3 (id: 1072_2):
+My car has the style they are converting to there. It looks like a much more solid setup Than the cable. I would recommend swapping Sent from my iPhone using Tapatalk

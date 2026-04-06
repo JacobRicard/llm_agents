@@ -1,0 +1,7 @@
+QUESTION ID: 2138
+
+QUESTION:
+I think I found a S3.64 in a '88 735i auto in a local junkyard, at least if I decode the VIN it comes back with the LSD, but I can't visually inspect it because it's buried. Unknown miles. Been trying to research and decide if it's worth buying to resell for a small profit. Thoughts? There's also a super eta in a '88 528e, a 325e sedan with some pretty nice rust free doors and trunk lid, lots of switches and interior bits that I feel like saving and trying to resell.
+
+ANSWER 1 (id: 2138_0):
+Sure, someone might need it and you should profit unless those junkyard prices are insane, so definitely save it from the chinese scrap smelters. Depending on the case variation it may be wrong for an E30 and right for an E34 or E32, which limits the demand, but it's still uncommon. If you can, do the torque wrench test on it while it's still in the car because if it has good numbers it will fetch more money, if it's assumed it needs a rebuild (expensive!) it limits the value.

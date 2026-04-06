@@ -1,0 +1,13 @@
+QUESTION ID: 1710
+
+QUESTION:
+Hey everyone just recently picked up project very had the motor and trans out and decided to install a new clutch after receiving new clutch I found out that I have a trans out of a 325e so the pressure plates are different in size will I be ok to proceed with the install or should I return and get a 325e clutch kit here’s some pics for reference I’m 90% sure I have a dual mass flywheel if that makes a difference Attached Files
+
+ANSWER 1 (id: 1710_0):
+If the height from pressure plate face to release bearing tabs of the 325i pressure plate + 325i release bearing is the same as the height of the 325e pressure plate + 325e release bearing, you're fine. If it isn't, something has to change.
+
+ANSWER 2 (id: 1710_1):
+Yep, you have a dual mass flywheel. Give it a wiggle to make sure it doesn't move more than the spec (about an inch? I forget for the E30) You need a pressure plate that matches the flywheel, and the single mass version doesn't. It's the wrong overall thickness, and I THINK it's also the wrong spacing from the friction surface. (I took one apart 2 decades ago, and have worked on E36 and E46 since, but I remember them all being pretty much the same idea) I'd just bite the bullet and get the part that was in there... Confusingly, there are other ways to stack up the flywheel, pressure plate and throwout bearing to make some variants work, but the SMF/DMF difference is, per my recollection not one of those variants... things I've mostly forgotten, t
+
+ANSWER 3 (id: 1710_2):
+Just swapped it for the correct one didn’t wanna risk it got one that for the dual mass fly wheel and it turned out to be the exact same clutch kit that was in it before

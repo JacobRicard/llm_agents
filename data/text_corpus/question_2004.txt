@@ -1,0 +1,31 @@
+QUESTION ID: 2004
+
+QUESTION:
+I bought an e46 with a blown head gasket after my e30 was totaled and shoved into my garage while I figure out what to do with it. In e46 world if the car's been overheated the head bolts pull out their threads from the aluminum block. I sourced a new block from an e46 forum member, but it came with a surprise on cyl 6 Here is a zoomed out pic for context The other cylinders show similar discoloration, and what looks like carbon deposits in a similar pattern, but I can't catch any of them with my finger nail, so I'm not worried about them. If you look close at the first pic you can make out a rough surface that is about 1/8 inch high, and the depth? Just enough to catch your fingernail. The black part of the line is a carbon deposit. How fucked am I? Can I run it as is, since it's clearly been run like that before, due to the carbon build up. I'm home sick otherwise I'd be off to the machine shop tomorrow for his opinion.
+
+ANSWER 1 (id: 2004_1):
+The overheated head is toast as well. The block is actually easy to fix with inserts (I've done it..) but the head swells and warps in lots of little ways, none good.
+
+ANSWER 2 (id: 2004_10):
+Looks like water has sat in the bore possibly due slow leaking head gasket. Give it a scotch brite rub up using the original cross hatch angle and some light lubricant and then take a new photo for the post.
+
+ANSWER 3 (id: 2004_2):
+Originally posted by hoveringuy The overheated head is toast as well. The block is actually easy to fix with inserts (I've done it..) but the head swells and warps in lots of little ways, none good. I have a good head fresh from the machine shop that came off a different motor, so we're good there
+
+ANSWER 4 (id: 2004_3):
+Looks like the piston sat in one spot for quite some time. I've run worse, but only when I was young and silly. and I am still silly, so I'd prolly run it now. Just no longer young.
+
+ANSWER 5 (id: 2004_4):
+Could you run it? Sure, and it'll probably last quite a while. Depends on how much your piece of mind is worth. It's all apart now, you either pay now to have it done right, or live with that little feeling in the back of your head that it's not quite right. I've done both, it depends on the situation.
+
+ANSWER 6 (id: 2004_5):
+Originally posted by Panici Could you run it? Sure, and it'll probably last quite a while. Depends on how much your piece of mind is worth. It's all apart now, you either pay now to have it done right, or live with that little feeling in the back of your head that it's not quite right. I've done both, it depends on the situation. The situation is this project has taken a lot longer than I initially planned and I don't want to add a bottom end rebuild to the budget. I'm trying to hedge my bets by figuring out if there is a margin of error for this kind of thing.
+
+ANSWER 7 (id: 2004_6):
+Id see how far you get with some serious carbon cleaning solution and a tooth brush or similar. cant hurt to try. all you gotta do is get it to the point where you cant catch it on your finger nail. you just want to avoid snapping some rings in the process.
+
+ANSWER 8 (id: 2004_7):
+That is an odd pattern. The hatching looks... odd to me, too, and I've just had an overheated M54 apart. Might be the pic. Might have been re- honed. I would be very tempted to try to make sure it's not a longitudinal crack. Check the block surface carefully- the overheated cylinders will start to separate from the block material. A little bit is survivable, but technically should be decked. Timeserts are required... And at that point, I hit the junkyard for a few more longblocks. Better get on that- M54s are starting to go the way of the M20's. t
+
+ANSWER 9 (id: 2004_8):
+I put it in the car and have been dailying it since August or so. It seems to be fine. There was carbon built up in the cavities that seemed to smooth it over. I cleaned it out not knowing what it was. I took it by a machine shop and the head guy there said since it was horizontal and not vertical, and since it was so low in the cylinder I'd -probably- be okay (no loss of compression). The guy I bought the block from offered to time sert it for me, and I took him up on that offer. He's a mod on the e46 forum, but sn escapes me. The car drives nicely and isn't slow. I don't beat on it, but I don't beat on any of my cars. Toby, I take your advice with a ton of salt since you flamed me on the e46 board when I took the head off the motor after finding a few shards of glass in the cylinders.. as if they wouldn't tear up the cylinder walls.

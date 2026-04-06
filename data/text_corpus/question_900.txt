@@ -1,0 +1,16 @@
+QUESTION ID: 900
+
+QUESTION:
+Hello. I'm planning on starting a s52 swap in the coming weeks. I'm going to be using a zf trans and was wondering what differential to go with. I'm between a 3.25 or a 3.46. Does anyone have experience with both? I'm wondering what highway cruising rpm's will be with the 3.46. Thanks!
+
+ANSWER 1 (id: 900_0):
+Over 3k with the 3.46. In a much heavier car, the m54b30 (similar hp/tq to s52) cruises well with a 2.91, but 1st is tall at the light 3.15/3.25, methinks t
+
+ANSWER 2 (id: 900_1):
+I have a 3.25 in my swap car with a ZF, and 80-85 mph on the freeway is around 3700 rpm with OE rolling diameter tires (205/55/15). If you're cruising closer to 70 mph, then a 3.25 should be plenty tolerable and still provide good acceleration.
+
+ANSWER 3 (id: 900_3):
+I think 3.46 is way too short ratio. 3.15 is perfect for NA engine. Longer one is then better if engine is boosted (I have 2.65 and it's really nice).
+
+ANSWER 4 (id: 900_4):
+Thank you guys for all the feedback. I was in between those 2 because I know the e36 M3 had a 3.23 and since I'm using the full M3 drive line, I thought the 3.46 might give a nice acceleration bump. But I was concerned about the highway cruising speed at that ratio. Hearing everyone's feedback though, I'm going to go with either the 3.15 or 3.25. Thank you again guys, I really do appreciate the input.

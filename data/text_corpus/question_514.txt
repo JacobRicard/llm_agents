@@ -1,0 +1,22 @@
+QUESTION ID: 514
+
+QUESTION:
+I am frustrated as for some reason my radio locked me out. After several days of beeps, I finally disconnected the battery in attempt to reset the radio. Now I finally have CODE showing on the faceplate but when I type in the code nothing happens. Is it suppose to beep when the code is accepted. So far, it seems frozen and CODE is still listed when I turn the radio on. Help me please.... Rick 88 e30 325i 92 e30 32iC
+
+ANSWER 1 (id: 514_2):
+If the code is one you just got from BMW, it's likely not correct. If it's a confirmed original radio code, than you have to leave the radio on and car on for 24 hours to "reset" - you've attempted to enter the code too many times at this point.
+
+ANSWER 2 (id: 514_4):
+You get three shots to enter the correct code. Then you have to wait 24 hrs for it to reset. I have sticky buttons so it always gets me. You don't need to leave it "on" but it has to have power to the memory circuit.
+
+ANSWER 3 (id: 514_5):
+Can anyone confirm that this is really 24 hrs to reset? I am entering a code, have probably tried 20 times at this point with two 1 hr with key in ON position reset attempts, and nothing happens at all. The radio just does not react, beep, anything. Just shows CODE. EDIT: Wouldn't 24hr just drain my battery?
+
+ANSWER 4 (id: 514_7):
+Here is a real answer to the CODE problem. It comes from experience. 1) Open Hood 2) Disconnect Battery Cables 3) Touch the Positive and Negative Cables together. For at least 30-- 60 seconds. 4) Reconnect and then try the code 5) Should work now. Why does this work? The "Hey, Someone Stole Me" programming is stored in the car computer controls. Touching the cables together removes the fault codes from the the main "computer" or ECU. So now your car has a blank slate to work from. And you get three more try's or magic wishes. It was surprising to me how many different radios were available in the E30's. But this should work for any of them. "Now ...Go do... The Voodoo...That you do..So well!" PS There are some New Model radios that can be installed easily. And look like the original. Maybe $200.
+
+ANSWER 5 (id: 514_8):
+I am going to try this, thanks! This was the exact information I was looking for. Mine started to give me trouble today. Lists code, no beeps or anything when I try to input the code which I know is the correct code. I will let you know how it goes. Originally posted by intuitivejohn Here is a real answer to the CODE problem. It comes from experience. 1) Open Hood 2) Disconnect Battery Cables 3) Touch the Positive and Negative Cables together. For at least 30-- 60 seconds. 4) Reconnect and then try the code 5) Should work now. Why does this work? The "Hey, Someone Stole Me" programming is stored in the car computer controls. Touching the cables together removes the fault codes from the the main "computer" or ECU. So now your car has a blank slate to work from. And you get three more try's or magic wishes. It was surprising to me how many different radios were available in the E30's. But this should work for any of them. "Now ...Go do... The Voodoo...That you do..So well!" PS There are some New Model radios that can be installed easily. And look like the original. Maybe $200.
+
+ANSWER 6 (id: 514_9):
+You don’t need 24 hours. You need to start with the radio off. Turn the ignition on, turn the radio on. WAIT ONE HOUR. Enter your code. If it’s the right code it should work. See attached screenshot from the original documentation that came with the radio code cards.

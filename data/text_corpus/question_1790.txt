@@ -1,0 +1,25 @@
+QUESTION ID: 1790
+
+QUESTION:
+After a long drive i started hearing knocking, opened up the valve cover and rocker was displaced and the thrust disc was floating in the head, i replaced discs and lifters and after a couple days another one failed. Replaced all rockers and after around 30km they failed again for the third time but it also took out the camshaft wheel star-shaped bolt and it stopped spinning. Everyone i asked, no one knows what may be the problem. Prior to this the head and block were skimmed a bit, new headgasket and bolts and installed new cambelt, timing was ok. What may be the cause? Headgasket too thin? Loose head bolts or wrong timing? Uneven camshaft? Is the engine kaput as the bolt broke and most likely the pistons made contact with the valves? (no bang was heard and the crankshaft was spinning freely)
+
+ANSWER 1 (id: 1790_1):
+Originally posted by uturn Are the tappets still good? Are all the valve stem keepers installed properly with the cone shape pointing down? yes, tappets are new and the keepers were all installed correctly. 1 flew out the first 2 times but not the third time, all different valves
+
+ANSWER 2 (id: 1790_2):
+I'm thinking the tappets are leaking down and not enough pressure to keep them extended. So either bad oil pump or blocked passage. Oil pressure good??
+
+ANSWER 3 (id: 1790_3):
+Thrusting out of place is odd... even if the cam was uneven the point of contact will only thrust perpendicular to the rocker shaft. As in the worn side of the lobe would not even be touching the rocker arm. That's an odd problem.. I bet the rocker shaft is worn if anything. If the tolerance between the shaft and hole in the rocker arm is too large, its going to hunt for a spot to fill that gap. A lot of the time when when valve train components fail, or wear unusually, it's because the oil tube does not dispense oil where it needs to go
+
+ANSWER 4 (id: 1790_4):
+^ M40s don't have a rocker shaft, they're indirect actuation, with a tang on the valve end, and a cup on the plunger lifter end. OP, it really must be bad or weak lifters or valve springs. I can say that when I did a cam/lifters/rockers on my M40 I did end up doing it again when I had two bum lifters that would never pump up. IIRC, those might have been INA, which I would normally think of as a safe choice.
+
+ANSWER 5 (id: 1790_5):
+Originally posted by roguetoaster ^ M40s don't have a rocker shaft, they're indirect actuation, with a tang on the valve end, and a cup on the plunger lifter end. OP, it really must be bad or weak lifters or valve springs. I can say that when I did a cam/lifters/rockers on my M40 I did end up doing it again when I had two bum lifters that would never pump up. IIRC, those might have been INA, which I would normally think of as a safe choice. Gotcha. What you said makes sense then.. lifter doesn't keep pressure, the rocker is gonna go for a walk. Man, all these replacement parts now are just trash.. Even the brands we used to love.. sucks.. Everyone is just leaning out quality to make more money.
+
+ANSWER 6 (id: 1790_6):
+Unfortunaly new springs are NLA.. and the only lifters i found available in my country for this engine were from Eurocams and the new rockers are BGA, both British.. Everything i took out from this car was original from the whole clutch assembly to engine and gearbox mounts, seals, all branded BMW and even some Hella lightbulbs.. Quality really went down these years
+
+ANSWER 7 (id: 1790_7):
+The M40 is kind of an odd stopgap engine so it may not have many interchange parts but BMW being BMW I wouldn't be surprised if springs from other BMW engines drop right in, and just have a different rate. You just need to find the diameter and free height and a set of known good used springs. Weren't these engines notorious for valvetrain issues and usually binned immediately by enthusiast owners in favor of an M42 or M20?

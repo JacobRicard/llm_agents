@@ -1,0 +1,13 @@
+QUESTION ID: 1859
+
+QUESTION:
+Hi everyone. At my end in regards to a no start issue. Car is an early 87 325e euro sedan - with a rebuilt engine, 731 head to make a stroker with the b27 block. New rings, gaskets, seals etc and injectors have been professionally serviced. New intake boot and other vacuum plumbing. Fuel pumps replaced, distributor and cap, spark plugs, coil and plug leads, starter, both CPS', DME relay and fuses all replaced. Fuel is present at the rail, spark is present. BUT the ICV does not buzz with ignition on. Yet to do a compression test. Although with all new rings etc Id assume it would be fine. But I will check tomorrow. The only thing I can think is air leaks, fuel flooding during cranking or ECU. Although the ECU (i believe) has been re built/serviced but I dont know this for certain. Any tips or tricks greatly appreciated. Thanks a lot Cody​
+
+ANSWER 1 (id: 1859_2):
+Originally posted by MrBurgundy did this happen right after all that work was done or was it running fine for a while It never really ran well to begin with lol. I bought it for cheap as a stock 325e that cranked no start. I pulled it apart immediately to rebuild and restore and didnt do any diagnosing. Besides a compression test to which i remember the compression was all over the place, one or two cylinders were good while the rest had all kinds of wacky readings. Didnt think too much about it since I knew I was going to rebuild the engine.
+
+ANSWER 2 (id: 1859_3):
+Originally posted by Kershaw Is it sparking in the right order? Good question, I assume so. I have plugged the spark leads into the distributor at the correct order if this is what you mean, I will have another look thank you
+
+ANSWER 3 (id: 1859_4):
+2 potential things coming to mind here. First is firing order or timing, but usually if it's that far out, you'll get some backfiring going on when trying to start. The other, worse thought. You need to do a compression test, AND a leak down test. I had a similar situation after doing a headgasket on an M20 and I had the head resurfaced. Well, when I picked it up, the head was sitting face down on the counter with the valvetrain installed. Everything looked okay, until I went to fire it up and it would barely run. Pulled the head back off, and sure enough, more than a few valves were bent just from the weight of the head sitting on the table.

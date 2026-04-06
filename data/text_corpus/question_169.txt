@@ -1,0 +1,19 @@
+QUESTION ID: 169
+
+QUESTION:
+I have an '87 convertible with a 3.73 open diff from the factory. I may have found a 3.25 LSD to swap but I'm wondering how much it affects acceleration in exchange for lower cruising rpm. I've tried to do research, but everything that I found pertains to 325e going from 2.73 to 3.25. I found someone on a forum about a year ago, who swapped one into his vert, but I haven't had any luck finding it again. Any help is appreciated. Edit: Thank you all for the help, I guess I;ll save some money until i find a 3.73 LSD. I fell like the 3.64 will be more work than its worth. If I can even find one.
+
+ANSWER 1 (id: 169_0):
+I went from an 3.73 to a 3.46 on a stroker m20 car, and you can definitely feel the difference in gear length. The lowest I'd go is a 3.64. Also worth noting I didn't notice any MPG difference between the 3.73 and 3.46, aka the M20 doesn't care if it has to cruise at higher RPM. I wouldn't do a 3.25 unless you're running a turbo or a ZF trans.
+
+ANSWER 2 (id: 169_1):
+A 3.25 is REALLY low gearing and will definitely slow down the acceleration. I assume you have a manual because the auto would have a 4.10. 3.73 is great for a manual to balance acceleration and cruising rpm. 4.10 in a manual allowed me to get the jump on some m5x swapped cars from 0-35, then they left me behind. I feel like a 3.25 would be a little too low even for a turbo car.
+
+ANSWER 3 (id: 169_2):
+The 3.73 is a really good match to the M20B25 with the G260. That was my car's setup for years after I manual swapped but before the 24v swap. Keep your eyes open for a 3.73LSD. IMO unless you have more HP then a factory engine, going to a 3.25 would be a mistake. Won't need an LSD with the 3.25 because you won't have the power to spin tires. 💀
+
+ANSWER 4 (id: 169_3):
+These guys are right. 3.64 is the perfect compromise if that's what you are looking for, but I would not go any taller. I like 3.64 the best and can feel a difference with my currently installed 3.46 gears. You could get the 3.25 diff and swap out gears.
+
+ANSWER 5 (id: 169_4):
+3.25 must be a bit of a dog with any of the M20s. 3.46 in my car I consider it a bit too long (m20b23), I can see why 3.73 is the preferred choice as well as the control ratio for spec e30. Just put the LSD center into your 3.73, and put the open one back into the 3.25 and then sell it.

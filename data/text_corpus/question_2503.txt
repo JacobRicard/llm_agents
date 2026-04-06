@@ -1,0 +1,10 @@
+QUESTION ID: 2503
+
+QUESTION:
+Can anyone guess what this piping set is used for?
+
+ANSWER 1 (id: 2503_0):
+Late 86 / early 87 models had a "fuel cooler" circuit where return fuel was routed through a small heat exchanger on the air conditioning piping -cooling it before it returned to the tank. I've removed the same from both our 87es and our 87 is.
+
+ANSWER 2 (id: 2503_1):
+Originally posted by 101 Late 86 / early 87 models had a "fuel cooler" circuit where return fuel was routed through a small heat exchanger on the air conditioning piping -cooling it before it returned to the tank. I've removed the same from both our 87es and our 87 is. Can confirm, the 86 325e parts car I have has the same. It still amazes me how so many manufacturers of the 80s thought fuel cooling and multiple accumulators in the system was important.

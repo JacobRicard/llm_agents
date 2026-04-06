@@ -1,0 +1,7 @@
+QUESTION ID: 2188
+
+QUESTION:
+Any suggestions on where I can get a working instrument cluster for me 1990 325i?
+
+ANSWER 1 (id: 2188_0):
+Being around 30+ years old, there is not really such a thing as a fully working instrument cluster unless its been rebuilt. Odometer gear failure, speedometer circuit board failure, main circuit board failure, SI board failure, copper oxidation, cracked solder joints are all common and well known issues in the cluster. We sell refurbished clusters and restoration service, that is usually the path most people take. bavrest.com for more info. Thanks

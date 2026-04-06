@@ -1,0 +1,19 @@
+QUESTION ID: 2163
+
+QUESTION:
+This is offered as an upgrade when purchasing new, but I'm wondering if anyone has an understanding of what variant of Swift Springs are the go-to. Both the front & rear BC e30 springs are 62mm ID. Sandwiched between the height or preload adjustable rings and the springs are black plastic centering rings. Swift Springs come in a number of options. A. Metric, in 60mm and 65mm ID variants B. Standard Coilover Springs, most notably in 2.5" or 63.5mm ID What is the correct interchangeable option? 1. Remove the plastic retainers and use 60mm (blue)? 2. Leave the retainers but use 65mm (orange)? 3. Leave the retainers, but use the 2.5"/63.5mm equivalent (gold I assume?)? My assumption is that people use Option 3? Photo Reward
+
+ANSWER 1 (id: 2163_0):
+Whut? You need the diameter of whatever your perches are. small (2 1/4, etc) springs are specified in rate. As in, pounds required to compress them an inch in their linear band. I run 600 front/650 rear on the Pro3 car, with Koni dampers, but I'm slow. Dog slow. No helpers, no tenders, no sliders. fwiw, t
+
+ANSWER 2 (id: 2163_1):
+Originally posted by TobyB Whut? You need the diameter of whatever your perches are. small (2 1/4, etc) springs are specified in rate. As in, pounds required to compress them an inch in their linear band. I run 600 front/650 rear on the Pro3 car, with Koni dampers, but I'm slow. Dog slow. No helpers, no tenders, no sliders. fwiw, t Perches are 62mm OD. I am asking if people remove the plastic perch and use 60mm ID, keep it and use 65mm ID but an un-snug fit, or use the 63.5mm equivalent. I'm assuming the many people running Swift Springs on BC Coilovers are using 63.5mm but wanted to confirm.
+
+ANSWER 3 (id: 2163_3):
+Originally posted by TobyB I run 600 front/650 rear on the Pro3 car, with Koni dampers, Is that a typical split for a tracked E30 these days? When I was putting my coilovers together it seemed the split was more often like mine - 450/650, due to the huge difference in motion ratio between front and rear.
+
+ANSWER 4 (id: 2163_4):
+I don't think it is- but it sorta works. 700 rear was too damn loose to tighten up any way any how. 650 is pretty good. jus' what I found, not what I know. t
+
+ANSWER 5 (id: 2163_5):
+Boom Went with 14k Rear and 12K Front. Car handles like an absolute dream! It also allowed be to have better control over camber in the rear, as even when static the 8k spring would compress too much. I now have -0.3 to -0.5degrees of camber in the rear, albeit as a less aesthetically pleasing ride height.

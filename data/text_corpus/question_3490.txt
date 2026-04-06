@@ -1,0 +1,10 @@
+QUESTION ID: 3490
+
+QUESTION:
+So I was lucky enough to attend the grand opening at Canaan NH on Friday. Great track, fun day and very welcoming. Unfortunately my 89is wasn't running at its best. On the ride up it would occasionally miss at high rpm. Very jolting to the drivetrain. As the day went on it got a little worse at times becoming a more consistent single miss and sometimes would continually miss like a rev limiter was on at 3.5-4K. If I restarted the car it would go away for a bit and start over again in the higher RPM range. I could smell strong fuel during this rev limiter type feel so I think it was spark related. The check engine light would blink during the rev limiter effect but no codes would read out after. It stalled a couple of times on the way home...I noticed that during the stall the tach dropped to 0 even though the engine was still engaged. I am wondering if the ignition was completely shutting off. Other wise ran fine at highway speeds. Plenty of power. Before the day I had replaced the rocker arms along with timing belt touching the cap and rotor. I was going to start there until I noticed the tach dropping to 0. What do you guys think? Main relay, coil? I have a 91 318is, going to start by swapping over and seeing what happens. Appreciate any ideas.
+
+ANSWER 1 (id: 3490_1):
+I bought a 91 325ix a few years ago, drove it from charleston nc to houston with a stall problem. Every time you would start the car, you could drive down the road a few miles, it would stall 2x and then restart with no issues until it was shut down repeating the process. It also turned out to be the main relay. After it was replaced, the car drove without an issue.
+
+ANSWER 2 (id: 3490_3):
+So, found a spare relay in the parts box and popped it in. I remembered I had loosened the alternator to take the belt off. The bottom bolt was still pretty loose when I double checked it tonight. Thinking that this could be a funky ground issue I tightened it down good. Just did a bunch of 6-7K pulls with no misses. Looks like it was one of the 2 or a combo of both. Happy for the simple fix and thanks for the input. Brad

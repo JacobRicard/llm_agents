@@ -1,0 +1,19 @@
+QUESTION ID: 192
+
+QUESTION:
+Not sure if my battery is just getting a bit old or if I have a more annoying underlying problem. Battery was dead when I came out to start my car earlier this week. Jumped it. Drove it an hour or so. Started back up fine when I was ready to leave again. next day, dead again. Damnit. first attempt: let it charge for 4-5 hours on a tender, got up to 12.5 volts. I checked in the morning maybe 12 hours later and it was back down to 12 flat. I took the battery out and put it on the tender overnight this time. When I pulled it off the tender it was at 12.8v the next day around noon, I checked the battery again and it was at 12.6. plugged it into the car, let it there for a day without doing anything, which leads to today. battery read 12.5 when I tested the voltage. I checked the draw and it reads 63.2ma, and 43.5 when I unplug fuse 21. I know this fuse is a headache, but is 63 considered “parasitic’ or just a normal draw? Not sure on the age of my battery, bought the car with it, going off of the voltage drop with it out of the car I was leaning towards battery.
+
+ANSWER 1 (id: 192_0):
+I think 50 ma or less on an older car with fewer electronics can be considered WNL. My E30 battery was draining if I wasn’t driving it for a week. I eventually traced the drain to the wire to the driver side door switch.
+
+ANSWER 2 (id: 192_1):
+I was thinking trunk light staying on and when I got to the end of your write up you mention pulling fuse 21. I would pull the trunk bulb and see if that also drops the draw with fuse 21 installed.
+
+ANSWER 3 (id: 192_2):
+How often do you drive it? If it is not a daily, plan to put the tender on once a month since the battery is not new. Car batteries are not deep cycle so you do not want them dropping too low or the battery will be slowly damaged over time.
+
+ANSWER 4 (id: 192_3):
+Originally posted by tomstin I was thinking trunk light staying on and when I got to the end of your write up you mention pulling fuse 21. I would pull the trunk bulb and see if that also drops the draw with fuse 21 installed. This is a wagon, I can clearly see the bulb not on when I’m in the car + disconnecting all of the I terror done lights didn’t do anything
+
+ANSWER 5 (id: 192_5):
+Originally posted by packratbimmer Solve it one fuse at a time. Test the alternator for parasitic draw as well. Fuse 21 was the only one that showed a difference in draw when pulled, as noted in the original post. I pilled the OBC, aftermarket radio, all the overhead dome lights, and glovebox light. None made a drop, however it did drop by 20ma or so when the fuse was pulled. The car didn't have a 'noticeable' draw before. This occurred after I pulled the headliner + removed a nest (like 10ft) of aftermarket wires from under my kick panel. One thing that I did pull out was a aftermarket locking system. Also noticed there was a empty relay under my kick panel, maybe a central locking relay? Will try to get pictures but I will mostly likely buy a new battery as this one is of unknown age from across the globe.

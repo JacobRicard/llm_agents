@@ -1,0 +1,10 @@
+QUESTION ID: 401
+
+QUESTION:
+First can I run a 14" wheel with a 33mm offset? I did some searching and I couldn't find anything. I want some winter wheels and I found some cheap. But I don't want to buy spacers. Second, what does fender rolling mean? Thanks
+
+ANSWER 1 (id: 401_2):
+Here is an old thread with some tech articles on fender rolling http://www.r3vlimited.com/phpBB2/viewtopic.php?t=3705&highlight=fender+rolling It's pretty much extending the fender arch to fit wider wheels and/or tires.
+
+ANSWER 2 (id: 401_3):
+Originally posted by thejimlab So theoretically, if they aren't that wide, can I run a ET38 wheel? They would be off of a 95 GTI. Thanks for the reply. If they're 6" wide and you run 195's, likely.

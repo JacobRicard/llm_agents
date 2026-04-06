@@ -1,0 +1,34 @@
+QUESTION ID: 1666
+
+QUESTION:
+As many of you know, the gauge cluster plastic easily scratches each and every time you wipe that dust off. It always drove me crazy when the sunlight hits it and you see all the swirls and scratches. I have been successfully machine polishing them for years but this only gets rid of the larger scuffs and scratches...not the very fine micro scratches left behind. I've used Meguier's plastiX, cutting compound, rouge compound, cesium powder, Novus 1,2,3 etc and the plastic looks great...however, there are tiny microscratches that are still present and only visible when the light hits it at the right angle. I have not found anything that can remove these very fine scratches. At this point, I'm thinking I need to fill them in. I know that clear coat works well to fill in imperfections and I'm tempted to try it out. Has anyone tried this? I was even thinking of applying liquid screen protector for tablets on it to prevent future scratches. Thoughts?
+
+ANSWER 1 (id: 1666_0):
+What about the UV curing coatings that professionals use when restoring plastic headlights? I've worked around optics manufacturing for several years, and it sounds like what you're fighting is the sub-surface damage from your polishing compound. If you want to polish it out, you'll need a finer grit to work the peaks down to the valleys. Then you might need another finer grit.... I think a coating would be a good option, assuming it will sit to make a uniform surface (fills scratches) vs a uniform thickness (conforms to scratches).
+
+ANSWER 2 (id: 1666_1):
+I’ve been very pleased with Meguiar’s headlight coating (on newer car with plastic headlights). Not sure if it would be satisfactory on the gauges, where you want a really optically clear view. You might look into a product intended for glasses 👓 or camera lenses. But those are glass, not plastic. 🤔
+
+ANSWER 3 (id: 1666_10):
+Just to update, my mistake was wet sanding (even with an ultra fine grit) and using abrasive compounds. Using these compounds left it clear at first glance but once the sun hit it, the micro scratches and spiderwebbing became visible and was driving me crazy. With this realization, I took extra covers that have never been sanded or polished and started over. They had some minor scratches but nothing too deep. I used the Novus 1,2,3 process with a small rotary disc on a dremel with a pencil grip accessory that gave me more control. Previously, I was using a 3-4" DA polisher. First heavy cut #3 with wool, then lighter cut #2 with foam. Once I was happy with the clarity, I wiped it down with the #1 Novus anti static cleaner on a clean heavy microfiber cloth. There are still some imperfections but I'd rather live with a few of those than a thousand micro scratches all over the cluster! I still may order new cluster lenses depending on how good these turn out. I'll update this thread with pics later.
+
+ANSWER 4 (id: 1666_12):
+Here is the special dremel with extension attachment. It's the same thing that manicurists use in the nail salon. My mother used to do nails so I borrowed it from her. It actually works perfectly for this job, since I can be more precise with the location and how much pressure to apply. It also has a foot pedal so I can change the speed. I got the pads and attachment plate from amazon. Initially, I was using this to polish the clusters while still installed in the car but I couldn't really do a good job since the cluster is recessed into the dash. You really have to remove the cluster or the plastic cover to really do a good job.
+
+ANSWER 5 (id: 1666_2):
+What about a film over the top? Something with a bit of float adhesive (like cell phone screen protectors) that will fill in the light scratches on the surface, and then provide a smooth, maybe even more durable, surface. Almost like what comes on screens to protect them in shipping? 'Course, I've not seen a place to buy such stuff... t Would not paint. Paint is fraught with... orange peel...
+
+ANSWER 6 (id: 1666_3):
+OP, Many of the compounds you’ve mentioned are for very hard surfaces and will leave micro scratches or spider webbing. once you have the deep scratches out then switch to a finer polish and appropriate foam be polishing and finishing pad. Have found menzera super finish to give exceptional results on taillights and hard plastics. Everything needs to be scrupulously clean to avoid more micro scratches
+
+ANSWER 7 (id: 1666_4):
+Thanks. I think I will try a finer polish. I have Meguiar's Swirl remover 2.0 #9 on the shelf that I haven't tried yet. It's supposed to be a light cut cleaner/polish, so I'll give it a try. Did you use the Menzerna 3500 or 3800 Super polish?
+
+ANSWER 8 (id: 1666_5):
+Originally posted by reelizmpro Thanks. I think I will try a finer polish. I have Meguiar's Swirl remover 2.0 #9 on the shelf that I haven't tried yet. It's supposed to be a light cut cleaner/polish, so I'll give it a try. Did you use the Menzerna 3500 or 3800 Super polish? Meguiars #9 is for paint, not clear plastic. You need #17 and #10. They will work great.
+
+ANSWER 9 (id: 1666_7):
+There are new plastic covers. They cost $70-75. E30 INSTRUMENT CLUSTER ACRYLIC GLASS https://www.blunttech.com/shop/4004btkt High quality reproduction acrylic glass for your E30s instrument cluster. Compatible with OE part number 62111377340. Fits all E30s except 316. Pardon Our Interruption... https://www.ebay.com/itm/404979946437
+
+ANSWER 10 (id: 1666_9):
+Good to know. I have used a plastic polish (PlastX I think) on mine on both my E30 and E34 in the past because both were scratched when I got the cars and it worked well. I've had my E30 for 10 years the plastic hasn't crazed or faded even in the heat and with cheap tint that doesn't cut much UV/IR.

@@ -1,0 +1,31 @@
+QUESTION ID: 2113
+
+QUESTION:
+Have the e30 323i engine taken down to the block. This would be the time to put the hartge h23 cam in the head. I can only find the specs for the e21 hartge cam. Does anyone know the specs for the e30 323i hartge h23? Also, I am looking for an 86-87 2.7 eta block; since the hartge h26 and 23 were stroker engines. Will the 731 head with a hotter cam; maybe 282-8 go in the head with the 2.7 block? Lots of questions; but better to figure it out now before I put it back together:). thanks, jm
+
+ANSWER 1 (id: 2113_0):
+Originally posted by 2002jm Have the e30 323i engine taken down to the block. This would be the time to put the hartge h23 cam in the head. I can only find the specs for the e21 hartge cam. Does anyone know the specs for the e30 323i hartge h23? should be the same as the m20b23 was carried over from the e21. Originally posted by 2002jm Also, I am looking for an 86-87 2.7 eta block; since the hartge h26 and 23 were stroker engines. Will the 731 head with a hotter cam; maybe 282-8 go in the head with the 2.7 block? jm they didn't use the eta block. they stroked the m20b23 block. edit : should add they had their own connecting rods and may even have had their own pistons. there are images of the h23/h26 "kits" that hartge used showing the stock internals they replaced with their own. edit again: a quick dig shows hartge pics over on e30 wikizone. except for anything internal. think they had the rods and pistons built specific for them, not off the shelf bmw parts, all i see is the cam and headers. thinking on it, the 325i based h26 was done with the diesel crank and newer engine. that may have been the difference. there's a chip tune specific ecu as well.
+
+ANSWER 2 (id: 2113_1):
+Can one buy this hartage 323 camshaft somewhere? or do you get an oem one ground to specs? what are the specs? I have an m20b23 that I've been contemplating putting a camshaft in..but i don't really know where to start.
+
+ANSWER 3 (id: 2113_2):
+Back then I had my e21 323i, the Schrick 284/727 combination camshafts used to be a popular option: BMW M20 SCHRICK Camshaft 284/272° https://www.gladen-motorsport.de/en/BMW+M20+SCHRICK+Camshaft+284-272-.htm High quality racing products with fair prices at gladen-motorsport.de. You get the best products for your vehicle with best service. Guaranteed!
+
+ANSWER 4 (id: 2113_3):
+Originally posted by e30davie Can one buy this hartage 323 camshaft somewhere? or do you get an oem one ground to specs? what are the specs? I have an m20b23 that I've been contemplating putting a camshaft in..but i don't really know where to start. if they actually were running their own rods and pistons the specs won't help. the lift and duration wouldn't work with stock internals. otherwise i'd go with the 284/272 e21 cam.
+
+ANSWER 5 (id: 2113_4):
+Originally posted by lukeADE335i Back then I had my e21 323i, the Schrick 284/727 combination camshafts used to be a popular option: https://www.gladen-motorsport.de/en/...t+284-272-.htm were they a flat or piano top piston in the e21 ?
+
+ANSWER 6 (id: 2113_5):
+Hi John M. I think in the past I gave you Frank Z. his number. I can give Franks email to ask about the H23. He very knowledgeable about what Hartge, Alpina and ACS engine builds by the tuners. Dm me or text me.
+
+ANSWER 7 (id: 2113_6):
+Originally posted by 82eye were they a flat or piano top piston in the e21 ? The e21 had flat tops from memory, the e30 323i has a domed top for slightly higher compression. I ran e30 pistons to bump up compression in my e21 with no issues. The Schrick 284/272 is listed as working with all variants of the M20 engine.
+
+ANSWER 8 (id: 2113_7):
+Originally posted by e30m3s54turbo Hi John M. I think in the past I gave you Frank Z. his number. I can give Franks email to ask about the H23. He very knowledgeable about what Hartge, Alpina and ACS engine builds by the tuners. Dm me or text me. Yes, If you can send the e-mail, I will contact Frank. thanks to everyone that has posted; very helpful. jm
+
+ANSWER 9 (id: 2113_8):
+ok, found the information: cam is 280/280/112. Will have to get a regrind to get this cam since Hartge does not make cams anymore. thanks for all the help, jm

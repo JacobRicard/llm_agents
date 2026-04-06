@@ -1,0 +1,28 @@
+QUESTION ID: 2347
+
+QUESTION:
+Welp, my first post has been a long time coming. Hope I don't cry myself to sleep tonight when this is all over. I've read quite a bit about this and am in a bit of a time crunch. My eta is stock for now. I have all the bits I need for a 731 head swap, but after a few days at the machine shop that head has proven to be a money pit. I'm inclined to pump the brakes on it before I'm in too deep and use a friend's 885 head. My hope is to keep it na, put a Bimmerheads 274 in it, and get a sssquid chip. My question is how much can I safely mill this 885 head? I realize thus question has likely been posed verbatim at some point, but I have looked. Really hoping I just get a response that say .040" or something easy lime that. But, I'm a realist and know that this might sting a bit more. Thanks in advance for any guidance and for this fantastic site.
+
+ANSWER 1 (id: 2347_0):
+There's a thread about 8 posts down in this General Forum on this exact topic. Anyway - I'll quote Digger from there to save you looking: Originally posted by digger Get the 2.7L 81 mm crank and 130 mm rods and combined with your m20b25 pistons. shove this into your m20b25 block but deck the block around ~2 mm so the piston doesn't sit so far down the bore when at TDC. Add an adjustable cam get and you have a decent CR 2.7L with mild cam and it would be a nice combo simply putting your cammed 885 onto an eta will lead to less improvement than people think otherwise just find a good m20b25 crank and reassemble your block or a good used short block You'll be looking to do the same thing, but while you're grabbing your friend's head, grab his M20B25 pistons too, or buy a new set. I'd just use the 731 head, they actually flow pretty well and you can use a stock ETA bottom end.
+
+ANSWER 2 (id: 2347_1):
+Thanks. I have read all that and am trying to avoid getting into the bottom end. I'll likely opt for the 731 at this point. I was kind of excited about running that head to begin with. It just needs a bit more work.
+
+ANSWER 3 (id: 2347_10):
+I've always dreamed of an m30 swap, but it will have to wait. I have my 731 head back from the machine shop and a cam is in the mail. Along with my newly acquired 3.73 lsd I imagine it will before enough of an improvement for me to be able to focus on other bits of the car that need help. I reckon 19# injectors are in order as well? Thanks again for all the insight folks.
+
+ANSWER 4 (id: 2347_11):
+Originally posted by jeffnhiscars Having done this very mod I wouldn't do it any other way if you not going turbo or doing the bottom end. Yes it costs but it's pay to play. We did the guides, +2 valves, IE272, refaced the rockers, replaced the eccentrics, mildly ported according to Rama's guidance, then for good measure did a motronic upgrade w 19lb injectors and a full 2.5 exhaust. Did you ever do a power run to see the improvement ?
+
+ANSWER 5 (id: 2347_6):
+Originally posted by MrBurgundy Why is the 731 a money pit because in stock form it is barely better than the ETA, to properly port a head with bigger b25 valves, probably new guides is laborious on any head and even then its only just capable of feeding a 2.7L as well as 885. it ends up being a more expensive exercise than the 885 head but the chamber matches properly so sticking with the eta/flattop piston it is what it is. Most 731 don't deliver what the hype says IMO (with exception of Rama's old 43mm head and his newer 44mm valved head which is miles away from the average 731 head swap )
+
+ANSWER 6 (id: 2347_7):
+Well, mine in particular has a poorly repaired crack on one of the rocker shaft guides and some bad corrosion on one of the exhaust ports. I'm still going to add a 274 cam go with it though. Should be education the hard way for me. New rockers necessary?
+
+ANSWER 7 (id: 2347_8):
+Having done this very mod I wouldn't do it any other way if you not going turbo or doing the bottom end. Yes it costs but it's pay to play. We did the guides, +2 valves, IE272, refaced the rockers, replaced the eccentrics, mildly ported according to Rama's guidance, then for good measure did a motronic upgrade w 19lb injectors and a full 2.5 exhaust.
+
+ANSWER 8 (id: 2347_9):
+Originally posted by digger Most 731 don't deliver what the hype says IMO (with exception of Rama's old 43mm head and his newer 44mm valved head which is miles away from the average 731 head swap ) This was why I went for my M30 swap - was all set to do a 2.7L build back in the day, then decided it just wasn't worth it over the high compression / ported head 2.3L I already had at the time, which with a 3.9 diff was plenty of fun and not that far behind a M20B25 hp wise. The 2.7 was only going to yield slightly more hp and a bit more torque. M30B35 has all the upgrades the M20B25 has, and an extra litre of displacement. Still - it has turned into an expensive swap now. Back then e28s, e32s and e34s were abundant at the wreckers.

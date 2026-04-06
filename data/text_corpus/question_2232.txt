@@ -1,0 +1,10 @@
+QUESTION ID: 2232
+
+QUESTION:
+Hi hoping everybody is having a great start of the year, I have been working on my interior lights today and the driver side does not work with the door open , only on the always on position, I tried cleaning all the contacts adjusting the pin switch, I am going crazy . One thing I noticed is the dirver side pin switch has to pole and one is disconected. Is there something else I should check or could do? thanks to all
+
+ANSWER 1 (id: 2232_0):
+This won't be much help, but I have similar issues, and trying to adjust the switch hasn't helped me either. If I wiggle the switch with my finger I can get the light to turn on, just never by the action of opening the door. 61311370805 is the PN for the driver double pin switch, they're currently like ~$28-33 USD so I caved and bought one.
+
+ANSWER 2 (id: 2232_1):
+Hi did the new switch solved the problem?, I tried to earth the cable directly and the light did turn on, on the double pin switch you have two connections, one with a green/purple cable and the other is disconected, do you have both terminals connected? may that be the issue?

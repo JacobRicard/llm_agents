@@ -1,0 +1,7 @@
+QUESTION ID: 2589
+
+QUESTION:
+I am currently swapping the I engine into my 325e and I’m wondering if anyone can make the connector in the picture below for the ecu? If so how soon and how much do you charge? Attached Files
+
+ANSWER 1 (id: 2589_0):
+Wish I knew that was a thing earlier, I'm doing the same swap right now and decided it would be fun to pull all of the wiring out of my '84 E and install new wiring from my '89 325is donor car. It has made me realize how much I loathe any and all wiring. In retrospect, I would have just done the harness in the engine bay and wired in the C101 to the old loom.

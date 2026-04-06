@@ -1,0 +1,31 @@
+QUESTION ID: 1500
+
+QUESTION:
+I noticed that the 325ix has a different rear subframe bushing than their rwd counterparts. I'm figuring that this is to lower the rear subframe so the car retains proper geometry at it's increased ride height. Now for my question: When I replace my subframe bushings, should I go with rwd versions and get the different lower mounting plates? Also, anyone make a poly bushing for the t'case? Need to change mine, just curious
+
+ANSWER 1 (id: 1500_0):
+If you replace your subframe bushings with rwd ones be sure to replace the diff bushing with a rwd one too. The ix diff bushing is offset. When i lowered my ix i changed to rwd delrin bushings in the rear and used spacers for the bushing brackets. I think you will have to custom order the TC poly bushing.
+
+ANSWER 2 (id: 1500_1):
+there is no TC bushing other than the stock one. You would have to design and have it machined - it is metal/rubber and the threads for it are built into the bushing.
+
+ANSWER 3 (id: 1500_11):
+Originally posted by Nisse Järnet What? :) Turn it if I understand you right. Sorry, turning is american lingo for making stuff on a lathe. Makes sense though, right? What did you do for the center? Just a bolt and washers as well?
+
+ANSWER 4 (id: 1500_12):
+Originally posted by Kershaw Sorry, turning is american lingo for making stuff on a lathe. Makes sense though, right? What did you do for the center? Just a bolt and washers as well? Yeah I guessed right then :D Just a bolt and a nut but I'm using a custom mounting bracket so it's not really comparable to the stock design. It's more like the rear diff mount in my case :)
+
+ANSWER 5 (id: 1500_2):
+I made a custom delrin bushing and mount for my swapped ix and I know a guy that ordered a spec delrin bushing for his 325ix with stock TC etc, not sure how he bolted it down though. Probably a washer and a nut and it seems to work fine. We both use delrin engine mounts too.
+
+ANSWER 6 (id: 1500_3):
+yeah I've thought about making one. you could also fill the voids with poly, I tried that but I think I used the wrong grade - it didn't really work. it's really only needed with a lot more than stock power, and for hard launches. if all you have is an M20 the stock one is fine..
+
+ANSWER 7 (id: 1500_5):
+Originally posted by nando yeah I've thought about making one. you could also fill the voids with poly, I tried that but I think I used the wrong grade - it didn't really work. it's really only needed with a lot more than stock power, and for hard launches. if all you have is an M20 the stock one is fine.. I have a grabby clutch (400lbs/ft rated) and am getting shudder in the driveline (especially in reverse), hopefully a new stock bushing will do the trick
+
+ANSWER 8 (id: 1500_6):
+Originally posted by Nisse Järnet I made a custom delrin bushing and mount for my swapped ix and I know a guy that ordered a spec delrin bushing for his 325ix with stock TC etc, not sure how he bolted it down though. Probably a washer and a nut and it seems to work fine. We both use delrin engine mounts too. Nisse, I know your car isn't stock, but what kind of motor mount bushings did your friend use? As far I know 325ix uses different motor mounts than rwd e30s
+
+ANSWER 9 (id: 1500_8):
+Originally posted by Nisse Järnet I made a custom delrin bushing and mount for my swapped ix and I know a guy that ordered a spec delrin bushing for his 325ix with stock TC etc, not sure how he bolted it down though. Probably a washer and a nut and it seems to work fine. We both use delrin engine mounts too. Did you pour it or turn it to make it?

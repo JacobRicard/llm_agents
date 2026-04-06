@@ -1,0 +1,13 @@
+QUESTION ID: 1454
+
+QUESTION:
+The only time I did this I was swapping the whole rack so I dropped the front subframe. Can the inners be replaced with the subframe still on the car?
+
+ANSWER 1 (id: 1454_3):
+it's not that bad. actually, I don't know what would even be hard about it. they're right in front of the struts. I don't think you can do the inners without doing the outters though - that is, I've never seen them for sale separately. basically you just turn the wheel all the way to one side, then you can easily get at the lock plates etc. I'd lay them on the ground and try to match the lengths, then when you have it aligned it will be close enough to drive it to the shop.
+
+ANSWER 2 (id: 1454_6):
+Originally posted by nando it's not that bad. actually, I don't know what would even be hard about it. they're right in front of the struts. I don't think you can do the inners without doing the outters though - that is, I've never seen them for sale separately. That's exactly the advice I was looking for. I did not even think to turn the wheel side to side. And yeah, they're only sold as a set, but replacing the outer is obvious it was the inner where I was like, "ffs, I do not want to drop the subframe."
+
+ANSWER 3 (id: 1454_8):
+Thanks for the advice and reassuring words :) Quick word of caution : Quite easy job, true, except for putting back the inner boot clamps : poor access means no way to use a crimping tool so I resorted to screw clamps that will do the job but wouldn't stay in place and were a bit of a pain to install... Also, passenger side inner was quite difficult to unscrew as the wrench would have had to be horizontal which isn't possible given there's a control arm, half-shaft and sway bar in the way... Had to grind some, so as to put the wrench on vertically. Should have tried a pipe wrench...

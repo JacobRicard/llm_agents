@@ -1,0 +1,13 @@
+QUESTION ID: 3188
+
+QUESTION:
+I mounted a 24v motor to an engine stand getting it ready for a swap. Currently my bolts (90mm) are just flush with the tranny holes in the block. Is this good to go or should they be a little longer? Also, are washers recommended where the stand mounts to the block or is that only a concern for aluminum blocks? Thanks. Sent from my VS985 4G using Tapatalk
+
+ANSWER 1 (id: 3188_2):
+I always use washers just for security, never hurts to spread out the load a bit on the surface. Here's a good visualization of the load on particular bolt threads:
+
+ANSWER 2 (id: 3188_4):
+Originally posted by rturbo 930 If you're all the way through the block, you're good. I mean... can't really improve on that. You could weld on a bung, add a few gussets, maybe create an elaborate truss... :D
+
+ANSWER 3 (id: 3188_5):
+Originally posted by ELVA164 You could weld on a bung, add a few gussets, maybe create an elaborate truss... :D :devil: kind of what I was thinking... a flying butress.

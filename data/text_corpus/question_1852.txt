@@ -1,0 +1,7 @@
+QUESTION ID: 1852
+
+QUESTION:
+My 1991 e30 convertible was having trouble starting for a few months last fall. It started but labored to do so. Put it on a trickle charger for the winter. Now go to start and it's totally dead. Battery seems good as lights light up and don't dim when trying to start. Replaced the alternator a few years ago with a new bosch one. I think I need a new starter -- does that sound right? If not, would welcome your advice. If so, is it a hard item to replace for someone who likes to dabble but hasn't done a lot of heavy repairs in a long time. Sounded like it might b a little hard to get to. Finally, any recommendations for a started? Remanufactured bosch from Turner or someone else like that? I don't know of anyone in the Boston area who rebuilds starters and I know it's important to get one from a trustworthy source. Thanks in advance for anyone's guidance.
+
+ANSWER 1 (id: 1852_0):
+If you have good battery voltage, above 12.6v, I'd at least visually inspect the starter and wires/connections going to it. If you don't see anything out of place getting a starter is reasonable. Perhaps a reman Bosch unit would be fine, but if it's the same price as a less well known unit that's new, I'd really consider getting the new unit. As to where, I'd check FCP Euro, RockAuto, and eBay just to cover your bases.

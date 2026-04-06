@@ -1,0 +1,7 @@
+QUESTION ID: 939
+
+QUESTION:
+When the swap was done on my car (91 318is/M50), the charcoal canister was removed along with the purge valve. When the tank is filled, and the gas cap is on, fuel comes out of the vent hose in the engine bay during driving. Remove the gas cap and don't fill the tank, no problem except maybe some excessive gas smell. I got tired of this nonsense, and the check engine light, so I bought and installed an m20 charcoal canister and e36 purge valve. All good on the CEL, but when I fill the tank and put the gas cap on, the charcoal canister gets soaked with gas, which pools up on the frame rail. Any thoughts on why this is happening?
+
+ANSWER 1 (id: 939_0):
+Something is blocked, check the lines coming into and out of the expansion tank in the rear passenger fender. If I were you- I would remove the lines from the evap tank- blow air through both and see if it blows any junk out of the line that comes from the tank and/or charcoal canister. Basically, your issues are like running without an expansion tank. If you didn't swap the car- verify that it is still installed. Gas needs to expand somewhere- otherwise you'll never be able to fully fill up 100% (let alone pretty dangerous IMHO)

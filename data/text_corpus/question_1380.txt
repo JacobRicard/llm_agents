@@ -1,0 +1,7 @@
+QUESTION ID: 1380
+
+QUESTION:
+1987 325 revs to 3000 rpm when I engage the AC button most of the time! Not everytime but has always done it after a few minutes of driving unable to get idle down unless I turn off AC switch. AC off nice idle at 7-800 rpm, turn on AC and in the next 1-2 minutes it will be up around 3000. What is my likely culprit? mechanic wants to find wire that tells ECU to rev up and disconnect but I want it fixed correctly! Ideas? Thanks again.
+
+ANSWER 1 (id: 1380_1):
+Have you checked your low side AC pressure lately? Mine did all sorts of crazy idling with AC engaged when my Freon pressure was extremely low. Sent from my iPhone using Tapatalk

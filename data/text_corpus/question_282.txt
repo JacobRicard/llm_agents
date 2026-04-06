@@ -1,0 +1,22 @@
+QUESTION ID: 282
+
+QUESTION:
+The rear tires wear evenly, but the front tires wear out only on the inside of the tires. I need to rotate the tires to wear them evenly. I drive around 75-80 on the highway on my car, '87 325e. Why are just the inners of the front wheels wearing out? tire pressure? camber? bad bushing?
+
+ANSWER 1 (id: 282_1):
+i am an expert in the tire industry. its what i do. the most likely thing is like the other gentleman said negative camber. some keys reasons that this happens is lack of a quality alignment to make sure your camber is in spec. if the car is lowered then that alters your camber angles. it might not be possable to get it back to spec with out a camber kit. let me know how the car is set up or if it is stock and i could tell you more. ALLEN
+
+ANSWER 2 (id: 282_11):
+Mnemonic device: Worn on the inside-toed out. Worn on the outside-toed in. Learned it years ago working with stock cars. On solid axles, we corrected the toe after crashes with a torch and a wet rag. Toe will eat up tires a lot faster than camber as previous posters have noted.
+
+ANSWER 3 (id: 282_12):
+Kind of an old thread, but here are the correct toe alignment specs for the 318iS and other stock suspension settings: Front settings: Castor 8&#189;&#186; &#177; &#189;, Camber -2/3rds&#186; &#177; &#189;, Toe-in 0.028" &#177; 0.024, Steering axis inclination 13 5/6ths&#186; &#177; &#189; Rear settings: Camber -2&#186; &#177; &#189;, Toe-in 0.080" &#177; 0.031 It is my understanding that when aligning, having the car as close to these numbers as possible will result in less wear on inside of the tires. Sadly, mine are shot in the front. I am running -1.5&#186; of camber with my plates though, but when I aligned it a while back, the technician did not put it to these specs. I told him as close to zero as possible basically...
+
+ANSWER 4 (id: 282_2):
+Hey, I have all stock suspension. The car could use an alignment, so that could be a culprit, but there is no alignment for camber, just toe in/out. right?
+
+ANSWER 5 (id: 282_4):
+I have that same problem on my eta...But I am pretty sure I'm running 2-3 degrees neg camber with K-Mac plates (still don't understand how they work)... I need to take a look at the alignment sheets that the car came with, as it was aligned at a performance shop.
+
+ANSWER 6 (id: 282_8):
+Yes, as others said, it's not camber, it's toe. It's actually quite difficult to get the front tires on an E30 to wear with just negative camber, it's almost always a toe issue.

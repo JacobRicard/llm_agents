@@ -1,0 +1,7 @@
+QUESTION ID: 910
+
+QUESTION:
+okay so i just picked up a s52 out a 98' auto with 134k on it, for only 850. (and it runs great i saw it run before it was pulled) i need help with what all i need to swap it into my 89' 325I the motor came with all the wiring and ECU, i am wanting to stay OBDII. can i keep my AC? wheres a good place to send the wiring harness. im new to this and all the help would be great.
+
+ANSWER 1 (id: 910_0):
+Dude, start here: https://www.r3vlimited.com/board/showthread.php?t=266738 But seriously, have you searched the S52/M52 swap forum? Everything you need is there.

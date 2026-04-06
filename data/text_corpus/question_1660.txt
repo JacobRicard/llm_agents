@@ -1,0 +1,13 @@
+QUESTION ID: 1660
+
+QUESTION:
+We rebuilt my M20 engine. It has Megasquirt 2, perfect compression, triple checked timing belt, plug wires, reloaded Megasquirt but it keep kicking back like it has 30 degrees advance. WTF, I am lost. Chuck
+
+ANSWER 1 (id: 1660_2):
+could have plugged the wires wrong if it backfires. have seen it before. plug them from the front of the car if you follow the bentley diagram. it's easy to transpose them if you do it from the passenger side. last time it happened we tested each wire then replugged. car ran perfect. if it runs but poorly and doesn't backfire then the next suspect is bad timing from the belt. edit: if neither of those two work then it could be deeper in the ms itself.
+
+ANSWER 2 (id: 1660_3):
+I mean Kick back when trying to start it acts like the advance is at 30 degrees. Had to put on the back burner for a few weeks, now back at it. Ideas??? Chuck
+
+ANSWER 3 (id: 1660_4):
+Problem solved. I just found out that my employee did not install the woodruff key at the front of the crank. It is a miracle the valves did not hit the pistons. Thank you for your thoughts Chuck

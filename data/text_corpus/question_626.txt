@@ -1,0 +1,19 @@
+QUESTION ID: 626
+
+QUESTION:
+I have an 85 basic sound with the fader switch in the dash(6wires): A1:Yellow/Red A2:Blue/Red S1:Yellow S2:Blue E1:Yellow/Black E2:Blue/Black the other wiring that was plugged in the to OEM unit: 12V:Brown & Purple/Gray L:Yellow & Yellow/brown R:Blue & Blue/Brown (?):Red/Green & Gray/Red -and theres also a white wire not sure of this one either Need some help wiring this up to the new HU harness. I havent't been able to find much for the early models thanks for any help
+
+ANSWER 1 (id: 626_0):
+saw this on e30tech: So now, about that harness that has 3 wires per channel, just a brown and 2 yellows twisted, then a brown and 2 blues...well, in this case, the easy thing to do is use those brown wires for the rear speakers, bypassing the amp and run new wire only to the front. having some trouble picturing the part about bypassing the amp and running new wires to the front.
+
+ANSWER 2 (id: 626_1):
+Originally posted by chop_suey I have an 85 basic sound with the fader switch in the dash(6wires): A1:Yellow/Red A2:Blue/Red S1:Yellow S2:Blue E1:Yellow/Black E2:Blue/Black If you are using an aftermarket HU, you can eliminate the fader and just connect the speaker wires directly to your HU. You also don't need the amp anymore since the aftermarket HU can power the speakers. Originally posted by chop_suey the other wiring that was plugged in the to OEM unit: 12V:Brown GROUND & Purple/Gray POWER L:Yellow SPEAKER POSITIVE & Yellow/brownSPEAKER NEGATIVE R:Blue SPEAKER POSITIVE & Blue/BrownSPEAKER NEGATIVE (?):Red/Green +12v UNSWITCHED & Gray/Red ILLUMINATION -and theres also a white wire not sure of this one either POWER ANTENNA Need some help wiring this up to the new HU harness. I havent't been able to find much for the early models thanks for any help Hope this helps a little. At the Head Unit: Constant 12V+ Red/White Switched 12V+ Purple/White Ground Brown Antenna White Rt (+) Blue Lf (+) Yellow Rt (-) Blue/Brown Lt (-) Yellow/Brown At the Fader Control: Rt Front (+) Blue/Red Lt Front (+) Yellow/Red Rt Rear (+) Blue/Black Lt Rear (+) Yellow/Black All (-) leads should be further down this wire harness, or follow each to their respective speakers to find the (-)'s.
+
+ANSWER 3 (id: 626_10):
+Old as L thread, what was the final word? Hey Chop Suey.. I have a new to me '85 and need to finish this installation. After wasting a ton of time reading posts that didn't quite make sense to me, I found your question about the early cars.. Can you give a final 'do this' on the speaker wiring issue? I think I am understanding the six wire lay out, I just need to hear a final word on the best wiring/grounding method that you used.. what stock wires to use, what you may have added, etc. Thanks in advance..
+
+ANSWER 4 (id: 626_6):
+Originally posted by chop_suey nah i dont think so, didn't see one in the trunk u didn't see the amp? there is no amp if you don't have premium speakers
+
+ANSWER 5 (id: 626_8):
+BMW - > Aftermarket +12V Red/ GReen - > Yellow +12V ACC Violet/white - > Red Ground Brown - > Black Illumination Grey/ Red - > Orange Antenna White - > Blue Amp Remote White - > Blue/White

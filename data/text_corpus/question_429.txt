@@ -1,0 +1,25 @@
+QUESTION ID: 429
+
+QUESTION:
+I have an 84 e30 that has the battery in the engine bay and want to mount it in the trunk. Problem is as most of you know it does not have the battery recess in the trunk. I can't mount it in between the shock towers because of my speaker box/amp rack setup. I was thinking of putting in a smaller battery from a japanese car or running two motorcycle batteries in parallel. Not looking to spend hundreds of dollars on a racing cell either. Thoughts, ideas, pics of your conversions?
+
+ANSWER 1 (id: 429_0):
+I used a battery from a Mazda miata. Just about fit into the corner of the recess. Still has enough juice to crank an s52, although I don't know how it would perform in terms of car audio. The miata battery is a common and cheap "upgrade" for racecars. It's about half the size of the standard e30 battery and weighs about half as well.
+
+ANSWER 2 (id: 429_1):
+I used a deka etx-18l for almost 3 years. It's pretty tiny, and was noticeably sluggish to start when temps got much below freezing, but it never left me stranded. I think I payed 70 shipped for it. You have to get screw in terminals as well since its pretty much a motorcycle battery.
+
+ANSWER 3 (id: 429_11):
+(13 years later) For anyone doing this or looking it up here/google, You need to know that if you're doing this for a 84 and up, Your firewall may or may not have the holes for the bulkhead connector shown here: If you do not have these premade bolt holes like in my 1985 318i, The best shot you have is drilling into the firewall and locking in a nut for the bolts on the bulkhead, Then you can resume business installing the wiring and the battery into the car. Also to answer OP's question, 81-83 requires a small battery to fit into that pocket plus some creativity involving the connectors since that is half the size of the 84-92 pocket for the battery. Cheers Attached Files
+
+ANSWER 4 (id: 429_2):
+Good to know. Its a pretty low wattage setup. Only about 500w RMS and i usually don't crank it that high. I'm getting old. I live in Los Angeles so the coldest it usually gets is in the 40s. But i'm usually sleeping when its that cold anyway.
+
+ANSWER 5 (id: 429_5):
+http://www.r3vlimited.com/board/showpost.php?p=2153455&postcount=144 Error 404 - Not Found http://bimmerhaus.com/vendors/wiles.html ^ this guy did a small battery
+
+ANSWER 6 (id: 429_6):
+Well thats is not exactly the early model i mean. I have an 83. 83-85 had different floor pans in the trunk as well as not having a cut out for a ski pass. Comparison of an 86 and an 83
+
+ANSWER 7 (id: 429_8):
+That odyssey looks like a winner. O Reily wants $100 for a miata battery. The Odyssey is 113 shipped on ebay. Another $17 for SAE terminals although i really only need one and i can use a ground strap for the negative. I'll rubber coat the recess and print a battery cover. It will be a few sections glued together but thats nothing sandpaper and trim spray can't fix.

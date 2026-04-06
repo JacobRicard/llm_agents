@@ -1,0 +1,40 @@
+QUESTION ID: 127
+
+QUESTION:
+Everywhere I look, I’m told my car does not have a camshaft position sensor. However, I found a PN from BMW saying I do. 1991 325i. The sensor is plugged in on the bottom right side of the engine. I’m guessing the PO routes it wrong as the wire coating is gone and the wire/cable is exposed from being rubbed on a pulley. I traced to a loom on the left side of the engine under the manifold but not sure how I would change this sensor/cable. Any thoughts? Attached Files
+
+ANSWER 1 (id: 127_1):
+No camshaft sensors on an M20, that "sensor" you took a photo of is the oil pressure switch. There is only the crankshaft position sensor, which is mounted on the front of the engine pointing at the damper.
+
+ANSWER 2 (id: 127_11):
+Originally posted by E30SPDFRK #11 in that diagram is purely for diagnostics with the original oscilloscope computer BMW had to "scan" the car back in the day. It is vestigial at this point, and doesn't connect to the ECU at all. is it this thing ? : never seen that on a car with a plug sensor. understand it being extraneous if its only early diagnostic. thought it was for the injector bank pulses. it definitely does not go to / come from the plug in Flatwerx pic though didn't pick up on it. only the bigger one. that is the pressure sender location. i stand corrected. that'll definitely screw up the gauge. E30SPDFRK is correct. i am shame lol. all three cps, oil pressure sender, and plug pulse wires, should route through a plastic channel on the front of the upper timing cover. #15 in the diagram above. that channel and it's clips get easily busted, many go missing over the years, the wire can get dragged into the gear pulleys and screwed up. ​
+
+ANSWER 3 (id: 127_12):
+Originally posted by Flatwerx E30SPDFRK 82eye T Both the oil pressure switch and CPS are not routed how they need to be. if you have AC the damn wire for the pressure switch will be sandwiched between the block and the AC compressor bracket, then through that brittle plastic channel. from there it goes to a connector bracket on the driver's side and ends in an engine harness connector at that bracket.
+
+ANSWER 4 (id: 127_13):
+Originally posted by 82eye if you have AC the damn wire for the pressure switch will be sandwiched between the block and the AC compressor bracket, then through that brittle plastic channel. from there it goes to a connector bracket on the driver's side and ends in an engine harness connector at that bracket. I do have AC.It was converted to 134 by the PO. There's a build thread on this forum for this car too. He sheared the CPS according to his thread. I'm not new to BMW's, just to this specific car and this forum. I got wires routed all over the place and a transmission leak, possible clutch/brake fluid leak, a coolant leak hahaha ... I'm addressing it all with new parts on the way. Back to the original intention of this post: I'm either gonna see if I can reroute the cable or protect it and zip tie it. 🤷🏽‍♂️ Again, appreciate you guys. -Adam
+
+ANSWER 5 (id: 127_2):
+Thanks! I called BMW and they gave me, off my VIN, Engine Camshaft Position Sensor - BMW (12-12-1-722-570) ​Regardless, with that being frayed down to the wire, what symptoms would I expect? Is it relatively ’easy’ to change?
+
+ANSWER 6 (id: 127_3):
+Originally posted by E30SPDFRK No camshaft sensors on an M20, that "sensor" you took a photo of is the oil pressure switch. There is only the crankshaft position sensor, which is mounted on the front of the engine pointing at the damper. this has come up a few different places. part number 12521279695. mounts opposite the crank position sensor. #11 in the pic it replaces the pulse sender on the plug wire set. it doesn't actually have anything to do with the cam at all. it's called a pulse wire, but ecs and a few others have labeled it a cam position sensor which confuses things. i think the same part was used as a cam sensor on other models. ive never seen it on a car with a plug pulse wire. it uses the crank trigger wheel the same as the crank position sensor. it's supposed to be absent on post 87 cars, but all kinds of stuff shows up with swaps and whatnot. ​​​​​​​
+
+ANSWER 7 (id: 127_4):
+Originally posted by Flatwerx Thanks! I called BMW and they gave me, off my VIN, Engine Camshaft Position Sensor - BMW (12-12-1-722-570) ​Regardless, with that being frayed down to the wire, what symptoms would I expect? Is it relatively ’easy’ to change? that's the number for the pulse generator that goes on plug wire 6. you either have one or the other. edit: it's best to have a set with the pulse wire already on #6. it's not hard to put one on, but it's cleaner if it's mfgr built.
+
+ANSWER 8 (id: 127_5):
+The plug I posted pic of doesn’t go to a spark plug wire though. It routes to a loom under the manifold on the driver side. Is that the oil pressure switch? It’s got a section with no more shielding and wonder if that’s why my oil light flickers at times. She not low on oil at all.
+
+ANSWER 9 (id: 127_6):
+re-read my post. it's not supposed to. it picks the signal off the crank wheel, not the plug wire, but it provides the ecu with the same info for the same reason. get a bentley repair manual while you are at it.
+
+ANSWER 10 (id: 127_7):
+this is a pic for the part of the part number you posted. ​ it's a plug wire sensor. if you use that part number that is what you are ordering. Attached Files
+
+ANSWER 11 (id: 127_8):
+#11 in that diagram is purely for diagnostics with the original oscilloscope computer BMW had to "scan" the car back in the day. It is vestigial at this point, and doesn't connect to the ECU at all. Flatwerx the wire you took a picture of is only for the oil pressure switch, and would be a cause for your flickering oil pressure light if it is worn through enough. There is supposed to be 2 clips and a cover on the timing cover that hold that wire and the crankshaft position sensor wire out of the way of the water pump pulley (numbers 14 and 15 in the diagram above). From that angle, it looks like at least one of your clips is broken and the cover is missing. That wire being worn or even completely cut will not affect running at all -- it is only for the light on the dash. However, if the crankshaft position sensor wire is rubbing as well, that will cause all sorts of running issues.
+
+ANSWER 12 (id: 127_9):
+E30SPDFRK 82eye Thanks guys! I couldn't find anything in the Bentley when I started because I thought it was a camshaft ps. Both the oil pressure switch and CPS are not routed how they need to be. I need to track down where the oil pressure is routed to as it looks like a loom under the manifold that goes into the firewall on the passenger side. If I'm reading Bentley right, it should go to a plug under the manifold on the front left of the engine. Appreciate you guys. -Adam

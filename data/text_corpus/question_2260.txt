@@ -1,0 +1,10 @@
+QUESTION ID: 2260
+
+QUESTION:
+I seem to have developed an oil leak. I've cleaned the area many times and checked after driving, unfortunately I can't tell exactly where it's originating. Does anyone have a suggestion? If not, I'm thinking of just replacing everything in the area. Many thanks
+
+ANSWER 1 (id: 2260_1):
+M52? yeah, there's the VANOS solenoid, the oil feed line to VANOS, and the intake cam position sensor in behind. Of course, the most usual suspect is the oil filter housing gasket, but that's too low for your circle. Unless it's peeing uphill... The cam cover can crack, and the front cover to head seal can leak, too. Lotsa options, t
+
+ANSWER 2 (id: 2260_2):
+Could be VANOS solenoid, Cam sensor oring, valve cover gasket. Vanos oil line banjo washers and the PCV hose aren't too far away either. Are either of the solenoid or banjo bolt loose?

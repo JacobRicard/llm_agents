@@ -1,0 +1,16 @@
+QUESTION ID: 1821
+
+QUESTION:
+Is there a size or format for updating the AC system? Wondering if I can pull a (junk yard) part from another make/model that would fit. Anyone know?
+
+ANSWER 1 (id: 1821_0):
+Originally posted by strickland Is there a size or format for updating the AC system? Wondering if I can pull a (junk yard) part from another make/model that would fit. Anyone know? denso is the original but you won't find an updated one that works and fits in the space. sanden is the popular replacement and requires a new or custom bracket. you could possibly find which model sanden is used and then try to cross reference them against other auto makes.
+
+ANSWER 2 (id: 1821_1):
+Nothing I've come across... and I do tend to vacation in the local pull-my-part... t went looking a couple years back when he realized that he wasn't ever going to be young and skinny again.
+
+ANSWER 3 (id: 1821_3):
+I have this one and it works fine. Disregard the photo on the site, the actual product is the updated parallel-flow version. If it ever breaks, it's covered under a lifetime warranty (from FCP). So it's worth buying new.
+
+ANSWER 4 (id: 1821_4):
+Purchased a new Nissens parallel flow condenser. Where the old Nissens I bought years ago was just bare aluminum, new one has what looks like an e-coating. Inlet/outlet connections are still floating and not braced. Fan mounting brackets are revised. The base bracket of the condenser that sits on the rubber bushings is still bare metal. I'll give it a coat of black paint. Will see how well the stock fan fits sometime next week when I pull my old condenser.

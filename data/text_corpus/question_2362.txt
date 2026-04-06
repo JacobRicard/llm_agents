@@ -1,0 +1,10 @@
+QUESTION ID: 2362
+
+QUESTION:
+Hey guys, I am looking to swap out my full exhaust as it has started to rust out with holes. Only problem I am having is finding a replacement for it. I find a lot of mufflers that go right to the cat but I am looking more towards a full system that bolts on to the exhaust manifold. I found this Scorpion one on ECS tuning which seemed promising until it arrived and realized it only fits what seems to be the 4 Cylinder Exhaust manifolds (318) even though the website states its fits the 325 model. I am looking to keep the cost around a grand and not looking for loud but instead as stock as possible. Any suggestions would be appreciated even if the exhaust manifolds have to be swapped out also. Thanks! Scorpion exhaust system link: https://www.ecstuning.com/b-scorpion...ng/sbm016~sci/
+
+ANSWER 1 (id: 2362_2):
+Thanks guys for the responses! Ended up ordering the BRExhaust Cat and Walker muffler exhaust kit (Comes with new gaskets and hangers) off Rockauto. Will update on fitment once installed.
+
+ANSWER 2 (id: 2362_3):
+Update: Cheap gaskets come with the kit. Had to replace them with OEM ones from ECS tuning. Fitment between the muffler and cat is not perfect. I had to bend the metal a bit to make it fit without any exhaust leaks. If it leaks again, I will just weld the two together. If anyone is looking for a full system for their stock car, your best bet is invest in magnaflow from the looks of it. They sell both cat and mufflers so i expect fitment to be perfect. Just get your own gaskets separate.

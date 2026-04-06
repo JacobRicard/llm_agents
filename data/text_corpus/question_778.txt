@@ -1,0 +1,34 @@
+QUESTION ID: 778
+
+QUESTION:
+did this yesterday, easy, but annoying and time consuming. took a little less than 2 hours. I removed the OBC and the harness and light stalk out of the parts car as well, so it made installation easier becuase i knew how everything went together. Parts Needed: -9-button OBC (make sure all lights work before final instalation of it, pain in the ass to change later) -full harness, follow it everywhere and unplug everything, dont cut anything. -light stalk with OBC switch in it. -code box (i didnt use this, but if you want it, get it) Procedure: -drop the glove box -remove all trim pieces to access back of HVAC panel -slide out 6 button OBC -remove FULL knee bolster (including the metal part on airbag cars) -remove steering wheel and column covers -remove cluster -follow the 6 button OBC harness around and unplug all connections and remove harness -remove light stalk and all wiring associated -install new light stalk and re plug in wiring (there will be one blue plug extra, its for the new obc harness) -run the new harness (2 plugs to the gong, 1 to the code box, 1 to the stalk, 1 behind the cluster, 1 into the 9 button OBC (hang it out the hole, dont install the OBC yet (checking the lights and functionality), then there are 2 more plugs that plugged into plugs near the ECU in the parts car, i didnt see any of those plugs in my car, so i left those 2 unplugged. -Start your car, check if the obc works -If everything works, attach the OBC with the 4 screws from behing in the HVAC panel, this is one of the hardest parts. its really hard to reach. -Use the manual and set all your options in the new OBC -Put everything back together -enjoy overall, definately worth it, i only paid $20 and some parts i had laying around, i dont really know how much i would pay, you dont really need it, but once you have it, its definately cool to see.
+
+ANSWER 1 (id: 778_0):
+yup I love the obc, my car came with it and i've been in cars with only the 6 button one and it feels like something is missing, but thats what happens when u get used to seeing all the options
+
+ANSWER 2 (id: 778_1):
+I did this coversion recently too and now I'm one of the very few US M42 based 318's with the full OBC. The job isn't that bad as long as you plan ahead. For some dumbass reason, I started the job without buying a new lightbar... so I had my dash apart for a week while waiting for the new light bar. I also managed to break my glovebox. I removed the straps and it hung down and 2 of the 3 plastic hinge tabs broke off. Anyways, the OBC is great and the MPG has been pretty much right on. Here is a writeup I did of the procedure: 1991 BMW 318i E30 M42 On Board Computer (OBC) Retrofit by Michael Pincott http://zoso.no-ip.org/318i-obc.html
+
+ANSWER 3 (id: 778_10):
+what does the glove box have to do with it? I just pulled my 13 button out of my parts car and pulled my 6 button out of my 89i. Now I am going to plug everything back together. There is one plug I can't find that went in the middle of the green plug on the back of the cluster. And one extra wire/connector right by the 13 button OBC... not sure where that goes.
+
+ANSWER 4 (id: 778_2):
+Originally posted by Zoso I did this coversion recently too and now I'm one of the very few US M42 based 318's with the full OBC. The job isn't that bad as long as you plan ahead. For some dumbass reason, I started the job without buying a new lightbar... so I had my dash apart for a week while waiting for the new light bar. I also managed to break my glovebox. I removed the straps and it hung down and 2 of the 3 plastic hinge tabs broke off. Anyways, the OBC is great and the MPG has been pretty much right on. Here is a writeup I did of the procedure: http://zoso.no-ip.org/318i-obc.html Doesn't the OBC not work correctly with the M42?
+
+ANSWER 5 (id: 778_4):
+Quick question for y'all. My OBC is busted (it was like that when I bought the car). The screen is basically inoperable, but i know it's working because when i click the stalk i can see some faded characters changing in the screen. If i want to replace this, can I just grab another OBC and put it in there without worrying about the harness and stuff?
+
+ANSWER 6 (id: 778_5):
+One question. If you shine a flashlight at the OBC, can you see the information then? it sounds like your OBC isn't busted, but the OBC bulb strip inside it is burnt out. Just replace the bulbs. There is a recent thread about replacing it in this forum.
+
+ANSWER 7 (id: 778_6):
+i just realized that since i have an ///m cluster, and the wrong coding plug in the OBC, im probably not getting the correct information at all. haha. oops
+
+ANSWER 8 (id: 778_7):
+do i need to buy anything? I was thinking about taking the 13 button out of my 87 auto 325i and swapping it w/ the 6 button in my 90 325i. do i need to buy anything. or is this a straight swap?
+
+ANSWER 9 (id: 778_8):
+Originally posted by bfdbatt2 I was thinking about taking the 13 button out of my 87 auto 325i and swapping it w/ the 6 button in my 90 325i. do i need to buy anything. or is this a straight swap? You will have to have the associated wiring harness for each obc to work in the other car as well. And for the 13 button the turn signal stalk is not needed but could be swapped as well since it lets you cycle through the functions of the 13 button obc. There is also the control unit for the code feature if you want it but no one usually does that swap as it is a bit more involved. So basically NO!! you can not just swap the 13 button for the 6 button obc without at least swapping the associated wiring as well.
+
+ANSWER 10 (id: 778_9):
+thanks for the post i figured the harnesses would have to go, just didnt know if there was a part i would have to buy...... btw, whats w/ the sig, ref 9/11? most civilians have forgotten about it...

@@ -1,0 +1,10 @@
+QUESTION ID: 230
+
+QUESTION:
+Hello everyone, I'm working on my 91 325i and am looking to upgrade the suspension. My goal is to have a grip oriented daily driver I can take to HPDE events. Comfort is not the biggest of my concern as I'm already in a 13 owner e30 with no ac, heat. or radio. Doing my research I have found that most people like to go with b8 strut inserts with H and R race springs or ground control custom rate springs. That route is just going to cost over $1200 which to me is getting in to coilover territory. Bc coils cost $1100 and Silvers cost $1300 and to me thats a much better deal considering the amount of adjustability. However some people say BC coils are horrible and will only ruin the way your car feels and only last a few years. Silvers are what my drift spec buddy runs and he swears by them but then again he has no suspension travel whatsoever with -6 degrees of camber. Do you guys think I should go coils or springs considering I want maximum grip and feedback?
+
+ANSWER 1 (id: 230_0):
+The Newer Spec E30 setup with IE bars, GC raised rear shocks mounts. Get the ride height set, then work on alignment with rear camber toe adjusters. The suspension all the way lowered is about where the race spring land you. Any lower the suspension isn’t happy.
+
+ANSWER 2 (id: 230_1):
+DIY coilovers using koni single adjustables like what I did in my build thread are quite cheap. I never upgraded my swaybars, with the spring rate split I used (450/650) the car cornered plenty flat, GC is even stiffer.

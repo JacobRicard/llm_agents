@@ -1,0 +1,31 @@
+QUESTION ID: 2613
+
+QUESTION:
+Hello, I don't normally do this, but I want to save the family of R3V any future frustrations. I have been running a Miller Performance MAF on my car since ~Feb 2018. It has been working well for me and I had no issues with it. Fast-forward a year and I started running lean. I went through the trouble-shooting page that Miller Performance provides on their website. In the trouble-shooting page I came across my issue. The signal the MAF is sending to the ECU is too low. Voltage should be around 1v or .1v according to Miller's page (i'm getting .01v ~ .00v). There is nothing on the trouble-shooting document that gives any help with this issue. It simply says "if you're having this issue, contact Miller Performance (lists contact information)" So I initially tried to call them, because this is my daily driver I was hoping for a quicker solution. I call, it sends me through the phone tree and at the end of the branch I get a message that says "In order to streamline assistance please email us" So I email them. Expectation THEY provide is 48hrs. I wait 6 days before I send another email. 4 days later I get a 1 sentence repose from Brody that isn't helpful in the least. So I respond thinking "finally someone to help me", well Brody doesn't respond for maybe another 2 weeks with another useless message that is only 1 sentence long asking a question that was covered in my original email. There is literally NO CUSTOMER SERVICE from this company and honestly I don't know how they are in business still. For $400 you can get their MAF product, which I will admit, increased my throttle response. That MAF kit will come with instructions that somehow give you the impression that even the instructions are annoyed you need to use them. You get a tube with a MAF sensor that is the wrong size and requires a good amount of modification to fit your car's setup without a cone filter. The quality is well below what they are asking in price. So, I'd recommend not using any of your hard earned money on Miller Performance anything. They have zero customer service! They will take your money and if an issue arises, don't expect any help! They don't give a shit. Brody is probably the only person working over there as I've never talked to anyone else or heard from anyone else. I'm so bugged and bummed-out by this purchase that I would hope this helps people avoid their terrible company. Honestly I don't know what the fuck they are even doing over there. Have a good day R3V Fam!
+
+ANSWER 1 (id: 2613_10):
+Originally posted by alpinwiess2 I must admit I've had a similar experience so far. Phone calls, emails, FB messages all go unanswered. With almost zero customer support I'm leary to actually install the thing at this point. That's understandable. I will say that while my MAF worked it did a good job for what it is. It's just that the install is intrusive, so if something goes wrong youre up the creek without a paddle. Honestly I'd try to get a refund and save for MS. Sent from my Pixel 2 using Tapatalk
+
+ANSWER 2 (id: 2613_11):
+I just had a run in with their Alpha-N setup on an M3 in my buddies shop. It was acting like the chip had been bricked (no start, no connection via serial port.) After countless tries for a few weeks, ended up finally finding the right combination of laptop running Windows XP (that's a red flag right there) and uploaded a borrowed tune from another certain red M3 here in town. And by golly, it fired up and ran.. But man, I wouldn't run their shiate on my cars.
+
+ANSWER 3 (id: 2613_12):
+I have bought two of their MAF systems and chips for my e30 with surprisingly nice HP gains and throttle response. I have been trying to reach Brody for 3 weeks about another purchase for my track e30 with no reply. He just isn’t reliable with getting back with people. Sent from my iPhone using Tapatalk
+
+ANSWER 4 (id: 2613_2):
+Originally posted by reelizmpro You wouldn't be the only one. People have been complaining for years. Perhaps this should be moved to the feedback forum? Egh, few people look there. I would leave it here for now, and move it to that sub-forum after the thread has run its course.
+
+ANSWER 5 (id: 2613_3):
+Didn't I read that they pretty much closed up, a few years ago? I think Brody was the only one working there and his customer service skills weren't great, to begin with...
+
+ANSWER 6 (id: 2613_5):
+Originally posted by LJ851 Post a picture of the MAF sensor itself. I have a spare from a PSIK kit, unused. Maybe it's what you need. This might be the best one I have for now. I can take another picture later when I'm home if this doesn't work. Sent from my Pixel 2 using Tapatalk
+
+ANSWER 7 (id: 2613_7):
+hmmm my friend had his intake maf kit. when i was going to trade tech for automotive my professor put his car on his smog machine to the readings and the car was running lean. i remember we gave the car a tune up and it still didnt run right. maybe it was the maf kit. btw how are those ireland engineering silicone hoses? good quality? leak at the clamps?
+
+ANSWER 8 (id: 2613_8):
+Originally posted by efficient hmmm my friend had his intake maf kit. when i was going to trade tech for automotive my professor put his car on his smog machine to the readings and the car was running lean. i remember we gave the car a tune up and it still didnt run right. maybe it was the maf kit. btw how are those ireland engineering silicone hoses? good quality? leak at the clamps? The hoses are fantastic. I'd recommend them most certainly. Sent from my Pixel 2 using Tapatalk
+
+ANSWER 9 (id: 2613_9):
+I must admit I've had a similar experience so far. Phone calls, emails, FB messages all go unanswered. With almost zero customer support I'm leary to actually install the thing at this point.

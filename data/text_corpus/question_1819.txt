@@ -1,0 +1,19 @@
+QUESTION ID: 1819
+
+QUESTION:
+I have an E30 318i Coupe 1985 (M10 manual) It has already been converted into a single pump from PO I've recently replaced some fuel related parts (all new): Fuel Tank (old was rusted and leaking) All fuel hoses Fuel Pump + new housing w/ o-ring (new DW200 pump, old one was some generic pump) Fuel Filter I expected things to get quiter after these were changed, but the noise is exactly as loud as before. The only thing I can think of now is theres some issue with the fuel pressure which made both the old and new pump work harder? fuel hardlines or fuel pressure regulator? Could there be something else thats making my pump so loud ): ? video#1 of fuel pump loudness: https://youtube.com/shorts/D6UJKhUvUzc?feature=share other vid:​ https://youtube.com/shorts/cA08bWdn-vI?feature=share
+
+ANSWER 1 (id: 1819_0):
+Isn't a a DW200 pump a 255LPH rated to 670hp at 60psi. That is enormous. Why you need such a huge pump? Thats why its so loud. For an m10 you can probably get away with the smallest pump available since you have about 80hp.
+
+ANSWER 2 (id: 1819_1):
+Originally posted by e30davie Isn't a a DW200 pump a 255LPH rated to 670hp at 60psi. That is enormous. Why you need such a huge pump? Thats why its so loud. For an m10 you can probably get away with the smallest pump available since you have about 80hp. So... What would you recommend for an S52-swapped 325e?
+
+ANSWER 3 (id: 1819_2):
+The same or equivalent pump that came in the s52 car originally. No point pumping fueling around in circles for nothing, it will just heat it up and make noise.
+
+ANSWER 4 (id: 1819_3):
+Originally posted by e30davie Isn't a a DW200 pump a 255LPH rated to 670hp at 60psi. That is enormous. Why you need such a huge pump? Thats why its so loud. For an m10 you can probably get away with the smallest pump available since you have about 80hp. Other E30 owners with DW200 told me mine is very loud compared to theirs. This is what they said its supposed to sound like: https://www.youtube.com/watch?v=KprPPncLXac The previous fuel pump was a $20 generic one, I was wondering why both the old and the new pump make the same exact noise/loudness? I was replacing the old fuel pump because I thought it was nearing the end of its lifespan (due to the noise), but it sounded absolutely the same with the new one. I have yet to test fuel pressure if theres something else going on. Also My E30 backseat has no sound deadening, how big of a factor is that? I've also tried hearing the fuel pump again but outdoors. Its not as loud compared to the videos I recorded.
+
+ANSWER 5 (id: 1819_5):
+Originally posted by e30davie The same or equivalent pump that came in the s52 car originally. No point pumping fueling around in circles for nothing, it will just heat it up and make noise. I'm pretty sure it has the same in-tank pump it came with originally as a 325e, so I grabbed a used one off eBay for now. At some I'll grab a DW200 and rebuild the one I have with that.

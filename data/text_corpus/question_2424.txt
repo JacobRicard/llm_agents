@@ -1,0 +1,7 @@
+QUESTION ID: 2424
+
+QUESTION:
+Hello, Im new to the forums and the e30 chasis I picked up an 87 325e from a private seller with an m50b25. My issue is there was an aftermarket alarm system installed with no security box attached and theres also a lot of open wires and connectors with nowhere to go, I also had 2 fuel pump relays just wondering if anybody has ran into the same issue or could help. Please see attached images below.
+
+ANSWER 1 (id: 2424_0):
+Yes, that definitely looks like alarm wiring. If your car starts up fine, then its already bypassed. You will find some of those wires lead to the parking lights, at the headlight switch. Also to the drivers kick panel for the door lock/unlock and dome light trigger for the door pins. The red and yellow wires, from the alarm, are constant and accessory power, which can be deleted. Any other wiring from the alarm harness can be removed.

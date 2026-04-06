@@ -1,0 +1,16 @@
+QUESTION ID: 56
+
+QUESTION:
+I recently inherited a 1984 318i, and I’m planning to hopefully get it back to good driving condition this summer. I haven’t started it yet since I want to drain the old fuel first at least, but I have turned the key to ignition on, and when I do I get a loud whine from the dash that sounds a lot like a piezoelectric buzzer. It plays/whines the whole time the key is turned, but it changes pitch sometimes when I turn the ignition off and on again. Just reading around on this forum, it doesn’t look like there’s a buzzer in the dash (but I could be wrong), so I’m confused what could be causing it. Any ideas? If it would help I can share a video of it but I’ll need to figure out how to convert it to a format that I’m allowed to post. Thanks in advance for any help
+
+ANSWER 1 (id: 56_1):
+I've also got an 84 318i, early 83 production date if that makes any difference. the door chime is a little different than any other e30 ive seen(only seen US models, so can't speak for euro). The door buzzer you're talking about looks like a small relay and is nestled in the steering column plastic shroud, unlike other e30s which have a door chime as seen above
+
+ANSWER 2 (id: 56_2):
+Originally posted by yngtmr I've also got an 84 318i, early 83 production date if that makes any difference. the door chime is a little different than any other e30 ive seen(only seen US models, so can't speak for euro). The door buzzer you're talking about looks like a small relay and is nestled in the steering column plastic shroud, unlike other e30s which have a door chime as seen above Mine came off the line July of '83, and that's where I found the buzzer. Unfortunately, I didn't check here first so I wasted some time pulling the instrument cluster out before figuring out it was in the steering column. The early E30s seem to have a couple quirks, especially electronically, I've ran into some differences between what the Bentley manual says and what's actually in the car.
+
+ANSWER 3 (id: 56_3):
+404 Not Found http://www.wedophones.com/BMWManualsLead.htm download the ETK- it's going to be a lot less wrong than Bentley. In Bentley's defense, almost every run of E30s is different in some way than the previous one, so it was a continuously moving target... t
+
+ANSWER 4 (id: 56_4):
+Is it a door/seatbelt buzzer? My 85 euro 323i had this...it was so annoying. Sounds like this is what they used on low spec cars without OBC. My 85 325e with OBC had the typical door chime box that most E30's have. This chime box also works with the OBC functions ie top speed exceeded or when the temp dips below a certain point.

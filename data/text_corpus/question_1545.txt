@@ -1,0 +1,13 @@
+QUESTION ID: 1545
+
+QUESTION:
+Hi guys, I've done a bunch of searching and can't find a working link for this. I've got all my new boots for the front axles and I want to replace the old ones. What's the strategy? Do the axles need to come off (I assume so) and how are they removed? What do I need to drain first, if anything? Diff oil, engine oil? Unsure of how to approach our cars' strange front end/diff/oil pan/axle situation. My other car is RWD. Thanks! Attached Files
+
+ANSWER 1 (id: 1545_0):
+Yes axles need to come out. They slide right out of the front diff. May need a little encouragement but no fasteners keeping them in. Nothing needs to be drained. Cut old boots off, remove the circlip holding the CV joint together (always the hardest part for me....there are several how to’s for this part, you should definitely find them and read before you attempt), repack the joint, put on new boot, and slide back into the diff. Good luck!
+
+ANSWER 2 (id: 1545_1):
+Thanks! They came out no problem with a few yanks. I'll take a look for how-tos on the circlip situation. Also, you and I have a very similar garage - my ix is an 88 coupe and my miata is a 1990!
+
+ANSWER 3 (id: 1545_2):
+Originally posted by lefthookz Thanks! They came out no problem with a few yanks. I'll take a look for how-tos on the circlip situation. Also, you and I have a very similar garage - my ix is an 88 coupe and my miata is a 1990! I've had good luck with just pulling the circlip out of it's groove completely from one side and then tapping the joint of the axle.

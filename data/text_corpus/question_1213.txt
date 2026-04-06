@@ -1,0 +1,10 @@
+QUESTION ID: 1213
+
+QUESTION:
+I'm putting together an s14 and I noticed that I can't find any kind of part number or picture of a gasket to go between the cam tray(upper cylinder head) and the lower part of the cylinder head. The old head just had red silicone gasket material there. I've looked at realoem, penskeparts and bmwfans and none of them show a part number. I even checked the original blue repair manual and there was no mention of anything. Did they really just use silicone gasket maker from the factory?
+
+ANSWER 1 (id: 1213_0):
+anaerobic sealer thats because there is no gasket , its sealed with a anaerobic sealer such as Porsche case sealer or equivalent (for two machined surfaces/flanges) ,Loctite makes it #574 .a reason NOT to glassbead that area when cleaning.... Home http://www.loctite.sg/sea/content_data/93789_574EN.pdf Discover Henkel adhesives ✓ solutions, technologies, and processes. Google https://www.google.com/#q=Loctite+574 Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for. Loctite 574 00004301000, 230649 Engine Case Sealant; 50ml SKU: 574 - Porsche | 00004330518 24018 559526010 574 http://www.autohausaz.com/search/product.aspx?partnumber=00004301000&utm_source=google&utm_medium=nonpaid&utm_campaign=frooglePN&utm_term=574&crossref=574&gclid=CJXMhomJz7wCFdeUfgod-RUALw Ensure a reliable seal for your Porsche 911, Cayenne, and Boxster engine cases with Loctite 574 Engine Case Sealant. This 50ml sealant provides a durable and leak-resistant solution for various Porsche models.
+
+ANSWER 2 (id: 1213_1):
+Thanks! That's what I was hoping as I still have a tube of 574 from when I eliminated my oil pan gasket. I miss s14.net so much. I'm sure there were plenty of threads over there with the same question.

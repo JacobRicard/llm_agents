@@ -1,0 +1,7 @@
+QUESTION ID: 670
+
+QUESTION:
+after 30 years of use my voltage regulator wore itself down to nubs! Since all the videos are for 6 cylinders, and the limited space on the M42 should I remove the alternator? I can't see me putting it back in. Any suggestions. Is there a trick to removing the lower alternator bolt? The part arrives on Thursday.
+
+ANSWER 1 (id: 670_0):
+The lower bolt is usually very tight, with corrosion between the bushing inners and the bolt. You can try and work it free by rocking the alternator along that pivot point, or by moving it as outboard as possible then prying on or holding the bushings while turning the bolt.

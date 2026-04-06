@@ -1,0 +1,13 @@
+QUESTION ID: 2182
+
+QUESTION:
+I have a 87 325is Early production year. The motor is open and I will be replacing the bearings. How do I know if I need standard size or .25? The current ones do not have a stamp on them and I do not have a micrometer tool.
+
+ANSWER 1 (id: 2182_3):
+If you're that far along, you'll find another use for the micrometer. Maybe used re cert higher end set, ebay? Mcmaster if you're in a rush. Probably STD like stated above. Just note: Full groove main bearings need modified caps to fit if you go that route going back together.
+
+ANSWER 2 (id: 2182_6):
+why do you need a mic for this job? a plastic vernier will tell you within 0.25mm and plasti gauge for the clearance. if you are doing it the professional way you need a mic but also some other bits that are pretty spendy
+
+ANSWER 3 (id: 2182_7):
+Ah- point taken. I went 2 steps farther and assumed OP would want to make sure the crank was in spec. The $10 HF digital caliper would be overkill, even. t measures twice and then forgets.

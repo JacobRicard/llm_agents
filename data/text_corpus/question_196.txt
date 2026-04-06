@@ -1,0 +1,7 @@
+QUESTION ID: 196
+
+QUESTION:
+So I have about 9.6 volts going to my coil and 9.6 going to one of the 87 pins that is red/white smaller wire. The other 87 pin gets full voltage I have a new CPS. New coil, I ordered a new dme relay to be safe. I’m just trying to nail down exactly what’s going on. Car started the other day for half a second and died I bridged the dme relay pins and it tried to start a bit. Now I do the same thing and it won’t try to fire over at all now. stomp test doesn’t work either. is there a search function on this site? I’d search if I knew how on here
+
+ANSWER 1 (id: 196_0):
+the search is in the grey bar directly above your post. 404 Not Found http://www.wedophones.com/BMWManualsLead.htm has been up for at least 10 years, miraculously. Find your year (or the one closest to it, but earlier) and start metering around. It'll take a while to get confident with the ETK, but you'll sort it. t

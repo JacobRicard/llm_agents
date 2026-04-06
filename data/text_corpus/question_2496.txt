@@ -1,0 +1,25 @@
+QUESTION ID: 2496
+
+QUESTION:
+I just pulled the transmission to replace the pilot and throwout bearing. Everything is mounted up, trans is bolted up, last step is to install the clutch slave cylinder. It won't push in far enough to bolt up. the plunger tip hits the throwout bar thing way to soon and therefore i can't even thread the bolts on. Any idea on what to do? my only guess could be that maybe the throwout bearing isn't lined up correctly (there's two flat spots that allow it to sit inside the throwout arm), but that seems unlikely, as i doubt the trans would bolt up. there's no odd noises when the engine is running in gear or neutral. PLEASE HELP.
+
+ANSWER 1 (id: 2496_0):
+You do have to compress the slave plunger a bit to install IIRC. The only reason I've seen a slave cylinder not able to actually mount would be a TOB that's in backwards, no idea if it would crank in that state, but I suspect that it would. Are you reusing the old slave cylinder or did you get a new one? If the latter, compare the units.
+
+ANSWER 2 (id: 2496_1):
+Originally posted by roguetoaster You do have to compress the slave plunger a bit to install IIRC. The only reason I've seen a slave cylinder not able to actually mount would be a TOB that's in backwards, no idea if it would crank in that state, but I suspect that it would. Are you reusing the old slave cylinder or did you get a new one? If the latter, compare the units. it's the old slave. i cracked the bleeder valve to try to compress it and i couldn't make it budge at all. the bleeder valve was simply dripping, not running. how much is it supposed to compress? it looks like my shaft is about 2.5-3 inches protruded and needs to be about 1.5 inches protruded to be installed. (assuming all else is well) does this sound right? how would one actually install a throwout bearing backwards? i'm very sure it's in correct, front to back. my fear is that isn't not seated in the throwout arm correctly. and isn't sitting inside of it with it's notches.
+
+ANSWER 3 (id: 2496_2):
+The TOB would need to be on the wrong side of the release arm, it's an unlikely scenario that I saw once at the track with a spare engine/trans. I do think it is something like an inch of compression on the piston to install. The piston should retract easily enough by hand without any hydraulic fittings being open. If you have bolts for your TOB you can just start with one longer bolt and wind that down until it allows you to install the smaller bolt. That assumes the piston is moving freely.
+
+ANSWER 4 (id: 2496_3):
+Under normal circumstances: With the slave bled, the tips of the threaded studs out of the bell housing should be flush with the slave before you meet any resistance. Then it should be a very slight push to seat the slave flange to bell housing.
+
+ANSWER 5 (id: 2496_4):
+i can't even get it seated enough to thread bolts on. thats the problem. i suspect the throwout bearing isn't seated into the throwout arm correctly and slid out when i was installing. therefore it won't slide back into the arm because of the squared detents. :(
+
+ANSWER 6 (id: 2496_5):
+If that were so you could probably stab/jiggle the release arm until it seats. Basically, if it's in the right spot you should be able to cause the arm to move forward somewhat if you poke it with a screwdriver, but remember to do so you will be manually compressing all of the pressure plate springs.
+
+ANSWER 7 (id: 2496_6):
+SOLVED! i used a screw driver but couldn't compress the pressure plate. As a last resort before i pulled the trans, i got a pen magnet and messed with the throwout arm. it felt smooth with no longitudinal play. this meant that the throwout bearing was notched in the arm. i smacked the slave cylinder shaft onto a hard surface, and it compressed. it was, in fact, the slave cylinder seizing. after a couple smacks it compressed and i was able to get it on. car is on the ground driving now. thanks for the help. long story short, the slave cylinder does compress by hand during install and if it's sticking out 2.5-3 inches, it can compress inward. it it doesn't, it has seized because the job took too long.

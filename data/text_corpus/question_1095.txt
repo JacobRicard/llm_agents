@@ -1,0 +1,16 @@
+QUESTION ID: 1095
+
+QUESTION:
+I need to replace this red alternator cable: Is this cable just running to the starter? Does anyone know the process for replacing it? Do I need to just remove the alternator? Or does the intake manifold need to come out too? Thanks in advance.
+
+ANSWER 1 (id: 1095_0):
+I would consider re-sleeving the cable. You should be able to get the terminal from ECS. I'm pretty sure this is the rubber boot: https://www.ecstuning.com/ES164278/ then find about 6" of red heat shrink material and fit it over the wire - unless you want to pull the wiring harness - which is fun let me tell ya... It goes out of that position and into the same ducting as the wires going to the injectors. You can see mine in the top of this pic (wasnt taken to show the alt. cable - I'll try to get a better one later See the red cable with "ALT" on the tape label Caught it here as well (accidental pic) And then it disappears into the matrix
+
+ANSWER 2 (id: 1095_1):
+Let me start by saying I could be terribly wrong but... It looks like the alt to starter ground cable. I replaced mine (cant remember if it was red) with a new one from BavRest, and simply disconnected both ends and fitted the new one. Did not remove any parts to get to it. Sure it looks junky with the old one still in the loom just dangling there but that's a project for another day when its warmer outside.
+
+ANSWER 3 (id: 1095_3):
+I got a response on s14net as well. Not sure if it runs just to the starter, or if it goes back to the firewall where the + battery cable comes in, and then a separate wire runs to the starter. But either way it is part of the harness.
+
+ANSWER 4 (id: 1095_4):
+The M3 S14 has a y-junction cable. Basically a heavy gauge cables with a splice teed into it. The cable runs from the alternator output to the starter input. The cable is teed in the middle and runs to the battery junction block on the passenger side firewall.

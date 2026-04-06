@@ -1,0 +1,10 @@
+QUESTION ID: 1186
+
+QUESTION:
+Hey The M3 uses the same parking brake hardware as the standard e30 doesnt it?? I think its an ETK glitch. Im ordering up stuff for my M3 and its not listed for anything but standard As far as I know its all the same Can anyone confirm? shoes 34 41 1 159 467 and the hardware kit 34 41 9 064 266
+
+ANSWER 1 (id: 1186_0):
+The correct part number for the parking brake shoe spring kit is 34 41 906 4267. This is the standard hardware for E30 M3, E12 5 Series, E23 and E24 6 and 7 Series ONLY. This is NLA in North America and Germany BMW database. I bought the last dead stock set known for $40 bucks back in November. I searched and searched and searched. You are correct on your shoes part #. I spoke to Levant at Guten. He can piece meal the correct springs and fasteners that came in the original packaging. http://parts.bmwofsouthatlanta.com/p...0brake%20shoes Yes... Im a nerd. My S54 E30 M3 has turned me into a super nerd.
+
+ANSWER 2 (id: 1186_2):
+So.. What exactly is different between the normal e30 setup and the e30 m3 setup? I recently acquired an e30 m3 suspension system that was missing the rear rotors and the entire parking-brake/e-brake system has been scavenged. So far, everything I've seen points to the fact that M3 and non-M systems are identical

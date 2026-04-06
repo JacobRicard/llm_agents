@@ -1,0 +1,28 @@
+QUESTION ID: 915
+
+QUESTION:
+So it looks like I have finally settled on a motor for the swap. Picking up a 99 528 5sp this weekend. I have seen talk of this with the e46 guys, just not sure if anyone has done it with a e30. Probably and hopefully since it seems like almost all has been tried, but here's what I'm thinking per the title. M52tub28, 3.0 intake and cams from zhp or maybe schricks if I have the funds. Naturally other supporting mods too like headers, exhaust, tune obviously. Haven't explored this too much yet but maybe shark, maybe mail order if something is out there for this set up. So here's my questions, anyone done this? Run the 528 trans?Anything I'm missing? From my reading the swap is a cross between the m52 and 54. Has anyone found a source for the euro pick up tube? I think it's from a 735 or 738, that would leave me modding the subframe and oil pan to keep the sum in the rear.
+
+ANSWER 1 (id: 915_1):
+Originally posted by M-technik-3 Believe it uses the same old ZF 320 unit that E36's used. Why not just use an e34 525i pan? Yes should be the zf. E34 pan is a option but pretty sure the pick up tube needs to be modified. At that point why not eliminate the low front mounted sump to something that's tucked behind the subframe?
+
+ANSWER 2 (id: 915_10):
+Originally posted by ahviamusicom Since you're planning on having another motor to build on the side, why not go the stroker way with M54b30 bottom end? You could also use the M54 240 cams on the intake for your current motor and save Schrick money for the built motor? Just an idea :) Agreed! I have the rotating assembly and intake cam I will sell you ;)
+
+ANSWER 3 (id: 915_12):
+Originally posted by stonea The M54 intake manifold will really waken the engine up, the ZHP cams however could be considered a waste of money. I sound my Dinan strut brace to you for the Z3! How are you doing man, how is the car?
+
+ANSWER 4 (id: 915_13):
+Originally posted by TheAxiom I sound my Dinan strut brace to you for the Z3! How are you doing man, how is the car? Hey! I've been doing good, but the Z3 has been neglected since I got into the e30 game. She's been used more as a daily beater since then. However I'll be showing her some serious love in the next few years. Just got to get one of my e30s finished first.
+
+ANSWER 5 (id: 915_3):
+Originally posted by M-technik-3 we doesn't one of our advertisers here sell an s54 modified subframe. you'd be going that direction. easy as spending the money and sending a core. Yes at least two that I know of. I was asking about the euro pick up tube that fits the m52/54 pan, not the subframe.
+
+ANSWER 6 (id: 915_5):
+Originally posted by e30polak The b30 intake manifold and zhp cams are MAYBE worth 5-7whp/wtq. The headers, a decent air intake, exhaust and a tune are key on the m52tu/m54. That's it? I thought it was a little more with just the intake and cams, like 15-20. Those people probably already had supporting mods before the intake install. I haven't seen any real numbers posted with the b28 to b30 head plus cams. With the other mods I thought it made much more of a difference? ETA, those 15-20 numbers were probably from some sort of tune added to the cams and intake.
+
+ANSWER 7 (id: 915_7):
+Originally posted by M-technik-3 How about a simple tried and true way, add a turbo kit. That's a option I'm heavily considering down the road. I'm actually getting a secon complete take out so the plan is to get the swap done and running with the first motor so I know everything is good to go with that. Then I'll build the final configuration with the other as funds allow. I think this is a pretty safe route to go and should help with the ease of the project. At least it seems like a solid plan in my head.
+
+ANSWER 8 (id: 915_9):
+Since you're planning on having another motor to build on the side, why not go the stroker way with M54b30 bottom end? You could also use the M54 240 cams on the intake for your current motor and save Schrick money for the built motor? Just an idea :)

@@ -1,0 +1,19 @@
+QUESTION ID: 1015
+
+QUESTION:
+I know this has been covered many times.. But I've searched and searched and just need some specific guidance here on my next step before I spend more time and money on fabrication... Back story.. I picked up my e30 with a swapped m50tub25 in it.. the body was in killer shape and worth the money I paid for the car.. the engine was misfiring and they guy didn't have time or money to mess with it further... so if i could get the motor running that would just be bonus... one of the major things I found wrong was instead of moving the stock booster, he trimmed the manifold.. after a smoke test, the manifold is leaking where he trimmed and patched it.... So I tried to do the move the booster 1/2 inch mod!.... I customized the clevis as seen in another forum it doesn't clear... not even close.... I am even a bit more than 1/2 inch over with it.. So before buying new boosters and going further into it... my question is what motor mounts should I be running? I am wondering if he put the wrong motor mounts in and thats why the engine is still running into the booster? any opinions on what to do further would be helpful... cause looking at it I don't think a smaller booster would even fit...
+
+ANSWER 1 (id: 1015_0):
+I run the E28 green mounts spaced up about 1/8-1/4in with body shims and I trimmed the fins off the intake manifold, stock booster, didn't even move it. It's a tight fit but I have not had an issue in 16k miles like this.
+
+ANSWER 2 (id: 1015_1):
+Originally posted by Nick_S I run the E28 green mounts spaced up about 1/8-1/4in with body shims and I trimmed the fins off the intake manifold, stock booster, didn't even move it. It's a tight fit but I have not had an issue in 16k miles like this. this is actually extremely helpful.. I know one of the mounts is green.. but the drivers side is not.... I will start there!..
+
+ANSWER 3 (id: 1015_2):
+Replaced my drivers side mount w the green e28 mount.. part number 11811132793... now clears the brake booster!... barely!!!... but done, thank you this helped mucho
+
+ANSWER 4 (id: 1015_3):
+Hello swappers! Somewhere someone (at this moment don't know who, it's in my favorites with other 50 topics :D ) said that original mounts aren't strong enough for these e30 engine swaps. Is this true? More I read, more I see that a lot of people use them, so this should be the answer... Maybe they're weak, specially when going on with turbo?
+
+ANSWER 5 (id: 1015_4):
+check revshift website. they sell a bunch of parts specifaically for the swaps and other mounts as well. they are offset to fit engine in correctlty. I hav them on my s50 swap. sits perfect =]

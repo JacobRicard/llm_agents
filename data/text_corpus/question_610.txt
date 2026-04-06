@@ -1,0 +1,31 @@
+QUESTION ID: 610
+
+QUESTION:
+I found my used premium speakers are busted. What are the options keeping the rear premium sound enclosures and same or better sound quality? Re-coning? Black units are on back order? Rear are same as fronts? Thanks!
+
+ANSWER 1 (id: 610_0):
+Pretty sure both front and rear are 5-1/4" speakers with the tweeters being 1". I think I installed some random Rockford speakers front and rear, sound is adequate, but I am not too much of an audiophile. As to what resistance/wattage you'd want, I couldn't be certain. Might have needed to modify/slot the front replacement speakers to fit, so it may be worth it to measure your existing set and compare mount hole centers.
+
+ANSWER 2 (id: 610_10):
+Originally posted by rturbo 930 Well that explains why mine looks different. Figured it was just an updated design, since the one I found was supposed to be a superceded p/n. Guess I'll have to do a return lol. They probably sure wont say W.Germany on it. I also question the quality of a lot of new parts.. Well see! I found some people talked about the late E34 speaker... But sounds like snake oil.
+
+ANSWER 3 (id: 610_11):
+65 13 1 386 546 - New Premium sound P/N for Front and Rear speakers TC01 Dec 2019 by Zachary Ketring, on Flickr TC01 Dec 2019 by Zachary Ketring, on Flickr TC01 Dec 2019 by Zachary Ketring, on Flickr TC01 Dec 2019 by Zachary Ketring, on Flickr TC01 Dec 2019 by Zachary Ketring, on Flickr TC01 Dec 2019 by Zachary Ketring, on Flickr You have to solder the pig tails to the tweeter.
+
+ANSWER 4 (id: 610_13):
+Originally posted by moatilliatta 65 13 1 386 546 - New Premium sound P/N for Front and Rear speakers TC01 Dec 2019 by Zachary Ketring, on Flickr TC01 Dec 2019 by Zachary Ketring, on Flickr TC01 Dec 2019 by Zachary Ketring, on Flickr TC01 Dec 2019 by Zachary Ketring, on Flickr TC01 Dec 2019 by Zachary Ketring, on Flickr TC01 Dec 2019 by Zachary Ketring, on Flickr You have to solder the pig tails to the tweeter. So how is the sound of the new premium speakers? I see a lot of love for the OEM Premium speakers, but old units off ebay seem a roll of the dice...so price aside, are the new 65131386546 now the best choice for an e30? Cheers!
+
+ANSWER 5 (id: 610_4):
+Originally posted by moatilliatta The whole housing or just the speaker? Just the speaker. Not cheap, but was the right solution vs buying something that didnt match or replacing everything.
+
+ANSWER 6 (id: 610_5):
+Loudspeaker 1370834 | BMW 65131370834 http://bmwfans.info/parts-catalog/65131370834/ BMW Loudspeaker 65131370834, 1370834 One of my original sound systems was a CD43 fresh wired to a blaupunkt amp, freshly wired to the premium speakers. I was impressed and felt like I had no reason to keep expanding the system. I mean really how shocked how well it sounded!! Building a new system for my car and I know at least the bassline ;) I want to start at. Going to check availability of the speakers Monday.
+
+ANSWER 7 (id: 610_7):
+Originally posted by moatilliatta But is the 834 a premium speaker? According to this link, it is! 65 13 1 370 834 https://de.etk.club/n/65131370834/ Lautsprecher for BMW
+
+ANSWER 8 (id: 610_8):
+Looking at photos: 65 13 1 386 541 - NOT REAR PREMIUM SOUND 65 13 1 370 834 - NOT REAR PREMIUM SOUND 65 13 1 377 775 - Old premium sound P/N found on Front and Rear speakers? 65 13 1 386 546 - New Premium sound P/N found on Front and Rear speakers? According to photos it looks like this is same speaker front and rear. roguetoaster had the correct P.N.
+
+ANSWER 9 (id: 610_9):
+Well that explains why mine looks different. Figured it was just an updated design, since the one I found was supposed to be a superceded p/n. Guess I'll have to do a return lol.

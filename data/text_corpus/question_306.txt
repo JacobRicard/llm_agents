@@ -1,0 +1,16 @@
+QUESTION ID: 306
+
+QUESTION:
+Hi, What alignment angles (front camber caster and toe, rear camber and toe) should I set my suspension to? The car isn't a track machine but a daily driver that does extracurricular activities occasionally. I have adjustable camber plates on the front and IE eccentric bolts for rear camber and toe.
+
+ANSWER 1 (id: 306_0):
+I was in a similar situation as you, DD with IE camber and toe in the rear, no camber adjustment up front though, only M3 CAB's. I got -2 degrees camber rear, and the rest of the alignment was done to factory specs (apart from caster obviously). Feels good to drive, can't comment on tyre wear yet though. From memory front camber was around -1.5 degrees. Also, the alignment shop may have trouble getting a spanner in to tighten/loosen the adjuster nut for toe adjustment on the passenger side. I've also got the IE subframe bushings and had to shave parts off a spanner so there was room to move it.
+
+ANSWER 2 (id: 306_1):
+I shaved the IE bushings, shaved the spanner, barely could tighten the nut with the wheel off and the alignment wouldn't even attempt thouching it with the wheel on (car at ride hight). I also seem to have more vibrations fro the back and I don't know if it is the IE bushings (green) or maybe the nuts aren't thightned enough.
+
+ANSWER 3 (id: 306_2):
+hmm, I shaved the bushings as well (had to just so the nut would fit) and we managed to tighten it with the wheel on (16 x 7.5 btw). Could only go about 1/6th of a turn before we had to flip the spanner and go another 1/6th. I shaved the spanner to the point where I was worried about it snapping but it held up ok. No vibrations here, and I've driven with those adjuster nuts loose before and didn't notice any vibrations. Wheels balanced and true?
+
+ANSWER 4 (id: 306_3):
+Even though I don't like to, I made many changes at the same time; Installed IE bushings, IE camber and caster tabs, ARB reinforcment tabs, changed rims, changed muffler, changed diff. Now it is very hard to know which of these changes makes to cloncking noises.

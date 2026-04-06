@@ -1,0 +1,19 @@
+QUESTION ID: 1489
+
+QUESTION:
+Hey Guys! I want to make sure I’m using the SIR wheel bearing tool correctly? Check my attached pics please….Do I have everything positioned correctly? No movement in the hub/wheel bearings when I tighten down with it set up this way and I can’t crank any harder then I am doing. Something ain’t right! Attached Files
+
+ANSWER 1 (id: 1489_1):
+Thanks Vincenze! Problem with putting the top part of the tool behind the hub is there isn’t enough hub area to catch the tool to put pressure against the hub to push it out. And the horseshoe that attaches to the tool won’t fit over the back side of the hub. I’m not good at jigsaw puzzles! In the video you linked it looks like a Mercedes hub and the tool is able to catch the hub and push it out.
+
+ANSWER 2 (id: 1489_2):
+I found a topic that shows how to use the SiR tool. https://www.r3vlimited.com/board/forum/e30-technical-forums/325ix-technical-and-discussion/207927-front-wheel-bearing-replacement
+
+ANSWER 3 (id: 1489_3):
+From that picture it looks like the tool actually PUSHES against the hub/strut housing instead of pulling the back of the hub. Will give it a try! Thanks!
+
+ANSWER 4 (id: 1489_4):
+Just to update the thread for future searches the method pictured in post the above was the ticket. Hub came right out although I will say that this would be MUCH easier if the strut was still mounted on the car. Juggling the weight of the strut and the tool makes it hard to manuever and line everything up.
+
+ANSWER 5 (id: 1489_6):
+Originally posted by Vincenze For the price, SiR should've provided instructions. Most people use a slide hummer for the job. It can easily be rented. They do provide instructions but they are kinda like IKEA instructions LOL.....very generic and pretty useless. Job is done. Wheel bearings were a bitch but the SIR tool definitely works well once you figure out how to use it. I'm happy to let anyone nearby (Rutland VT area) use the tool if they need.

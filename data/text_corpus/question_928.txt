@@ -1,0 +1,10 @@
+QUESTION ID: 928
+
+QUESTION:
+Ok I have looked on here for quite a bit but could not find a real answer. I have a 96 s52. The head only has 2 ports in the side (most I see on here people have 3?) on the stock s52 there was one sensor and one fitting for the throttle body heater For the e30 to read the coolant temp everyone says to use the brown top sensor from e30. Problem is the brown top sensor threads are too big for the head. Which sensor do I use to fit my head to make it work with my e30? I didn't realize there are 2 different s52 heads? Is there an adapter? let me know. Thanks!
+
+ANSWER 1 (id: 928_2):
+Originally posted by six2midnight Thanks, ended up rethreading the sensor, because I was too scared to tap the head Careful with this- as retapping the e30 sensor sometimes doesn't make the greatest of seals when threaded back into the head. Don't be afraid of retapping the head for the e30- just take your time and use a vacuum to pickup any shavings. This way you won't have to worry about it leaking. Just set it and forget it! Any shavings that fell into the head is OK- as it is just the coolant side and won't get stuck anywhere with a good hose flush.
+
+ANSWER 2 (id: 928_3):
+Originally posted by Klug Careful with this- as retapping the e30 sensor sometimes doesn't make the greatest of seals when threaded back into the head. Don't be afraid of retapping the head for the e30- just take your time and use a vacuum to pickup any shavings. This way you won't have to worry about it leaking. Just set it and forget it! Any shavings that fell into the head is OK- as it is just the coolant side and won't get stuck anywhere with a good hose flush. Thanks! I already tapped the new sensor, so Ill see if this leaks before trying to tap the head. Ruining a 5 dollar sensor seemed like a better starting point haha. ;D

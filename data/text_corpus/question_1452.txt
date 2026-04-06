@@ -1,0 +1,13 @@
+QUESTION ID: 1452
+
+QUESTION:
+I’m finally finishing getting all the parts for my suspension rebuild and I’m wondering if I should reinforce the rear sway bar with the one from Turner Motorsports or if just buying new mounts would suffice for a daily driver that gets driving spiritually on the weekends also sticking with a stock rear sway bar
+
+ANSWER 1 (id: 1452_0):
+Are you going with a stock replacement suspension setup, or with upgraded components? With a near stock setup I wouldn't bother reinforcing anything. That said, if you have the time and a welder, wouldn't hurt to reinforce while you have it apart. I went with a 19mm ST Suspensions Rear Swaybar and have soft H&R Sport springs, so I know I'm putting a lot of stress through my swaybar mounts. I boxed in the chassis-side mounts with an AKG Motorsport kit and plated the trailing arm mounts.
+
+ANSWER 2 (id: 1452_1):
+I’d probably pass on the reinf on the chassis and trailing arm given your use. If you have stiffer springs it’ll take some load off the bar. And it’s not like you’re going to get wheel hop to beat things up. Give it a good inspection though. Ireland engineering has the rear bar and reinf down. Most diy welding I find just starts a rust trap later on. The paint will fall off the tuner units and start to rust.
+
+ANSWER 3 (id: 1452_2):
+with a 16mm bar the mounts on the body will eventually fail and the trailing arm mount will start to bend very slighty over time as this happened to me with th whiteline 16mm bar. i would do this unless definitely retaining stock bar and no chance of deciding to upgrade later.

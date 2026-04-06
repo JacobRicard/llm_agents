@@ -1,0 +1,19 @@
+QUESTION ID: 2595
+
+QUESTION:
+My e30 gets bad axle tramp when wheel spinning in either dry or wet surfaces and i havnt found any difinitive information to cure the problem. I'll be stripping the rear suspension soon and want to rebuild the whole thing, what do you guys recommend using to avoid axle tramp? Cheers
+
+ANSWER 1 (id: 2595_0):
+I think you are talking about what the U.S. calls wheel hop. If it is stiffer, you will get less hop, but the car will spin easier. I currently have the problem that my rear axle is popping and making a ton of noise only when I am leaving form a stop--- cant figure it out!!!!
+
+ANSWER 2 (id: 2595_6):
+Well, there's no leaf spring to get axle wrap. Stiffer springs will just increase the harmonic frequency of the oscillations. To reduce the magnitude of the oscillations you must provide a stiffer harmonic dampener. (shock absorber)
+
+ANSWER 3 (id: 2595_7):
+stiffer subframe, diff and trailing arm bushings should help you quite a bit as well as a better tire compound. the issue isn't that complicated to fix, but you may have to play with spring rates & shock compression pending how much power you are putting out. you should probably inspect your half shaft joints for play as well. if your bushings are bad enough to create that much wheel hop consistently, your axles will be taking a beating everytime it occurs.
+
+ANSWER 4 (id: 2595_8):
+I know this is a super old thread, but I thought I would add my experience in case it helps anyone avoid the same mistake. I was having bad wheel hop, especially on wet roads and tried many things to fix the issue, the first being new shocks. I also tried new subframe and control arm bushings, new shock mounts, a different set of shocks, tire rotation, new axles, camber and toe settings etc. Nothing fixed the problem and nothing seemed to even modulate the issue in a meaningful way. After all that it turned out I had just installed the shocks incorrectly, or more accurately, the previous owner had, and then I proceeded to repeat their mistake several times. You need a thrust washer on both sides of the top shock mount! Don't be like me ;-)
+
+ANSWER 5 (id: 2595_9):
+Wow, that's some thread necromancy. 650lb/in springs, UHMW PE bushings, upgraded shock mounts, koni single adjustables, still have wheelhop if I dump the clutch. So I don't.

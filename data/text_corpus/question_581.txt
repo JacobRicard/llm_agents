@@ -1,0 +1,16 @@
+QUESTION ID: 581
+
+QUESTION:
+How does my SI board look? I am taking my cluster apart because the left side illumination bulb seemed to have gone out. However the bulb itself looks good. When i bought it the gas gauge didnt work so i assumed SI batteries where dying, but now everything but the illumination bulb works. Going to go to battery+ and get them replaced. Any recommendations while I have it out? I got trim rings and all new bulbs. considered going w LEDs but havnt pulled the trigger yet. I got white overlay for the faces and was considering other cosmetic things. My odo gears work, should I bother replacing them or leave them be for now? The biggest pain is getting to those two thumb screw things behind the black trim piece below the cluster.
+
+ANSWER 1 (id: 581_1):
+Originally posted by powaz Guess you never got any feedback on this? looking to go LED myself while doing ODO gears. What did you decide? I went with OEM bulbs, simple, easy and I shouldnt. have to worry about them.
+
+ANSWER 2 (id: 581_3):
+Dont replace the SI board batteries without replacing the other components on the SI board. If you replace the batteries alone, it can lead to permanent damage of the SI board. Ever hear of smacking the dash to get the gauges working again? That is failed transistors and replacing the batteries with failed transistors will damage the expensive SI board. This does not occur everytime but if you put new batts on, once one or more of those transistors fails, you now have tons of electrical current (from new batts) to cause heavy shorting. All transistors voltage regulators, and capacitors must be replaced prior to installing new batts.
+
+ANSWER 3 (id: 581_4):
+Originally posted by Gregs///M Dont replace the SI board batteries without replacing the other components on the SI board. If you replace the batteries alone, it can lead to permanent damage of the SI board. Ever hear of smacking the dash to get the gauges working again? That is failed transistors and replacing the batteries with failed transistors will damage the expensive SI board. This does not occur everytime but if you put new batts on, once one or more of those transistors fails, you now have tons of electrical current (from new batts) to cause heavy shorting. All transistors voltage regulators, and capacitors must be replaced prior to installing new batts. All good, you actually just did my SI board lol
+
+ANSWER 4 (id: 581_5):
+Originally posted by Gregs///M Dont replace the SI board batteries without replacing the other components on the SI board. If you replace the batteries alone, it can lead to permanent damage of the SI board. Ever hear of smacking the dash to get the gauges working again? That is failed transistors and replacing the batteries with failed transistors will damage the expensive SI board. This does not occur everytime but if you put new batts on, once one or more of those transistors fails, you now have tons of electrical current (from new batts) to cause heavy shorting. All transistors voltage regulators, and capacitors must be replaced prior to installing new batts. How much for the service?

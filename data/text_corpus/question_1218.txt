@@ -1,0 +1,13 @@
+QUESTION ID: 1218
+
+QUESTION:
+I am doing some exhaust work and I notice a small leak at one of my header pipes. Going to get some new gaskets in there but the studs / nuts that secure these are looking pretty terrible. I'd like to replace these studs as well- anyone used the Turner kit? or have any other suggestions? http://www.turnermotorsport.com/p-42...FdGDQgodK18A6g
+
+ANSWER 1 (id: 1218_0):
+Maybe your exhaust studs are in better condition than mine and haven't ever thought about replacing them ? Just curious if anyones used these and what they thought -
+
+ANSWER 2 (id: 1218_1):
+Hi, I used them on my rebuild. Replacing the exhaust manifold studs with the engine in the car will be a bear especially #3 and #4. If you get out your old ones, I suggest you chase the threads with a M6 tap. The Turner's use a Hex key to install the studs into the block. If you install with the engine in your car you will need to remove the old studs, fit the manifold to the block (with the new gaskets) and then install the Turner studs. There isn't enough clearance to install the studs first then the manifold. With the engine out of the car, this is a piece of cake. If you replace the studs with BMW parts, be prepared for the shock of $3.30 for each stud. Good luck.
+
+ANSWER 3 (id: 1218_2):
+Nice, yeah- outside of the car sounds pleasant. It was a bit of a puzzle but actually not too bad switching between ratcheting 9mm wrench and a 1/4 9mm socket wrench. I ended up replacing only 5 studs with factory replacements. The reason I chose to keep factory is I heard in one case the vibration caused the stainless steel Turner studs to snap shortly after the install. I don't know if the tension was too high during install or what so took it with a grain of salt, still factory works and actually is cheaper- even at ~3$ each. I was able to remove and re-install the headers just by loosening the sway bar mount on pass side as well as the pass side heat shield for motor mount. I'm running the 25mm bar up front also and still think I had about 20mm clearance. Maybe the turner studs are longer? Regardless - just made this to see if any of you folks had used those studs.

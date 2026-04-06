@@ -1,0 +1,10 @@
+QUESTION ID: 1849
+
+QUESTION:
+I was wondering what type of differential is on my E30 , it’s an 1989 325I, automatic originally now manual swapped I recently removed my Diff and wanted to know if I have an LSD , 4.10 or the 3.78 or whatever the ratio is but here is a photo I have . i have a spare 4.10 diff but the one in my car looks bigger in size.
+
+ANSWER 1 (id: 1849_0):
+There are small and medium case differentials, with different ring gear sizes and ratio ranges. M20 cars should have a medium case, and the ratio will vary with equipment/year. If yours isn't tagged, you can rotate the diff and count relative rotations after you mark an external reference. That will get you close. Or you could read the relevant technical section here and leaan what I just wrote.
+
+ANSWER 2 (id: 1849_2):
+Look up your vin on realoem - some 325i automatics came with 3.73, but the later cars were 4.10. Also, just turn your input flange while holding one output flange. If the other output flange turns the same direction as the one in your hand, you have LS.

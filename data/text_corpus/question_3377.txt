@@ -1,0 +1,19 @@
+QUESTION ID: 3377
+
+QUESTION:
+I've searched online and I'm coming up empty... I have a friend saying his RD E34 has a RD factory cam in it, and I believe him as the car idles like a 8cyl and has ALOT of top end grunt (compared to my m30) anyone know?
+
+ANSWER 1 (id: 3377_1):
+Originally posted by e30m3s54turbo Yes, they did make cams and motors for the m30 and m20. interesting. any resources on info as to what the specs and details where on these?
+
+ANSWER 2 (id: 3377_3):
+Originally posted by e30m3s54turbo My Racing Dynamics catalogs got lost 20 years ago....:( My minty 1988 RD catalog specifies 3 different part # for complete engines (K35.2, K35.3 and catalyzed K35.4 versions) as well as 3 more part # (for additional charges) depending on if no engine is supplied in exchange, or if mileage exceeds 2,500km and another if it exceeds 10,000km. No part # for camshaft alone. But it most likely is a Shrick. But... there's a nice picture of the never released M20 24v head... ;-)
+
+ANSWER 3 (id: 3377_6):
+Originally posted by Mr. Burns Thanks Lee! Any indication on whether they match the 272, 284, 302 etc shrick style On the 6 series engine, RD claims 262 BHP (up from 220HP from the ECE motor) and 348Nm of torque.
+
+ANSWER 4 (id: 3377_8):
+Originally posted by Massive Lee On the 6 series engine, RD claims 262 BHP (up from 220HP from the ECE motor) and 348Nm of torque. that's a VERY generous jump on power...surely that can't just be from the cam itself...
+
+ANSWER 5 (id: 3377_9):
+Originally posted by Mr. Burns that's a VERY generous jump on power...surely that can't just be from the cam itself... Well, it is obviously a combination of cams, pistons and DME. Probably flowed head too.

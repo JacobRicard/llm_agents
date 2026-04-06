@@ -1,0 +1,16 @@
+QUESTION ID: 862
+
+QUESTION:
+looking for advice.... I have an m54 engine from 2001 e46 325ci and a g260 5 speed from an 88 325i e30. I want to swap into my 1985 318i. I'm stuck on what flywheel and clutch kit I should use... I would prefer to have a "plug and play" set up rather then machining the flywheel (which I have read might be the case?) From the e46 m54 I have the starter, all accessories, wiring, ecu etc. no flywheel. thanks in advance... I tried searching the forums and I must be over looking or its not posted?? If its been covered please send link or helpful advice!
+
+ANSWER 1 (id: 862_0):
+I'm doing the same thing I to my E30, ur transmission came with a single mass flywheel correct? I am using a 90 g260 and a cut down m20 single mass fly wheel and a stock clutch. I haven't run it yet.
+
+ANSWER 2 (id: 862_1):
+I believe so... The trans and engine have never been installed in my cart. I was hoping to not have to cut down/machine the flywheel. curious if I get a single mass flywheel for the m54 (have the starter) then g260 clutch kit? no machine or cut down?
+
+ANSWER 3 (id: 862_3):
+The weak part (for me...) of the G260 with the M54 is that there's enough torque to slip the stock clutch. I had to upgrade to a stage 1 clutch that was grippier.
+
+ANSWER 4 (id: 862_4):
+Originally posted by hoveringuy The weak part (for me...) of the G260 with the M54 is that there's enough torque to slip the stock clutch. I had to upgrade to a stage 1 clutch that was grippier. Was your m54 modified? I have a sachs clutch oem M20, I may have to get stage 1 if so..

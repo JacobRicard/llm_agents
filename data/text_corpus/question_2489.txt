@@ -1,0 +1,13 @@
+QUESTION ID: 2489
+
+QUESTION:
+Hi All, I just got a brand new complete clutch kit installed, updated some bushings on the selector rod, new tranny mounts, guibo, and new REDLINE MTL fluid from my local shop. Prior to this, I had zero issues with any sort of grinding. Here is what I've observed: 1. At idle, if I rock the shifter left/right (as in neutral), I feel a light vibration on the right side below 5th. 2. If coasting and I rock the shifter left/right (as in neutral) with the clutch pressed in, I hear an awful grinding sound. 3. Now when shifting from 4th to 5th, I also hear that awful grinding sound. However, downshifting I don't. 4. Every other gear including reverse works fine. Here's a quick video: I think something was installed incorrectly since this never happened before, especially when the shifter is in neutral. Any ideas? This is obviously going back to the shop, but any input would be greatly appreciated just incase I get some pushback from the shop that did the work. Thanks, Nick
+
+ANSWER 1 (id: 2489_1):
+Originally posted by E30 Wagen Does it grind when you're stationary but with the engine running? Sounds like something in the shift linkage is hitting the driveshaft. #10 in the realoem picture may be on the wrong side of the shifter causing it to hit the driveshaft.
+
+ANSWER 2 (id: 2489_2):
+Originally posted by E30 Wagen Does it grind when you're stationary but with the engine running? Sounds like something in the shift linkage is hitting the driveshaft. When the car is stationary, I feel a vibration/slight metallic sound, but its very faint. Only when the car is in motion that the sound is very apparent so it makes sense that the shift linkage may be hitting the driveshaft!
+
+ANSWER 3 (id: 2489_3):
+Originally posted by bradmer #10 in the realoem picture may be on the wrong side of the shifter causing it to hit the driveshaft. Thank you I will mention it to the shop. Crossing fingers this fixes the issue! I'll update the thread!

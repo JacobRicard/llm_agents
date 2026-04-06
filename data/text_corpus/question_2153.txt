@@ -1,0 +1,7 @@
+QUESTION ID: 2153
+
+QUESTION:
+I was looking to replace my brake master cylinder and found that the part number for my car (1984 318i) is different from later models. Would the later year master cylinders fit and work with my car as I can easily find those locally?
+
+ANSWER 1 (id: 2153_0):
+realoem says the part 34311156273 fits up to 05/1987. You can find a new FTE master cylinder with this number for $150. It's a critical component, why would you buy it used?

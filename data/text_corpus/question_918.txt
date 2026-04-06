@@ -1,0 +1,10 @@
+QUESTION ID: 918
+
+QUESTION:
+I'm running a e30 rack, e30s take ATF, but the pump is obviously 24v, and that's CHF11s, do I match the pump or rack?
+
+ANSWER 1 (id: 918_1):
+Interesting conundrum, whats the difference between the fluids? What is more expensive to fix a pump or a rack? I assume a pump is more expensive, thus id be using the oil that is specified for the Pump.....
+
+ANSWER 2 (id: 918_2):
+Pump is definitely more easily replaced and cheaper. Just run atf dude, it makes no difference. It's a rotary vane pump, it could be pumping grape juice for all it cares

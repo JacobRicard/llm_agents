@@ -1,0 +1,13 @@
+QUESTION ID: 2499
+
+QUESTION:
+Hi all, I am new to the forum here. I have several e30's and am looking at purchasing a 1992 e30 325ic that the owner states is an M-technic. I called BMW NA to try and verify if the vehicle came with the M-technic package but to no avail. Are there any tell tale signs to verifying that this is a true M-tech, one with the appearance package or just a 325ic that someone fitted with an aftermarket m-tech package? Is there a vin range that it should fall into? BMW NA is having to "do more research" and will get back to me in the next few days but I trust a car community more than calling a call center and speaking to a bunch of individuals who are not sure what a M-Technic is. From my research the M-technic package is listed on the build sheet. Any help would be greatly appreciated!! It's a white on white beautiful car but like to know what I'm purchasing prior. Thank you! Sabrina
+
+ANSWER 1 (id: 2499_1):
+If you decode the VIN and it shows "lotus white" for the interior color, it's more then likely a true Mtech car. White interior seems to only be offered on the White Mtech package cars, in the US market. It should also have the option listed "S770a" when you decode the VIN.
+
+ANSWER 2 (id: 2499_3):
+White on white is a tell tale that it's a true M technic appearance package (S770) car as they only came in White/white and black/black. The full (S771) M technic verts came in red/silver/purple only with the motorsport cloth/leather seats.
+
+ANSWER 3 (id: 2499_4):
+Hi Reelizmpro! Thanks for your info. So far the info I've received from the dealer I use is the car is a 0770 individual series 96 classic. Still researching and will add any interesting tidbits along the way.

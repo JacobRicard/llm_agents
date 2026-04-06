@@ -1,0 +1,10 @@
+QUESTION ID: 1713
+
+QUESTION:
+Hey all, In the process of putting back together my M20. Looking for info on the "Gasket Ring" found on real oem #24 on this page. https://www.realoem.com/bmw/enUS/sho...diagId=11_0119 12111363190 is NLA and I believe the engine was leaking from this spot prior to the rebuild. If anyone has experience with this gasket that would be much appreciated! - Is the gasket the black ring shown in the photo below or is there a 2nd gasket that goes somewhere else along the bearing cover? - Has anyone used a generic gasket/one from another model in the place of 12111363190? Thank you!
+
+ANSWER 1 (id: 1713_1):
+Thanks for the reply! I realize I'm probably overthinking all this, but it's my first engine build and I'm getting a little carried away. What I wasn't sure of is whether the ring I have labeled in the below Picture as "B" is included along with the Bearing Cover or not. Would appreciate clarification on 12111363190, the O-Ring I'm overthinking: Is it replacing "B" or is to be installed in location "A" making "B" a different part all together? ​
+
+ANSWER 2 (id: 1713_2):
+dunno what you are on about. it's an o-ring. there isn't anything else down there. i replaced the needle bearings and rebuilt the oil pump during my engine build.

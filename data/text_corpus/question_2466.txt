@@ -1,0 +1,22 @@
+QUESTION ID: 2466
+
+QUESTION:
+So, my coolant is black and it is not oil residue. I can fill the glass jar and there isn’t any separation, the particles dont settle to the bottom of the jar either. I let this sit for two days. My coolant hoses are all less than 5 years old, new radiator too. Is exhaust contamination the only possible cause? I have not had any cooling problems, system doesnt over pressurize as if exhaust gasses are pressurizing the system from the head.
+
+ANSWER 1 (id: 2466_0):
+My guess is perhaps the coolant type has had some sort of a reaction with the aluminum in the radiator causing a color change?maybe the hoses are deteriorating somewhere... sent from hell using Tapatalk
+
+ANSWER 2 (id: 2466_2):
+A few years ago I installed all new hoses, radiator, t-stat, coolant temp sensors, I would estimate it to be 3 years ago. I used BMW coolant and the coolant the previous owner had in there was yellow/green. I have a few gallons of BMW coolant, just got back from the store with distilled water. I plan to drain the block/radiator this evening, try to flush, which will be tough because my quickjack is in the garage. Anything is possible Austin, the car has 225k on it and I am the second owner. The original owner is a doctor and never worked on the car himself. If there is a problem with the head it isn’t a big deal really, would love the excuse to throw the 2.7i in it that we have. I just dont want to blow the gasket while I’m driving.
+
+ANSWER 3 (id: 2466_3):
+Originally posted by e30austin is there any chance someone installed this stuff in your car? https://www.evanscoolant.com/how-it-works/ Is waterless coolant a good idea?
+
+ANSWER 4 (id: 2466_4):
+Originally posted by Victell Is waterless coolant a good idea? ask jay leno jay leno evans water - Bing video https://www.bing.com/videos/search?q=jay+leno+evans+water&docid=608046556110194774&mid=D08744008BCCF6C5EB8BD08744008BCCF6C5EB8B&view=detail&FORM=VIRE
+
+ANSWER 5 (id: 2466_5):
+Ewwww.... so, try draining it completely (block drain, too) then rinse with distilled water, RUN distilled water for about half an hour, drain again rinse again, then refill with coolant of your choice (I use green, call me silly) and see what happens. That looks gross. t
+
+ANSWER 6 (id: 2466_7):
+Thanks for the responses, No, it does not run hot. I always have the ac on which I configured with the spal puller fan that runs whenever the ignition is on (jumper wire on the electric fan switch on the radiator) so I suppose it could run hot if I unplug the jumper wire, not sure. I flushed with water, refilled, and drove the car a few hundred miles, haven’t looked at the coolant yet to see if I have a recurring problem here. I am about to rebuild the vanos on my e46 and will be running the car more now that it has cooled off weather wise. I am thinking there is a compression leak, but, not enough to create any pressure into the cooling system. just to be clear, I refilled with BMW blue and distilled water. I flushed the old coolant out with regular water but I removed the block plug and pushed water from the reservoir back and out the block drain. I’m sure there are remnants of tap water in the system but I am ok with that.

@@ -1,0 +1,22 @@
+QUESTION ID: 1465
+
+QUESTION:
+Have access to a E30 333 111 354 56 E30 rear axle carrier to replace my damages 325IX axle carrier. I have a 1991 325ix that was in an accident (years ago and bent both the axle carrier brackets and the rear trailing arms. Traling arms have the same part # as all other E30s 33321137641 and 42. I pulled a complete axle from a parts car I have and was thinking of making a SWAP when I noticed the carrier has a different part# 333 111 355 46 (like they couldnt make it any closer) I read they can be used / swapped but need a different bushing? Is this true? If so - what bushing do I need? the IX? Any help on this would be appreciated. Search on this : https://www.r3vlimited.com/board/forum/e30-technical-forums/suspension-unsprung/brakes-subframe-arms/294233-subframe-differences
+
+ANSWER 1 (id: 1465_0):
+Another thread - NORTHERN must have done a swap.. he mentions it in both threads - So bushing I am assuming is the IX bushing..? https://www.r3vlimited.com/board/forum/e30-technical-forums/325ix-technical-and-discussion/207926-325ix-rear-subframe-bushing-replacement-and-much-more-w-pics
+
+ANSWER 2 (id: 1465_1):
+IX subframe bushings drop the subframe down for more ground clearance. I don’t know why the subframe itself would have any difference, and would suspect a non-iX unit will work just fine. In fact, I am getting ready to swap my iX one with a z3 2.8 unit (with iX bushings)
+
+ANSWER 3 (id: 1465_2):
+Also note that while the trailing arms are the same, iX uses different rear hubs that give it 20mm extra track width. The iX rotors are deeper to accommodate the wider hub, so it winds up using the same rear calipers and carriers as a non-iX. In a bind you can use rwd rear hubs/rotors but you’ll want 10mm spacers to even out track width to the fronts if running a square setup.
+
+ANSWER 4 (id: 1465_4):
+Ok - Good - Im moving forward with getting my old girl on the road. I have IX hubs and rotors and axle shafts What bushings do I use for the rear axle - The IX version - correct? - Any suggestions on brand? A lotta stuff has changed since I did this job 10 years ago.. parts are impossible and expensive.. Leaning towards Condor.. but would almost prefer stock.. but cant really locate IX..
+
+ANSWER 5 (id: 1465_5):
+What do you mean "bushings for rear axle"? There is the subframe bushings, differential bushing, sway bar bushings, and rear control arm bushings. As far as I know, they are all available for the ix, I did mine 1.5 yrs ago and used all rubber bushings, pretty sure they were all OEM BMW. Expensive but you wont have to do them again for 15-20 years!
+
+ANSWER 6 (id: 1465_6):
+I like Lemforder also .. What vendor you suggest? ECS tuning has nothing listed for the IX specific axle bushing ( 33311128990 / 33311130483) - only BMW brand (same with the all the others) AutohausAZ, FCPEURO, E-euro parts Pelican - all around $107 ea- Nothing pops up under the IX specific number for any other than BMW. Google shows nothing for me for Lemforder specific? Under the other 325 i number ( 33311129144) - I can locate that one pretty easy. Can you post a link to the IX specific Lemforder ? Maybe its currently BMW or nothing? (or aftermarket poly)? After owning 5 E30s and currently maintaining 3 (a coupe, IC and IX) an E46, 2 F25s and an E90... (plus a 911 a RAM and a Chevy C10) maintaining all of these every year I spend a couple of grand on parts - so I am always browsing for the best deal.. Any leads would be appreciated. I may move to polly if its only BMW.. (rockauto lists a MOOG but it is also listed for the other E30s)

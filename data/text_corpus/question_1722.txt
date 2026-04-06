@@ -1,0 +1,10 @@
+QUESTION ID: 1722
+
+QUESTION:
+So I’m i getting into an engine rebuild and I managed to mix up my main bearing caps. So posts say the they are number 1 - 7 from factor, but mine are definitely not….. what should I do? Am I screwed?
+
+ANSWER 1 (id: 1722_3):
+I once did this with a Mitsubishi engine- there are a pretty finite number of possibilities, if you go one at a time, and use plastigauge... M10 rods and mains aren't marked from the factory, but I forget about M20s t
+
+ANSWER 2 (id: 1722_4):
+you might also find some discoloration, machining marks, scores, mismatch or other witness marks that could also lead you to either the correct position or which is not correct. The caps on the rod are always easy due to this

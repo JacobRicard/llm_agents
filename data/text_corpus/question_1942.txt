@@ -1,0 +1,7 @@
+QUESTION ID: 1942
+
+QUESTION:
+I remember on the non-airbag steering wheel models that the steering column is actually angled off to the left a bit, so the steering wheel isn't actually squared up in front of you, if that makes any sense. But I can't remember if this was fixed with the airbag models and the redesigned steering column. I feel like I should know this from owning both models but my memory is failing me. Searched and came up with nothing even though I swear this has been discussed.
+
+ANSWER 1 (id: 1942_0):
+I don't think it's angled to the side but when replacing the airbag wheel with non airbag wheel, we know for sure that the wheel rim is closer to the cluster and stalks. I also know that the underdash panel cutout is deeper on the early version vs late. This could only mean that the entire steering shaft is angled upward more on airbag models.

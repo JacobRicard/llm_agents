@@ -1,0 +1,7 @@
+QUESTION ID: 542
+
+QUESTION:
+I have a '92 325i e30 vert with original amp, head unit, and speakers. The front speakers work fine but I get nothing out of the rear speakers. I had a spare e30 amp and tried swapping it but same issue. I tested the rear speakers and they are 4 ohm so at least the impedance is right. Are there some common issues I could look at? I know there are a zillion topics on wiring, but I have not found anything obviously wrong with mine. If anyone knows of some common issues or quick tests, I am all ears. Definitely frustrated.
+
+ANSWER 1 (id: 542_0):
+Nevermind. I figured it out. I found an old speaker and hooked it up and it works. I am surprised that both rear speakers do not work and both of them have normal impedance. I guess I don't know much about speakers.... I just ordered some replacements from crutchfield so I guess my problem is solved. I should have tried this in the beginning vs. screwing around with everything else.

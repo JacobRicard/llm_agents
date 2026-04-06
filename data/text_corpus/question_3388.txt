@@ -1,0 +1,7 @@
+QUESTION ID: 3388
+
+QUESTION:
+I'm new to the whole stance world...I have 91 318is and looking to get some wheels but like everyone I also want the "right" wheels want 17's but got stuck at that point where you have the option for 17x8 and 17x9 and 0 offset and +25mm offset can someone help me understand all this ASAP thanks in advance
+
+ANSWER 1 (id: 3388_0):
+Play around on http://www.willtheyfit.com/ That should answer your question and help you learn how different wheel and tire variables (width, offset, diameter, tread width, aspect ratio etc.) affect fitment

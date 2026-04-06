@@ -1,0 +1,19 @@
+QUESTION ID: 693
+
+QUESTION:
+Hey gang! Long time no chat! Hopefully everyone is still keeping in good health and all that good stuff :D Anyway, after having my drivers door lock rebuilt about 17 years ago by a reputable shop (to get the double lock feature working again) my lock is hanging up. I'm about to order some parts, but I just want to confirm I'm ordering the right stuff. When I had my lock last rebuilt in 2005, the kit I ordered was: 51-21-9-061-343 Considering my lock is showing a different failure (now the key gets stuck in a position and seems like it's about to break off). The BMW dealer suggested the following kit (same price) 51-21-9-556-313 Both are listed as being for a car with central locking, but I'm unsure which to order. Some places indicate the 313 kit is for cars without central locking...while others state I should only use the 343 kit. Any help is greatly appreciated :)
+
+ANSWER 1 (id: 693_0):
+Edit: Going back and looking at my order I used 51219061343 Had the same issue and ordered that kit and definitely fixed it. Only issue I had doing the rebuilt was the rear spring I got doesn't sit well and I can turn passed it if I apply too much pressure. As someone where this has been my first and only car and little knowledge on anything mechanical I think it took me about 3-4 hours start to finish including removing door panels and heading out to get some hook tools (very helpful to get it out). It's worth it for sure
+
+ANSWER 2 (id: 693_1):
+Originally posted by onesecond Edit: Going back and looking at my order I used 51219061343 Had the same issue and ordered that kit and definitely fixed it. Only issue I had doing the rebuilt was the rear spring I got doesn't sit well and I can turn passed it if I apply too much pressure. As someone where this has been my first and only car and little knowledge on anything mechanical I think it took me about 3-4 hours start to finish including removing door panels and heading out to get some hook tools (very helpful to get it out). It's worth it for sure Awesome, thanks for the reply. I've also decided to re-order the kit ending in 343. It should be at my local dealer within the next day or so. I'm just kinda cheesed to be doing the job again, considering I just did it 17 years ago! Still have the receipts to show as well.
+
+ANSWER 3 (id: 693_2):
+Can you keep us updated on if this fixed your problem? I had my driver side lock rebuilt a while ago. My central lock is still working, but my double lock stopped working. I bought the rebuilt 51219061343 and had it rebuilt by a shop, unfortunately it did not fix my double lock. What happens with mine is: I can lock it to the first position which engages the central lock and I can remove my key. However if I turn it to the double lock position, the double lock will indeed engage but the key will not come out of the hole. The only way for me to get the key out is to move it back to the first lock position (which disengages the double lock).
+
+ANSWER 4 (id: 693_3):
+Originally posted by IS300E30 However if I turn it to the double lock position, the double lock will indeed engage but the key will not come out of the hole. The only way for me to get the key out is to move it back to the first lock position (which disengages the double lock). Sure, I'll update the thread. I'm 99% sure that it's just something broken/out of alignment inside the cylinder that's causing the issue. I just decided to get the kit again, incase something broke. As for you issue, I'm pretty sure it's a problem with the cylinder as well. Something is not allowing your key to be removed once in the double lock setting. This could have been confirmed before re-installing the cylinder in your door, as it's pretty easy to confirm and remedy at that time.
+
+ANSWER 5 (id: 693_4):
+Just got the cylinder replaced with the kit ending in 343. All previous lock functions work as new. Hopefully I won't have to be doing this again in 17 years

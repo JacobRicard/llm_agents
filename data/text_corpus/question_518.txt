@@ -1,0 +1,16 @@
+QUESTION ID: 518
+
+QUESTION:
+I was re-keying my drivers door lock and found this little connector has broken off, what is it? For context this is near the top left of the drivers side door in a 1988 ix
+
+ANSWER 1 (id: 518_0):
+could it be for a lock heater ? there was a recent conversation about them and the fact they all seem to fail easy. most folk never know their car had them or that they existed at all.
+
+ANSWER 2 (id: 518_1):
+Yes! Found it! 61311374614 is the part number, realOEM says it’s a “Contact interior light retarder” But people selling the connector also say it’s for door lock heaters, also my car currently doesn’t have a heating ring around the lock itself?
+
+ANSWER 3 (id: 518_2):
+I was just digging into this today. "Contact interior light retarder" made me giggle and it's actually the trigger to start the interior dome light timer if you have one installed next to the central locking module. It has the same function as the door jamb switch that makes the lights turn on. Except the door jamb switch turns the dome light on regardless of whether or not you have the timer delay. If there's no timer, it's also for heating the lock, if installed. I believe you had to hold the handle open for 10 or 15 seconds to trigger the lock heater.
+
+ANSWER 4 (id: 518_4):
+A lot of these harnesses have the little metal spring tab broken, that contacts the arm of the door handle hinge and thus connects the brown and brown/green wires thus grounding the circuit for the interior light timer delay relay when the door handle is raised.

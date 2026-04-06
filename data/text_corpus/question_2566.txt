@@ -1,0 +1,28 @@
+QUESTION ID: 2566
+
+QUESTION:
+Recently I have been doing a lot of maintenance on my E30 and when buying parts, I'm not sure what brands to buy from. I go on ECS Tuning to find parts and I see brands like Uro, Febi, Hamburg Technic, etc but I don't know which brands to trust for a long lasting build. Usually I just buy a part from the mid-range prices, but I'm sure you all have brands you love and hate and I'd love to hear what you guys would recommend. Sorry if this has been asked a million times; I would appreciate if someone could link me to another forum if it's already been discussed since I haven't been able to find information on it. Thanks guys!
+
+ANSWER 1 (id: 2566_0):
+Never buy anythign Uro, MTC, Hamburg technic is in same boat. Febi/Meyle is ok for some stuff but not what it used to be. Some stuff i only buy OE Bmw, others like rubber bushes in the suspension Lemforder is good. It depends on the specific parts but never the cheapest
+
+ANSWER 2 (id: 2566_1):
+FCP Euro has some great information on parts and categories. Also some cool slider visualizations to play around with! Check it out: https://www.fcpeuro.com/page/oe-acad...b-613ab4bf7e24 And here's their explanation of Genuine vs OE vs Aftermarket: https://blog.fcpeuro.com/the-great-d...vs-aftermarket
+
+ANSWER 3 (id: 2566_2):
+You can buy many generic parts like nuts, bolts, clamps, rubber hoses(Gates, Continental) from www.belmetric.com www.rockauto.com by carefully measuring them and getting information from realoem.com
+
+ANSWER 4 (id: 2566_3):
+I avoid most, now. Lemforder hasn't failed me yet, and sometimes Febi comes through with good parts made in Germany. Or very poorly made parts made elsewhere, that I send back. I suspect "Febi/Bilstein" is a made- up name, as is "Hella/Behr" because parts with those labels come through as utter crap, whereas Behr has been historically good, and Hella parts are OE on E46's and later. Hell, there's even some shitbag marketing company for crap parts that's named themselves "O.E.M." in hopes of luring the uninformed to think they're actually getting original parts for 1/3 rd the price of the real thing. So far, price is usually a pretty good indicator- the $20 part isn't a good gamble, the $60 might be worth it, (sometimes you can find where they machined off the roundel) and BMW wants $120 for 'the real thing', which, if you got lucky above, is the $60 part in a baggie with a BMW sticker on the outside. There is no exact answer. Common sense and skepticism go a long way. $120 for a 'complete suspension refresh' off ebay is never going to end well. t
+
+ANSWER 5 (id: 2566_4):
+Yeah, a tough question to answer because with some parts you really want the real thing and some not. When you get tired of researching just use FCP Euro. The lifetime warranty their parts and only sell good parts (meaning that they dont even offer to sell you cheaper alternatives). I would say to search r3v for specific parts or projects to see what other folks buy.
+
+ANSWER 6 (id: 2566_5):
+Originally posted by TobyB I avoid most, now. Lemforder hasn't failed me yet, I don't know. Many original suspension parts in my car were made by LEMFÖRDER. All rubber parts have failed after decades of use.
+
+ANSWER 7 (id: 2566_7):
+Originally posted by Vincenze I don't know. Many original suspension parts in my car were made by LEMFÖRDER. All rubber parts have failed after decades of use. if you wongly go in with a mindset that you expect a rubber bush to last for ever then you will always be disappointed. its a relative life think the LF stuff out lives its povo cousins
+
+ANSWER 8 (id: 2566_8):
+Originally posted by Vincenze I don't know. Many original suspension parts in my car were made by LEMFÖRDER. All rubber parts have failed after decades of use. Yes, of course. Lemforder, as a replacement part, has, so far come through as an 'OE Equivalent'. So if they're making it any more, I start there. t

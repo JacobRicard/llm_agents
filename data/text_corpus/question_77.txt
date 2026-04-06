@@ -1,0 +1,13 @@
+QUESTION ID: 77
+
+QUESTION:
+my low beams are working fine but when I turn on the high's my passenger side low beam turns off and the high doesnt come on. The result is both lights on the drivers side working but nothing on the pass side. where should I start in the troubleshooting process? how do you diagnose a bad relay? 318is btw
+
+ANSWER 1 (id: 77_2):
+Originally posted by nando same deal - H4s are dual filament. replace the bulb :p no that's not it. I switched the bulbs left/right and the problem is the same.
+
+ANSWER 2 (id: 77_5):
+The relay only controls the high and low beam circuits, not each side individually. You sure you don't have the high and low beam connectors swapped? I did that once. Semi similar situation.
+
+ANSWER 3 (id: 77_7):
+If I remember correctly, the horn relay is the same part # as the hi-lo relay. Pull the horn relay (assuming your horn works) and try it in the hi-lo location to see if it works...

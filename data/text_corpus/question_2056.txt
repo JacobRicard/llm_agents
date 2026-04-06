@@ -1,0 +1,10 @@
+QUESTION ID: 2056
+
+QUESTION:
+A couple days ago I forgot my E30’s lights on while at the office. When I got back the car wouldn’t start. After resting for 10 mins it finally went on but this happened.. any advice on how to fix it? I love this darn little display Inviato dal mio iPhone utilizzando Tapatalk
+
+ANSWER 1 (id: 2056_0):
+You can disconnect and reconnect the battery. Or you can use nails to remove the clock front panel, then you can press on the tabs and move the clock out. Then, you can disconnect the clock connector.
+
+ANSWER 2 (id: 2056_1):
+The six button displays suffer from some type of connection issue, either on a circuit board/ribbon cable, or on the wiring connector at the rear. Normally a little tap on the face of the OBC fixes it for quite some time.

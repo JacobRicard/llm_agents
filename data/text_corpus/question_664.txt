@@ -1,0 +1,16 @@
+QUESTION ID: 664
+
+QUESTION:
+Hi guys, Need some help with a transmission swap. Tried doing some searches to get information on how to do a transmission swap from Manual to Switchable Auto but having no luck on guides/videos etc. Can anyone help, the gearboxes from both cars are out but the connectors on the manual car are not matching up with the switchable auto box so at a bit of a crossroads. It’s looking like the entire wiring loom would need to be removed from the manual car and swapped with the switchable auto wiring loom but can anybody advise if it can be done without doing this/or if there’s an alternative easier solution? Cheers​
+
+ANSWER 1 (id: 664_0):
+Originally posted by Kas123 Hi guys, Need some help with a transmission swap. Tried doing some searches to get information on how to do a transmission swap from Manual to Switchable Auto but having no luck on guides/videos etc. Can anyone help, the gearboxes from both cars are out but the connectors on the manual car are not matching up with the switchable auto box so at a bit of a crossroads. It’s looking like the entire wiring loom would need to be removed from the manual car and swapped with the switchable auto wiring loom but can anybody advise if it can be done without doing this/or if there’s an alternative easier solution? Cheers​ if you mean the sport / economy switch on some auto boxes, they never showed up in north america on the e30. i think there might have been a few on the e28, you may want to hunt for info from that model. otherwise you'd have to look at euro specific wiring etms to trace the wires. the only wires under the shift boot for a north american manual trans is the back up switch wires. edit : you'll have to source and wire in the harness for the switchable auto box. the basics should be there, but the harness and relays will be missing. take it from the donor if you can.
+
+ANSWER 2 (id: 664_1):
+This is the first time I’ve heard someone want to swap a manual E30 to an auto. Every other time I’ve heard someone wanting to swap a transmission, it’s the other way around lol
+
+ANSWER 3 (id: 664_2):
+hi, kas u in the uk yes ?? yes how many pins on yr auto box, , theres usaully 7/8/9, etc, and yrl need that correct loom and a ecu, see me , in in london uk, cheers,
+
+ANSWER 4 (id: 664_3):
+Hey OP, you can grab the wiring diagram for your car here: 404 Not Found http://www.wedophones.com/BMWManualsLead.htm It's been a long time since I swapped a manual transmission into an automatic car. I believe you'll need to deal with wiring for the reverse and ignition lockout when you aren't in park. I don't know how the switchable knob system works. All of my cars had a button under the gas pedal to kick-down the transmission.

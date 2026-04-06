@@ -1,0 +1,13 @@
+QUESTION ID: 435
+
+QUESTION:
+Hi guys, I got tired of having a bunch of bulky standalone gauges in the car (AFR, boost, oil pressure), so I ended up designing and building a small HUD that pulls data straight from the Megasquirt CAN bus. It started as a personal project and turned into about a six month effort between hardware, firmware, and the housing, but I’m really happy with how it fits into the E30 interior and keeps things looking clean and OEM-ish. The HUD currently displays: AFR Vacuum / Boost Coolant temp Intake air temp Oil pressure Battery voltage It can be powered either by 12V from the car or by 5V over USB (one at a time). This does not work with stock ECUs. It’s intended for Megasquirt setups only. I wasn’t planning on selling these and originally built it just for my own car, but I figured I’d share it here and see if there’s any interest in something like this within the community.
+
+ANSWER 1 (id: 435_0):
+Looks awesome! Can you share some more about the setup? What kind of microcontroller & screen? Is this something you would be looking to sell? Seems like it would work well in my MS3X powered E30.
+
+ANSWER 2 (id: 435_1):
+Originally posted by Panici Looks awesome! Can you share some more about the setup? What kind of microcontroller & screen? Is this something you would be looking to sell? Seems like it would work well in my MS3X powered E30. Sure! The setup is quite simple in terms of architecture, which includes the ESP32-S3 brain, a generic 2.8" IPS LCD display, Canbus transceiver, MCP ADC for the oil pressure transducer, and various buck converters for power conditioning. I was interested in selling a few and seeing if there were any interests otherwise I was going to keep them as spares.
+
+ANSWER 3 (id: 435_3):
+The display is fully customizable so you can send whatever code you want to it so you can get it to do what you want. I can definitely provide the pinouts for the SPI for each module if necessary. Lemme know!

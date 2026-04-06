@@ -1,0 +1,13 @@
+QUESTION ID: 1373
+
+QUESTION:
+Hey guys, My front seal is absolutely ravaged. I am going to be replacing it. I have adjusted the windows but the part of the seal that extends to the sides have actual tears in them. I understand how the sides secure into the rails (there are little grooves that hold it on either side). However I can't figure out how the front section sticks to the top. My PO(s) clearly had issues with leaks as there is tons and tons of goop/sealant across the front between the seal and the top. Is there any sort of adhesive that is supposed to go with this front seal install? It appears there is simply a lip that the front section slides into but I want to see if anyone else has some input here. Also I am not positive what parts number 21 is on this top seal realoem diagram. Will I need to replace that? Looking at my vert I am not seeing where it goes. https://www.realoem.com/bmw/enUS/sho...diagId=54_0162 If pictures would help, I can upload some.
+
+ANSWER 1 (id: 1373_0):
+Part 21 is not a seal. It’s the felt+rubber piece that goes along the top of the window frame. The front seal is part 1 in the diagram, and wraps around to both sides. It’s crazy expensive - $600+ when I got mine a while back. The front seal is glued in place - check out the 3 part bmw convertible top videos on YouTube for details on installation Part 1 is here https://m.youtube.com/watch?v=M0G6FsYeY5g
+
+ANSWER 2 (id: 1373_1):
+Originally posted by bradnic Part 21 is not a seal. It’s the felt+rubber piece that goes along the top of the window frame. The front seal is part 1 in the diagram, and wraps around to both sides. It’s crazy expensive - $600+ when I got mine a while back. The front seal is glued in place - check out the 3 part bmw convertible top videos on YouTube for details on installation Part 1 is here https://m.youtube.com/watch?v=M0G6FsYeY5g This is great information, thanks! I picked up the front seal already but I had no idea it needed to be sealed in place. Makes a lot of sense though. Pretty nice as you can the see the name (Sikahflex-221) of the sealing compound used in the video.
+
+ANSWER 3 (id: 1373_2):
+that video says so let the sealant dry with the top in its relaxed unsecured state. Many other guides I have seen all recommend laying the sealant in and then latching the roof and letting it sit for 24 hours (cleaning off any excess that comes out when you latch it) the latter seems like a better idea. Any input? *e: went with the latter. Now we wait. According to the video you should wait 24 hours without touching it. According to the label on the same stuff used in the video it doesn't fully cure for............7 days

@@ -1,0 +1,7 @@
+QUESTION ID: 356
+
+QUESTION:
+I have this vibration being sent through the steering wheel while driving 15mph+. When i'm on the highway the whole car shakes a little, and while braking it shakes. Things i've replaced within the last 1500 miles: Control arms CAB Tie Rods Motor mounts Sway bar bushings + end links lots of other unrelated crap . I had an alignment done, and I got my wheels balanced. The balancing helped a little bit. Before I had time to replace suspension components, my suspension was in VERY poor condition. It was my only mode of transportation, so I had to drive it. The stock CABs were non-existant, the control arms were all torn up, and the tie rods had a lot of play. I would get a nasty shake at anything over 15-20mph, while braking it would snap back and forth quickly, and towards the end i'd even get this grinding sort of sound while braking. Any ideas?
+
+ANSWER 1 (id: 356_0):
+If you can get another set of wheens off of an E30 that you know doesn't vibrate use them to test the car. It kind of sounds like its wheel related (ie: unbalanced). Despite the fact they were balanced they may not actually have been balanced properly. Also, check rotor runout. If the rotors are warped replace them.

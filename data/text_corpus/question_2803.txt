@@ -1,0 +1,37 @@
+QUESTION ID: 2803
+
+QUESTION:
+R3v, A friend of mine just picked up a 3d printer and we're playing with the idea of making and selling parts. I will design them, he prints, and I finish the parts and do everything after the print such as paint. He pays off his printer, and I get to make some parts. Are there any 3d printable parts BMW guys would be interested in? I have some ideas, but I'm not just making stuff for myself. Any ideas welcome.
+
+ANSWER 1 (id: 2803_0):
+Cup holders are pretty much figured out by a few other 3-d printer guys...but you could try your hand at that as well. I know my ac vents are brittle and one is kaput. Arm rest would be neat. A completely redesigned center console incorporating cup holders and an armrest would be even neater. Interior bits are probably what people will be looking for. What about roof wind diffusers? Underbody diffuser/panels? Just spitballing here...
+
+ANSWER 2 (id: 2803_1):
+Originally posted by MPLFoster Cup holders are pretty much figured out by a few other 3-d printer guys...but you could try your hand at that as well. I know my ac vents are brittle and one is kaput. Arm rest would be neat. A completely redesigned center console incorporating cup holders and an armrest would be even neater. Interior bits are probably what people will be looking for. What about roof wind diffusers? Underbody diffuser/panels? Just spitballing here... Thanks for the input. All those things are a bit too large for the printer. Roof wind diffusers and underbody panels are better suited to being made on a vacuum forming machine, or out of aluminum sheet. Would gauge pods be of interest to anybody? Maybe hidden ones? What about a phone holder for the ashtray? I'm also a machinist, so I can produce metal parts as well.
+
+ANSWER 3 (id: 2803_10):
+aesthetic 3d printed parts on cars always looked tacky to me. I think making something functional is a better route. Something I would really like and most definitely would buy for the right price is reproduction plastic sunroof pieces. Someone please correct me if I am wrong but our sunroofs, especially electric ones, have a lot of nla plastic guides and tracks right? I love my sunroof but I'm always afraid I'm going to break it when I open it. Replacing pieces that typically break with higher quality 3d printed plastics would make my mind at ease. I would need to do more research to see which parts typically break but it's just a suggestion for now.
+
+ANSWER 4 (id: 2803_11):
+Originally posted by vtechnik aesthetic 3d printed parts on cars always looked tacky to me. I think making something functional is a better route. Something I would really like and most definitely would buy for the right price is reproduction plastic sunroof pieces. Someone please correct me if I am wrong but our sunroofs, especially electric ones, have a lot of nla plastic guides and tracks right? I love my sunroof but I'm always afraid I'm going to break it when I open it. Replacing pieces that typically break with higher quality 3d printed plastics would make my mind at ease. I would need to do more research to see which parts typically break but it's just a suggestion for now. Best idea yet. I want to rebuild my sunroof internals but sourcing parts isn’t fun. It would take a bit of r and d to get all the little bits right but I know I’d be in for a set.
+
+ANSWER 5 (id: 2803_12):
+Originally posted by vtechnik aesthetic 3d printed parts on cars always looked tacky to me. I think making something functional is a better route. Aesthetics heavily depend on the type of 3D printing, and post print finishing. Originally posted by vtechnik Something I would really like and most definitely would buy for the right price is reproduction plastic sunroof pieces. Someone please correct me if I am wrong but our sunroofs, especially electric ones, have a lot of nla plastic guides and tracks right? I love my sunroof but I'm always afraid I'm going to break it when I open it. Replacing pieces that typically break with higher quality 3d printed plastics would make my mind at ease. I would need to do more research to see which parts typically break but it's just a suggestion for now. Should be easy enough to make.
+
+ANSWER 6 (id: 2803_2):
+M50 TPS adapters for M20's on standalone. I think the guy who dabbled making them doesn't anymore, and another fella who machines them wants more than what r3ver's would pay.
+
+ANSWER 7 (id: 2803_3):
+Originally posted by ak- M50 TPS adapters for M20's on standalone. I think the guy who dabbled making them doesn't anymore, and another fella who machines them wants more than what r3ver's would pay. Like this? https://squaredmotorwerks.com/products/m50-tps-adapter I'm not sure how well this plastic would stand up to heat. I'd have to find dimensions and someone to test it for awhile through heat cycles.
+
+ANSWER 8 (id: 2803_5):
+My 3D printed one is holding up fine, and it has been cooking under the hood of a turbo car for more than a year. Had to take the TPS off a couple of times too, and it didn't break.
+
+ANSWER 9 (id: 2803_7):
+Originally posted by varg My 3D printed one is holding up fine, and it has been cooking under the hood of a turbo car for more than a year. Had to take the TPS off a couple of times too, and it didn't break. What kind of plastic did you use?
+
+ANSWER 10 (id: 2803_8):
+Originally posted by varg My 3D printed one is holding up fine, and it has been cooking under the hood of a turbo car for more than a year. Had to take the TPS off a couple of times too, and it didn't break. Originally posted by Andre3127 Like this? https://squaredmotorwerks.com/products/m50-tps-adapter I'm not sure how well this plastic would stand up to heat. I'd have to find dimensions and someone to test it for awhile through heat cycles. Oh nice, didn't know this one existed. Mine is also 3D printed and holding up fine.
+
+ANSWER 11 (id: 2803_9):
+Originally posted by Andre3127 What kind of plastic did you use? I'm assuming your using a FDM 3D printer. Likely, without modification to the extruders to support something like PEI, your best material for thermal resistance will be PETG. Don't use PLA, it doesn't do well with water, heat or sustained tension.

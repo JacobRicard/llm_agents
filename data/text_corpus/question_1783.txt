@@ -1,0 +1,22 @@
+QUESTION ID: 1783
+
+QUESTION:
+I’m looking to put a voltmeter in my guage cluster. Anyone have a brand or part recommendation? Found this one which appears 3D printed, on etsy. https://www.etsy.com/listing/1711189...-e24-voltmeter
+
+ANSWER 1 (id: 1783_0):
+I had one in my iX in the dash. Not sure I really care enough to have it on display all the time now, definitely not smack-dab in the middle of the cluster.
+
+ANSWER 2 (id: 1783_1):
+I've seen people put them in the check control panel which is where I prefer it. I was going to tear one of my spares apart to do this but ended up just getting those 12v USB port adapters with built in voltmeter.
+
+ANSWER 3 (id: 1783_2):
+Check control panel is another good option. I've got the cluster diassembled right now, so I thought 'why not'... My E30 is parked a lot, without easy access to an outlet / battery tender. So actually I do want to know how the battery is doing, 'front and center'. I've also seen the analog needle readouts. Other options?
+
+ANSWER 4 (id: 1783_3):
+Originally posted by strickland My E30 is parked a lot, without easy access to an outlet / battery tender. So actually I do want to know how the battery is doing, 'front and center'. Disconnect the fuse number 21. It provides the "hot at all times" voltage.
+
+ANSWER 5 (id: 1783_5):
+Originally posted by strickland My E30 is parked a lot, without easy access to an outlet / battery tender. So actually I do want to know how the battery is doing, 'front and center'. Fair enough use case then. I'd probably just send it with one of the ones that fit in the blanks above the head unit, but put it on a momentary switch/button so I don't need to look at it all the time. Maybe wire it to an 'always hot' source so you can pop your head in and push the button to turn it on and see voltage without sticking the key in the ign.
+
+ANSWER 6 (id: 1783_6):
+It's $2.75 on Sparkfun. Digital LED Voltmeter - PRT-14313 - SparkFun Electronics https://www.sparkfun.com/products/14313 This Digital LED Voltmeter measures the voltage at a particular point of the system it has been hooked up to and then provides a readout on its three 7-seg I'm sure you can find something similar on Aliexpress.

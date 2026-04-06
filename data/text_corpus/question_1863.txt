@@ -1,0 +1,16 @@
+QUESTION ID: 1863
+
+QUESTION:
+This car was built by someone else and the temp sensor has never worked I was in the middle of trying to fix this and clean up/organize the mess the wiring was in and I did something that caused the tach to stop working The batteries are new and I sent out the cluster to be checked out again to verify that its not the Si board or the gauges The wiring was spliced to make a custom harness to my understanding I have been reading a lot on different forums and so far these are the symptoms; Temp 1. key is turned to on the temp gauge jumps to past hot as far as it can, then once the engine starts goes back to the off position 2. I read that if one disconnects the c101 and same thing happens then it’s the cluster if something else happens then there is a problem on the engine side - -so if the C101 is disconnected and the key is turned to the on position the temp gauge moves up about 2-3mm to just belos the first white line which I think is the way it should 3. The car has a brand new brown temp sensor in the block 4.On the back of the cluster - I have continuity from c101 to pin 26 at the blue connector 5. No continuity between c101 and the brown temp sensor wiring - so I ran a new wire from the brown sensor to c101 and still no go...same symptoms ———————- Tachometer 1. pin 47 at the ecu has continuity with cluster blue connector pin 7 2. I see 6.2 volts AC while the car is running for black wire (pin 7) of the blue connector on the back of the cluster so from what I read its not the DME ​ What are your guys thinking? Thank you in advance ​
+
+ANSWER 1 (id: 1863_1):
+i'd start with a look in the 24v swap section and look at the wiring harness pinouts to trace what it should be. hopefully with that you can find where the issue is. a lot of guys build their own charts from the etm as there can be small differences from car to car between the original and swap.
+
+ANSWER 2 (id: 1863_2):
+Thank you for your recommendation … I will do that how I am stumped bc I am getting continuity from the blue connector all the way to the sensor. So the wiring is correct. The sensor is brown too and brand new and the cluster is freshly checked so I just don’t understand what it could be
+
+ANSWER 3 (id: 1863_3):
+After replacing the cluster batteries the tachometer was not working. Turns out I mixed the mounting screws up when installing the cluster back in the dash. I had used one longer screw for the bottom 2 and it severed the first trace on the edge of the board. Repaired the trace and tach worked. It's something you might check. Red arrow points to it in pic.
+
+ANSWER 4 (id: 1863_4):
+Thx RainRider! will definitely check it out Has anyone ever had an issue with brand new brown temp sensor. So after testing the cluster and going over with everything with the person that rebuilt my cluster it seems that its the only thing left that ant be bad

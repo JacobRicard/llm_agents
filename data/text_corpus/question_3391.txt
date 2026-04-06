@@ -1,0 +1,13 @@
+QUESTION ID: 3391
+
+QUESTION:
+hello is there a fuel pressure port on the m42? can you tell if it is a bad fuel pump by just looking at it? thanks
+
+ANSWER 1 (id: 3391_0):
+i you suspect a fuel issue, there are several components that can be bad other than the pump. the relay and fuel pressure regulator are also possibilities. do you have a bently manual and volt meter? the entire trouble shooting procedure is there as well as about a hundred other threads posted here on the subject if you search for them.
+
+ANSWER 2 (id: 3391_1):
+youre gonna need to do some real diagnosis work, like the fuel pump doesnt have a screen with a readout if its good or bad or not. get a DMM use your head and search and go to town on it
+
+ANSWER 3 (id: 3391_2):
+thanks you all I just took off the fuel pump shook it a lil and cleaned the lines and it turned on after over a year of sitting... i guess all i have to do is get a new fuel pump

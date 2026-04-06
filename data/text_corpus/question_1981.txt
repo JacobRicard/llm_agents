@@ -1,0 +1,37 @@
+QUESTION ID: 1981
+
+QUESTION:
+I got a 1990 Canadian e30 325is from Vancouver BC. It's 5 speed manual non-modified, I used a broker to handle going through customs under the 25 year rule and 21 year EPA exemptions. I live in California. I know this is like the most difficult way I could have go through this. I am a fool and pretty down about this whole thing because I think I've hit a dead end. Getting it registered is seeming impossible. It's not a touring so should be the same as the US spec 325i/is but without the CA emissions sticker. It has a Canadian emission sticker but the same engine and cat as American car. I think it should pass smog but seems like that may not be the issue. My mechanic said it's a North American car but I have no way to prove that to the DMV. I know there's some alternative solutions but ideally I'd like to register here at home in LA. I want to do things the right way. From what I've read on the DMV website I have 3 options - Have a EPA emission sticker, Letter of compliance, or CARB Lab Certification. It has a Canadian emission sticker only so that option is out unless somehow whoever inspects it misses that and marks me with meeting USA emissions. BMW won't issue me a letter of compliance because the car is over 25 years old. I've called and emailed US & Canada multiple times and they won't help me. CARB lab certification and mods would be a dream killer for me. I can't afford it and as much as I love this car she's runs great but has rust and isn't a good enough example to throw that kind of money at it. BMW won't issue me a letter of compliance because the car is over 25 years old. They closed the 1 year out of state naturalization loop hole in 2017. I'm starting to think my dream is dead. All I can think to do is try to get a title and sell in nevada or something. I know it was risky don't need a scolding but I'm desperate. I have all the NHTSA and EPA documentation from import. I found this document that lists the vin decoder and us / non us cars https://static.nhtsa.gov/nhtsa/downl...-N11B-3611.pdf mine doesn't seem to fall in the non-us category but I don't have the stickers to prove it.
+
+ANSWER 1 (id: 1981_0):
+This company can help: https://www.importavehicle.com/california-buyer A direct import vehicle must pass compliance testing, then in addition pass smog testing to be legally registered in California. Prices for California modification and testing range from $7500 - $15000 depending on vehicle model and condition up to 1995. R32 and R33 Nissan Skyline GT-R are typically $11,000. You'll also spend $10,000 to fix rust and paint. And it's not even a coveted JDM car.
+
+ANSWER 2 (id: 1981_1):
+Can't you register the car in Montana, then sell it to a buyer from a state which is not California? Otherwise, people sell California shells with zero rust after taking what they want. You can move parts from your car to it. But some parts will break in the process.
+
+ANSWER 3 (id: 1981_10):
+Originally posted by 82eye buy a sticker online and just paste it over the old one lol I'll bet if you go to a sign shop with the photo above, they will make you a copy of it on adhesive vinyl. Voila! Instant EPA sticker.
+
+ANSWER 4 (id: 1981_11):
+Originally posted by twright I'll bet if you go to a sign shop with the photo above, they will make you a copy of it on adhesive vinyl. Voila! Instant EPA sticker. i've seen piles of different cdn cars with the appropriate US emissions stickers. loads of times they don't bother to put cdn ones on, the cars are all compliant, and built to the same specs for emissions anyway.
+
+ANSWER 5 (id: 1981_12):
+This really shouldn't be too difficult, even if the DMV can tell that the VIN was originally sent to Canada. Most smog techs don't want to fail you, but they also don't want to lose their job. They won't pass something that is obviously incorrect, but they may overlook small issues. These cars are old and somewhat uncommon. Unless the tech is looking in a book to see what the sticker SHOULD be, they probably don't know the difference between a US or Canada sticker. You just need to find someone who is willing to bend the rules. I saw a 1994 e34 turbo diesel wagon that got imported to the US. Under CA rules, this car would be exempt from emissions inspections. Unfortunately, they couldn't register the car in CA because it did not have the correct emissions sticker in the engine bay. The owner had a new sticker printed, put it in the correct spot, and the car was able to be registered without issues. Doing something similar is a possible solution. Another option is that part of the sticker could wear off. I mean, it is currently tattered. It wouldn't be far fetched for the "Canada" part of the sticker to go missing.
+
+ANSWER 6 (id: 1981_2):
+Post a photo of your emissions sticker - it should say CATALYST if the car came with a 50 state cat from the factory, but there were a couple different options. If it does have that written on it, you can take it to a AAA for VIN verification, and once they have the VIN verification form sorted out, any smog shop will take that as a sign that someone officially thinks it's supposed to be in the state.
+
+ANSWER 7 (id: 1981_4):
+Hey here's the Canadian emission sticker. I'm thinking this will be impossible. Got quoted $7500 to do CARB testing and modifications. Which is crazy since I didn't even give them the vin or tell them it was Canadian. All I said was the make and model - just goes to prove how much of a racket CARB is. I think plan now is to try and sell. I need a title, unsure if I can get one without registering though. Attached Files
+
+ANSWER 8 (id: 1981_5):
+This is the US emissions label. I know mine is hard to read but I found this in this doc https://static.nhtsa.gov/nhtsa/downl...-N11B-3611.pdf Attached Files
+
+ANSWER 9 (id: 1981_6):
+I think you're over complicating the situation. In my opinion, if the car will pass CA Smog testing, go get a Smog test done. Once that's done, take the car to AAA for title transfer. They will come out and verify the VIN on the car matches the paperwork. Since you'll already have the passed Smog test ready, they may just issue you plates right then. It's worth a try.
+
+ANSWER 10 (id: 1981_7):
+Originally posted by MR 325 I think you're over complicating the situation. In my opinion, if the car will pass CA Smog testing, go get a Smog test done. Once that's done, take the car to AAA for title transfer. They will come out and verify the VIN on the car matches the paperwork. Since you'll already have the passed Smog test ready, they may just issue you plates right then. It's worth a try. Definitely could be, just that https://www.dmv.ca.gov/portal/vehicl...orted-vehicle/ according to the dmv site I can't get that far.
+
+ANSWER 11 (id: 1981_8):
+Originally posted by MR 325 In my opinion, if the car will pass CA Smog testing, go get a Smog test done. The car doesn't have the US and California sticker posted above. My smog check guy definitely checks the sticker and even makes a photo of it. A DMV girl definitely checked the same sticker. You have to bring a car for a DMV inspection if it is currently registered out of state.

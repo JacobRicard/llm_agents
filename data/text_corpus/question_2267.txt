@@ -1,0 +1,46 @@
+QUESTION ID: 2267
+
+QUESTION:
+Hey I have a 1984 318i with the M10B18 and G240. I have put money into the M10 and will eventually need to 5 lug swap it for bigger brakes from a E36. I have already changed the suspension and brakes front and rear, taken from a 1991 318is. So rear subframe, trailing arms, brakes, ect. Front struts and brakes ect. are all from a 1991 318is, then I bought brand new 84' 318i lower control arms. So now that most of the background information is out there, here is my question. To do a 5 lug conversion, could I use 96'+ non-M Z3 front struts and knuckles, brakes , ect. then a adjustable top plate for e30, with stock e30 non-M lower control arms with a offset solid control arm bushing for the front? Then the rear could I use again 96'+ non M Z3 rear hubs n bearings an brakes? (I Don't know if they use the same size bearings as the 91' iS.) Then get a bracket made for the brake calipers on the 91 rear subframe trailing arms. Or should I just take both trailing arms with brakes and stuff still attached and install them on the 91' Is rear subframe? Could this work as a 5 lug conversion???? Please help!! Or tell me what I'm missing from the setup?? Thanks for your input!! (AS LONG AS YOUR INPUT IS HELPFUL!!)
+
+ANSWER 1 (id: 2267_0):
+I guess the first question is - with all the refurbishment work you've already done, why do the 5-lug swap at all? The stock 4-wheel disc brakes from a 318is are more than adequate for an M10 powered e30 (e30s aren't under braked) - are you looking to swap the engine, turbo, track the car etc? If you're sticking even with a warmed over M10, I'd stick with what you have.
+
+ANSWER 2 (id: 2267_1):
+I ended up rebuilding the block top to bottom and plan on boosting the car and pushing around 300+ hp and over 200+ torque. So I wanted to beef up the brakes for that power, right now it's not boosted so I'm still running the 91 is brakes. It's going to be my daily but I will/ want to track it a few times after I boost it.
+
+ANSWER 3 (id: 2267_10):
+Originally posted by tyeler18 I'm really satisfied with my 5 lug swap, and it kept e30 geometry, it's relatively inexpensive and gives big brakes- Front IRP e36/e46 caliper/ hub adapters. E46 hubs, e46 330I 330mm calipers/rotors, e30 (318is) strut housings Rear Z4 hubs pressed into stock e30 hub bearings, SRS concepts e36/e46 caliper adapters, E46 325/8 calipers and rotors, stock e30 trailing arms, axles, and ebrake shoes. Easy to source parts, it's held up to 245/40/17 R-compounds on the track and street, spent around $700 all said and done. Thanks I'll look into that
+
+ANSWER 4 (id: 2267_11):
+What is the limiting factor of 4 studs? Surely "strength" is not an issue of 4 studs. Just cant help think that a willwood setup for the front on the oem struts has got to be the simplest solution to getting bigger brakes.
+
+ANSWER 5 (id: 2267_12):
+Originally posted by e30davie What is the limiting factor of 4 studs? Surely "strength" is not an issue of 4 studs. Just cant help think that a willwood setup for the front on the oem struts has got to be the simplest solution to getting bigger brakes. I am going to boost it and push 300+ Hp and 200+ torque, I want track it so I want to go 5 lug for brakes and wheelz. But I'll look into that too
+
+ANSWER 6 (id: 2267_13):
+Originally posted by Whit3 E30 I am going to boost it and push 300+ Hp and 200+ torque, I want track it so I want to go 5 lug for brakes and wheelz. But I'll look into that too I have an LS in my car that probably makes right around 300hp/300ftlbs and the stock 318is brakes were plenty adequate for the track day that I did on them before I 5 lug swapped. A good pad will get you pretty far, that being said I did 5 lug swap for 17x9 wheel options since I run a 245 square tire setup and the 4 lug 17x9's in e30 fitment were few and far between.
+
+ANSWER 7 (id: 2267_2):
+Originally posted by lukeADE335i I guess the first question is - with all the refurbishment work you've already done, why do the 5-lug swap at all? The stock 4-wheel disc brakes from a 318is are more than adequate for an M10 powered e30 (e30s aren't under braked) - are you looking to swap the engine, turbo, track the car etc? If you're sticking even with a warmed over M10, I'd stick with what you have. Replied, lol meant to do it in the "quote"
+
+ANSWER 8 (id: 2267_3):
+Take this with a grain of salt since I have yet to ever drive my E30 V8 build, but I used a coilover kit for the 96+ M3 on my 5 lug swap, along with Ground Control camber/caster plates and it all fit together pretty well. However, I'm using E46 control arms, and have the Garagistic LCABs that fit the E46 arms. My hubs/brakes are from a 99 M3.
+
+ANSWER 9 (id: 2267_4):
+Lets take this a step at a time. Front: I don't have experience with non-m parts, but I have heard the geometry won't work for an e30. This may be able to be corrected with camber/caster plates, but I don't know for sure. I do know that the stock 96+ m3 parts work well with offset CABs and stock e30 strut mounts. Rear: Z3's came with 3 different wheel bearing/axle sizes; Small (4-cylinder cars), Medium (6-cylinder cars), and Large (Z3M). I believe at least one of the z3 hubs can be pressed into e30 TAs. I'm not sure if e30 axles will fit the z3 hubs. I swapped to the z3 6-cylinder TA assembly with axles and it bolted right up to both the rear subframe and the differential. If you have the option to get the whole thing, why not do that?
+
+ANSWER 10 (id: 2267_5):
++1 for everything from 96+ E36 M3 up front with e30 offset CABs and e30 strut mounts. There are also hub adapter options (maybe cheaper? retain original camber/caster geometry, bigger brakes than E36): https://www.r3vlimited.com/board/forum/e30-classified-forums/for-sale-wanted/parts-for-sale/379057-5-lug-and-big-brake-kit?t=422257 Rear, I think there's a Z4 hub that works out to a reasonable offset, and I think that's what you use for the linked kit.
+
+ANSWER 11 (id: 2267_6):
+Originally posted by McGyver Lets take this a step at a time. Front: I don't have experience with non-m parts, but I have heard the geometry won't work for an e30. This may be able to be corrected with camber/caster plates, but I don't know for sure. I do know that the stock 96+ m3 parts work well with offset CABs and stock e30 strut mounts. Rear: Z3's came with 3 different wheel bearing/axle sizes; Small (4-cylinder cars), Medium (6-cylinder cars), and Large (Z3M). I believe at least one of the z3 hubs can be pressed into e30 TAs. I'm not sure if e30 axles will fit the z3 hubs. I swapped to the z3 6-cylinder TA assembly with axles and it bolted right up to both the rear subframe and the differential. If you have the option to get the whole thing, why not do that? Thank you for answering with a straight answer!!! Ok I'll do some deeper research I guess.
+
+ANSWER 12 (id: 2267_7):
+SRS Concepts has some LCABs that are supposed to allow you to use non-M lower control arms, even E30 ones. I haven't used those, but the SRS Concepts rear big brake parts I bought are quite good.
+
+ANSWER 13 (id: 2267_8):
+Originally posted by Elysian SRS Concepts has some LCABs that are supposed to allow you to use non-M lower control arms, even E30 ones. I haven't used those, but the SRS Concepts rear big brake parts I bought are quite good. I thought about going that way, but if those are just offset LCSBs then y can't I use a E30 offset bushing from garagistic.com or something with a camber/ caster plates from GC??
+
+ANSWER 14 (id: 2267_9):
+I'm really satisfied with my 5 lug swap, and it kept e30 geometry, it's relatively inexpensive and gives big brakes- Front IRP e36/e46 caliper/ hub adapters. E46 hubs, e46 330I 330mm calipers/rotors, e30 (318is) strut housings Rear Z4 hubs pressed into stock e30 hub bearings, SRS concepts e36/e46 caliper adapters, E46 325/8 calipers and rotors, stock e30 trailing arms, axles, and ebrake shoes. Easy to source parts, it's held up to 245/40/17 R-compounds on the track and street, spent around $700 all said and done.

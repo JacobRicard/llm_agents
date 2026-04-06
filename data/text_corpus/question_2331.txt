@@ -1,0 +1,16 @@
+QUESTION ID: 2331
+
+QUESTION:
+Hi guys, I'm in the middle of customizing my tail lights. My plan is to make it look stock but in the back I'm gonna use LED panels. As you can see the pic I attach, it is still a prototype. I'm not a technician or electrician by any means therefore I need a little bit of help to connect it to my car. So here are my questions. On the E30 wiring harness, where do these wires connect to (thanks to whoever posted the pics on the internet)? Can I just tap into these wires directly (according to the intended functions af course) to power my LED panels? Considering stock e30 tail lights use bulb tray to complete the circuit. Not sure how this will affect the connection of my custom LED Panels I know some of you will think why the trouble. The answer is, I have a pair of stock tail light covers so why not try something different Attached Files
+
+ANSWER 1 (id: 2331_0):
+This page may help. E30 Tail Light Replacement - https://classicbimmerbits.com/e30-how-to/e30-tail-light-replacement/ E30 tail light removal and replacement from Classic Bimmer Bits, your go-to source for E30 How-to and DIY This connector is connected to the back panel of a taillight, the thick wires on the panel go to the bulbs.
+
+ANSWER 2 (id: 2331_1):
+Originally posted by Vincenze This page may help. E30 Tail Light Replacement - https://classicbimmerbits.com/e30-how-to/e30-tail-light-replacement/ E30 tail light removal and replacement from Classic Bimmer Bits, your go-to source for E30 How-to and DIY This connector is connected to the back panel of a taillight, the thick wires on the panel go to the bulbs. Awesome.. Thanks for your help
+
+ANSWER 3 (id: 2331_2):
+As mentioned before, I'm building a custom tail light that looks like stock e30 from the outside, but from the inside it's completely custom using LED panels like the prototype I posted in my first post. Here's the plan. I'm going to make a box to house the LED strips and cover it with white perspex so that we wont see the LED dots from the outside. I have this idea in my head, i'm not sure that this will work, I'm just gonna wi g it anyway. Just wondering, has anyone done something similar to this before? Attached Files
+
+ANSWER 4 (id: 2331_4):
+Originally posted by Vincenze It doesn't look neat, though. https://www.r3vlimited.com/board/for...ards-not-bulbs Wow just what I'm after. Thanks mate. I'm thinking of doing something similar but instead of leaving the LEDs exposed, I'm gonna put a frosted acrylic cover so that you dont see the LED dots. I know it adds a bit more complication. But I think I'm up for the challenge 😊

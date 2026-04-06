@@ -1,0 +1,7 @@
+QUESTION ID: 901
+
+QUESTION:
+Hey Guys, So i'm wondering what would be the best option for me to swap into my e30 (currently got an m10b18) So i can get a M50b25 or M50TUB25 for pretty cheap and i don't know if i should do that and maybe even go a small turbo setup to compensate for it only being the 2.5L, not much boost but still enough to make a little bit of power. The other option is to go M52b25 (cannot find a 3.0L for the life of me) and keep it N/A. Which one would be the best option to swap into my car? Thanks Guys
+
+ANSWER 1 (id: 901_1):
+Originally posted by ba114 M52b25 is the best pick as it's obd2 and much easier to tune now Yeah this. When doing turbo build with stock pistons and regular pump gas, you will need really good knock detection to make the engine survive. And the stock ms41 ecu has that.

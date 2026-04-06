@@ -1,0 +1,28 @@
+QUESTION ID: 3117
+
+QUESTION:
+https://www.youtube.com/watch?v=ZXdLgaFXZzs Scrolling through YouTube this came up as a recommended video for me. I know the mechanical fan has parasitic drag, but never really thought about how much. Long story short a mechanical fan with a clutch can draw 20+ hp. With 25+ year old cars that have lost hp over the years going with an electric fan might be a good solution. What do you guys think?
+
+ANSWER 1 (id: 3117_1):
+I personally did the swap because during the summer, with the a/c on and in traffic, my car would run hot. Once I swapped over to electric, I never get past midway. It's a super easy to put an electric fan.
+
+ANSWER 2 (id: 3117_10):
+Simplicity in my engine bay might be worth a few hp drop to me on my commuter car. it just spins and i forget about it. I've swapped to electric fans in the past on other cars, works good sure, but it does add additional complexity which is not an issue if done correctly. It is nice getting rid of the wiring noise i will admit.
+
+ANSWER 3 (id: 3117_13):
+When I saw this a while back I was a bit surprised by the amount of power it took to drive the thermoclutch fan. Very inefficient. OE electric fans on modern cars draw <30a on average and even if the alternator only had an efficiency of 10% (unlikely) that would still be less than 5hp at the crank. The thermoclutch fan on your M20/10/42 may not require 14hp to drive like the 18" stamped steel thermoclutch fan in the video, it's a bit more advanced in design and a bit smaller, but I would not blink twice at seeing that it takes 7-10hp to drive at an engine speed of 6,000rpm. IMO if you're going to do an electric fan conversion just don't use the stock thermoswitch and location in the radiator. It doesn't take much coolant loss for that sensor to be out of the coolant and next thing you know the car is getting hotter but the fan isn't turning on because the switch is above the coolant level. BTDT with my old M42, eventually put a switch in the car to turn it on manually when it started to suffer chronic coolant loss.
+
+ANSWER 4 (id: 3117_2):
+as always drastic results show up more on 300-500 hp engines.. 1-2% loss looks more drastic... what I'm going after is the semi truck sound when taking off.. lol
+
+ANSWER 5 (id: 3117_6):
+Pfft...you want to gain back some robbed HPs huh kid? Heater core. Think about how much is lost pushing coolant thru that thing. I know someone on here has a solution for the e30 heater core....
+
+ANSWER 6 (id: 3117_7):
+The reason why you should install an electric fan is because you want to worry constantly about whether or not your fan or fan controller have failed.
+
+ANSWER 7 (id: 3117_8):
+I dont run a fan at all on my m42. The car runs prime, temp only creeps up in traffic after 10mins. lucky for me there is never ever traffic where I travel... the best part of no mechanical fan is no stupid "whirring noise" when you rev your engine :)
+
+ANSWER 8 (id: 3117_9):
+Long story short a mechanical fan with a clutch can draw 20+ hp. Removed Kenworth fan. Saved 20 hp! Removed heater core. Saved 15! Added vortex generators. Saved 25! Low tension rings- 9! Electric supercharger- added 50! Alternator delete (use solar panels and bug farts) saved 27! I'm almost up to a hundred. That's at the wheels, you know... t

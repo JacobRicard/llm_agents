@@ -1,0 +1,22 @@
+QUESTION ID: 890
+
+QUESTION:
+Hi, Im interested in whats required to make ~600bhp from an M52 or M54 engine (not specifically in an E30, just in general). Does anyone know of any good build threads with proven power, or any tuners offering this level of upgrade? Thanks
+
+ANSWER 1 (id: 890_0):
+If you can run e85 the engine will handle that power level just by replacing connecting rods. Put hx40 holst with #16 exhaust housing to it and it will do 600hp day and night.
+
+ANSWER 2 (id: 890_1):
+Pazi!! you have great content. I am at the point of deciding what turbo also. I don't want alot of power, more around 500 bhp or less. What im looking for is minimal lag. would A hx35 be too big? and result in lag?
+
+ANSWER 3 (id: 890_2):
+I have an OBD1 M52 with M50 valve cover, and 4094R turbo that peaked at 532whp and averaged 491whp with just studs, cut ring head gasket, stock compression, and E85. Sorry for dirty pics haven't gotten a chance to detail the engine bay yet. Sent from my SM-G930V using Tapatalk
+
+ANSWER 4 (id: 890_3):
+Originally posted by JackMan Pazi!! you have great content. I am at the point of deciding what turbo also. I don't want alot of power, more around 500 bhp or less. What im looking for is minimal lag. would A hx35 be too big? and result in lag? Run a gtx35XX or a precision 6266 and you will be happy. There's nothing worse than going to small, running out of top end and losing efficiency. Sent from my SM-G930V using Tapatalk
+
+ANSWER 5 (id: 890_4):
+Originally posted by JackMan Pazi!! you have great content. I am at the point of deciding what turbo also. I don't want alot of power, more around 500 bhp or less. What im looking for is minimal lag. would A hx35 be too big? and result in lag? No. HX35 it's perfect for that power level. It's cheap and ultra realiable. And wakes up at quite low RPM. But it's quite old technology so it's really big compared to more modern turbochargers and doesn't give as instant boost as more modern turbochargers. But for the price of good garret ar borgwarner EFR you can buy 3 or 4 holsets.
+
+ANSWER 6 (id: 890_5):
+Originally posted by pazi88 No. HX35 it's perfect for that power level. It's cheap and ultra realiable. And wakes up at quite low RPM. But it's quite old technology so it's really big compared to more modern turbochargers and doesn't give as instant boost as more modern turbochargers. But for the price of good garret ar borgwarner EFR you can buy 3 or 4 holsets. Lol true... But full send c'mon haha Sent from my SM-G930V using Tapatalk

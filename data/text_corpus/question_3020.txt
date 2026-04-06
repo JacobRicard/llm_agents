@@ -1,0 +1,25 @@
+QUESTION ID: 3020
+
+QUESTION:
+I don't think this counts as technical so I posted here, but tow if needed. I noticed this back when I had my 2002. The turn signal in that car (and basically any other car) flashes evenly right away. The E30 flasher relay is different for some reason. When you first depress the turn signal stalk, the light stays on for 0.5 second. After that first flash, the relay clicks every 0.25 second. Why is the first click twice as long as the others? It happens in every E30 I've driven.
+
+ANSWER 1 (id: 3020_0):
+Probably going past the click point on the turn stalk resets the flash interval. When you're pulling the stalk down or up, before the click point, the turn signal is activated, then as you transition over the click point, the interval is probably being reset, but it happens so fast the light never goes out.
+
+ANSWER 2 (id: 3020_1):
+Originally posted by earthwormjim Probably going past the click point on the turn stalk resets the flash interval. When you're pulling the stalk down or up, before the click point, the turn signal is activated, then as you transition over the click point, the interval is probably being reset, but it happens so fast the light never goes out. If I understand what you're saying, that's not it. You can hold the stalk at the point where the relay is first activated and it will still wait the 0.5 second. Originally posted by 2mAn your turn signals work?
+
+ANSWER 3 (id: 3020_2):
+Not sure what you're talking about. How about a video? Are you saying the blinkers are fast? or are you just complaining about the light turning on first before flashing? Typically it does that when there's a resistance problem like bad contacts or copper based bulbs.
+
+ANSWER 4 (id: 3020_5):
+Yup Its delayed compare to the others. I have to look at my car and see the timing sequence. I never really noticed but I suspect you might be correct. The intervals you would think, would be the same.
+
+ANSWER 5 (id: 3020_6):
+I'm not questioning whether or not it's unusual for an E30; I know it's normal, every E30 I've driven is this way. My question is why is the first flash twice as long as the others? And if someone knows that answer, maybe I can find a way to make it...not twice as long as the others.
+
+ANSWER 6 (id: 3020_7):
+Seems pretty OCD to me... if that's how they all are, what is the point of working out how to shorten the first flash of your indicators by 0.25 of a second?
+
+ANSWER 7 (id: 3020_8):
+Originally posted by lukeADE335i Seems pretty OCD to me... if that's how they all are, what is the point of working out how to shorten the first flash of your indicators by 0.25 of a second? Because I'm curious why it's different? That's really it.

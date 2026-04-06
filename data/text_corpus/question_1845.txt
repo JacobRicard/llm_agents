@@ -1,0 +1,10 @@
+QUESTION ID: 1845
+
+QUESTION:
+Hi, I changed the water pump gasket twice because I thought it was leaking. I did this in vain because I found that the fluid was leaking above the pump in the hole above it. When the engine is warm, it doesn't flow, but when it's cold, when I press the hose at the thermostat, the water comes out a little at a time. At rest, it escapes only minimally. I tried to take a picture of it, but there is not much space. It is a plug under the camshaft. Attached Files
+
+ANSWER 1 (id: 1845_0):
+freeze plug 1121276518 let loose or there is a small crack in the head. most likely 100% it is the plug, they will even rust and develop small holes in a poorly maintained cooling system. they aren't hard to replace but they are shit to get at. they are just a pressed fit.
+
+ANSWER 2 (id: 1845_1):
+Hi, I found out that the plug is new, but someone in the past apparently did not know how to put the plug on and cut through it with something. In the photo, it's a line at the bottom. Attached Files

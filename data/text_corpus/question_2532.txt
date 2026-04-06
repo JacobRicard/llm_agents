@@ -1,0 +1,10 @@
+QUESTION ID: 2532
+
+QUESTION:
+Hello, So I recently got an M20 working in my 1974 bmw 2002. It idles well, but when I took it for a drive and it stutters/boggs down in the mid rpms of every gear except 1st. I can accelerate smoothly through 1st, but when I shift into second and try to accelerate through the gear it boggs down around 2200 RPMs. If I push the pedal all the way down it works its way through the stutter, but otherwise it just keeps bogging. I did a leak check using a home made smoke leak checker and found a couple little leaks which I fixed, but when I tried it again it did the same thing. I was wondering what the next thing to check would be? It's weird to me that it is fine in first, but subsequent gears all have thing bogging down. Any advice is appreciated.
+
+ANSWER 1 (id: 2532_0):
+Well, typically with bogs in higher speeds/gears/and RPM it has to do with ignition. In first gear, your ignition system is under the least amount of load. Of course, it MAY be a fuel problem, I don't know exactly what it feels like, but my money is on ignition. Pull your plugs, check for fouling or anything out of the norm. Check your CPS resistance and make sure the lead from the CPS is not chaffed off and of course the dist, rotor and coil.
+
+ANSWER 2 (id: 2532_2):
+Sounds like it might a bad spot in the AFM wiper track. When in 1st gear, the vane passes the spot very quickly, but when cruising or longer gears, that spot will lag longer. It's worth doing a visual. If your AFM has never been messed with, the plastic cover pries off easily, just being held down by clear silicone. Inspect the carbon wiper track and see if there's a spot worn through where the wiper arm rubs the track.

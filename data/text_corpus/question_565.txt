@@ -1,0 +1,37 @@
+QUESTION ID: 565
+
+QUESTION:
+Hey, The internet is probably lathed in this question but have not found a definitive answer that fits everything i need to know. 1: The dimensions of the speaker Width, Depth, Diagonal. 2: Will the existing wiring suit my needs? 3: For a new head unit do i change much? 4: Any known issues with swapping for a new head unit and speakers? 5: Whats a recommended aftermarket brand. Finally any good tutorials that can show how to remove trim etc?
+
+ANSWER 1 (id: 565_0):
+1. 5.25" diagonal, don't know depth but it will vary slightly. 2. Yes. 3. Not my strength, so I'll leave this one alone. 4. See above. 5. Original Premium speakers (the ones with the black center and larger magnet) are really the best option in this size.
+
+ANSWER 2 (id: 565_1):
+Originally posted by ELVA164 5. Original Premium speakers (the ones with the black center and larger magnet) are really the best option in this size. Impossible to source in NZ. I am talking about replacing the current ones with Pioneers or Sony. Don't know much about audio myself but if there is a certain brand that suits that size and performs well. Mcuh appreciated feedback.
+
+ANSWER 3 (id: 565_10):
+My convertible has 6.75 Polk Audio MM6501 Components speakers in it, Had to do alittle trimming on the plastic cover to make them fit with the polk audio grill sticking out. Amping your speakers will help them sound louder and clearer. Also sound damping and there great for mid bass too, I'l take a picture tomorrow to show you guys. My system I'm running a Alpine PDX F6 to push my components in the front and Alpine pdx m12 for my two 10ich subs all controlled from my Kenwood KDC-BT955HD headunit. Sounds pretty good with the top down =).
+
+ANSWER 4 (id: 565_11):
+These will have a bit more low end than most 5 1/4 speakers as they push the basket out as far as possible for more cone area. Infinity Reference X REF-5002ix http://www.crutchfield.com/p_108R5002IX/Infinity-Reference-X-REF-5002ix.html 5-1/4" 2-way car speakers Generally speaking if you don't have an amp, the factory or aftermarket deck will start distorting long before the speakers do. Even a little Alpine power pack will go a long way to improving sound quality and overall volume levels compared to deck power. Alpine: 404 http://www.alpine-usa.com/product/view/ktp-445u
+
+ANSWER 5 (id: 565_2):
+Be patient and wait for Luke (Stereoinstaller1) here to chime in. He seems to be the resident E30 audio expert and should be able to guide you down the right path with some inexpensive equipment that sounds great!
+
+ANSWER 6 (id: 565_3):
+Wait...so Premiums are rare in NZ? Damn, thats a shame. Here is a complex answer to your simple question: 5.25" speakers suck. Most cars use 6.5", so that is why there are so few 5.25's and so many 6.5's, that is what sells. The other issue is this: if you have 5.25" speakers, there are 2 assumptions in the industry. Either A) you don't give a shit how it sounds or B) you already have a subwoofer. 5.25" speakers, especially as you go up the price scale, have LESS bass and sound "thinner"...because they assume you are category B. As far as connecting a new deck, read the articles at the top of this section. These cars are quite unique compared to Honda or Toyota, but between myself and a few dozen others, we have managed to get most all E30 Audio knowledge covered pretty nicely. All that being said, the question you asked is "what speakers do I get" and I cannot offer an actual recommendation...because all 5.25" speakers basically suck. So, in your case, what I would do is get something cheap and returnable, so if you completely hate them, you can return them. Sorry I cannot be more help, but hopefully the input on your post helps you make a decision. Luke
+
+ANSWER 7 (id: 565_4):
+Luke, for those of us with your $500 setup, would you just recommend replacing the kick panel/door tweeter with stock speakers? I know you recommend keeping the rear premium speakers BMW
+
+ANSWER 8 (id: 565_5):
+Originally posted by BMWManiac Luke, for those of us with your $500 setup, would you just recommend replacing the kick panel/door tweeter with stock speakers? I know you recommend keeping the rear premium speakers BMW Here is the deal: the typical aftermarket 5.25" speaker assumes you have a subwoofer. The more expensive the speaker, the more that the manufacturer assumes you have a sub...who would be dumb enough to do $400 speakers and no sub, right? So, that being the case combined with the weird acoustics of the BMW chassis, my specific recommendations is and has always been this: if you plan on or currently have a sub, feel free to use any speaker kit you can find that fits. There are bunches of cheap kits that do just fine. Take a peek at the Powerbass S-5C as an example: http://www.powerbassusa.com/s-5c-525-components BTW, as always, there are dozens of kits on the market using these exact same parts, only the stickers have been changed. However, if you plan on not having a sub (LOL...don't blame me!) use the stock Premium Sounds only. Ask anyone who has heard the difference, the stock PS speaker has the best bottom end of any speaker ever made in that size. Hope that helps Luke
+
+ANSWER 9 (id: 565_6):
+Originally posted by StereoInstaller1 However, if you plan on not having a sub (LOL...don't blame me!) use the stock Premium Sounds only. Ask anyone who has heard the difference, the stock PS speaker has the best bottom end of any speaker ever made in that size. Gotta agree with Luke here. I upgraded my deck years ago, then the speakers in my cabrio at a later date. Speaker "upgrade" sounded weak, was all mid range. Going from a serious stereo in my DD'er to the e30 is comical. On the search for a replacement bluetooth head unit (looking at Sony MEX-BT4100P)...and the box with my old premium speakers. Who knows, maybe an amp too.
+
+ANSWER 10 (id: 565_7):
+My Cabrio has premium sound but the rear speakers seem to be the same 5.25s as in non premium cars so there should be room for improvement. I did source some thin coax's that will fit but havent grabbed them yet so no comment.
+
+ANSWER 11 (id: 565_9):
+i have 5.25 aftermarket speakers. i bought them because my car didn't have a system but when you turn it up they sound shitty, i only do this on the freeway when i have the windows down. i have no sub or amp do you think if i do bigger speakers like 6.5 it would sound better? any opinions?

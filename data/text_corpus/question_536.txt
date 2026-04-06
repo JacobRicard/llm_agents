@@ -1,0 +1,10 @@
+QUESTION ID: 536
+
+QUESTION:
+Yup, I just did quite possibly the dumbest thing in my entire life. While trying to remove the carpet I was cutting the area around the heater core and I snipped about 5 wires from this cluster here. I am horrible with the electrical side of cars and have no idea what I’m in for. Can any of the gurus identify what these wires control? To make matters worse the cut is almost underneath the corner of the HVAC box, so to splice them back together I’ll likely need to remove the HVAC box to have working access. Any advice would be greatly appreciated, I’m furious and can’t think logically right now. Thank you.​ Attached Files
+
+ANSWER 1 (id: 536_0):
+This is the "electric package" harness. As usual, it includes the wiring of electric mirrors, electric windows and central locking. If you cut the entire harness, there are definitely more than 5 wires. PS Sorry, but cutting an entire beige carpet was actually a stupid thing to do...​
+
+ANSWER 2 (id: 536_1):
+Originally posted by The_Glory This is the "electric package" harness. As usual, it includes the wiring of electric mirrors, electric windows and central locking. If you cut the entire harness, there are definitely more than 5 wires. PS Sorry, but cutting an entire beige carpet was actually a stupid thing to do...​ Thanks for identifying what those wires control. I didn’t cut the entire harness, In my post I wrote that I had cut about 5 wires which turned out to only be 3. Wires have been repaired, I was able to crimp and heat shrink them. Also, I didn’t cut an entire beige carpet either, I cut the area out around the HVAC box to be able to remove the carpet. Every interior I’ve taken apart on an e30 has the carpet cut in that area as it’s the only way to remove a carpet without also removing the dash. Once you put the center console piece back in, it completely covers the cut anyway and you can’t see it at all.

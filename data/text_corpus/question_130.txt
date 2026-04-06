@@ -1,0 +1,7 @@
+QUESTION ID: 130
+
+QUESTION:
+My idle keeps surging and almost dying when I turn my AC on I don’t really know why, it never used to do that, I have replaced the throttle position sensor the 02 sensor since I’ve owned it. I don’t know if this is related but my gas pedal also gets really heavy and stiff while driving and my engine temp jumps around a lot.
+
+ANSWER 1 (id: 130_0):
+Let's start with what year, model and engine? Vacuum leaks are number one culprit with E30s so start there. Check the air boot from the filter to the throttle body and the other vacuum hoses. A smoke test is the only sure way to check for leaks but there are a few other ways using carb cleaner etc. How is the basic tune up parts (plugs, wires, cap and rotor)? Does the car run fine without the AC? As for the throttle pedal, try removing the cable from the throttle body and make sure the throttle body is not binding. If that is binding it could contribute to the poor running. My point here is it the cable or throttle body binding? Describe the engine temp gauge "jumps around". Is it getting hot then cooling off or randomly jumping back and forth? Is the gauge, sensor or actual engine temp the issue? Faulty temp sensors will cause a whole host of problems? Sorry but no easy answer, good luck.

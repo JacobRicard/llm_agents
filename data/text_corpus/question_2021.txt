@@ -1,0 +1,28 @@
+QUESTION ID: 2021
+
+QUESTION:
+Hi everyone, So, I plan on ordering H&R Super Sport (50406-77) and Koni Yellow adjustable shocks for my '91 318is; however, through my research, I have noticed that H&R springs on late-model E30s can result in reverse rake — not at all what I'm hoping to achieve stance-wise. For anyone with experience as it relates to H&R Super Sports, what spring pad setup did/are you running to mitigate this effect? Currently, I have on my parts list (amongst other suspension components):Front3mm upper spring pad 31331128523 ​3mm lower spring pad 31331124322 RearUpper spring pad (thickness not listed — only one option) 33531128610 5mm lower spring pad 33531136385 Thanks, Ross
+
+ANSWER 1 (id: 2021_0):
+It's not reverse rake, the late models have lower arches on the wheel wells. When the rocker panel is level to ground, the late models will tuck rear tire before front. To remedy, there's multiple lower spring pad thicknesses, think up to like 10mm. The top and bottom can interchange, so if you used two 10mm thick on top and bottom, you can raise the rear up to ~20mm.
+
+ANSWER 2 (id: 2021_2):
+Originally posted by ForcedFirebird It's not reverse rake, the late models have lower arches on the wheel wells. When the rocker panel is level to ground, the late models will tuck rear tire before front. To remedy, there's multiple lower spring pad thicknesses, think up to like 10mm. The top and bottom can interchange, so if you used two 10mm thick on top and bottom, you can raise the rear up to ~20mm. Yes, that visual effect as a result of higher arches is what I am referring to. RealOEM has listed, pad thicknesses ranging from 5, 7, and 10mm for the rear; thing is, I'm trying to avoid having to screw around with it — looking to do the job once and be done. Attached is a picture I found on this site posted by a member (@Powling) of his vehicle (also a 318is) on my desired setup. Just sent them a PM, although input from other members is still welcome and much appreciated. Originally posted by moatilliatta Pics? E90 drop hats? I think the 318 puts less weight up front too, making the ride high higher. ​ Attached is an image of a member vehicle of the same model and trim with what I feel is an appropriate wheel gap for my wants/needs.
+
+ANSWER 3 (id: 2021_3):
+If you are handy, rear spring pads are about a 10-15min job with standard hand tools and floor jack. Could lower the front more as moatilliatta said, there's also dead coil on the H&R if the e90 hats aren't enough.
+
+ANSWER 4 (id: 2021_4):
+Most just go with the thicker spring pads that Forced Firebird suggested to get the height they want. I run Eibach front springs and stock e30 M-Tech springs in the rear on mine due to towing, but they give the look you want. Here's an older pic of my e30 when it was on 16s.
+
+ANSWER 5 (id: 2021_5):
+Originally posted by ForcedFirebird If you are handy, rear spring pads are about a 10-15min job with standard hand tools and floor jack. Could lower the front more as moatilliatta said, there's also dead coil on the H&R if the e90 hats aren't enough. Thinking about it, you're absolutely correct; it really *isn't* much effort to mess around with the pads if I want more rake. I am doing the job myself, and guess I tunnel-visioned into wanting it perfect the first time around — putting the car back up for 15 minutes or so really isn't a big deal. Also, it probably *would* be a good idea to, along with an assortment of different pads, also order the E90 plates to give myself a greater degree of adjustability. Thanks for the advice! Originally posted by lukeADE335i Most just go with the thicker spring pads that Forced Firebird suggested to get the height they want. I run Eibach front springs and stock e30 M-Tech springs in the rear on mine due to towing, but they give the look you want. Here's an older pic of my e30 when it was on 16s. Looks good! I'm going to take moatilliatta's and ForcedFirdbirds's advice and be ready to play around with different spring pads and such if need be. Thanks for replying! ​
+
+ANSWER 6 (id: 2021_6):
+Luckily, Bilsteins usually make it worse. Focus on the body lines too, rocker, belt line, and the one follows from headlight to tail lights. As mentioned late cars have lower rear arches. But if you set ride height off fenders, it’ll look like you’re ready to go down the strip.
+
+ANSWER 7 (id: 2021_7):
+looking to do the job once and be done. ​ Suspension seldom works that way. I started with a rocker parallel to the track, and the more I raise the rear, the faster I go. I have tried lowering the front, and while it helps stability, it does NOT have the same effect on lap times. t just uses shims in back. Eventually, there'll be room for an adjustable spacer, at this rate.
+
+ANSWER 8 (id: 2021_8):
+thickest spring pads available in the back (look on realoem), and drop hats in the front, and you'll be sitting pretty. as someone else said, the later rear arches are what create that "pooping-dog" look.

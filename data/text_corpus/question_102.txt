@@ -1,0 +1,25 @@
+QUESTION ID: 102
+
+QUESTION:
+I have a new to me 323i/M30. The issue is when its cold it will start like clockwork and runs and drives perfect. I can restart it a dozen times until it warms up, then no crank. Any ideas what it could be? Im sure its a sensor or something but which on should I start with?
+
+ANSWER 1 (id: 102_0):
+Update! so I did the same thing yesterday and wanted to try it again before i made it a symptom. Started the car in the morning 4-5 times cold no problems.... Left it in the sun And No crank in the afternoon (after it sitting in the 100f sun,, Im leaning toward Crank Position sensor.. Any thoughts?
+
+ANSWER 2 (id: 102_1):
+I'm not familiar with the M30 but with a no crank issue, start with a multi-meter, do you have 12 volts at the starter? When you turn the key, do you get 12 volts at the solenoid? The crank position sensor tells the ECU the engine speed which it needs after it cranks.
+
+ANSWER 3 (id: 102_2):
+is this a car with a dual pump system? I had this issue when my in tank was dying and the external was doing all the work. long starts hot, starts fine cold. id check there. mine stayed like this for years though
+
+ANSWER 4 (id: 102_3):
+air leaks can give a lean condition, which are compensated when cold with the cold start enrichment, but when hot it wont start as its too lean. one thing to look at perhaps.
+
+ANSWER 5 (id: 102_5):
+Have you confirmed that you can jump 12v to the solenoid terminal and get it to crank when hot? Then you just needa meter, and some diagrams: 404 Not Found http://www.wedophones.com/BMWManualsLead.htm because the M30 starter motor ought to be wired the same as an M20 starter motor. I have a 40a push button switch and a couple of gator clamps I use to answer just these sorts of questions. I have found that the Botch starters on BMWs tend to get sticky solenoids when hot... t
+
+ANSWER 6 (id: 102_6):
+Okay, looks like you're on to something. The wiring diagrams are critical. As these cars age, wiring connectors start to build resistance and relays are tired. As mentioned above, use a jumper wire to see if you can activate the solenoid. Of pull the starter and bench test it hot. If that all works, in the wiring diagrams, work your way back up from the starter solenoid. Clean the contact pins on the relays wouldn't hurt. Unfortunately, only failing hot makes this diagnosis a bit more difficult. Good luck!
+
+ANSWER 7 (id: 102_7):
+Ok I believe I solved the issue. It was simply corroded connections that would lose continuity when hot.. Not very exciting...LOL Thanks everyone for your input!

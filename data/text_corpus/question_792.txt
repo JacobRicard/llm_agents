@@ -1,0 +1,13 @@
+QUESTION ID: 792
+
+QUESTION:
+It doesn't really seem this has been covered at least not here in the DIY so here's what I got. Yes, I know the pics aren't great, they are small and there are no steps but this is really the most you need. Mainly, this post is to let you know how easy it is to rebuild the pump than to buy new or even used... Note: both pumps on my 90 325is and 92 325i cab were Vickers. There is also a ZF pump out there. The below applies to Vickers. Contents: 1 Retainer seal, 6 O rings and 1 C clamp. everything taken apart... retainer seal goes here, flathead the old one out, hammer the new one in with a 20mm socket the three larger o rings...(you can also see where one of the 3 small o rings go on the right side half of the pump - little small hole next to bolt hole) fingertips show where the remaining two small o rings go As they say the rest is the reverse. Take note of where parts go and you're good... the c clamp is self explanatory as is this whole rebuild really.
+
+ANSWER 1 (id: 792_2):
+Probably not a bad thing to do after 250,000 miles and 20 years.. Originally posted by xixo wonder where this dude got the kit... also wonder why no one else has asked this in 6 years...? I don't think PS pump failures are especially common.
+
+ANSWER 2 (id: 792_5):
+i got my rebuild kit from here http://www.eeuroparts.com/Parts/1076...t-32411135880/ given this kit doesnt seem to have as many seals as this thread... still does the job
+
+ANSWER 3 (id: 792_6):
+Vicker's Kit If anyone is still wondering, just google the part number to find several places to get the kit. It seems it is special order, at least a couple weeks out. ECS, Pelican and Turner have them FYI. https://www.turnermotorsport.com/p-5...uine-bmw-part/ https://www.ecstuning.com/b-genuine-...t/32411133023/ http://www.pelicanparts.com/More_Inf...-1-133-023-BOE I found out the hard way after it was out and apart that mine didnt look like the ZF pump :( so now it sits on the work bench for 3 weeks in wait for seals.

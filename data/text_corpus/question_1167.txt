@@ -1,0 +1,16 @@
+QUESTION ID: 1167
+
+QUESTION:
+Hey, I've read conflicting reviews on Turner's chips. I have an 88' M3. Any advice or alternatives would be appreciated . Thanks!
+
+ANSWER 1 (id: 1167_0):
+Aggressive ignition map may lead to detonation without true 93 octane fuel. If s14 was still up, you could contact Louis Marques for a great chip. Perhaps you can find his contact info on google?
+
+ANSWER 2 (id: 1167_3):
+Chris is right....talk to Luis. I had pinging in the lower range with the TMS chip (2.5). I do not recommend the chip but Luis made me a chip that is great and it was easy to do business with him.
+
+ANSWER 3 (id: 1167_5):
+I've been running IIGO chip for about a year now and its been great. I have a SS91 chip for 91 octane. I did a lot of research before buying my chip and the IIGO chip was the only one that had significant power gains (mid range, only about 5 hp on the top end) and didn't have ties to blown engines. The common theme I found with the Turner chip was blown engines. I'm not saying it was the reason for them, but more often than not, through all the threads on S14s that mentioned a blown engine, the Turner chip was mentioned. The IIGO chip is good. I typically get 29+ mpg on the freeway, and about 20 around town. I've gotten as high as 32 mpg at an average speed of 75 mph however. If you make changes such as cams, you can send the chip back, and for about $50 Luis will burn you a new chip for the change. From doing research those guys did a TON of research before releasing the chips. Will
+
+ANSWER 4 (id: 1167_7):
+I think mine was $250? I could dig through the receipts if you really want me to. The Dinan one was very tame. The IIGO one doesn't make much more than stock at the top end, but fills the mid range pretty well. Will

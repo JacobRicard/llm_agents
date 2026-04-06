@@ -1,0 +1,19 @@
+QUESTION ID: 1499
+
+QUESTION:
+Thanks for the help with my engine removal. Now, I've got my rebuilt engine in place and the car drives! Well, sort of. after putting maybe 10 miles on the car I've started getting an intermittent issue. I suspect CV joint, but have never had one act intermittently. Status: 1989 ix 180k miles. Engine fresh manual swap axles appear to be original History - I inherited this car with a blown motor three years ago. The vehicle was operating just fine until a rod broke and put a couple of holes in the block. I'm driving along and all of the sudden it sounds like someone is holding a boxed end wrench against the spokes of the wheel - sort of rhythmic clatter - whacka whacka type of thing. I take it out of gear and the noise continues based on the speed of the car. (OK, not an issue with the motor itself) The sound feels like it's from the front passenger wheel area. I stop the car, and drive away it will be normal, until.... it happens again. It doesn't seem to be connecting with turning (perhaps shallow turn, but nothing major). Now that it's happened 6 or 8 times, I'm also experiencing a shudder. - that feels like a stuck CV - like a clown car with funny wheels. I've checked the lug nuts and the bolts around the front suspension - all fine. I typically employ Occam's razor - assuming that something I recently did is the culprit. But I can't find anything wrong with physical inspection. The axle feels fine in my hand. Could I have monkeyed it up while doing the removal and re-install? Does grease dry up over the years...? Thanks for any advice the group has, Glen
+
+ANSWER 1 (id: 1499_0):
+Make sure front axles are fully seated and inspect splines on rear of front drive shaft (a know failure point ) they strip and make a ratcheting noise as they slip. Sent from my SM-G960U using Tapatalk
+
+ANSWER 2 (id: 1499_1):
+Spdracrm3 Everything looks flush. The ratchet noise also seems too slow and loud to be the splines. I had splines fail inside a wheel (1963 MGB with wire wheels) and that did sound like a ratchet. this sounds more link a wrench banging spokes. - and the noticeable shudder feels like I have a wheel that is lopsided. as for the wheel side, I assume that a proper torqued axle nut should ensure that the axle is all the way into the hub right? thx for the ideas, Glen
+
+ANSWER 3 (id: 1499_2):
+If the splines are shot a jack test will show (Google 325ix Tcase jack test)assuming viscous coupling is good. If the hub splines and axle splines are clean a not damaged and axle slides in easily the yes a properly torqued axle nut will hold everything in alingment. If the noise you hear is worse turning corners then likely a bad outer cv joint Sent from my SM-G960U using Tapatalk
+
+ANSWER 4 (id: 1499_3):
+usually bad CV joints will show up in turns (especially while reversing in my experience). But I do have a set that is loose enough to rattle while driving straight - usually only under load though.
+
+ANSWER 5 (id: 1499_4):
+Nando, thanks. I checked everything up front, then went down the line. Turned out to be at the Guibo. My helper forgot to tighten the bolts. The nuts had all fallen off the driveshaft connection.

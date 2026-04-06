@@ -1,0 +1,7 @@
+QUESTION ID: 2604
+
+QUESTION:
+I removed the ebrake console and this is sitting next to the brake lever, flashing... Wire runs off to the dash. Assuming it some old alarm system? Any better ideas? Writing says: FACTORY ADJUST ONLY SENSITIVITY ADJ
+
+ANSWER 1 (id: 2604_4):
+Yup! Field Disturbance Sensor. These are great for convertibles where people may reach into the vehicle to pilfer something from your dash or sitting on the seats when you have your car parked somewhere. They could do this without bumping your vehicle . So this sensor sends out a signal and ones that signal is broken it lets the alarm system to usually "warn" first with a series of tones or beeps from the alarms siren. Then if the field stays broken it fires off the full alarm . The placement is perfect in the ebrake area as that the center of the vehicle and it will cover both sides equally. Thats where they suggest placing it.

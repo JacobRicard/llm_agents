@@ -1,0 +1,25 @@
+QUESTION ID: 412
+
+QUESTION:
+ok my car is stock height and all the wheels are good (stock camber) but my front pax side wheel has a bit too much positive camber. i know i should take it to get an alignment, but what are they adjusting in my case? The ball joints? Tie rod ends? Control arm? shock body? also should i just wait till i lower my car to get an alignment or get an alignment then lower.
+
+ANSWER 1 (id: 412_0):
+The only adjustable thing from the factory is front toe. You have excessive positive camber because something is bent, or something along those lines. If you have plans of lowering, get the alignment afterwards.
+
+ANSWER 2 (id: 412_1):
+makes sense. i ask b/c i dont want to go to alignment shop and them try to scam me. my friend went to get his car aligned and they wouldnt do it, unless he payed them to replace every single bushing up front. and he did and $400 later they did his alignment. just dont want that happening to me.
+
+ANSWER 3 (id: 412_2):
+Your car has probably been in a pretty bad accident. They sell accident correction top strut mounts that add .5 degree negative camber, you could put one of those on the side that has positive camber.
+
+ANSWER 4 (id: 412_3):
+i was talking to a shop mechanic at my school and he said something about widening the holes where the shock bolts to the car. and moving it around and that may work. any idea where to get those mounts from?
+
+ANSWER 5 (id: 412_4):
+Originally posted by Dominick i was talking to a shop mechanic at my school and he said something about widening the holes where the shock bolts to the car. and moving it around and that may work. any idea where to get those mounts from? You can get the mounts from the dealer or anywhere that sells BMW parts. Its a factory part. I'd never slot those top holes and compromise the strength of the shock towers.
+
+ANSWER 6 (id: 412_5):
+Originally posted by Dominick i was talking to a shop mechanic at my school and he said something about widening the holes where the shock bolts to the car. and moving it around and that may work. He probably doesn't realise the strut and knuckle is one piece on E30s. Most cars with struts up front use a clevis type lower mounting bracket that bolts to the knuckle. You can widen one of the holes to give some camber adjustment, then shim the gap between the knuckle and strut to stop everthing from moving around.
+
+ANSWER 7 (id: 412_7):
+or you can buy 1 m3 offset strut bearing (as tj was saying) from bav auto or IE (they are the cheapest) and it will add -.5 degrees of camber on the side you need it

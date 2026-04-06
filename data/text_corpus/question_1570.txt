@@ -1,0 +1,10 @@
+QUESTION ID: 1570
+
+QUESTION:
+I ordered a set of early-style main bearings for my car since it was built in 9/87. Turns out the bearings in the engine are the late style. Does anyone know if our iX blocks all came with the late style, or is my engine not original? Thanks
+
+ANSWER 1 (id: 1570_0):
+According to RealOEM the cutoff was 3/88 but after 30 years chances are you may or may not have the original engine anymore. Check the engine code on the front drivers side of the block.
+
+ANSWER 2 (id: 1570_1):
+The engine code is 22006440, which isn't close to the car's VIN. There is "87" cast into the block, however, which I thought was a date code. I've owned the car for 16 years and would've never guessed it was replaced.

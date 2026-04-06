@@ -1,0 +1,10 @@
+QUESTION ID: 1514
+
+QUESTION:
+What manifolds and piping work with the IX? I think I read somewhere that the kits meant to fit rwd e30s don’t really fit the ix. Is that true? What has to be modified to make them fit? I’ve seen a bunch of people use the diypsi manifold but it doesn’t look like they sell those anymore. Sent from my iPhone using Tapatalk
+
+ANSWER 1 (id: 1514_0):
+I'm using a rapid spool industries manifold on mine. They still sell them, but they are known to have boost creep problems. Nothing that can't be fixed though. Sent from my SM-G973U using Tapatalk
+
+ANSWER 2 (id: 1514_1):
+There's really nothing special, except depending on the kit it might hit the strut tower, which is further forward on the ix. lots of people have done ix turbo builds though.

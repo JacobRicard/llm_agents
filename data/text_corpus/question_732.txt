@@ -1,0 +1,16 @@
+QUESTION ID: 732
+
+QUESTION:
+I have been having an issue with my 87’ E30 where, when the engine bay is heat soaked the starter will not spin to restart the car. But the weirdest thing was, that the car would restart if hooked up to a boost. A few times strangers have saved me with jumps now, so I got a battery pack to jump myself but it is still super annoying!! So I went out and got an upgraded #2AWG cable for between the alternator and the starter. It also came with an upgraded engine ground. My hope is that the uprated size of the conductors will help increase current flow to the starter, and help provide a much stronger cleaner grounded connection. Here are the pics from install. As you can see I just left the old power cable in the harness but I wrapped the ends in e tape. Install took about 10 minutes, and I can’t confirm my issue is gone, but I started it yesterday to a much stronger cranking sound, and it was able to restart easily when engine was warm. I will update if this did not fix the issue, but so far seems good. 9/10 would recommend. Got the cables from CATuned btw. ~$50 Sent from my iPhone using Tapatalk
+
+ANSWER 1 (id: 732_0):
+BavarianRestoration also sells them and they're a forum sponsor. (I'm not sure if CAtuned is a sponsor) http://www.bavrest.com/store.html#!/...les/c/22006212
+
+ANSWER 2 (id: 732_1):
+Originally posted by McGyver BavarianRestoration also sells them and they're a forum sponsor. (I'm not sure if CAtuned is a sponsor) http://www.bavrest.com/store.html#!/...les/c/22006212 Originally posted by McGyver BavarianRestoration also sells them and they're a forum sponsor. (I'm not sure if CAtuned is a sponsor) http://www.bavrest.com/store.html#!/...les/c/22006212 Looks like they do! CATuned was my choice because I can get things shipped in 3 days since they are Sacramento based. Sadly they didn’t fix my issue completely but the it did seem to help some. I think my poor starter doesn’t like the heat Sent from my iPhone using Tapatalk
+
+ANSWER 3 (id: 732_2):
+Aside from power, your main focus should be on grounding. The starter and alternator are both grounded using the factory mounting hardware so its ultra imperative that the engine ground cable is replaced. I see you purchased that as well. I assume this is a M42 motor since the alternator cable is so short? Also, that cable kit has bare copper ends so in a few months, that copper will oxidize and corrode and lead to a high resistance or poor connection. I recommend use some dielectric grease on the bare copper to prevent this. Our cables are tinned with solder so they will not oxidize as compared to a bare copper connector. You will notice our connectors and the factory ones are silvery.
+
+ANSWER 4 (id: 732_4):
+Originally posted by Gregs///M OH yes, I forgot to mention. I also had problems starting when the car was hot. After replacing the starter motor and solenoid, it went away. Yeah these cables did actually relieve my hot start issue! (M20 327i) I do think the bav rest cables are probably better quality but I was on a bit of a time crunch. I ordered these from CATuned and had it on my doorstep in 2 days. Sent from my iPhone using Tapatalk

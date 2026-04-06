@@ -1,0 +1,13 @@
+QUESTION ID: 912
+
+QUESTION:
+One of the rods in wiper linkage broke recently in my S50 E30 (item #5 - Wiper Linkage Diagram). My HVAC blower motor has been on the fritz, so I plan on the replacing that as well. Are there any tricks people have used, short of removing the motor, to get at the blower motor and wiper linkage? I've seen a few lists of ideas on the forums, but no confirmation on if anything worked. I'd like to just drop the sub frame, can anyone confirm if this gives you enough room for this job? Its the only car I got at the moment, so I can't take it down for an extended period of time.
+
+ANSWER 1 (id: 912_0):
+Can't speak for swapped cars, but with an m20, i just unbolted that plate which holds the wiring on the firewall, owned up the blower motor panel, unhooked the blower motor, removed the bottom blower motor holder. Once that's out of the way, take the wiper arms off, unbolt the motor from the linkage by removing the three 10mm bolts and the linkage came out with a little maneuvering. Not sure if you need to drop the subframe and lower the motor for access.
+
+ANSWER 2 (id: 912_2):
+with the intake manifold out of the way, this job isn't too hard at all. I'd consider replacing the entire linkage, rather than just #5 - I had the same issue, but it just broke again within a year. however if you're just replacing #5 I don't think you need to drop the motor or remove anything. Just get the covers and wire harness out of the way.
+
+ANSWER 3 (id: 912_3):
+My #5 went a few years ago. I ended up replacing the entire linkage assembly because later on there was in issue with the splines on the passenger side shaft. No tips on removal from a swapped car but it's worth your while to replace the whole thing because the rest of the system is going to have similar wear

@@ -1,0 +1,19 @@
+QUESTION ID: 1669
+
+QUESTION:
+I wanted to remove my sunroof panel to replace the seal but lo and behold 2 of the 3 screws on the drivers side are so locked with loctite or whatever that I stripped the torx heads on them trying to ease them out. I haven’t thought too much about a solution yet but wondered if y’all had any tips for removal? There is not a lot of room to work with in there and I’m not sure how I can grab them firmly enough. To make matters worse, the plastic slider frame piece they are screwed into has now cracked a little from the screw turning its force against it. I don’t want to make that any worse either. Any help greatly appreciated!
+
+ANSWER 1 (id: 1669_0):
+first try the next size down and up. you'd be amazed how many times a torx size is simply wrong in a manual. if that doesn't work i have tapped in a hex in similar situations before. only do that if the torx is well and truly screwed, there's no coming back from it. finally i have slotted them with a dremel and used flat blades as well, but since the screws are flush mount you will scar the pieces they hold. edit: get some penetrating oil on them first for a bit - pb blaster / fluid film. wd-40 even though its not the best.
+
+ANSWER 2 (id: 1669_1):
+I can get enough grip on it to turn, but now the problem is that whatever it is screwed into is now rotating and has apparently separated from that black plastic slider piece it is held in. So I’m guessing the crack I am seeing is the result of the female threads separating or stripping out of that plastic piece.
+
+ANSWER 3 (id: 1669_3):
+Originally posted by 82eye can you lift the screw with a small driver to put some upward pressure on it while extracting? I suppose I could but I’m not sure how that will prevent the part with the threads from turning still? Maybe I don’t quite understand?
+
+ANSWER 4 (id: 1669_4):
+Originally posted by RenaissanceMan I suppose I could but I’m not sure how that will prevent the part with the threads from turning still? Maybe I don’t quite understand? if it's just spinning whatever is behind it needs to lock for the screw to come out. a little upward pressure on the screw just helps to bind it so you can get some traction. edit: can you show the screw itself?
+
+ANSWER 5 (id: 1669_5):
+Agreed, it might help if u can wedge something under the screw head while turning. I do not envy you… That is a tough spot to get to, even without the strip issue. I use a flex driver.

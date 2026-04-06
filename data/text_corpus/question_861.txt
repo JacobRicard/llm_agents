@@ -1,0 +1,16 @@
+QUESTION ID: 861
+
+QUESTION:
+Hey guys, so I have a question and a problem. I bought an engine from a '99 Z3. It is a M52TUB28 but it looks like it is closer to an M54B28. What I mean by that is I have this windage tray and oil pump combo.. So my question is do I need to proceed as if I have the M54, fuel pressure regulator and a few other bits that I have seen? I am planing on modding my oil pickup to keep the full cast windage tray. I will also create a build thread so I can get input from you guys and help as you all seem fit. lol. So thanks!
+
+ANSWER 1 (id: 861_0):
+Isnt the M52b28tu essentially an M54 with a cable throttle body and return fuel rail? The aluminum M52s that are not the update might be what you are thinking?
+
+ANSWER 2 (id: 861_1):
+Yeah that’s what I have found in my searches. But I’ve yet to see an m54 or an m52 with my windage tray. I’m assuming that the Z3’s were magically different. I’ve found some things out by going to the bmw stealership but there is more to figure out. A few things were broke/cut and missing when I got the engine. Sent from my iPhone using Tapatalk
+
+ANSWER 3 (id: 861_2):
+Originally posted by Corsair89 Yeah that’s what I have found in my searches. But I’ve yet to see an m54 or an m52 with my windage tray. I’m assuming that the Z3’s were magically different. I’ve found some things out by going to the bmw stealership but there is more to figure out. A few things were broke/cut and missing when I got the engine. Sent from my iPhone using Tapatalk you have a double vanos engine; cable throttle body or not it is mechanically an M54 Here is one converted to single vanos and installed into an e30: https://www.r3vlimited.com/board/showthread.php?t=370535
+
+ANSWER 4 (id: 861_3):
+Yeah I have a new issue now. the front sump pan won't fit due to the windage tray hitting the raised bump on the right rear side. I'm debating shaving a bit off of the oil pan bump, not too much as I don't want to create a weak spot, and shaving a portion of the windage tray to fit it. Here is a link to a pic of what I am talking about. https://www.r3vlimited.com/board/sho...=410384&page=3

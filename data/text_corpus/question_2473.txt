@@ -1,0 +1,10 @@
+QUESTION ID: 2473
+
+QUESTION:
+Does this look like an M20B25 harness? It has no label on it. Attached Files
+
+ANSWER 1 (id: 2473_0):
+Did you try searching for the Bosch PN that's on that connector :) aside from that an eta harness will have a connector for a cold start valve and 3 connector at the tstat housing instead of 2
+
+ANSWER 2 (id: 2473_2):
+Jeff, yes I checked realoem and everything I could google! Guy has it too far away for me to look at it. I found a harness from another member here, so I'm good now. Thanks for your help fellas!

@@ -1,0 +1,16 @@
+QUESTION ID: 177
+
+QUESTION:
+I just pulled the 318is out of summer storage (no joke - it's been hot as balls here and the AC doesn't work) and had a strange fuel leak. I fired the car up at the garage where it was stored and let it idle for about 5 minutes before backing out. When I backed out, I found a large puddle of fuel near the right rear wheel. A quick look under the car and I thought I could see fuel dripping off the subframe. The garage is only a mile from my house, so I drove it home and parked it. I let it sit for a couple hours, then put it it up on jackstands and pulled the right rear wheel, idled the car for about 10 minutes and nothing. I looked everywhere down there and while I can still smell fuel, I see no drips from the filler neck, the tank itself, the breather lines in the wheel well, or even the rubber hoses over by the fuel filter. No fuel collecting on the subframe either, nothing on the ground. Is there any reason why parking the car for 3 months would cause it to leak fuel? The tank is only about 1/2 full, so it's not like it was overfilled or anything like that. Anywhere else I should be checking? The leak was definitely at the rear, so I'm not too worried about anything in the engine bay.
+
+ANSWER 1 (id: 177_0):
+How much fuel in the tank when you noted the leak? If fairly full it's a rotted fill line or one of the breather lines. Pull the cover plate off in the wheel well and look again. Be sure to move the lines, especially the fill tube. If not full, maybe a blocked return line or just a somewhat perished sealing surface somewhere. Also worth looking at the fuel pump area from above.
+
+ANSWER 2 (id: 177_2):
+Originally posted by roguetoaster How much fuel in the tank when you noted the leak? If fairly full it's a rotted fill line or one of the breather lines. Pull the cover plate off in the wheel well and look again. Be sure to move the lines, especially the fill tube. If not full, maybe a blocked return line or just a somewhat perished sealing surface somewhere. Also worth looking at the fuel pump area from above. It was about 1/2 full on the gauge. I ran it again today and no fuel smell, no leaks. I'll go out there again tonight and take a closer look at the fill hose and the breather lines. Is there an access for the fuel pump under the back seat?
+
+ANSWER 3 (id: 177_4):
+Fill it up if you really want to find the leak(or likely multiple leaks). These cars are 40 years old, if you haven't already replaced nearly everything in the fuel system then your just playing a game of what's going to fail next week. Tbh the amount of loose rust you'll find in the tank... it's scary.
+
+ANSWER 4 (id: 177_5):
+Thanks guys. I checked all of the recommended areas and couldn't find anything. I was on a time crunch, so took it to my mechanic and they couldn't find anything either. We ended up replacing the hose that runs over the top of the tank to the fuel filter, since that was the only one of the three that hadn't been replaced. Drove the car about 800 miles over the weekend with no issues, but my plan is to replace all the hoses between the tank and filler neck sometime this winter. Side note, the drive was the BMW club's Devil's Highway drive. 200 miles of awesome roads with almost zero traffic, and great scenery to boot:

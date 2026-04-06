@@ -1,0 +1,16 @@
+QUESTION ID: 700
+
+QUESTION:
+My Violet 316i Touring arrived yesterday, YEA. Central locking is out cold meaning that I cannot open the passenger door nor the rear doors, even from the inside, BOO. I only have a German language manual so I cannot tell if there is a setting that is preventing it from working (I have read about "Valet mode" and "Arrest mode" that may have an impact, but I don't know how to activate or deactivate them). Also, I see that there are known issues with the relay in the driver's kick panel behind the speaker and the red-black wires in the same place. I did not see a discussion of this issue, forgive me if I am missing the obvious. Are there things I should try before taking everything apart? Other than that, I disassembled the cluster and replaced the odo gears, oil change tomorrow followed by a first drive! I will post pictures on the Touring pages asap.
+
+ANSWER 1 (id: 700_1):
+If the DS door lock works it shouldn't be double locked, but you can try just turning the key in the lock two or three times to the unlocked position. When that does nothing, with all doors closed, and at least one window fully open, get inside, operate the driver side door lock manually and repeatedly. Unlock, get out, close the door, lock the door from the DS exterior lock, unlock the DS door lock. If that doesn't restore function, repeat, but try the same from the hatch lock. A question like this should be posted in the relevant technical subforum, such as interior or general technical.
+
+ANSWER 2 (id: 700_2):
+By double locked do we mean that the key is turned all the way to the right and then the key is pulled out? Can that be the case with either front door and the tailgate, only the front doors, or only the driver's door. Trouble is that this is my first e30 after a succession of e28s, an e34 Touring, and an e39 Touring so I have no familiarity with this particular system.
+
+ANSWER 3 (id: 700_4):
+This weekend I dug into the electrics. I pulled the central locking relay under the left side front speaker. I opened the relay up and found that the "fuse" resister had melted and sprung open. I soldered it back together and the locks sprung open. The driver's door is locking and unlocking the other three intermittently so I may have a loose connection. I will track that down this week.
+
+ANSWER 4 (id: 700_5):
+I tried to cut and splice the red/black wires as many have advised only to find that there are two red/black wires that lead to the driver's door (sigh). I tried both and affected no change at all. Still locked out of the rear doors and tailgate and the central locking is DOA ever since working for one instant. All of the doors sprung open; I was elated. As soon as I drove off they locked closed; I was deflated. I had to reach out the window with my key to get out of the car! Since then, the actuator released its death-grip on the passenger door. I will enlist the help of a mechanic in Madison Wisconsin (Madison Automotive). I will update when I know more. I am hoping for a simple solution or a work around that disables the central locking altogether.

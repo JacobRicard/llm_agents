@@ -1,0 +1,7 @@
+QUESTION ID: 2463
+
+QUESTION:
+This is my exact issue. http://www.e30techarchive.com/showth...p&t=118848.htm Does anyone have a suggestion on what the proper solution is? Thanks.
+
+ANSWER 1 (id: 2463_0):
+When modified, the US spec pre airbag steering shaft works out to be 250mm end to end. You can also make a customer length steering shaft from two E46 ends like this: https://www.r3vlimited.com/board/forum/e30-technical-forums/engine-drivetrain/v8-swap/240954-how-to-make-a-custom-steering-shaft-on-the-cheap

@@ -1,0 +1,28 @@
+QUESTION ID: 67
+
+QUESTION:
+Happy New Year! I'm getting an annoying rattling noise from my sunroof and narrowed it down to missing bushes and roll pins pn 54121843484 and 54121849774. #14 and #15 in the realoem diagram. 484 seems completely unavailable. Has anyone found a tried work around that stops the panel from moving up and down? ​​
+
+ANSWER 1 (id: 67_1):
+So my roll pins seem in decent shape and just need a little bit of lubrication. They can be ordered separately for about $5 each plus shipping. The concave bush is not for sale separately but it looks like the whole assembly can be ordered for $220 each with those pieces already mounted. That doesn't work for me since the mechanism works fine but maybe helps you or someone else out. Attached Files
+
+ANSWER 2 (id: 67_2):
+Originally posted by I6V8 So my roll pins seem in decent shape and just need a little bit of lubrication. They can be ordered separately for about $5 each plus shipping. The concave bush is not for sale separately but it looks like the whole assembly can be ordered for $220 each with those pieces already mounted. That doesn't work for me since the mechanism works fine but maybe helps you or someone else out. i've got a spare used set of those, and some fresh cables. pretty sure my problems are a bit deeper. lol. all the same let us know when you get it fixed. good to see a win.
+
+ANSWER 3 (id: 67_3):
+Originally posted by 82eye i've got a spare used set of those, and some fresh cables. pretty sure my problems are a bit deeper. lol. all the same let us know when you get it fixed. good to see a win. Well, I tried some electric tape. That ended up backfiring and stopped the headliner channels from completely slotting over the pins so I can get the pins in the front reinserted. After a lot of mandatory swearing (bc E30 sunroof), I finally got the damn headliner back on without the sunroof getting stuck. It was off ever since I first got the car last winter so I'm pretty stoked I have a fully assembled and working sunroof now. Lubed everything, it has fresh seals from the PO so now I just need to check the drains to make sure they're clean.
+
+ANSWER 4 (id: 67_4):
+Originally posted by I6V8 So my roll pins seem in decent shape and just need a little bit of lubrication. They can be ordered separately for about $5 each plus shipping. The concave bush is not for sale separately but it looks like the whole assembly can be ordered for $220 each with those pieces already mounted. That doesn't work for me since the mechanism works fine but maybe helps you or someone else out. Schmiedmann in Denmark can supply you with both (left and right) drive cables in the $350 range inclusive of shipping and credit card fees. Your own bank may also charge a foreign exchange fee as well. Installing these is not for the feint of heart. The other parts commonly to break are the plastic gates, 54121941321 and 54121941322 (#19 on the OEM parts diagram). These are in a similar price range as the drive cables. The high price of these sunroof parts are emblematic of E30 parts prices in general. ​ ​
+
+ANSWER 5 (id: 67_5):
+Agreed — I have only seen that concave bushing with the cable assembly. Could be a candidate for 3D printing but I’m not that guy. I bought a used set of E28 cables & arms from eBay. Some (but not all) components are interchangeable w/ E30. If you do take it apart, I suggest you save EVERYTHING, even broken bits that you think won’t be useful. They just might be. Happy to help troubleshoot if I can. There are a few good YouTube videos. Most didn’t exist when I began lol. After 7 years of ownership I finally got mine back together 🤞hopefully 🤞 for the last time.​
+
+ANSWER 6 (id: 67_7):
+those bushings are only there to operate the cover side of the roof, the interior piece (pull it closed and tilt it up etc). Take that piece off and run it without it to see if that's where your noises are coming from. Sunroof is not actually that complicated as one may think. I had the whole thing apart when the shell was repainted and put it all back together. Not complicated at all
+
+ANSWER 7 (id: 67_8):
+Originally posted by strickland Show off lol haha. No seriously...it's intimidating at first but not as bed once one understands what all those pieces do. Clocking the handle was a little tricky because I could find much info in what position of the rood it supposed to click. Trial and error showed that the handle clicks when the sunroof is fully open and fully closed, it doesn't click when it's tilted up. Also white caulk cord is your friend when assembling a sunroof, what BMW used. That caulking cord goes on the sunroof tray ridge (the top of it) on the outside/around those little screw holes. Under silver parts 8.9 etc in the above diagram. Basically it's there to keep any water in the tray from overflowing above the tray ridge before drains take the water away and keep out from screw holes. You don't need much.. maybe even cut one cord in half, you you will need is a thin continious layer.
+
+ANSWER 8 (id: 67_9):
+I don't have many pics from when I did mine but I got one that shows what that plastic bushing does.. it's holding/operating the inner sunroof card. Attached Files

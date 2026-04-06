@@ -1,0 +1,13 @@
+QUESTION ID: 511
+
+QUESTION:
+Was wondering if someone could help me understand how to test my wiring harness for my brake lights. the fuses/relays are fine, and the connection is clean. my right brake light does not come on. i am having trouble testing the connector and i am not sure how to figure this out
+
+ANSWER 1 (id: 511_1):
+Originally posted by It's Soda Not Pop I had this issue on the RS of my car years ago. The harness that's on the tail light housing probably has a short. you are correct. kind of, the tail light itself has a short somewhere in the custom wiring. the actual harness on the car works just fine. need to find someone who can fix my tail lights now
+
+ANSWER 2 (id: 511_2):
+Originally posted by Synr you are correct. kind of, the tail light itself has a short somewhere in the custom wiring. the actual harness on the car works just fine. need to find someone who can fix my tail lights now My old set I wiggled the wires around until the lights would come on. I then taped up the wiring to pinch it so that it would work. That worked for 2 years and then I replaced them with new ones.
+
+ANSWER 3 (id: 511_3):
+Originally posted by It's Soda Not Pop My old set I wiggled the wires around until the lights would come on. I then taped up the wiring to pinch it so that it would work. That worked for 2 years and then I replaced them with new ones. I figured it out. something on the wiring harness for these LED custom set was not done right and one of the wires shorted. out the stock set in for now and will have to get them all checked

@@ -1,0 +1,13 @@
+QUESTION ID: 247
+
+QUESTION:
+So I am in the process of installing my new struts, shocks and my new springs. The original front springs were cut so my new HRs are taller. I’m running into an issue(among many others lol) where I don’t know how to get the ball joint stud in to the strut assembly. It might just be an idiot not think but I’m clueless. Any help would be appreciated. Ball joint https://imgur.com/a/hboQUtw Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.
+
+ANSWER 1 (id: 247_1):
+Originally posted by ThomasE30 I did think about disconnecting the sway bar from the control arm to get more room. Yeah, take off the nut holding the sway bar bracket to the control arm. You can also remove the two 17mm bolts holding the Control Arm Bushing lolipop to the car. that'll give you more room than you need. Put the ball joint spindle in its spot, then use a floor jack to apply pressure so you can tighten the nut without the spindle spinning. There are a lot of situations where spending 5 minutes removing extra stuff will save an hour of struggling/breaking shit, this is definitely one of those situations.
+
+ANSWER 2 (id: 247_2):
+The above is a great answer. I'd only offer that removing the end link fastener from the bar is easier when it comes time to reinstall than going after the slightly fiddly bracket.
+
+ANSWER 3 (id: 247_4):
+So It ended up working and then i spent about two hours like an idiot forgetting that a ball joint can move. Finally just pivoted the ball joint at an angle for it to go in the hole and everything worked out great. Now the only issue i have is getting the brakes back on because the pads are going out too far now like someone is pressing on the brake. From what Ive heard you just have to compress the piston with a c clamp?

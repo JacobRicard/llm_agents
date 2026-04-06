@@ -1,0 +1,40 @@
+QUESTION ID: 2547
+
+QUESTION:
+Hello, I just recently bought my first E30. It's an 87 325is and has plenty of oil leaks. I'm debating on pulling the engine to do some repairs but would like advise. I have an engine that needs a head gasket because it has a major oil leak and oil in the coolant. I think it has a leak from the oil pan too and pretty sure it has a small leak from the transmission. The steering is also horrible with what seems like twenty turns to get around a corner plus the steering rack is leaking a little. My plan is to pull the head and pressure check, replace the head gasket, timing belt and water pump. Then track down any other leaks and replace the steering rack with an e46. Would you pull the engine or make repairs with the engine in? I'd have to do this in a driveway either way, I don't have a garage to put it in. If I pull the engine and I had a spare 2k sitting around could I rebuild it to a 2.7? Can someone recommend a shop in Orange County that would be able to help me out with that? Really appreciate the advise. Regards, Jason
+
+ANSWER 1 (id: 2547_1):
+Before pulling it, do a coolant pressure test to make sure the head isn't cracked. The m20 doesn't have a convenient place for the oil/coolant to mix, but does when/if the head cracks under the cam.
+
+ANSWER 2 (id: 2547_10):
+Since you're going to replace the steering rack in addition to all the other work I'd definitely just pull the engine. You'll spend more time crawling around on your back or hunched over the fenders than if you'd just took the time to yank the engine. Just stay organized, hold yourself to a schedule, and before you know it you'll be dropping the refreshed engine back in.
+
+ANSWER 3 (id: 2547_11):
+Thanks for the advise. I am probably going to order all the parts I think I'll need then just pull the engine after I pressure test. I'll be able to pressure wash everything and clean it up. I have good mechanical abilities but this will be my first "modern" car I've pulled the engine on so I'm sure I'll be back on this forum asking questions. I've done a lot of reading already. Thanks again.
+
+ANSWER 4 (id: 2547_12):
+If your a somewhat skilled mechanic, pull the engine and toss her on a stand/ re-gasket. Take pics so she's mounted back in place like the factory would have done it, It's not that hard on a M20. I've done it a few times now in the past 8 years or so with e30's.
+
+ANSWER 5 (id: 2547_2):
+I was planning on taking the head to a machine shop to get surfaced and check for cracks. Do I need to do a coolant pressure test with the engine together as well? Thanks
+
+ANSWER 6 (id: 2547_3):
+A machine shop is going to charge you $75-100 in my area to pressurize and test a head off the car. A Chinese coolant pressure test kit that works on various cars costs about $80. If you check for cracks while assembled, you stand to save significant time and even a few dollars.
+
+ANSWER 7 (id: 2547_4):
+I have oil in my coolant so I will have to remove the head no matter what. I don't think a pressure test will be able to determine if there is a cracked head or just a ripped head gasket. Or am I not thinking this through correctly?
+
+ANSWER 8 (id: 2547_5):
+Originally posted by 55rag I have oil in my coolant so I will have to remove the head no matter what. I don't think a pressure test will be able to determine if there is a cracked head or just a ripped head gasket. Or am I not thinking this through correctly? Before removing head, diagnose. It always costs more to have someone hook your head up to an apparatus to check it for cracks vs just buying a pressure test kit that you can keep in your arsenal for years to come. Pressurize the cooling system at rest, go have a coffee, beer, cava juice, or other beverage of choice. In 45min, go take the valve cover off and look for the coolant floating on top of/under the oil film under the camshaft. In my mind, either way, if the head is on, or if it is off, you will spend $75-100 to see if the head is cracked. If on, you can buy the tool and have opportunity to diagnose many things later, if off, you are paying a machine shop to do something you already did. ;)
+
+ANSWER 9 (id: 2547_6):
+I'm in a similar boat and I've decided to pull the engine. I've already done a ton of work on the engine, but I want to pull it out and do everything right. My engine bay is a hot mess, due to years of oil leaks. I also need to do my clutch and steering rack. This is why I have decided to just take it out. I think it's also a good learning experience.
+
+ANSWER 10 (id: 2547_7):
+Thanks FF, I understand what you're saying now. If the head is cracked I should see coolant under the cam. Now the problem is my coolant looks more like oil so it may be hard to tell. Maybe I just need to clean up around the cam and then see if sludge seeps out. Thanks for the advice. Thanks venerated, I go back and forth with the decision. One thought was to first repair the leaking head and then assess engine condition and pull it later if needed and the other thought is to pull it and go through the whole thing at once. I don't want to get stuck with a car sitting in my driveway for a year while I repair everything. Decisions, decisions.
+
+ANSWER 11 (id: 2547_8):
+If you have the means to remove the engine, do it, but you can definitely do all of this work with it still in the car. I went through this conundrum in 2016, with the only real difference being that my oil pan wasn't leaking. In my case, I bought a cooling system pressure tester and couldn't find any signs of a cracked head, in fact the pressure tester would hold pressure even leaving it overnight. I went ahead with pulling the head, sending it off to a machine shop anyway, and doing the head gasket etc. I never actually paid the machine shop to pressure test the head, and that was a mistake. After re-assembling everything, I put the car back into daily service. Sure enough, same mixing of water and oil going on. I ended up getting a different used head, had the machine shop deck and test it, and did the whole job over again. 4 years of daily driving later, no problems. I think some cracks may only manifest themselves when the car is warm... Too warm to hook up a pressure tester. Oh, and while you're in there, it may be worth replacing your rockers and cam :) Sent from my moto g(6) using Tapatalk
+
+ANSWER 12 (id: 2547_9):
+The cracks will hold pressure. You have to look for the coolant oozing out and floating in the oil. Some of the cracks are so tight, it can take many hours for coolant to appear, and it's visual, not pressure loss that you would be looking for. And yes, you can easily do a pressure test when warm. Leave the expansion cap off, and idle the car until operating temp - with the cap removed the system will not build dangerous pressure. When bench testing them, it takes a LOT of pressure to get them to leak. I find it's easier to use air and put them in water, rather than fill and pressurize them with liquid.

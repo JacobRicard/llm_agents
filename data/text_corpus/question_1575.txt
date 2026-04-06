@@ -1,0 +1,22 @@
+QUESTION ID: 1575
+
+QUESTION:
+Is there any noticeable difference between these? Or do I have to spend the extra for the bmw ones?
+
+ANSWER 1 (id: 1575_0):
+Believe the ix bushing is taller, at least the inner metallic section is, which lowers the subframe/raises the body relative to the rear wheels. Pretty sure this has to do with the higher ride height of the stock ix, so if your car is lowered, get the standard E30 bushings.
+
+ANSWER 2 (id: 1575_2):
+Originally posted by packratbimmer Be aware that the differential bushing for the iX is different than RWD cars to match the subframe bushing. Quite right, should have mentioned it, there's something between a 10 and 20mm offset compared to a standard bushing. If you go with a regular E30 set of subframe bushings do replace your diff bushing as well.
+
+ANSWER 3 (id: 1575_3):
+The iX bushings mount the subframe lower in the body, which keeps the alignment correct with the iX's higher ride height. ALSO, the plates that bridge from the rocker panel to the subframe bushing bolt are different, so if you go to RWD subframe & diff bushings, you'll need to either install spacers or swap the bridge plates for RWD ones as well.
+
+ANSWER 4 (id: 1575_4):
+So I would need subframe bottom brackets, non ix subframe bushing, non ix differential bushing. can the differential bushing be pressed out in the car? Or is the only way to take the cover off and work on it that way? I'm sure the diff bushing is shot anyway, the poly bushing any good for diff?
+
+ANSWER 5 (id: 1575_5):
+Poly diff bushings introduce a bunch of gear noise into the cabin. With the right caps/cups and threaded rod, sure you can press out/in while still installed. Only swap to RWD bushings if you're going to lower the car to RWD ride height or below. If you use RWD bushings and keep iX ride height, alignment will be weird. You don't *need* the subframe bottom brackets as you could use washers or make a spacer to make up for the shorter bushings
+
+ANSWER 6 (id: 1575_6):
+Happy to see a recent thread on this as I was just about to post similar question. I am planning stock i subframe bushings and a z3m diff mount for a lowered car. What specific spacers should I order for the diff for proper alignment? Thanks to all you that know so much, constantly impressed!

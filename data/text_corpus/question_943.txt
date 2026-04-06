@@ -1,0 +1,16 @@
+QUESTION ID: 943
+
+QUESTION:
+In the process of swapping a 95 m50 with a red label 413 into an 88 325i vert. I don't have the engine m50 harness hooked up to the fuse box because the body harness took care of that, and the body harness isn't hooked up to the positive pole of the starter because the engine harness has that covered too (battery in engine bay because of convertible, I have the engine harness connected straight to that). The harness was an auto and I thinned it down and did nothing to the 4 left over wires. None of the 3 relays on the engine harness click, though if I bypass the fuel pump relay I get fuel, I'm getting power to the 30 and I think the 86 (can't remember off the top of my head) of the main dme relay. No dash lights change when cranking, they're all on. Dme is in the glovebox and not grounded to the chassis by the box incase that's an issue. Just looking for some pointers of what to check or maybe an issue I haven't even considered. Thanks!
+
+ANSWER 1 (id: 943_0):
+when you say "body harness" and "engine harness" are you referring to the c101 and X20? (Respectfully?) If you have the adapter, or made your adapter that goes from the m50 to the e30 body....that does not carry the needed 12v power for the engine/DME/Relays. It's only small amperage wires that feed the e30 body the information it needs (ignition, CEL, temp etc etc) There are positive leads and negative leads coming out of the m50 harness that need to get hooked up...in addition to the existing e30 power/ground leads that come over to the same location in the front battery tray. Red is positive, Brown/Orange is negative...Black is "strip the shielding off and see if the wire is red or brown" Can't stress it enough, study the ETM and get a good multimeter. The ETM is the golden book of swaps. 404 Not Found http://wedophones.com/BMWManualsLead.htm
+
+ANSWER 2 (id: 943_1):
+All power and grounds are hooked up, there's just an excess that I need to thin down (+battery to +starter and +battery to fuse box), and yes about the c101 and x20. I found out that you need to jump a brown/black wire from the auto trans computer to a red/white wire on the main relay... Still nothing, no check engine light, tomorrow morning I'll check if the dme is getting 12v to pin 54. Does the main relay turn on the dme or does the dme turn on the main relay? To recap the main relay is getting 12v to 30 and 86, and I've switched between relays so I doubt it's a fault relay, and I'm getting 12v though pin 7 of the c101.
+
+ANSWER 3 (id: 943_2):
+Also: because I'm not getting communications with the dme (as in no power) that rules out a bad cps or other sensors right? It would make sense that it would give me a CEL if the sensors were bad and I have no CEL.
+
+ANSWER 4 (id: 943_3):
+Alright fired it up today, what it was is the pin 21 on the x20 (7 on the c101) has 2 wires going away from the c101... I wired the larger but didn't wire the smaller one. It's the little things when you're being cheap and making the harness yourself haha. Poked around the dme and c101 for a good few hours with a multimeter, and eventually found it.

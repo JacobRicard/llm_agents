@@ -1,0 +1,16 @@
+QUESTION ID: 1063
+
+QUESTION:
+I need this missing bolt or whatever bolts the harness cover to the firewall panel. Also what does hold the thing on there? I have the c101 holder and the bolts for that but not the left side. thanks fellas
+
+ANSWER 1 (id: 1063_0):
+I'll go back and look at my bag&tag hardware to find the bolts i removed. The wire loom runs across the support and is held in place by zip ties. this is what that rectangular protrusion is for, also the two holes on the floor of the support.
+
+ANSWER 2 (id: 1063_1):
+Thank you. Yah I had this for my s52 swap but I never had the proper hardware to bolt it on so I used self tapping screws. I was young... I figured this would be the section to post in because every m3 had the covers. Thank you!
+
+ANSWER 3 (id: 1063_2):
+well. looks like i didnt tag that hardware. second part of this thread might help. I'll let you know when i figure it out. I have one bag of "unknown" hardware that i think is it. https://www.r3vlimited.com/board/showthread.php?t=120660
+
+ANSWER 4 (id: 1063_3):
+I found out I had the incorrect heater closing panel. I thought I bought a 318 one from levent way back in the day but must have gotten the wrong one. I found one local and it just takes a 6mil bolt

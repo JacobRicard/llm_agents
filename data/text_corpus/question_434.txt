@@ -1,0 +1,13 @@
+QUESTION ID: 434
+
+QUESTION:
+Hi All, I just purchased a 1991 318i in white and have been trying to diagnose some electrical issues I have. Right now, the window switch backlight will stay on, windows operate and blower motor will work while the car is off, doors closed and key is removed from ignition. They will not turn off due to 'comfort mode'. For now, I am disconnecting the battery to not drain it while it sits and not to be left stranded later on. I tried changing my ignition switch, but that did not work. I removed fuse 19 to see if that would turn the window switch lights off, but they still had power. I noticed some random wires going from fuse 19 to 26, and fuse 15 to 21.. The car came with aftermarket headlights, head unit and tail lights, although i think the tails are using the OEM plugs. Any thoughts on what this might be, or how to fix? I am afraid to remove them and have the car be inoperable..
+
+ANSWER 1 (id: 434_0):
+Update, I ripped the wires out and the power doesnt stay on, thankfully. but now my power windows and window switch backlight does not work. any thoughts?
+
+ANSWER 2 (id: 434_1):
+pull the etm for your car and year from here Index of /Manuals/BMW (wedophones.com)​ make sure to keep a copy as the resource isn't going to be around forever. you can use it to trace the wiring to fix the issues and get the car back to stock.
+
+ANSWER 3 (id: 434_2):
+I'm replacing my OEM sealed beams with a set of headlights that have the "smiley" style daytime running lights (DRLs). I have power figured out for the low beams and high beams, but I'd like to know where I can tap into a wire under the hood to trigger the relay I'm installing for the DRLs. I want one that is only hot when the ignition switch is on. Any suggestions?

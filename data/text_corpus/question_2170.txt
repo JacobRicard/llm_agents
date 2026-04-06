@@ -1,0 +1,7 @@
+QUESTION ID: 2170
+
+QUESTION:
+Hey all, I have a 1985 318i, it came from the factory with a clock instead of a tachometer. I bought a replacement tachometer but I'm not sure if it will work. Can you all take a look? It is listed for an m10 which I have but I'm not sure if it will just plugin or what it will have to do to make it work. Appreciate all the help! -Travis
+
+ANSWER 1 (id: 2170_0):
+You should confirm that there's a connection from the dash to the coil/ignition module. www.wedophones.com and then look under manuals to find your wiring diagram. You may have a harness that doesn't have that wire, but it's easy to confirm with a meter, and easy to add if it's not there. hth t

@@ -1,0 +1,19 @@
+QUESTION ID: 150
+
+QUESTION:
+I am planning to replace all the cluster lights, but i dont know which to buy, https://www.amazon.com/gp/product/B0...A22LWEMCXESXCG this websites shows the bulbs, but my main replacement is need the "RPM" gauge light, the left major part of the cluster, so anybody help me to choose which bulbs i need buy, is that have different style of bulbs for the RPM gauge or the speedo gauge Thanks
+
+ANSWER 1 (id: 150_0):
+The 62111368299 bulbs from your Amazon link are used for warning lamps, that 10 pack should have enough and it's always good to have a few spares. You also need: 2 x 62111375774 3 x 07119905358 You can check specific fitment here: http://www.realoem.com/bmw/enUS/sele...e=1&series=E30
+
+ANSWER 2 (id: 150_1):
+Originally posted by Seawolf The 62111368299 bulbs from your Amazon link are used for warning lamps, that 10 pack should have enough and it's always good to have a few spares. You also need: 2 x 62111375774 3 x 07119905358 You can check specific fitment here: http://www.realoem.com/bmw/enUS/sele...e=1&series=E30 Thanks a lot
+
+ANSWER 3 (id: 150_2):
+Originally posted by Seawolf The 62111368299 bulbs from your Amazon link are used for warning lamps, that 10 pack should have enough and it's always good to have a few spares. You also need: 2 x 62111375774 3 x 07119905358 You can check specific fitment here: http://www.realoem.com/bmw/enUS/sele...e=1&series=E30 So Realoem says 3 x 07119905358, but I only replaced 2 and still have a dim cluster. Did I miss one somewhere? is it hidden?
+
+ANSWER 4 (id: 150_3):
+Sorry to resurrect an old thread, but my search-fu isn't working. I had a dead tach light in the cluster and I decided to just replace all the bulbs in the cluster. For the smaller bulbs, I got an Osram 1.2W 10-pack from Amazon. I saw on REALOEM that there was a 2W bulb and it called for 2 of them, so I ordered them from FCP with some other stuff. The problem - now that they're in-hand and I'm swapping old for new, ALL of the bulbs of that type in the cluster are 1.2W and REALOEM shows BOTH as #24 in the diagram: No amount of search (including image search) has shown me bulbs with the green handle that the OE 2W bulbs have, and I don't see where the 2W bulbs are designated to go. The Question: Where do the damn 2W bulbs go? Turn signals? (I realize it probably doesn't matter as all of these were fine before, but I have the 2W - might as well use them, right?)
+
+ANSWER 5 (id: 150_6):
+I'm embarrassed to say it didn't occur to me that I could just shine a flashlight behind the hole to figure out what it was lighting up - lol That said, I'm now thinking I haven't fixed the problem of the dark tach though.

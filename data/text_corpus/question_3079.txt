@@ -1,0 +1,37 @@
+QUESTION ID: 3079
+
+QUESTION:
+Hey guys, What do all of you use to keep your purchases tracked and maintenance logged? Anyone care to share excel/Google Docs templates? I'm starting my new project, and want to make sure I keep everything perfectly tracked so I actually know how much money is flying out of my wallet, and so, if unfortunately I need to sell it one day, the next owner knows what's been done.
+
+ANSWER 1 (id: 3079_0):
+Start a build thread, save all the receipts and you can make a basic spreadsheet to keep tally. Pics and receipts are key though, no one is going to give a fuck about a spreadsheet, if you don't have hard copies to back it up.
+
+ANSWER 2 (id: 3079_1):
+I did a build thread for my last E30. Keep receipts for proof, but I would advise staying away from tallying up the money that flys out of your pocket. If it's a project car, enjoy it. Focusing on how much you spent may make you cry. Haha If you must keep track of every cent, make your own Excel spreadsheet. Very easy to do and you can customize it to your exact preferences.
+
+ANSWER 3 (id: 3079_10):
+In case anyone needs inspiration, I made this in like 2 seconds when i picked up my vert. This is only based off of the various receipts and crap I got from the PO. Used a baseline if you will. My e46 one has some differences but that's the idea. Depending on how lazy I am, i will input all the information and so forth. Since it's a table, you can organize it and perhaps add a category option, but that's up to you. Things get a little fucky when you want to keep it organized by purchase vs installation date, but again, solved by the extra column (obviously not used here as I didn't purchase any of this stuff) I find it nice to have another tab specifically for drivability issues. One thing that I find helpful is to always enter notes into a notes column. Here you can talk about issues you noticed with installation and so forth, whether or not it actually fixed the problem and so forth. Really works wonders when you look back and need info edit, screw it, here are my others - you can tell I get a bit too into this and sometimes make superfluous spreadsheets. But hey, info is good. e46 spreadsheet: e46 drivability spreadsheet: e46 weekend/bi weekly check up sheet (clearly I've been keeping this one up to date lol) (most of this was spurred when trying to figure out my lean condition)
+
+ANSWER 4 (id: 3079_11):
+Originally posted by BaltimoreBimmer In case anyone needs inspiration, I made this in like 2 seconds when i picked up my vert. This is only based off of the various receipts and crap I got from the PO. Used a baseline if you will. My e46 one has some differences but that's the idea. Depending on how lazy I am, i will input all the information and so forth. Since it's a table, you can organize it and perhaps add a category option, but that's up to you. Things get a little fucky when you want to keep it organized by purchase vs installation date, but again, solved by the extra column (obviously not used here as I didn't purchase any of this stuff) I find it nice to have another tab specifically for drivability issues. One thing that I find helpful is to always enter notes into a notes column. Here you can talk about issues you noticed with installation and so forth, whether or not it actually fixed the problem and so forth. Really works wonders when you look back and need info edit, screw it, here are my others - you can tell I get a bit too into this and sometimes make superfluous spreadsheets. But hey, info is good. e46 spreadsheet: e46 drivability spreadsheet: e46 weekend/bi weekly check up sheet (clearly I've been keeping this one up to date lol) (most of this was spurred when trying to figure out my lean condition) That is an insanely organized spreadsheet. I keep something similar but no where near as detailed. Well done! Sent from my iPhone using Tapatalk
+
+ANSWER 5 (id: 3079_2):
+I usually make build threads to keep track of progress. I don't really keep receipts or track of how much my cars have cost me. It would probably be smart to, but I bought a $1,500 25+ year old car as a daily driver so I'm not exactly the smartest.
+
+ANSWER 6 (id: 3079_3):
+I've been keeping track of every cent I spend since I got my E30... I guess if you've got cash lying around ignorant bliss is the way to go, but personally I'd rather know how much I'm spending so I can better prioritize and restrain myself (or at least try to :() I go with excel, it's super easy to organize stuff, especially using pivot tables. I have columns for date, item, cost, category of item (eg fluid, tool, part) mileage at installation/purchase, and where it was bought at.
+
+ANSWER 7 (id: 3079_4):
+PM me your email address & I'll send you a cleaned up version of my Excel workbook. It has a maintenance log with 'miles since' calculations, a part purchased and parts needed section, list of all the E30 light bulbs. Some other stuff too.
+
+ANSWER 8 (id: 3079_5):
+Originally posted by Aleman PM me your email address & I'll send you a cleaned up version of my Excel workbook. It has a maintenance log with 'miles since' calculations, a part purchased and parts needed section, list of all the E30 light bulbs. Some other stuff too. PM Sent!
+
+ANSWER 9 (id: 3079_7):
++1 for acar. It does graphs and charts of costs, mileage, etc. It's kind of mind-blowing to see how much is spent. . . Sent from my LG-H872 using Tapatalk
+
+ANSWER 10 (id: 3079_8):
+Make an excel sheet that fits your needs. One thing I found is a must....gotta have a separate column for date purchased and date installed lol. Some crap I buy for my cars I have for over 3 years before installing them.
+
+ANSWER 11 (id: 3079_9):
+Originally posted by BaltimoreBimmer Make an excel sheet that fits your needs. One thing I found is a must....gotta have a separate column for date purchased and date installed lol. Some crap I buy for my cars I have for over 3 years before installing them. Yup, this! I also keep track what I still have to do/what parts I haven't put on my E30 yet.

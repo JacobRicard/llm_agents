@@ -1,0 +1,37 @@
+QUESTION ID: 1513
+
+QUESTION:
+So, back when I had my second set of coilovers built - with new hubs and bearings by Forcedfirebird / WOTtech - I ended up using standard E30 rear bearings instead of the more expensive front ix-specific bearings. They appeared nearly identical except for cost. I don't recall the exact dimensions, but IIRC, the ix bearings are 0.1mm bigger in diameter, but otherwise identical. both were SKF. They fit fine and I didn't have any issues for years. This was around 2011? They fit fine in the ix struts and the hubs bolted up perfectly. Fast forward to now, I'm getting a scraping sound around corners. There's nothing on the brakes or wheels touching that I can see, and currently my tires are much narrower than any I've run in literally a decade. I assume that the bearings are failing. It's even got worse, almost like a rock or something is stuck in the brakes. I checked my hub bolts and they were plenty tight (I thought maybe they'd come loose, but nope - my fat ass with a 3ft cheater bar is plenty torque). Anyone else run the rear E30 bearings up front on an ix for a long period of time? I haven't looked recently, but hopefully the original bearings aren't NLA. I'm thinking I should have just bit the bullet and paid the extra $30 per bearing, but that was tough to swallow 10 years ago. There's a major SKF distribution/retail center in our rinky-dink town oddly enough, maybe they can help, lol.
+
+ANSWER 1 (id: 1513_0):
+I went with FAG bearings on my suspension/drivetrain refurb it's only been 2 years though and I don't drive the iX nearly as much as a couple of years ago so not really any help. How much miles did you put on those bearings?
+
+ANSWER 2 (id: 1513_10):
+Originally posted by nando I suppose, but that's the OD, and it's press fit into the hub. There must have been a reason, although I can't see what it would be, to have an otherwise identical bearing but make it 0.05mm bigger. I have heard of people running the rear bearings up front before, which is why I tried it. Yeah, I mean 0,05mm is quite a bit though even if it's a press fit. I did too, ordered 4 rear FAG bearings when I did my drivetrain refresh
+
+ANSWER 3 (id: 1513_11):
+FAG shows a different number for the front kit, but it seems that the bearing is the same. https://aftermarket.schaeffler.com/en/catalog SKF shows the same number for both bearings. http://skfpartsinfo.com/ NSK shows the rear bearing only. https://nsk.incony.de/web/na/en_US/PKW/16/290/36/$catalogue/4728/$product/KH10203_654/applicationSearch.xhtml
+
+ANSWER 4 (id: 1513_2):
+Originally posted by D.Martijn I went with FAG bearings on my suspension/drivetrain refurb it's only been 2 years though and I don't drive the iX nearly as much as a couple of years ago so not really any help. How much miles did you put on those bearings? Not sure of miles. I didn't drive it much for a few years, 2015-2018 or so. probably 20,000 at most, not that many.
+
+ANSWER 5 (id: 1513_3):
+Originally posted by Vincenze Can't you search through bearing catalogs of SKF, FAG, etc using your dimensions? Online distributors will surely sell them cheaper than BMW. yeah, I assume. I just wondered if anyone else rolled the dice on the 0.1mm smaller bearings and had the same issue. At the time, they cost almost half as much, but still were not cheap and SKF makes good stuff. I'm not 100% sure it's the bearings but I'm pretty sure, don't know what else it would be. I've checked all the the brakes and wheels and nothing is rubbing. It also got noticeably worse after driving from the E30 picnic home in 116f weather..
+
+ANSWER 6 (id: 1513_4):
+I checked realoem and it tells me the size is 75.05, the front bearings should be even bigger. Putting this number info a parts catalog I get two different FAG numbers but same size.. (75mm)
+
+ANSWER 7 (id: 1513_5):
+Were you on a dirt road going to the picnic? Recently I picked up a pebble in my brakes and thought I would need a tow truck immediately. I tried backing up which freed up whatever got in there - noise gone. I would try some medium aggressive braking while backing up just to see.
+
+ANSWER 8 (id: 1513_6):
+Originally posted by D.Martijn I checked realoem and it tells me the size is 75.05, the front bearings should be even bigger. Putting this number info a parts catalog I get two different FAG numbers but same size.. (75mm) I miss remembered I guess, it's only 0.05mm difference - the fronts are 42X75,05X37 and the rears are 42X75X37. You wouldn't think 0.05mm would make any difference, they certainly fit in the struts and hubs just fine.
+
+ANSWER 9 (id: 1513_7):
+Originally posted by packratbimmer Were you on a dirt road going to the picnic? Recently I picked up a pebble in my brakes and thought I would need a tow truck immediately. I tried backing up which freed up whatever got in there - noise gone. I would try some medium aggressive braking while backing up just to see. There was a gravel driveway - but I've driven for several hundred miles since then. I had thought it sounded kind of like that, but I've noticed slightly it on turns for months if I have the windows down. I would think if there was a rock stuck in my brakes it would make noise going straight too. And now it's louder. Maybe worth pulling the wheel, brakes, and putting back together to see if something is stuck in there.
+
+ANSWER 10 (id: 1513_8):
+Originally posted by nando I miss remembered I guess, it's only 0.05mm difference - the fronts are 42X75,05X37 and the rears are 42X75X37. You wouldn't think 0.05mm would make any difference, they certainly fit in the struts and hubs just fine. Thinking about it 0,05mm is actually quite a bit. (working at an injection mould shop)
+
+ANSWER 11 (id: 1513_9):
+I suppose, but that's the OD, and it's press fit into the hub. There must have been a reason, although I can't see what it would be, to have an otherwise identical bearing but make it 0.05mm bigger. I have heard of people running the rear bearings up front before, which is why I tried it.

@@ -1,0 +1,13 @@
+QUESTION ID: 305
+
+QUESTION:
+I want to rebuild the entire front end at one time - all four ball joints, bushing, strut mounts, eyeballs, tie rod ends, etc. Does anyone sell a complete kit, or do I have to buy each piece individually?
+
+ANSWER 1 (id: 305_0):
+There's an Ebay outfit (FCP Groton) out of Groton, CT that puts together some partial kits (Control arms, CABs, tie-rods). The Ebay thing gets mixed reactions because some people sell garbage but my feeling after dealing with this outfit and inspecting the parts they sent me is that they are legit. They also offer some nice upgrade options like solid and/or offset control arm bushings for a bit more which is nice. I'm pretty sure the ball-joints are non-servicable and you'll have to replace the entire control-arm, so this seems like a reasonable package, but I guess it depends if you are looking for something specific like THR "eyeball" CAB's. I bought the strut bearings and RSM's separately from BavAuto though, as they had a better price and offered me the E46 RSM's (which are supposedly a bit stronger than stock) for about the same price. However, I don't think you'll save that much buying everything at once and there aren't that many parts to replace in the front end anyway, so it should only require one phone call/shopping cart session to any reputable parts house to get the order in.
+
+ANSWER 2 (id: 305_1):
+I've been dealing with GPR and Vertex for years. How do their prices compare? Porsche Parts and Accessories - Vertex Auto http://www.vertexauto.com/ Lowest Price Guaranteed on all OEM Porsche Parts & Porsche Accessories. Fast Free shipping on Porsche original genuine parts & Porsche aftermarket parts. http://www.gprparts.com/OEMParts/bmw.asp The ball joints are a servicable item. You'll need a press to R & R them, though. GPR sells them for less than $30 (outer) and $33 (inner).
+
+ANSWER 3 (id: 305_2):
+Thanks for that link. FCPGroton has the hookup. They're slightly higher than GPR, but the price is for complete control arms. GPR has OEM parts, though, and I've never heard of the brand that FCPGroton sells. I wonder how the quality stacks up against OEM?

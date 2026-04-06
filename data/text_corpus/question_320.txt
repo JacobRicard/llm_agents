@@ -1,0 +1,19 @@
+QUESTION ID: 320
+
+QUESTION:
+I had an allignment done this morning and as I assumed all my specs are off. I am curious though as to if these are acceptable ranges for the car. I don't really know much on suspension but I know I dont wanna burn the new tires off. If there is anything to suggest to correct the problems let me know.
+
+ANSWER 1 (id: 320_0):
+The camber is very unbalanced left to right, and toeing out on one of the rears (poss. bent subframe). And not enough castor, but it is balanced left/right, did you put some M3 offset CAB's in backwards maybe?? Tie wear should be OK, there isn't too much toe in or out which kills tyres. It will however be handling like a dog with specs like that.
+
+ANSWER 2 (id: 320_1):
+the front really isn't a big deal, but you don't want toe out in the rear.. something is either bent or your subframe/trailing arm bushings are toast.
+
+ANSWER 3 (id: 320_2):
+Considering how old e30s are thats not to bad. The only thing you can adjust on stock e30s it front toe. If you are realy worried about it you can get adjustible caster/camber plates, and rear eccentric trailing arm bushings, then you would be able to adjust all the importian specs. Majority of cars that have been on the road for 4 or 5 years are out of spec, some are even out right from the factory.
+
+ANSWER 4 (id: 320_3):
+I have rear right camber -1.4 and toe -0.63..... rear total toe -0.59 is that really bad.. i know my bushings are shot, but if I'll put in new urithane, will that somewhat fix it? or is the subframe definately bent?
+
+ANSWER 5 (id: 320_4):
+Originally posted by PУCCKAЯ_e30 I have rear right camber -1.4 and toe -0.63..... rear total toe -0.59 is that really bad.. i know my bushings are shot, but if I'll put in new urithane, will that somewhat fix it? or is the subframe definately bent? I cant say for shure, its hard to tell with the naked eye when things are slightly bent. I gess I would replaced the bushings and then install the IE rear eccentric bushings/bolts. I dont think i have ever done a alighment on a e30 were the rear was in spec. Like i said befor e30 are just old and have seen lots of pot holes and curbs in there day. The nice thing about the adjustable rear eccentrics is it can compensate for slightly bent suspention components.

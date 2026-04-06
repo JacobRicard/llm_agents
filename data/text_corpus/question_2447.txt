@@ -1,0 +1,19 @@
+QUESTION ID: 2447
+
+QUESTION:
+I've been trying to get in touch with MC Hammered for several months now to buy one of his gauge pods: Podi.ca | Gauge solutions for Audi and VW http://www.mchammered.com/VentPackages.aspx?CarID=15 Podi, makers the only OEM replacement steering column for your Audi or Volkswagen. We pride ourselves on delivering the best pod and gauge solutions on the market. He had several threads selling them, but isn't answering his business phone number, emails, PMs or threads. I'm guessing I should take that as an answer, but I really want one of these gauge pods. Does anyone know him who could ask if he has any left?
+
+ANSWER 1 (id: 2447_1):
+Podi has an Instagram page "podiguages" however the most recent post is from 2015. Their Facebook page has been removed. A quick browse of his facebook history shows that he's involved with a new startup business and that seems to be his focus. Based on all that I'd assume that Podi is no longer operating.
+
+ANSWER 2 (id: 2447_2):
+An alternative to this could be this repro gauge https://www.instagram.com/jr_parts__france/ I have one fitted in my iX and it's looks very nice! Also the seller is a nice guy, I bought his very first gauge. Turned out he made a couple of small changes to the electronics and some programming stuff. I could send my gauge back to him and he send me an updated version back.
+
+ANSWER 3 (id: 2447_3):
+Thanks everyone for your input! I heard from McHammered last night: "The e30 vent gauge is currently unavailable as VEI Systems, the company we partnered with to make the gauge internals, has stopped accepting any new order requests for the last 8 months. They have not provided an ETA for when they will lift this restriction." I've asked if there is a way to get the gauges manufactured again, but I'm not very hopeful. Originally posted by D.Martijn An alternative to this could be this repro gauge That gauge is awesome! The only thing it's missing is a way to track my AFR, but I suppose there are other options for that. Thanks!
+
+ANSWER 4 (id: 2447_4):
+Looks like I'm going to go with an Alpina Repro like D.Martijn posted, unfortunately this leaves out the option for a stock-ish looking AFR gauge. Does anyone have a suggestion for an AFR gauge that doesn't look too out of place, but is also within eyesight while driving?
+
+ANSWER 5 (id: 2447_6):
+Same as Martijn i also have the JR Parts vent gauge. IMG_20201230_141512 by Pieter Van Nevel, on Flickr Very happy with it. Try to contact Jean Marie from JR Parts on instagram to check if he has any solution for the AFR system? Maybe he can adapt this screen/button to receive AFR signal?

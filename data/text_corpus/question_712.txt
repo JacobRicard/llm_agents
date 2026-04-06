@@ -1,0 +1,13 @@
+QUESTION ID: 712
+
+QUESTION:
+So my alternator is no longer working, so I go to autozone and order a Bosch Alternators (AL0152X), i get it and notice that it has no external fan blade like the Valeo that I took out. The Bosch shows a external fan and says yes to external fan included. So I go back and the store orders another one, same thing, no external fan. Do the new alternators only have a internal fan? Im assuming that taking the fan off the old one would void the warranty of the new one and not sure if it would fit anyways. Not sure if anyone else has run into this issue.
+
+ANSWER 1 (id: 712_0):
+Originally posted by 27fabre So my alternator is no longer working, so I go to autozone and order a Bosch Alternators (AL0152X), i get it and notice that it has no external fan blade like the Valeo that I took out. The Bosch shows a external fan and says yes to external fan included. So I go back and the store orders another one, same thing, no external fan. Do the new alternators only have a internal fan? Im assuming that taking the fan off the old one would void the warranty of the new one and not sure if it would fit anyways. Not sure if anyone else has run into this issue. do you mean the fan on the pulley ? i'd just swap the pulley from the old unit.
+
+ANSWER 2 (id: 712_1):
+So here’s an update, I called Bosch and got a call back from a tech, he said that the remanufactured alternators are upgraded to an internal fan right behind the pulley within the alternator case. It serves the same purpose. If a exterior fan is added the pulley would not line up and the warranty would be voided (technically). So since my pulley lines up fine, I’m good to go. So brand new the part came with an external fan but rebuilt it comes with an internal. Case solved. Thank uou
+
+ANSWER 3 (id: 712_2):
+The new "remanufactured" 152X is an E36 style unit, and it is internally cooled. I'd bet that you could still reinstall the E30 finger chopper with an original pulley, even if the new alternator shaft has no keyway.

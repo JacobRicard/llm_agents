@@ -1,0 +1,16 @@
+QUESTION ID: 1569
+
+QUESTION:
+Ok guys, I've done some digging and can't find any of the threads regarding this topic. Could anyone point me in the right direction? I'm swapping in a fresher engine, trans, and transfer case with 70k miles into my IX to replace my still running 260k drivetrain and toasted VC. I need to know what fluids everyone is using, especially in the transfer case and VC limited slip diffs, as well as the fluid capacities. I found some fluid for the t-case at BavAuto, but it is the same stuff they recommend for the trans and I'm not sure that will suffice. Any direction is greatly appreciated. -Steve-
+
+ANSWER 1 (id: 1569_1):
+Manual Trans. I remember everyone making a big deal out of Redline Synthetic? Is that just for the Trans and not for the tcase? I'd better do some more digging, in hopes of not looking stupid. I guess I assumed that the trans would get some form of gear oil and not atf.
+
+ANSWER 2 (id: 1569_2):
+Front differential: Spec: 90W GL-5 capacity: 0.75 qt drain/fill plugs: internal (Allen) head, Size ? commonly used after market oil: Redline Synthetic 75W90 Rear differential: Spec: 90W GL-5 capacity: 1.8 qt drain/fill plugs: internal (Allen) head, Size ? commonly used after market oil: Redline Synthetic 75W90 Manual Transmission: Spec: 80W GL-4 capacity: 1.4 qt drain/fill plugs: internal (Allen) head, Size 17MM commonly used after market oil: Redline Synthetic MTL (manual transmission lubricant) Transfer case: Spec: ATF capacity: 0.6 qt drain/fill plugs: internal (Allen) head, Size 17MM commonly used after market oil: Redline Synthetic ATF
+
+ANSWER 3 (id: 1569_6):
+Originally posted by cbake82 looking for an ix manual trans if you have one. Mine is stuck in reverse Get your trans rebuilt. It'll cost about $1600. And you'll never worry about it again for the life of your ownership.
+
+ANSWER 4 (id: 1569_8):
+Originally posted by Kershaw Hahah wtf crazyprime! I didn't even notice. Another 4 year bump 😂 good info for IX's Sent from my SM-G973U using Tapatalk

@@ -1,0 +1,13 @@
+QUESTION ID: 1994
+
+QUESTION:
+I've been saying for years that this would be a great website/app. It's finally here, road warriors rejoice! Detects the curvature of the road and automatically highlights twisty roads. Curvature https://roadcurvature.com Find twisty roads. I've already planned one road trip into northern Ontario for this summer, and now looking at going to Pennsylvania!
+
+ANSWER 1 (id: 1994_0):
+That website is pretty cool! The one road it highlights near me is the one I drive often - because it's curvy! Nice find. Has anyone tried Porsche's 'Roads' app? Similar concept, but more user community-driven. https://newsroom.porsche.com/en/2023...ate-31243.html
+
+ANSWER 2 (id: 1994_1):
+I did something similar using OpenStreetMaps data as well. Curvature looks like a much better analysis than what I did years ago. Here's my app, which indexes the US and Portugal: PositiveYaw https://app.positiveyaw.com/ PositiveYaw helps you find the best roads. Using elevation and GPS data, +yaw finds the best roads so you don't have to waste gas or time.
+
+ANSWER 3 (id: 1994_2):
+Originally posted by Aleman Has anyone tried Porsche's 'Roads' app? Similar concept, but more user community-driven. I did just try it, unfortunately my iPhone appears to be too old. The app crashes before I can even get to the maps. I'd rather have car parts then a new phone though so 🤷‍♂️

@@ -1,0 +1,16 @@
+QUESTION ID: 1600
+
+QUESTION:
+I have a 91 325ix with 219k, i get a weird shaking at exactly 50mph while crusing. I also have a clunking when going straight over bumps from only the passenger side, it seems to not clunk while i am slightly over bumps with the brakes on, but i dont know if that is true or not. Doesnt matter when i turn over bumps or not. I have gotten under the car and replaced the passenger side sway bar mount, and i have new bushings for the sway bar are on the way. What are some things i can check for, i got under the car and was pushing things around but nothing seems to clunk. I have read that the subframe bolts could be loose, do you think this is a possibility?
+
+ANSWER 1 (id: 1600_0):
+control arm bushings, ball joints, tie rods, strut mounts.. If you have loose subframe bolts, something is really really wrong. They are huge and really tight.
+
+ANSWER 2 (id: 1600_1):
+Control arm bushings where just replaced today, made some change but still there is a slight clunk on passenger side, the rods are tight, no play, must be somethijng strut related. There is still no source for inner the rods on ix? Edit; just check strut nut on top, the thing is just spinning like there is no thread engagement. I have new strut hats, and I can't even replace them because of this. How do you remove them from the strut if it just keeps spinning, I have the special tool and can see that the inner threaded part is not rotating when I turn the nut. I guess this must be the cause of my clunking anyway. What's the best way to remove all of this? I probably need new shocks if it won't spin off.
+
+ANSWER 3 (id: 1600_2):
+I had a slight clunk and figured out when I initially installed the front struts into the housing, they were ever so threaded loosely. I lifted up the strut accordion boot and took a big monkey wrench to the top of the strut.....and gave it 1-2 turns until tight....and it solved my issue.
+
+ANSWER 4 (id: 1600_3):
+After strut mount and new shocks the clunk seems to be gone. There was a lot of play in the old strut tower bearings, and lots of metal particles in their grease. New ones were needed, those might have been the original. Glad I fixed that.

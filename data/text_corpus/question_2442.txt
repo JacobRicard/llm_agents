@@ -1,0 +1,7 @@
+QUESTION ID: 2442
+
+QUESTION:
+Hello all. I am looking to install the map light rear view mirror upgrade but wanted to make sure my wiring is correct. Can anyone verify the white and black wires connected to the mirror. Thanks in advance. Attached Files
+
+ANSWER 1 (id: 2442_0):
+Electrical manuals: 404 Not Found http://www.wedophones.com/BMWManualsLead.htm 1989 325i: 404 Not Found http://www.wedophones.com/Manuals/BMW/1989%20BMW%20325i%20-%20325is%20Electrical%20Troubleshooting%20Manual.pdf Sheet 6000-1 indicates Violet/Green is power and Brown is ground, but since it's a regular lightbulb, current flow doesnt matter. You can make your white power and the black ground. You should be able to tap into the check panel power/ground as shown on Sheet 6216-0 & 6216-1 (this is actually where BMW got power, per Sheet 0670-6).

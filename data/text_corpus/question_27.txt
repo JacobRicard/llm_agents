@@ -1,0 +1,10 @@
+QUESTION ID: 27
+
+QUESTION:
+My airbag car’s steering rack is bad. Leaks and tons of play over bumps. I want to replace and keep it original. Do all e30 racks work or do i have to replace with one made for an airbag car? thanks
+
+ANSWER 1 (id: 27_2):
+Originally posted by nadodude111 Thanks. How about the u joint coupler? Mine has some play and should replace that too. Having some trouble finding a replacement… there are coupler upgrades available, usually it's the disk that degrades. it can be replaced separate or you can get derlin replacements. the entire coupler itself should still be available new. there are also direct coupler upgrades, can be used with either the short rack upgrade or stock.
+
+ANSWER 2 (id: 27_4):
+Originally posted by 82eye there are coupler upgrades available, usually it's the disk that degrades. it can be replaced separate or you can get derlin replacements. the entire coupler itself should still be available new. there are also direct coupler upgrades, can be used with either the short rack upgrade or stock. The airbag version of the steering coupler (#2 on the diagram, part number 32311156348) has been NLA since 2017. Assuming the U Joints are still good, the flex disk or guibo can be replaced after drilling out the rivets and replacing with bolts, nuts and washers as shown on OEM.com parts diagram: Attached Files

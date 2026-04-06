@@ -1,0 +1,34 @@
+QUESTION ID: 69
+
+QUESTION:
+Hello happy Labor Day! My AC is running R12 and all the hardware is original except for the receiver/drier and the discharge hose. The car blows about 43 F at 35+ MPH in 95 degree weather. The problem is that it blows mild air while idling ~ 65 F. The aux fan and resistor work and yes it runs while idling. I even jumped the aux fan switch so it ran on high setting but the AC still only blew at ~65 F while idling, reduced engine temp though. Checked the metal Low side hose and it was cool but not freezing cold. Is this a bad compressor? I’d like the car to blow cold while idling at stop lights. Giving just a bit of gas the air cools rapidly so stop and go traffic is ok. I took pics of the thermometer on my drive today. It was so cold in the cabin that i needed to turn on the heated seats. This is clearly way colder than anyone needs and would much prefer consistency across vehicle speed than extreme freeze while cruising on the highway. Vent temp while doing 65 MPH: Vent temp while idling: Context: late model 325i convertible with an AC system that was converted to R-134 10 years ago. It was a lousy conversion because according to the invoice, it only included a new discharge hose, receiver/drier, o-rings/seals and R134a. It never blew super cold and I had to be on the freeway for any cool factor. I had my mechanic convert back to R12 this weekend including: receiver/drier, new ester oil in the compressor, schrader valves and R12. He evacuated and vacuumed the system and it held vacuum for 2 hours so no leaks. Hoping someone can point me in the right direction. thank you!
+
+ANSWER 1 (id: 69_0):
+Why on earth did you convert it back to R12? No mention of the TX valve, make sure you have the right one for the gas you are using. you cant switch gases without changing the TX valve. Your mechanic should have hooked up a set of gauges and checked the pressures to confirm that the system was working properly, did he?
+
+ANSWER 2 (id: 69_1):
+Originally posted by e30davie Why on earth did you convert it back to R12? No mention of the TX valve, make sure you have the right one for the gas you are using. you cant switch gases without changing the TX valve. Your mechanic should have hooked up a set of gauges and checked the pressures to confirm that the system was working properly, did he? TX valve is original. It was never changed when the car was converted to R134. yep he used gauges and used a little under 3 12oz cans of r12 Freon which is about right. I can double check with him though.
+
+ANSWER 3 (id: 69_10):
+[QUOTE=e30davie;n10126554]What did the guy say who checked it? doesnt he know about AC systems? What pressure switch is in it to turn the compressor on and off? is it the right one for the gas you are using? [/QUOTE He’s a general mechanic and not well versed in e30s nor R12 Ac systems. He thinks it’s the expansion valve. The low side line was very cold while idling while the pressure side was warm but not hot. I’ll double check but the pressure switch looks to be the original R12 switch.
+
+ANSWER 4 (id: 69_11):
+You either have to do things properly or not at all. If I was in your shoes here's what i would do. - find a proper AC mechanic who knows what they are talking about - buy new TX valve to suit R134a - buy new pressure switch to suit R134a - buy all new O-rings (if they haven't been changed) Get it all installed with R134a gas, and get it confirmed that the pressures are correct to R134a (it sais them on the gauge) before you pay the bill. This is assuming your compressor is in good working order. if its not, youll never rebuild it. either get a new one (if you can) or convert to a sanden one. Then youll never have to worry about it again. R134a gas works perfectly fine in my Australian summer. This whole "R12 was the best" is just old thinking. A proper working r134a system is cold at all times. I still have the "apparently inefficient" r12 evaporator on my car and the AC is ice cold in 40deg C temps at idle.
+
+ANSWER 5 (id: 69_12):
+Originally posted by e30davie R134a gas works perfectly fine in my Australian summer. This whole "R12 was the best" is just old thinking. A proper working r134a system is cold at all times. I still have the "apparently inefficient" r12 evaporator on my car and the AC is ice cold in 40deg C temps at idle. I distinctly remember my dad's Pontiac 6000LE blowing literal FROST from the vents when you kicked up the fan speed. I can't say I've seen anything even in the same ballpark from a modern system. I know why we transitioned away from R12 and I'm not saying anyone should use it, rather just sharing a memory of how well A/C systems used to perform.
+
+ANSWER 6 (id: 69_3):
+i'm curious how you found r12. shops here will outright lose their business license if they are caught using it. some guy just got a jail sentence for importing 2 dozen cans.
+
+ANSWER 7 (id: 69_4):
+So I just went and wiped away all of the large plastic, bugs and other debris between the radiator and condenser. I will go and give a proper wash in between them later, but I could already feel a drastic difference in ac temp while idling. I bet heat was getting trapped between the rear of the condenser and front of the radiator.
+
+ANSWER 8 (id: 69_6):
+Ok so I just tested the compressor and here are the results: 1. Idling in the sun with aux fan on standard low speed: vent temp ~ 68. Then held 2-3k RPM for 5 mins minutes and got the temp down to 60. 2. Jumped aux fan to high speed to mimic driving and held 2-3k RPM for 5 mins and couldn’t get the temp lower than ~66. You’d think with more air it would be even colder than the first test?? I restored proper function of the low speed fan and was able to get the temp down to about 64 while revving 2-3k. I noticed if I let go of the throttle and let it idle and then hit the gas again the AC would cool considerably more than if I just held 2-3k rpm. Is the system over charged? Or is it a bad expansion valve? The change in temps while idling and revving stationary doesn’t make me think it’s the compressor. Once actually moving the temp drops to 42 F in 95 F temps within 2-3 mins it’s rapid. It’s like the engine bay gets way too hot while stationary negating the AC system or making the pressures too high??
+
+ANSWER 9 (id: 69_8):
+Yep - aux fan is blowing air towards the condenser. So just had the pressures checked at idle. Low: 50 and high: 115. I believe low should be at 25 and high at 160-200. Any ideas?
+
+ANSWER 10 (id: 69_9):
+What did the guy say who checked it? doesnt he know about AC systems? What pressure switch is in it to turn the compressor on and off? is it the right one for the gas you are using?

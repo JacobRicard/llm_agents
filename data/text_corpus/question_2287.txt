@@ -1,0 +1,25 @@
+QUESTION ID: 2287
+
+QUESTION:
+Hi, are these specific to the sides like left and right or one fits both? also is it better to buy the whole assembly or can they be easily be pressed out and in? i suspect mine is rubbing here as I get rubbing noises. new shocks abs everything else is mint. thank you Attached Files
+
+ANSWER 1 (id: 2287_0):
+They are interchangeable. But you must match the arrow with the protrusion. They are very-very tight. You can always cut the metal ring from inside using a saw. If you have a press, it's pretty easy to press them in. A hammer or vise may not work.
+
+ANSWER 2 (id: 2287_1):
+I had success with my bench mounted vice. I think i had to cut one of the metal rings. I did need to find something the right size to use as a drift. think i used a bit of old pipe. Wasnt easy but it worked ok. I highly doubt you'd do it with a hammer, its a pretty tight interference fit, needs continuous pressure.
+
+ANSWER 3 (id: 2287_2):
+Regarding a preassembled unit, I was only able to find the E36 version. They are the same as the E30 version except the bushing rubber is harder. Some people consider them an upgrade for E30s. I put them on both my E30s and can't tell a difference. Sure made the job easier to not deal with pressing bushings out/in.
+
+ANSWER 4 (id: 2287_3):
+Originally posted by Vincenze They are interchangeable. But you must match the arrow with the protrusion. They are very-very tight. You can always cut the metal ring from inside using a saw. If you have a press, it's pretty easy to press them in. A hammer or vise may not work. I meant are the whole assemblies interchangeable? the bushing and the metal part? i only see right size on sale at rock auto and i don't see left.
+
+ANSWER 5 (id: 2287_4):
+Originally posted by Kavadarci I meant are the whole assemblies interchangeable? the bushing and the metal part? i only see right size on sale at rock auto and i don't see left. The whole assemblies are not interchangeable. They are left and right. I used a bearing removal tool to push the bushings inside. I bought a 12.9 hardened threaded rod with a smaller diameter than the one in the tool. The last 5 mm were difficult for some reason.
+
+ANSWER 6 (id: 2287_5):
+The metal part that bolts to the car is side specific, not interchangeable. If you get solid, centered E36 style bushings you don't have to worry about centering.
+
+ANSWER 7 (id: 2287_6):
+Thank you parts ordered. there is nothing else that should be making these creaking noises. everything else is changed or lubricated. this is my last suspect and while there I’ll change the stabilizer links too but I doubt those make this type of noise.

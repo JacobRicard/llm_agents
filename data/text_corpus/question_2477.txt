@@ -1,0 +1,7 @@
+QUESTION ID: 2477
+
+QUESTION:
+My E30 needs some driving before the snow flies but i got a couple gremlins to sort out. Passenger window won't function. That's probably a simple lock out switch. I haven't bothered with it yet. More importantly, the wipers and washers are going crazy as soon as i turn the key. I had to pull the wiper module to stop it. Any clues on where to start with this? It literally starts spraying fluid and wiping the glass the moment i turn the key.
+
+ANSWER 1 (id: 2477_1):
+Since it is wipers and washers at the same time, the wiring harness could be shorting out along the front, like along the radiator. The harness bounces on various seams over the decades and develops shorts.

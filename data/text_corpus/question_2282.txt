@@ -1,0 +1,10 @@
+QUESTION ID: 2282
+
+QUESTION:
+Hi while driving my car without the back seats to troubleshoot roof noises I noticed what I believe it’s a fuel pump noise that is not as noticeable with the seats on. the sound is pronounced and now that I don’t have sounds from the roof I can hear it well. My question is if this is normal and how many fuel pumps do I have? rockauto has fuel pump inside the tank and outside of the car. I don’t think I have one outside. also should I replace fuel sending unit and where is that located? thank you
+
+ANSWER 1 (id: 2282_0):
+There are rubber sleeves for fuel pumps. The problem is the sending unit is inserted near the pump and may not provide enough clearance for a sleeve. --- If you're there, can you measure the diameter of the pump and the distance between it and the sending unit. I believe the diameter is close to 36 mm. Maybe, something like this will work. https://www.highflowfuel.com/quantum...RoC9K0QAvD_BwE
+
+ANSWER 2 (id: 2282_1):
+Originally posted by Kavadarci Hi while driving my car without the back seats to troubleshoot roof noises I noticed what I believe it’s a fuel pump noise that is not as noticeable with the seats on. the sound is pronounced and now that I don’t have sounds from the roof I can hear it well. My question is if this is normal and how many fuel pumps do I have? rockauto has fuel pump inside the tank and outside of the car. I don’t think I have one outside. also should I replace fuel sending unit and where is that located? thank you fuel pump runs constant. they buzz like mad if gong out but will continue on for a while until it starts driving issues. could also be you just notice it more without the sound dampening from the rear seat. my e30 has 2 pumps. a sending unit / lift pump in the tank and a fuel pump by the passenger rear tire.

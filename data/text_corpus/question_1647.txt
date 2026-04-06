@@ -1,0 +1,22 @@
+QUESTION ID: 1647
+
+QUESTION:
+Was working on installing the Massive 280mm Street kit today and found that the Corrado rotors clash with the tie rod ends. My car has a Z3 rack and Lemforder Z3/E36 inner and outer tie rods. Can anyone recommend tie rods they're certain will not cause this clash? My only other ideas are finding or designing a thin shim between the rotor and hub which feels very sketchy, or using a bump steer correction tie rod from Garagistic, which may or may not clear my wheels. Attached Files
+
+ANSWER 1 (id: 1647_1):
+Does it clear at full up travel? It is very close for comfort lol... Worried about what happens when the joint wears... detection threshold vs contact. And melting the boot. Any way to shim the caliper and rotor out, even like a single washer's worth? I don't remember if the caliper adapter bolts to the inboard or outboard side of the knuckle, but I assume it converts it to radial mount.
+
+ANSWER 2 (id: 1647_2):
+I was going to suggest some aftermarket tie rods (GC, MRT, etc.) But the entire point of those is bumpsteer correction and spacing the joint straight down only going to bring the whole thing closer to the rotor since the hole is canted. Kind of a waste to buy those and not be able to take advantage of that.
+
+ANSWER 3 (id: 1647_3):
+The caliper is outboard, I did consider shimming it along with the rotor, but I bedded everything in and have driven the car ~150mi and haven’t had any issues yet. This looked extremely sketchy to me, but I’m curious what Lee says when he’s back from vacation. Honestly I’m surprised how few people have mentioned this as an issue. I did consider the MRT Tie rods, and I do think they would work because they’re significantly narrower (I think), but didn’t want to spend another $300 to fix this problem.
+
+ANSWER 4 (id: 1647_4):
+im running these brakes and z3 rack. it was close but didn't cause a problem, just had to trim the heat shield. not sure what tie rods i bought and this is on my lemons car. 5000 miles on it or so and a couple races
+
+ANSWER 5 (id: 1647_5):
+Seems something is wrong with your tie rod ends. They are still sticking out too far. If the caliper and pads are inline with the rotor and not offset then the hat depth of the rotor is correct.
+
+ANSWER 6 (id: 1647_6):
+Originally posted by downforce22 im running these brakes and z3 rack. it was close but didn't cause a problem, just had to trim the heat shield. not sure what tie rods i bought and this is on my lemons car. 5000 miles on it or so and a couple races i was also using a z3 rack with the 280mm kit previously. genuine e36 tie rods iirc, but def no issues

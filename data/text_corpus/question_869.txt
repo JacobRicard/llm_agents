@@ -1,0 +1,13 @@
+QUESTION ID: 869
+
+QUESTION:
+Just thought I would share a tip. Several years ago I swapped an s54 into an e28. During that swap I found a Porsche 924 booster in the junkyard that was a perfect match for the e28 from a bolt pattern in the firewall and for the master cylinder. I sent it off for rebuild and it worked great on the e28 paired with a 7 series master. Fast forward to today and I’m swapping an s54 into an e30 318 touring. I ordered a 924 booster new for $150ish dollars and no way would it fit...and it just seemed bigger than I remember. A little investigation turns up that early 924 has a smaller brake booster so I jumped on car-part.com and found a junkyard booster from a 1977 924....it was like $40 delivered and sure enough it was significantly smaller. Fits perfectly with the s54... no mods other than to turn the threads farther down the shaft and cut to length. Sent it off to power brake exchange in San Jose for a rebuild for approx $150 and I’m in business. Not sure the cut off year but the 77 for sure has the smaller booster. Will try to post a pic of the 2 924 boosters side by side and just for perspective the larger booster is e21 (ish) size. Hope this helps Attached Files
+
+ANSWER 1 (id: 869_4):
+No idea of part # but included another shot of booster installed and if you look close you can see the clearance...not much but should eork Attached Files
+
+ANSWER 2 (id: 869_5):
+Nice, I did not know about this option and it seems to fit nicely. Im sure people will complain about the lack of vac assist like the E21/2002/944 but at least its some assist. A proper sized master on there sould give reasonable pedal feel.
+
+ANSWER 3 (id: 869_6):
+Any idea on the approximate dimensions of this booster? Diameter, thickness, etc? What about the spacing between the studs on the back that go through the firewall? This should be the same for all e30 boosters I believe. I'm curious if any of the generic ones from summit or elsewhere would work.

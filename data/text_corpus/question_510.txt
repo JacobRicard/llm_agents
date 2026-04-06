@@ -1,0 +1,40 @@
+QUESTION ID: 510
+
+QUESTION:
+Hi, I am looking at importing a 1994 316iT from Europe to the USA, it appears it has factory radio delete, Does anyone know if these came pre-wired with speakers so I can add a aftermarket radio? First post so please forgive me!
+
+ANSWER 1 (id: 510_0):
+That doesn't look like a factory radio delete plate to me, although the photo quality is poor. Did you verify on the options list that there was no radio originally installed?
+
+ANSWER 2 (id: 510_1):
+Pull the kick panels off in the footwells and see if there is wiring for speakers, or do the same behind the delete plate. It's very easy to recognize the audio system wires.
+
+ANSWER 3 (id: 510_12):
+Originally posted by kronus That’s an aftermarket adapter wired into original looking twisted pair speaker wire. who tf specs an e30 with a premium OBC but no radio?? kronus Definitely an oddball spec. But thanks for pointing that out, hopefully that adapter kit works!
+
+ANSWER 4 (id: 510_13):
+Originally posted by kronus That’s an aftermarket adapter wired into original looking twisted pair speaker wire. who tf specs an e30 with a premium OBC but no radio?? was wondering same
+
+ANSWER 5 (id: 510_2):
+Yes I verified on the MDecoder that it has radio delete. here is another screenshot of a video he sent me. I will have him remove the panels to confirm wiring.
+
+ANSWER 6 (id: 510_3):
+speaker wiring for basic system should be present. likely excluding the door tweeters for the premium system. most times basic speaker wiring is put in the car along with the interior harness. wiring for the radio is probably not present. there were a few factory sound systems options, each had their own harness. i believe there were 3 options, possibly more in europe.
+
+ANSWER 7 (id: 510_4):
+Originally posted by 82eye speaker wiring for basic system should be present. likely excluding the door tweeters for the premium system. most times basic speaker wiring is put in the car along with the interior harness. wiring for the radio is probably not present. there were a few factory sound systems options, each had their own harness. i believe there were 3 options, possibly more in europe. Thank you for the info! Without having the radio pre-wired, would that make putting in a aftermarket head unit (Continental) extremely difficult or impossible? Attached Files
+
+ANSWER 8 (id: 510_5):
+Originally posted by MB311 Thank you for the info! Without having the radio pre-wired, would that make putting in a aftermarket head unit (Continental) extremely difficult or impossible? It's not a big deal to run new wiring, even if you have to go directly to each speaker. Hardest part is probably taking apart the interior to tuck the wires away. You really just need switched power and ground for the headunit. If you want to install an antenna it will be a little more involved.
+
+ANSWER 9 (id: 510_6):
+Originally posted by Panici It's not a big deal to run new wiring, even if you have to go directly to each speaker. Hardest part is probably taking apart the interior to tuck the wires away. You really just need switched power and ground for the headunit. If you want to install an antenna it will be a little more involved. this is the answer. shouldn't be too hard. probably less complicated than dealing with the original system.
+
+ANSWER 10 (id: 510_7):
+Thanks for the info everyone! Tunes are an absolute must in my car when I drive so I wanted to make sure it was possible. I can do without A/C, but I can’t do without music.
+
+ANSWER 11 (id: 510_8):
+Originally posted by MB311 Thanks for the info everyone! Tunes are an absolute must in my car when I drive so I wanted to make sure it was possible. I can do without A/C, but I can’t do without music. completely off-topic - the one thing i'd want to know is what shape the cam is in. the m40b16 is known for the cam wearing resulting in low rpm and significant loss of power. it's common enough bmw put together a refresh kit that was available in europe. in north america it is not supported at all, and most folk importing the car are generally doing an engine swap as part of the plan. just something to be aware if you haven't heard of it.
+
+ANSWER 12 (id: 510_9):
+Originally posted by 82eye completely off-topic - the one thing i'd want to know is what shape the cam is in. the m40b16 is known for the cam wearing resulting in low rpm and significant loss of power. it's common enough bmw put together a refresh kit that was available in europe. in north america it is not supported at all, and most folk importing the car are generally doing an engine swap as part of the plan. just something to be aware if you haven't heard of it. Thanks for the heads up. I was planning on keeping this one as stock / original as possible because of the condition. It’s a sub 40k mile example. From the driving videos or cold start I didn’t get the sense of any issue or engine ticking sounds. Anything I should request for him to send me to confirm if the cams are potentially failing? 82eye , thanks again for the help here . I’m a E30 noob! I previously had a F80 M3, now I currently have a E46 M3/6spd & a E39 540i/6pd M Sport, and I’m continuing to have the Benjamin Button effect in my BMW’s and going older & older with the next purchase. I’m caring less about having the newest design and features & I’m appreciating the pure analog experience as I’m getting older.

@@ -1,0 +1,7 @@
+QUESTION ID: 3164
+
+QUESTION:
+Does anyone know the part number for the pin removal tool needed to remove the door plug pins and sockets (c40x)?
+
+ANSWER 1 (id: 3164_0):
+Looks like it uses the same tool as the c101. You can use any universal tool that has the tubular terminal releases. We have a large kit that has them all, but the lisle 56500 should do the trick.

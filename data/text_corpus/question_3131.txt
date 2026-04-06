@@ -1,0 +1,37 @@
+QUESTION ID: 3131
+
+QUESTION:
+I know this is e36 related but I'm sure some of you have work on e36 before. So I took my e36 m3 to get smog and the computer failed it. It passed everything except two codes for the automatic tranny. The car is no longer an automatic and there are no check engine light on. With an obd2 scanner the codes do show up on the scanner. How can I clear the codes? By the way, my e36 m3 have a m50 manifold w/ the turner adapter kit. Just for future reference if anyone want to know if a m50 manifold on s52/m52 will pass smog or not.
+
+ANSWER 1 (id: 3131_0):
+Looks like you'll have to find a way to satisfy those two internal fault codes. Since they have less to do with the engine and emissions than they do the E36 OBD2 electronics, perhaps Bimmerforums or an E36 specific forum would be more helpful. Perhaps someone local to you can reflash your ECU if it's not something as easy as completing a circuit, etc.
+
+ANSWER 2 (id: 3131_10):
+My E39 threw CELs for a failed seal in the torque converter until I had it replaced (not cheap). It would not have passed a TN emissions test. From all the research I did, at the end of the day it only meant the car was running a couple hundred RPM higher at speed. However, I understand it's a Federal thing - in US spec (OBD2) cars that is an "emissions-related" code, which triggers the dash light and records a stored code. It's also my understanding that same issue does not throw a light or store a code in EU spec cars. I blame CARB.
+
+ANSWER 3 (id: 3131_11):
+Originally posted by M-technik-3 Should not see why that would not work. That is what I was going to suggest. Apparently, I just double checked and the dme inside my car is from a manual. So, that throws the idea out the door. Originally posted by M-technik-3 Mass has nearly same communist laws when it comes to inspection except when vehicle become 15yrs old you can have a Christmas tree lit up on your dash and your good to go. We need that here. Its not like we have a lot of people driving 15 years old car around anymore. Originally posted by george graves Wow - smog failed for a OBC fault with nothing to do with emissions? A bad gas cap I can understand. But a tranny selector switch? As if the motor is going to put out different emissions where it's in neutral or drive? Ouch. I bet the selector switch is looking for contact or resistance provided by the gear elector assembly. If you still have it, you could probe the values(assuming it's not just a connection) and fake it. But the ecu might still trow a fit if it thinks it's being started in gear. I miss so cal. But not this. Tell me about it. If I can't get it sorted, I'll just have to paid $300 every two years to get it smogged.
+
+ANSWER 4 (id: 3131_12):
+Originally posted by agent My E39 threw CELs for a failed seal in the torque converter until I had it replaced (not cheap). It would not have passed a TN emissions test. From all the research I did, at the end of the day it only meant the car was running a couple hundred RPM higher at speed. However, I understand it's a Federal thing - in US spec (OBD2) cars that is an "emissions-related" code, which triggers the dash light and records a stored code. It's also my understanding that same issue does not throw a light or store a code in EU spec cars. I blame CARB. I found this to be an issue among others auto to manual swap cars too. Like you said, its a federal thing and CA just took it way too far. So I pulled the dme and its from a manual s52. Do you think the auto cluster have anything to do with it? I was reading online and others are mentioning about reprogramming the cluster to clear some codes. I'm talking to a seller on ebay and this is what he said, "Possibly need to recode the EWS module and/or remove the auto computer if it's still in there. Usually ews delete + ews module removal does the trick too." "Ews module is coded for the trans type. It talks to the ecu and tells it what maps to look at (auto or manual). The manual dmes are usually forced into manual mode so I'm not sure what's missing here. It's more than just an anti theft immobilizer." From my research last night, others mentioned that the car will not start if the automatic computer is removed/unplugged. What else does the automatic computer control? Some say it has something to do with the asc and cruise control as well.
+
+ANSWER 5 (id: 3131_2):
+PM Kronus, he did an auto to manual swap in an M3. I agree with the other posters though, it sounds like you need to reflash the ECU to be happy with the lack of an automatic. I'm a bit surprised that they failed you for OBD codes not related to emissions though.
+
+ANSWER 6 (id: 3131_3):
+I though the auto tranny has its own dme? Honestly, the auto codes caught me off guard. The previous owner must have cheated smog when he sold it to me. I have already contacted two vendors, so I'm still waiting for them to get back to me. Thanks guys.
+
+ANSWER 7 (id: 3131_5):
+Originally posted by mr.vang Another question, can I just install a manual s52 dme with ews deleted to get rid of the auto codes? Should not see why that would not work. That is what I was going to suggest.
+
+ANSWER 8 (id: 3131_6):
+Originally posted by M-technik-3 Should not see why that would not work. That is what I was going to suggest. So far that is the cheapest route. $95 for a manual dme w/ ews deleted.
+
+ANSWER 9 (id: 3131_7):
+Originally posted by Bimmerman325i PM Kronus, he did an auto to manual swap in an M3. I agree with the other posters though, it sounds like you need to reflash the ECU to be happy with the lack of an automatic. I'm a bit surprised that they failed you for OBD codes not related to emissions though. This is CA we're talking about. Any faults or anything not certified means automatic fail. Probably the only state where running clean isn't enough.
+
+ANSWER 10 (id: 3131_8):
+Originally posted by reelizmpro This is CA we're talking about. Any faults or anything not certified means automatic fail. Probably the only state where running clean isn't enough. Mass has nearly same communist laws when it comes to inspection except when vehicle become 15yrs old you can have a Christmas tree lit up on your dash and your good to go.
+
+ANSWER 11 (id: 3131_9):
+Wow - smog failed for a OBC fault with nothing to do with emissions? A bad gas cap I can understand. But a tranny selector switch? As if the motor is going to put out different emissions where it's in neutral or drive? Ouch. I bet the selector switch is looking for contact or resistance provided by the gear elector assembly. If you still have it, you could probe the values(assuming it's not just a connection) and fake it. But the ecu might still trow a fit if it thinks it's being started in gear. I miss so cal. But not this.

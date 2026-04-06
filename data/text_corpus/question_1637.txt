@@ -1,0 +1,10 @@
+QUESTION ID: 1637
+
+QUESTION:
+Hey everyone, Ran into a pretty frustrating issue today on my 1991 325iX. The metal tube that guides the e-brake cable just broke off from the chassis. I was trying to free a stuck metal ferrule on the cable (yellow arrow in the photo) that sits inside that tube. Instead of the ferrule coming loose, the entire tube snapped off. Now the tube just wiggles around, which means I can’t get enough leverage to free the ferrule—and I’m worried the whole thing is going to break completely if I mess with it any more. The red arrow in the photo shows where it separated from the chassis. At this point it looks like the “proper” fix might involve dropping the exhaust, removing the driveshaft, pulling the rear subframe, and moving the brake line out of the way just to weld the tube back onto the chassis… which sounds like an absolute nightmare. Before I start tearing half the rear end of the car apart, has anyone dealt with this before? Any tricks or alternative approaches that might avoid doing all of the above? I also have the task of removing the stuck ferrule. Considering drilling it out but there's not much space in there to get a drill bit on there. Appreciate any advice.
+
+ANSWER 1 (id: 1637_1):
+I had the same root problem- E Brake ferrule rusted to the 41121916245 ends. I ended up dremmeling them out to avoid what happen with you. From what I can tell, it looks like the steel guides are tacked to the floorboards. If the guides can still function as designed, they probably can just be reattached to the floorboards. Sounds like a hugh PITA to something so inconsequential.
+
+ANSWER 2 (id: 1637_2):
+I ended up using a Dremel to cut the end off, then I used a 7/16” M35 cobalt stubby drill bit to very carefully drill it out. The tube ended up being slightly wide, causing the new ATE e-brake cable to sit in there a bit loose. My plan is to clean it up a bit and put some RTV on the rubber ferrule. That should do the trick. Then on to the other side. Which hopefully will not give me as much trouble.

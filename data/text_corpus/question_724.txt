@@ -1,0 +1,31 @@
+QUESTION ID: 724
+
+QUESTION:
+Hey guys, It has been a while for me posting here, but i have been busy. I am trying to narrow down a very slight misfire my 325i is experiencing, and i have pretty much the entire fuel, ignition and vacuum system overhauled. From new style injectors, fuel pump, hoses, FPR, TPS, all gaskets, seals, new ignition wires, cap, rotor, coil, plugs and every sensor replaced. Only the AFM and ICV are original and within specs. I adjusted the valves to 0.25mm clearance/gap a few months ago, both intake and exhaust. The misfire is more apparent when cold and sounds more of a valve issue when warm and only on idle, no matter what position is the accelerator pedal, it pulls flawlessly to redline, no hiccups, judders of any kind. Plugs are nice and tan-ish/very light grey in colour as well as the lowest compression test was 164psi and the highest was 170psi (warm engine and throttle was WOT), all other cylinders are around 165psi. I was brushing through one of the German manuals i have, and i found this: To translate Einlaß means intake, Auslaß is exhaust. It mentions on the second column than the intake valve should be set to 0.20mm when cold "only for swiss models". This has got me thinking, since my 325i is a Swiss model imported by the original owner to Germany back in 1997 (got all documents since then), maybe this is why, there is a slight misfire? it could be a long shot, but if it will cost me €7 for a new gasket and maybe 40 minutes to do, it is worth considering, but wanted to know if anyone here has heard of such a low clearance for the intake valves due to certain model/country cars before (i am also guessing the ECU/DME has been setup for this). Any help/suggestion would be appreciated.
+
+ANSWER 1 (id: 724_0):
+Possibly something to do with altitude correction or to remedy a specific customer complaint from Switzerland. Doubtful that the tune is different to account for a variance in valve lash, but it is possible that it was tuned for lower grade fuel or that Swiss cars were not catalyst equipped.
+
+ANSWER 2 (id: 724_2):
+Originally posted by roguetoaster Possibly something to do with altitude correction or to remedy a specific customer complaint from Switzerland. Doubtful that the tune is different to account for a variance in valve lash, but it is possible that it was tuned for lower grade fuel or that Swiss cars were not catalyst equipped. my 1990 325i does have a factory CAT. Originally posted by E30SPDFRK If anything, tighter valve clearance would be more likely to cause a slight misfire than loose would. I was thinking the same, i have both intake and exhaust valves at 0.25mm. Maybe i should get a new cover gasket and check the valve train once over? double check nothing is loose and double check the clearance as well while it is off.
+
+ANSWER 3 (id: 724_3):
+I shall be re-testing the whole fuel and ignition system once more, as well as another smoke test to be certain that the "basics" are covered before i start removing the valve cover and doing the valve clearance once more. But to be on topic, you guys recommend sticking with the 0.25mm clearance for both intake and exhaust valves regardless of European, Swiss, USA etc models?
+
+ANSWER 4 (id: 724_4):
+Originally posted by S.J.1981 I shall be re-testing the whole fuel and ignition system once more, as well as another smoke test to be certain that the "basics" are covered before i start removing the valve cover and doing the valve clearance once more. But to be on topic, you guys recommend sticking with the 0.25mm clearance for both intake and exhaust valves regardless of European, Swiss, USA etc models? Can't think of any reason to go with anything else if the remainder of the valvetrain is healthy.
+
+ANSWER 5 (id: 724_5):
+post up a video it might be normal m20 behaviour https://www.r3vlimited.com/board/forum/e30-technical-forums/engine-drivetrain/m20/348228-how-should-an-m20-idle-anyway
+
+ANSWER 6 (id: 724_6):
+Originally posted by roguetoaster Can't think of any reason to go with anything else if the remainder of the valvetrain is healthy. I shall do the 0.25mm on both valves IF i end up finding nothing wrong with everything else.
+
+ANSWER 7 (id: 724_7):
+Originally posted by digger post up a video it might be normal m20 behaviour https://www.r3vlimited.com/board/for...20-idle-anyway Big MAYBE yes, but again it is noticeable from the exhaust when cold and when warm (very very minor but it is there), no rpm fluctuations, no judder or surging, good throttle response....but something inside me says that something maybe off. Maybe the new Bosch ignition wires i got last winter have gone slightly bad, or the coil, or the valves. I have the new style bosch 4 hole injectors installed, i sent the originals just today out to a specialist for proper testing, maybe it is just how the engine is but lets see. Those "hiccups" mentioned in the thread is pretty much exactly how i would describe it, every few seconds small "blurb" would come, but rpms will never move, all in the exhaust.
+
+ANSWER 8 (id: 724_8):
+I may have found the problem, there appears to be a very small oil seepage on the driver's side block. It appears to be leaking from the intake manifold gasket, the big one for the oil breather system. It never showed up in any smoke tests ironically, but there is no other way, that oil will leak out of the intake (only in that area, where the bitch tube sits). I used febi gaskets, as well as Elring ones, both failed on me. Will pick up some OE BMW ones tomorrow and see if i can get the intake off and re-new the gaskets.
+
+ANSWER 9 (id: 724_9):
+Hello S.J.1981 - Did changing the intake gasket fix your idle? I have the same annoying idle burble on my 1992 and have done nearly everything that you listed: new injectors, hoses, TPS, all gaskets, seals, new ignition wires, cap, rotor, coil, plugs and every sensor replaced. Like yours, AFM and ICV are original and within specs. Please share your findings. Thank you

@@ -1,0 +1,16 @@
+QUESTION ID: 3441
+
+QUESTION:
+I have gotten my m60 (similar to m42 or m44) heads back from the machinist and I need to reinstall the camshafts. He told me its a good idea to use assembly lube so I will. Not worried about that and neither am I worried about timing. I have the cam timing tools and copious pictures to show me the right orientation after the caps are reinstalled. When I removed the cam shafts, I was able to do so by very slowly loosening each cap nut by a 1/4 turn each. You can clearly tell where the cams are under pressure. When reinstalling, should I go to the effort to get the valves opened and held open? Or just very, very slowly do the same as I did when removing the camshafts and hope for the best? Thanks for the suggestions.
+
+ANSWER 1 (id: 3441_0):
+For what it's worth, I disassembled and reassembled my S52 cylinder head with the 1/4 turn method and it all worked out great. I used this video as a reference for the process. Skip to 19m44s
+
+ANSWER 2 (id: 3441_1):
+Originally posted by Varinn For what it's worth, I disassembled and reassembled my S52 cylinder head with the 1/4 turn method and it all worked out great. I used this video as a reference for the process. Skip to 19m44s That's a great video. Thanks for sharing that! It gives me more confidence.
+
+ANSWER 3 (id: 3441_3):
+I usually articulate the cam so that only 1 or 2 sets of lobes are going to compress valves and I start adding the keepers. You want to make sure it has the least amount of stress possible. After I get it torque'd then I rotate the cam into the position I want to set time.
+
+ANSWER 4 (id: 3441_4):
+Originally posted by e30onBBSs Tighten the middle first and then go from side to side working your way to cylinder 1 and 6 Thanks! Originally posted by Dj Buttchug I usually articulate the cam so that only 1 or 2 sets of lobes are going to compress valves and I start adding the keepers. You want to make sure it has the least amount of stress possible. After I get it torque'd then I rotate the cam into the position I want to set time. Cool. I noticed that when I was pulling out the cams they were pretty much in that state (least amount of stress). Plus that's logical. I am fortunate that my cams are only 4 pistons wide instead of 6.

@@ -1,0 +1,19 @@
+QUESTION ID: 95
+
+QUESTION:
+My E30 has an engine swap that places the exhaust side of the motor on the driver side of the engine bay. Currently the exhaust and wastegate dump straight up (out of the hood, but I'd like to plumb the exhaust back and down next to the brake booster. Unfortunately, I don't think I can clear it with 3" exhaust pipe. For those that have gone from the stock brake booster to one of the various delete kits, how did your pedal feel change? is it still streetable on a daily basis? For those of that have gone to a smaller brake booster, what did you goto?
+
+ANSWER 1 (id: 95_0):
+Look in the engine swap threads. You can run boosterless. but it takes some finessing. I own 2 cars that have disc brakes that never used boosters. Both have high initial pedal pressure. Both are streetable, being street cars. Modern aggressive pads help a lot. WTF use an engine that has the hot side on the left??? Or are you RHD? Or are both sides hot? t thinking that an LS swap isn't the worst thing you can do to a car..
+
+ANSWER 2 (id: 95_1):
+I assume its as easy as buying a boost delete kit from one of the reputable shops in this community. My concern is moreso pedal pressure. What pads to you run on your boosterless cars? Originally posted by TobyB WTF use an engine that has the hot side on the left??? Or are you RHD? Or are both sides hot? sr20det https://www.r3vlimited.com/board/forum/general-forums/members-rides/10127499-turbo30-build
+
+ANSWER 3 (id: 95_2):
+I'm running an X3 booster with an adjustable rear bias valve. Smaller diameter but thicker then OEM, not sure if that is better or worse for downpipe clearance? Pics in my build thread. Also FYI, I remember an "Engine Masters" TV show where they dented the heck out of an exhaust pipe and saw no power loss on the dyno. Would you be able to use a sledgehammer and custom-form a 3" downpipe to clear everything?
+
+ANSWER 4 (id: 95_3):
+Originally posted by Panici I'm running an X3 booster with an adjustable rear bias valve. Smaller diameter but thicker then OEM, not sure if that is better or worse for downpipe clearance? Pics in my build thread. Also FYI, I remember an "Engine Masters" TV show where they dented the heck out of an exhaust pipe and saw no power loss on the dyno. Would you be able to use a sledgehammer and custom-form a 3" downpipe to clear everything? Booster width affects the downpipe and booster thickness affects turbo placement is affected by booster length. Ideally i'd find one that is both narrower and shorter . If I had to choose, I'd prefer to modify the downpipe or maybe limit the diameter until it gets under the car, vs having custom make a top mount manifold. Maybe I try to work with the stock brake booster.
+
+ANSWER 5 (id: 95_4):
+For street pads, I try to stay with an OE supplier- Textar was great, but Pagid and Jurid also use a pretty high- bite compounding. Performance Friction also has some crossover pads (sorry, I forget numbers) which work well. The trade- offs are dust, noise, and cold braking performance, but that's why boosters were invented... Anything 'ceramic' or 'low dust' tends to be very low grip and terrifying... There are also many different diameter main cylinders out there, and RealOEM has the diameters. Running a smaller diameter will reduce pedal effort, and if your system's in good shape, the travel doesn't get too long. Again with the tradeoffs... t

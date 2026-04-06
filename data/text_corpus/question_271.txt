@@ -1,0 +1,13 @@
+QUESTION ID: 271
+
+QUESTION:
+my 89 325is has some issues: rough or bumpy roads cause it to wallow/sway. i'm trying to get to the root of the problem, maybe you guys have had similar experiences? What happens: i'm driving straight, the road has some bumps (from asphalt patches or cracks). as the car goes over them, i can feel the car "wallow" as the car suspension compresses, that is i feel like the rear of the car is swaying side-to-side (yawing). i'm thinking it could be one of many things: - worn shocks (not sure how old they are) - degraded bushings (visually, all of them look pretty cracked and dry) what is a good way to diagnose? i'm sure i'll have to end up replacing the bushings (not looking forward to this at all) and the shocks eventually. but before that, it'd be nice to hear someone's similar experience to narrow down the cause.
+
+ANSWER 1 (id: 271_0):
+Having done several suspensions, you would be amazed at how much the ride is effected by worn out components. (IE: shocks, springs, bushings etc.) Based on the fact that you have a near 20 year old sport model, chances are, its been railed on with little care or attention to its bits. Its hard to diagnose any small problems when you are dealing with worn out parts to start with.
+
+ANSWER 2 (id: 271_1):
+Replace all the bushings and shocks (and their mounts) and get bigger swaybars. Check the balljoints/control arms also. Got steering rack play? I used to be able to wiggle my steering wheel back and forth a bit at higher speeds and feel the car shimmy underneath me in the rear. Replacing the rear bushings and stuff alone will make a very noticeable difference in handling and response.
+
+ANSWER 3 (id: 271_2):
+Shot subframe bushings will often yield side effects a lot like you described. That's the first place I'd look but it's worth checking everything else out too.

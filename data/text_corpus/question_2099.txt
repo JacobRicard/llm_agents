@@ -1,0 +1,25 @@
+QUESTION ID: 2099
+
+QUESTION:
+Hi dear All, I hope that you are well. :-) Has anyone added or considered adding a tracking device to their car? In short, I'm thinking of attaching an Apple AIrTag (inside a waterproof case/holder) to my car. I though maybe behind the front grill somewhere - not near the radiator, fan, or moving parts. I live in a pedestrian friendly city and park my car on the street. Many people (carrying phones) will naturally walk by the car each day - allowing the tag to report its location. This is why behind the grill is my first thought - to allow the tag to communicate with bypassing cell phones. Pls let me know your thoughts. Best, Kelly
+
+ANSWER 1 (id: 2099_0):
+Ghost Lock for Honda & Acura Vehicles https://www.jordandistributors.com/products/ghost-lock PLEASE NOTE: The Ghost Lock is now in stock and ready to ship. You should NEVER attempt to recover your vehicle yourself! Always contact the authorities for vehicle recovery. You Should NEVER disable the vehicle remotely while the vehicle is moving under any circumstances for the safety of the driver, thief, passeng I think they usually do Hondas but this could probably work on any older car.
+
+ANSWER 2 (id: 2099_2):
+The device can beep so I have one under the car seat and then added a 2nd one in the trunk. This way, if someone hears it and removes it, they think they are free and clear.
+
+ANSWER 3 (id: 2099_3):
+Hi Alex (or is it Monty?), Yes, I also thought of having a "primary" and a "secondary" tag. Does the tag inside your trunk have a shorter battery life that the tag under the seat? Just curious. I thought maybe the truck tag, which is "confined" inside a metal box, might use more energy on communication attempts? Best, Kelly
+
+ANSWER 4 (id: 2099_4):
+I thought part of the thing with Airtags is that if it follows you for x amount of time, your phone will allow you to disable the Airtag as an anti-stalking measure.
+
+ANSWER 5 (id: 2099_5):
+Originally posted by Beemie Hi Alex (or is it Monty?), Yes, I also thought of having a "primary" and a "secondary" tag. Does the tag inside your trunk have a shorter battery life that the tag under the seat? Just curious. I thought maybe the truck tag, which is "confined" inside a metal box, might use more energy on communication attempts? Best, Kelly Real name Alex but nickname is Monty, so both. Both have the same battery life span so they can both die around the same time. I haven't opened one to replaced the battery. I got mine at different times so in theory, battery lifespan is different, just no sure which will go out first. the BT is passive so it is not working harder or easier. Of course this is not the best system out there but for me, it works and a great price.
+
+ANSWER 6 (id: 2099_6):
+Originally posted by Northern I thought part of the thing with Airtags is that if it follows you for x amount of time, your phone will allow you to disable the Airtag as an anti-stalking measure. The newer iOS will have extra features but it doesnt work correctly and it can still take sometime before your phone (if iPhone) alerts you that there is an AirTag that is not yours wiith you until sometime passes. So as long as I noticed my car was stolen in under a day, I should be fine as long as those AirTags were not removed. Like I stated in the above post, this is LoJack on a budget. I used 3 on my kids ski jacket earlier in the year to keep track of them. Their instructor had an iPhone and never mentioned anything to me. So nothing popped or she is not on the lates iOS. Here is a Tomguide blog about it and one test showed the iphone on the correct iOS didnt report the stalker airTag for the day. https://www.tomsguide.com/news/apple...vacy-loopholes
+
+ANSWER 7 (id: 2099_7):
+Originally posted by monty23psk The newer iOS will have extra features but it doesnt work correctly and it can still take sometime before your phone (if iPhone) alerts you that there is an AirTag that is not yours wiith you until sometime passes. So as long as I noticed my car was stolen in under a day, I should be fine as long as those AirTags were not removed. Like I stated in the above post, this is LoJack on a budget. I used 3 on my kids ski jacket earlier in the year to keep track of them. Their instructor had an iPhone and never mentioned anything to me. So nothing popped or she is not on the lates iOS. Here is a Tomguide blog about it and one test showed the iphone on the correct iOS didnt report the stalker airTag for the day. https://www.tomsguide.com/news/apple...vacy-loopholes I don't really do the apple thing, just what I heard from an article about them. My wife had something like this happen, but with airpods. It showed where they started travelling together and the route they took, but it was ~30 minutes before that showed up. Also if you were thinking about running two airtags anyway, it might be good to swap one with a Tile/chipolo/Samsung equivalent to minimize the chance that both get turned off.

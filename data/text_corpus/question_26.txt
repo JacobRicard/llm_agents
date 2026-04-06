@@ -1,0 +1,10 @@
+QUESTION ID: 26
+
+QUESTION:
+Hey guys, I’ve owned my 1991 e30 with the original airbag wheel for ~3 years. Before the rack swap, the SRS functioned correctly - SRS light illuminated solidly for 6 seconds after turning car on then extinguishes permanently the remainder of the drive. I had a shop swap a used remanufactured steering rack in and now the light blinks continuously. They were unsuccessful in getting the light to turn off or reset. The mechanic took the car to a bmw specialty shop with the SRS reset equipment and they were unable to reset the light because “unable to communicate with module. Recommend replacing ABS computer.” I didn’t know the ABS computer was connected to the SRS system? Also, when I got the car back after the swap, the steering was extremely light, would almost skip when driving over a chip or bump on the freeway and the wheel would not return to center after a turn. We figured it was just a bad rack because it was used with an unknown history. Now that I got the car back after a week of them fussing with the SRS light, the steering is heavy and tight and the wheel returns to center after a turn. any ideas on why that would be? What could be the cause for the SRS light blinking and solution here? Thank you,
+
+ANSWER 1 (id: 26_0):
+The procedure doesn't need any special equipment. https://www.r3vlimited.com/board/forum/e30-technical-forums/e30-faq-and-diy/373906-e30-srs-reset-procedure
+
+ANSWER 2 (id: 26_1):
+If the airbag module won't talk, it might be because, like most of us who are over 35 now, it's just too busy with work and kids and life to have a chitchat. It certainly doesn't talk to the ABS module, as the ABS module is far too busy freaking out that there might be some ice and should it disable all the brakes on your car just to be safe? Probably best to just gut it, cage it and take it PRO3 racing. Far less to go wrong that way. t wonders about the lifespan of the pyrotechnics in these things... knows for sure that 35 year old electronics weren't the best when they were new, and are totally craaaap (not Scottish) now.

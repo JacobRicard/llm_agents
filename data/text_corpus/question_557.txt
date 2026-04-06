@@ -1,0 +1,7 @@
+QUESTION ID: 557
+
+QUESTION:
+Hey guys, just purchased a 1990 325i and one of the things on my list to do is to upgrade the speakers. Looking to see if any one may know the mounting depth Of the front/ rear? If I simply find a 5.25 speaker with the same or smaller mounting depth, it should be a direct drop in as well correct? any guidance would be greatly appreciated. thank you
+
+ANSWER 1 (id: 557_0):
+Based on an old thread of mine, the absolute max depth is ~69mm, although you can get creative with a mallet and squeak it out to ~75mm. Really, I would stick with <65mm. Any standard 5.25" speaker for automotive use should fit fine as the hole pattern should be standard. Worst case, you drill some new ones in the speaker frame? Here's the very old thread of mine, if you are interested: https://www.r3vlimited.com/board/forum/e30-technical-forums/car-audio-electronics/135835-e30-audio-overhaul-my-project-details

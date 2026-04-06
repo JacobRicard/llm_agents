@@ -1,0 +1,19 @@
+QUESTION ID: 476
+
+QUESTION:
+Hi, I have a late model vert. Straight to the question.. Rather than replacing my si batteries. Can I just remove them all together? I have no interest in keeping service lights and all that. But how will it effect the rest of my cluster?
+
+ANSWER 1 (id: 476_1):
+If your car came with the Lithium ion version of the SI board, and if those batteries haven't been replaced, you essentially are running battery-less right now. The Lithium batteries are diode blocked from pulling the SI board supply voltage low, unlike the rechargeable NiCd version. edit: Further clarifying, if you have the NiCd version of the SI board, the batteries will eventually present themselves as a short once they begin to fail, and can cause actual damage to the SI board and cluster, including damaging PCB traces. It's only the Lithium ion version of the SI board, which is protected from shorting batteries.
+
+ANSWER 2 (id: 476_2):
+The SI board powers and controls the tach, temp, MPG, OBC and SI LED system. If you keep the batteries out, these gauges will no longer function. Also, in reference to refurbishing or repairing the Si board, you simply cannot change the batteries and expect it to work despite what most people will tell you. I know from experience having refurbished multiple hundreds of SI boards over the past 9 years that if you do not change the 30+ transistors, capacitors and voltage regulators, the SI board will fail prematurely. This is because when the batteries drain low, they will switch the SI board on and off very rapidly. This rapid switching or power cycling will cause the microprocessors and transistors to switch rapidly, causing them to fail permanently, basically get stuck in the open or close state. IN the end, I know this to be true because when I first started refurbished SI boards, I would change the batteries and capacitors only. Then after a few months, I would hear back from clients saying their SI boards failed. After we began replacing all the components, we have refurbished multiple hundreds of Si boards and have seen only a handful of boards fail prematurely, perhaps 1 out of 200. You can read my article that has in depth info about the BMW SI board at www.bavrest.com/technical-articles.html. There is no way to bypass the late model SI board. I recommend you have us refurbish your SI board because we seem to be the foremost experts on the topic. There are many shops and individuals that say they can refurbish but replacing only the batteries is more of a temporary fix or "repair" and a gamble too because the 30 year old capacitors and transistors and voltage regulators are old and failing. Our SI boards are a true "refurbished" product and heavily tested prior to shipping. Also keep in mind that not all SI boards can successfully be refurbished or repaired, a small percentage will actually fail permanently.
+
+ANSWER 3 (id: 476_4):
+Swapped out the batteries already. Looks like everything is functioning again back to normal. I don't have the kind of money to dump on a little board that is "refurbished." If my cluster decided to fail on me again, I think I will go a different route than oem.
+
+ANSWER 4 (id: 476_6):
+Since the cluster board is shot I figured I would try soldering in a wire to replace the trace. I ordered new si batteries so hopefully this will work when they come.
+
+ANSWER 5 (id: 476_7):
+Originally posted by packratbimmer Get an older cluster and put your speedo and gas gauge in there - it's easy to delete the SI board on those. I have late boards if you need one. Pm’ed you to get pricing

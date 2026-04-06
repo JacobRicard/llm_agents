@@ -1,0 +1,16 @@
+QUESTION ID: 2409
+
+QUESTION:
+Hey guys. Took my doors apart over a year ago and can’t remember how to install the window guide rails (#8 and 9 in the picture). Looking for assistance. Pictures would be great! Thanks Attached Files
+
+ANSWER 1 (id: 2409_2):
+Originally posted by roguetoaster To be no help at all, it's probably the reverse of removal... Actually you may be able to help. Do you know if early model cars came with these rails? I know they did on late models, but I have an early model and the more I think about it, I don’t remember having to remove these. I also tore apart my garage and can’t find them leading me to believe they aren’t required.
+
+ANSWER 2 (id: 2409_3):
+Originally posted by PaulEZ Actually you may be able to help. Do you know if early model cars came with these rails? I know they did on late models, but I have an early model and the more I think about it, I don’t remember having to remove these. I also tore apart my garage and can’t find them leading me to believe they aren’t required. If you put your vin or production year in realoem(ETK), it should be grayed out if not included or the dates when it was used. I recently did an overhaul to the inside of the door and my door panel is currently removed from driver door if you need something.
+
+ANSWER 3 (id: 2409_4):
+Originally posted by PaulEZ Actually you may be able to help. Do you know if early model cars came with these rails? I know they did on late models, but I have an early model and the more I think about it, I don’t remember having to remove these. I also tore apart my garage and can’t find them leading me to believe they aren’t required. I don't really, have only worked with late windows, but I'd expect some type of guide or evidence of mounting bosses at least if one was there.
+
+ANSWER 4 (id: 2409_5):
+#9 has a tab(mounting boss) at the bottom that is threaded for a bolt (probably 10mm). You install the top of the guide rail and hook it into a piece of sheet metal that is sticking out on top. After its "hooked", put the bolt in the bottom and tighten the bolt. #8 is probably similar. Its hard to see the top of the sheet metal where you hook the guide in. But if you place the guide in and line up the bottom bolt hole, you then can find the top hook place.

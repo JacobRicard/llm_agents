@@ -1,0 +1,22 @@
+QUESTION ID: 1712
+
+QUESTION:
+Hey all, My car has a bunch of these circular connectors which are falling apart... I'm looking for some advice on replacing the factory straight circular connectors: 61130007441 (small wire gauge .5-1mm) green 61130007442 (large wire gauge 1-2.5mm) green The 90 degree ones are both readily available from FCP. 61130007441 can be had from Bimmerworld at $12.99 each. So my questions is- what's everyone doing to replace these when they inevitably crumble into dust? Are you guys biting the bullet on the $12.99 Bimmerworld remakes (if you only need the small ones), finding pigtails at junkyards/ebay, 3D printing new ones? Would be awesome if there's a generic TE/Mouser part that's identical to these?? I'm hoping there's some hack that I'm just not considering- I wish I could convert all of these to Deutsch. Any insight would be much appreciated! Attached Files
+
+ANSWER 1 (id: 1712_1):
+There are several instructions on how to 3D-print these connectors. https://www.google.com/search?sca_esv=601b0517c7361365&q=3d+printed+61130 007441&udm=2&source=univ
+
+ANSWER 2 (id: 1712_2):
+I have had success using the same diameter silicone hose cut to size and glued to the existing connector. This works if you want to replace the insulation and keep the connections snug and water tight. You can also find these all over late model cars if you can find one being parted out.
+
+ANSWER 3 (id: 1712_3):
+Originally posted by 82eye there are piles of generic automotive connectors. lots of times i'll go to those instead of hardwiring if a connector gives out. Yep, happy to go generic connector where possible like on the ABS Wheel speed sensor. More concerned about parts like the coolant temp sensor which is hardwired to mate with 61131378408 populated with these straight circular connectors. Were you able to use generic connectors in those situations?
+
+ANSWER 4 (id: 1712_4):
+Originally posted by Vincenze There are several instructions on how to 3D-print these connectors. https://www.google.com/search?sca_esv=601b0517c7361365&q=3d+printed+61130 007441&udm=2&source=univ I gave this a shot last night from: https://www.r3vlimited.com/board/forum/e30-technical-forums/e30-faq-and-diy/381023-electrical-connector-repair-3d-print-content Ordered 20 sets from Craftcloud and it was $27. I'll report back on how well they work for future reference.
+
+ANSWER 5 (id: 1712_5):
+Originally posted by marquis-marc Yep, happy to go generic connector where possible like on the ABS Wheel speed sensor. More concerned about parts like the coolant temp sensor which is hardwired to mate with 61131378408 populated with these straight circular connectors. Were you able to use generic connectors in those situations? i used a couple pole connectors different places.
+
+ANSWER 6 (id: 1712_6):
+Originally posted by reelizmpro You can also find these all over late model cars if you can find one being parted out. I do this for the most part. Lots of E36 stuff with these connectors as well, so whenever I pulled an engine from a donor, I'd keep a bunch of connectors that match the E30 for like lights or things that have the connector moulded into the part. For like ABS where it's just a free pigtailed connector, I agree, swap them to something half decent like a TE deutsch autosport connector (or even a knockoff). You can pick up large kits, like 345 or 482 piece kits for like $100 on amazon.

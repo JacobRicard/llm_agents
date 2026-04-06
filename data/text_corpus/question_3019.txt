@@ -1,0 +1,16 @@
+QUESTION ID: 3019
+
+QUESTION:
+So we all know the E30's heating system has some weak links. Heater valve, heater core, etc. So, I'm putting my M3 back together and order this... and i get this... Different color plastic, obviously, aluminum lines inside, with some plastic spiral thingies running through them - maybe to improve fluid dynamics or something? The old ones didnt have these Then, the old heater control valve seems to be NLA Then this guy shows up So whats the deal? Did BMW re-engineer a 30 year old heating system? [EDIT: Noticed its not a new part - ECS pics dated 2015, but the old version going NLA is new to me] I'm wondering if I use the new heater control valve, if i might be able to get away with not doing the inline thermostat fix. It was only introduced because the heater control valve would fail and leak onto the driver's foot.
+
+ANSWER 1 (id: 3019_0):
+The plastic looks to be extra seal material being pressed out when they put the metal port together. I would take a look again a possibly remove the extra plastic from the heater core.
+
+ANSWER 2 (id: 3019_1):
+The little plastic helixes in the tubes are common these days, they're in many if not most radiators and heater cores. They supposedly serve to slow the water flow down and induce turbulence, which more evenly distributes rate of flow and thus heat transfer across the radiator as a whole, I haven't seen any testing or simulation of it, but that is what I have read and it does make some sense. As for the valve, everything looks the same aside from the solenoid, probably an aftermarket production change that has nothing to do with BMW, just so the manufacturer can use a more common solenoid and cut costs.
+
+ANSWER 3 (id: 3019_4):
+hmmm....i guess we can take our small victories wherever we can get them? personally, I've had close to 25 e30's but have only once or twice had issues with those parts. i think the ones that did were because some jack wagon filled the system with tap water and they were corroded.
+
+ANSWER 4 (id: 3019_5):
+Originally posted by E30-325iS If the new parts don't work out, you can always try this.... https://www.r3vlimited.com/board/showthread.php?t=191181 Wow. Wonder if he does contract work.

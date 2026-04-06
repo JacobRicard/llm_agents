@@ -1,0 +1,19 @@
+QUESTION ID: 392
+
+QUESTION:
+Trying changing the front left arm, i've broke the screw (number 10 on picture). BROKE ON the carbody.... what can i do
+
+ANSWER 1 (id: 392_0):
+What do you mean "Broke", like broke the head off? If so, undo the other one, remove the arm, get out your dremel, notch a decent ridge in what's left of the screw body and get a big flathead screwdriver. FWIW, since Dremel might not be available in your area, and I have no idea how to say "reciprocating saw" in french, here's a pic of one: -Charlie
+
+ANSWER 2 (id: 392_1):
+Originally posted by Charlie What do you mean "Broke", like broke the head off? If so, undo the other one, remove the arm, get out your dremel, notch a decent ridge in what's left of the screw body and get a big flathead screwdriver. -Charlie Yes head off... But i seems so difficult to unscrew that i think it is the end....
+
+ANSWER 3 (id: 392_2):
+Originally posted by Bunta Originally posted by Charlie What do you mean "Broke", like broke the head off? If so, undo the other one, remove the arm, get out your dremel, notch a decent ridge in what's left of the screw body and get a big flathead screwdriver. -Charlie Yes head off... But i seems so difficult to unscrew that i think it is the end.... Do you think you cross threaded it or stripped it? I would try my "dremel" approach first, if that doesn't work, you might have to try getting a helicoil kit. -Charlie
+
+ANSWER 4 (id: 392_4):
+Originally posted by Charlie Do you think you cross threaded it or stripped it? I would try my "dremel" approach first, if that doesn't work, you might have to try getting a helicoil kit. -Charlie I don't know. i'm fed up with this car
+
+ANSWER 5 (id: 392_5):
+you must have some rust problems, or somebody went nuts with air tools.. those bolts are only supposed to be torqued to 30ft-lbs, not exactly the tightest fasteners on an E30. you should be able to break them free with a small wrench. if you take the rest of the bolts off, you should be able to get the control arm bracket off the car. Then you can use a set of vice grips on the rest of the bolt that is sticking out. hopefully it's not cross threaded or something. use some penetrating oil to make it a bit easier, good luck!

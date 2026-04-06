@@ -1,0 +1,7 @@
+QUESTION ID: 187
+
+QUESTION:
+I want to clean up my engine bay some more. Already removed the airbag brain since the steering wheel was replaced a long time ago. Anyone know what tool I need to pull these sensors out? Can I break the pin and use a star socket? And if anyone has done this is it a pain to get the wires out? Sent from my SM-G996U using Tapatalk
+
+ANSWER 1 (id: 187_0):
+Its just a basic security torx. The airbag harness is a sub harness in the main chassis harness, aka the whole airbag harness can be removed all together without too much hassle.

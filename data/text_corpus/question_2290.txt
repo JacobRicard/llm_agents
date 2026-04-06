@@ -1,0 +1,10 @@
+QUESTION ID: 2290
+
+QUESTION:
+who's doing what for m20 tuning chips these days ? trying to find / match one up for a simple m20 build : colt cam 272 regrind hd rockers cleaned up head - stock. rings / bearings rebalanced crank and bottom crank scraper and pan baffle lightened stock flywheel - on deck ..thinking 15 - 16 lbs stock injectors -could upgrade IE long tube header stromung catback stainless exhaust - have to figure mid section yet. not a huge build. street car. oem+. just wanna make the most of the mild mods. closing in and trying to plan ahead. staying away from generic ebay junk. 173 ecu. thanks guys. pic of block a few wks a go .. promise to start a real build thread soon.
+
+ANSWER 1 (id: 2290_0):
+I have been very pleased with my SSSquid chip matched with a four pintle 19 pound injector. Tried Denso Oxygen sensor and Denso Iridium plugs with the tune and the drivablity is awesome. SSSquid will custom tune for your build.
+
+ANSWER 2 (id: 2290_1):
+Originally posted by packratbimmer I have been very pleased with my SSSquid chip matched with a four pintle 19 pound injector. Tried Denso Oxygen sensor and Denso Iridium plugs with the tune and the drivablity is awesome. SSSquid will custom tune for your build. thanks. was thinking of the m50 injector upgrade along with a chip. i pretty much narrowed it to a mark d or sssquid. sssquid is definitely pricier, but i haven't got any response from mark d. i don't wanna get into megasquirt or any standalones. it's not a high power build either.

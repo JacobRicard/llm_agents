@@ -1,0 +1,7 @@
+QUESTION ID: 1470
+
+QUESTION:
+Looking to pick up a ground control coil over conversion kit. Currently I’m running H&R’s with Koni sports. From what I’ve been reading, it seems like most people are running Koni race shocks with ground controls. Will Koni sports work alright or should I pick up a set of the race’s?
+
+ANSWER 1 (id: 1470_2):
+You can also use regular iX sport Koni's on shortened (i) strut housings. I believe you would want to go with Race Koni's if you are thinking of doing more than 500/lbs springs at front (do not quote me on that number). Regarding the travel, obviously you will have less shock travel if you are lowered and do not have short housings. i.e., This is the process of shortening your housings: https://www.youtube.com/watch?v=8Q7xUSNRyLI

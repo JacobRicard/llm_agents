@@ -1,0 +1,31 @@
+QUESTION ID: 36
+
+QUESTION:
+Was under the cabrio this weekend to winterizing it and noticed my fuel line was rusted it hell. Anyone replace this before?
+
+ANSWER 1 (id: 36_10):
+Originally posted by TobyB On both of the ones I worked on, the screws were the worst of it. Same here, after I got the screws out it was a pretty easy job to over all.
+
+ANSWER 2 (id: 36_12):
+Originally posted by jalopi Uuhh... do your local parts stores not carry bulk line? $60 for 10 feet or so of line is pretty damn expensive... Add in the cost if he has no bender or no flare tool. Heck I have both and rather just spend the cash and save my time. Sent from my SCH-I545 using Tapatalk
+
+ANSWER 3 (id: 36_13):
+My sense is that you'll probably need at least a bender to fine tune the fit. I haven't gone looking for bulk line myself, but I'm sure there's plenty to be had. ECS has the pre-bent fuel lines and they weren't $60. I've been looking at brake lines and learning about bubble flares, which of course, the flaring tool I already own doesn't do except by some hack approach.
+
+ANSWER 4 (id: 36_3):
+The hard lines on the feed and return lines are pretty easy. Very accessible. Assess the condition of the various clamps and brackets that hold them and figure out how many you need. I just recently replaced all of the feed & return soft lines and was able to do it with hand tools and a jack stand. You can also try doing the evap / vapor return line, but you sort of need to drop the tank to get at it. If you are concerned about rust, then you may want to take the time to drop the tank. It's a chore though since the exhaust and driveshaft need to come out.
+
+ANSWER 5 (id: 36_4):
+Originally posted by JCarp90 I've never done it, but I plan to this winter. The pics of the E30s catching on fire the last couple months are terrifying to me. Got a link? That's terrible!
+
+ANSWER 6 (id: 36_5):
+I'm wondering about those fuel hard lines as well as the brake hard lines. My car has a retrofit brake line that should go through the interior but it runs along the bottom of the car instead. I'd like to fix all of that this winter. Where do you buy the hard fuel lines? I stay out of stealerships...
+
+ANSWER 7 (id: 36_7):
+anyone have the part number for the hard lines? i looked it up on realoem but wasnt too sure on what exactly is needed. i dont want to order the wrong parts/extra parts i wont need.
+
+ANSWER 8 (id: 36_8):
+I did mine on the euro this past summer. Very straight forward. The screws holding the retaining clips (#4 in teh pic) were all rusted horribly, so a few broke. That was the only problem. Heres a link to the part numbers, items #1 and #2 are the feed and return lines. Surprisingly well priced. http://www.realoem.com/bmw/showparts...03&hg=16&fg=15
+
+ANSWER 9 (id: 36_9):
+On both of the ones I worked on, the screws were the worst of it. Stainless, and a couple just didn't want to give up. Otherwise, easier than you'd think... t

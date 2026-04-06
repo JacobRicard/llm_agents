@@ -1,0 +1,7 @@
+QUESTION ID: 2748
+
+QUESTION:
+I am fighting with false fuel level readings. Tank fuel pump fine, fuel level sender fine, wiring fine. Strange. Then thought lets open the secondary cap on the drivers side over fuel tank (LHD). And I found no wires attached to secondary fuel level sender. Nor I could find the wires itself and from where they are coming. Part number 9. Anybody knows where the wiring is located and/or how it is wired to the secondary fuel level sender?
+
+ANSWER 1 (id: 2748_0):
+What year is your car? The fuel gauge has 2 different configurations based on whether there is a crossover pipe between the 2 sides, which changed in (1988?) If there is, there is one 60 ohm sender that is directly connected to a 60 ohm gauge. If there is no crossover pipe, but instead a 'jet sucking pump' then there are 2 60 0hm senders, wired in SERIES, and then connected to a 120 ohm fuel gauge. If the gauges are scrambled, you get weird readings. If someone put a non- crossover tank into a crossover- tank car, you get very non- linear readings that fluctuate. there are wiring diagrams at http://www.wedophones.com/BMWManualsLead.htm hth t

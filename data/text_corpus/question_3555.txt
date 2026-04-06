@@ -1,0 +1,28 @@
+QUESTION ID: 3555
+
+QUESTION:
+Is the low pressure AC line not offered with the R134 fitting like the high pressure line is? Sent from my SAMSUNG-SM-N910A using Tapatalk
+
+ANSWER 1 (id: 3555_1):
+Originally posted by Exodus_2pt0 Not quite what you were asking, but they make adapters. http://www.r3vlimited.com/board/showthread.php?t=232161 There are 2 hard lines, high pressure which connects to the dryer, and low pressure which connects to the compressor. The high pressure line you can get with the R134 fitting from a late model e30 '92+.. but I couldn't find the same for low pressure line. Sent from my SAMSUNG-SM-N910A using Tapatalk
+
+ANSWER 2 (id: 3555_11):
+No idea, but without a second port or a tee off of the drier youre SOL as far as standard charging goes. However, I did not convert to a parallel flow condenser, or replace my lines despite the potential for leakage. I was only out to make my AC work before hot weather hit, and without breaking the bank. Maybe as fresh_td was saying about lines, perhaps there's one on the drier side with a fitting.
+
+ANSWER 3 (id: 3555_12):
+I think I see what you're saying. You're saying you charged it at the dryer? Instead of using the schrader high and low valves near the passenger shock tower and near the hood hinge
+
+ANSWER 4 (id: 3555_3):
+Originally posted by fresh_TD There are 2 hard lines, high pressure which connects to the dryer, and low pressure which connects to the compressor. The high pressure line you can get with the R134 fitting from a late model e30 '92+.. but I couldn't find the same for low pressure line. Sent from my SAMSUNG-SM-N910A using Tapatalk Thought it was the other way around with H/L lines? Anyway, when I did mine, I did not have to replace lines, but I did the drier & compressor. The new drier comes with one less fitting, which is where the H (IIRC) fitting was originally. As it is now the pressure switch takes this single port, and to charge/evacuate the system it's necessary to remove the pressure switch/jump the compressor as needed.
+
+ANSWER 5 (id: 3555_5):
+Originally posted by Das Delfin ^ no, he's right about the H/L sides. It seems backwards You're saying the pressure line that connects to the dryer is low pressure? Sent from my SAMSUNG-SM-N910A using Tapatalk
+
+ANSWER 6 (id: 3555_6):
+Originally posted by roguetoaster Thought it was the other way around with H/L lines? Anyway, when I did mine, I did not have to replace lines, but I did the drier & compressor. The new drier comes with one less fitting, which is where the H (IIRC) fitting was originally. As it is now the pressure switch takes this single port, and to charge/evacuate the system it's necessary to remove the pressure switch/jump the compressor as needed. Rogue, I did all that.. there's a line I need to replace because it leakes, so I just wanted to add those 2 (r134) lines. Sent from my SAMSUNG-SM-N910A using Tapatalk
+
+ANSWER 7 (id: 3555_8):
+Originally posted by roguetoaster Thought it was the other way around with H/L lines? Anyway, when I did mine, I did not have to replace lines, but I did the drier & compressor. The new drier comes with one less fitting, which is where the H (IIRC) fitting was originally. As it is now the pressure switch takes this single port, and to charge/evacuate the system it's necessary to remove the pressure switch/jump the compressor as needed. It's really not recommended to jump the compressor to charge an empty system for obvious reasons. The LP switch is set for 25lbs and if you do a static charge...meaning with the car not running, the pressure should rise to ambient temp and be equal on both sides of the gauge. It may take a few minutes to balance out but that should close the LP switch as well as provide some lubrication for the compressor
+
+ANSWER 8 (id: 3555_9):
+Originally posted by jeffnhiscars It's really not recommended to jump the compressor to charge an empty system for obvious reasons. The LP switch is set for 25lbs and if you do a static charge...meaning with the car not running, the pressure should rise to ambient temp and be equal on both sides of the gauge. It may take a few minutes to balance out but that should close the LP switch as well as provide some lubrication for the compressor The procedure followed, that seemed to yield good results was, vac system, wait and see if there was a pressure drop, charge by weight (30lb can on scale), turn car on, test system, remove switch, reconnect, jump switch and complete charge. A bit of an annoyance with the new drier setup and conversion to single pressure switch, but totally workable in my case.

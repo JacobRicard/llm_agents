@@ -1,0 +1,10 @@
+QUESTION ID: 1913
+
+QUESTION:
+I’m trying to get some parts shipped from the European mainland but vendors are quoting exorbitant rates. Can anyone recommend a freight forwarding service to the US?
+
+ANSWER 1 (id: 1913_4):
+Originally posted by ehrawn 400€ for 400€ worth of hardware and parts. Odd. Our state landmail company would charge 120€ for sending 25kg packet from Finland to San Fransisco. I'd expect something like DHL would do it cheaper.
+
+ANSWER 2 (id: 1913_5):
+Originally posted by ehrawn 400€ for 400€ worth of hardware and parts. The cost of the parts really has no bearing on the cost to bring them stateside. How large and heavy is the shipment?

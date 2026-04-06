@@ -1,0 +1,19 @@
+QUESTION ID: 2572
+
+QUESTION:
+Today I sold a 1991 BMW 318is that had been in the family for 12 + years. I was sad to see it go. It had been rear ended back in 2014 and we fought hard to keep the title clean. The insurance adjuster stated multiple times that it would stay clean and we were cut one check for the car. We never purchased the car back from the insurance company or anything like that. Flash forward 6 years and today I sold car as a “clean title.” After the seller bought the car he ran a carfax (which I didn’t do before listing it) and the carfax shows that the insurance company actually did salvage it back in 2014. Is there a way to reverse this? The repair certainly didn’t exceed 75% of the value. The buyer and I came to an agreement for the salvaged car, but I’d really like to be able to keep its title clean for the new buyer. Any insight or help would be great.
+
+ANSWER 1 (id: 2572_2):
+The car has been owned by my dad since 2008. It was wrecked in 2014 and sat until a week ago. After it was wrecked it was fixed and then sat. We never registered it or anything and it sat for 6 years. The individual who purchased it called the DMV and said it was salvaged and that’s when he checked it on carfax and notified me. Talking to a few insurance companies they said it’s been so long it couldn’t really be reversed. I guess I could call the DMV and see what it shows on their end. The title was clean from us when we signed it over.
+
+ANSWER 2 (id: 2572_3):
+That sounds weird as fuck. Usually when the insurance totals a car they require you to send them the title before they cut a check. If you bought it back from them they would have sent you a salvage title. Dont know what to tell you but good luck
+
+ANSWER 3 (id: 2572_4):
+https://vincheck.info/check/nmvtis-r...d=117040615188 The title was issued in 2008: 2008-05-29 Texas Current EXEMPT WBAAF931XMEE70329 But it has this issue: Record of Owner Retained? Owner Retained: A vehicle that has been declared by the insurance company to be a total loss but the owner maintains possession and ownership of the vehicle. Record found! Brand Date: 2014-05-01 Brander: TEXAS (State) A vehicle with any of the NMVTIS brands listed below is considered a salvage vehicle in Texas. In order for this vehicle to be operated on a road again, it must first be rebuilt and inspected. Otherwise, the vehicle is only eligible for a salvage title, nonrepairable title, or for authority to dispose of the vehicle. Salvage Vehicles | TxDMV.gov https://www.txdmv.gov/motorists/buying-or-selling-a-vehicle/title-check-look-before-you-buy/salvage-brands
+
+ANSWER 4 (id: 2572_5):
+Doesn't this mean is that the current owner only has to get the vehicle inspected (because its already been fixed) and the salvage title will be replaced with a clean title?
+
+ANSWER 5 (id: 2572_7):
+Originally posted by twright Doesn't this mean is that the current owner only has to get the vehicle inspected (because its already been fixed) and the salvage title will be replaced with a clean title? He will get a Rebuilt title. I think everybody should use this free VIN check. It doesn't show everything, but it shows some valuable info. https://vincheck.info

@@ -1,0 +1,13 @@
+QUESTION ID: 1002
+
+QUESTION:
+I was using the getrag 260 with my s52 swap, I'm stuck and dont know what direction I have to bend the shifter rod to make it normal Sent from my SAMSUNG-SM-G890A using Tapatalk
+
+ANSWER 1 (id: 1002_0):
+Shot in the dark here as I don't start my swap till Friday, but if the trans is clocking 10 degrees to the right wouldn't you bend the rod to the left to counter that? -Mike
+
+ANSWER 2 (id: 1002_1):
+Technically yeah, but I've bent that rod in so many ways I just can't get it to work its always to far right to far down Sent from my SAMSUNG-SM-G890A using Tapatalk
+
+ANSWER 3 (id: 1002_2):
+Did you bend or cut the carrier arm too? If not check out this article. I realize people just say you need to bend the arm but I plan to do what this guy did. MVRK - DIY: M50 Swap Straight Shifter - E30 Performance http://e30performance.info/viewtopic.php?f=22&t=1566

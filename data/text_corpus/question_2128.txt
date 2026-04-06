@@ -1,0 +1,10 @@
+QUESTION ID: 2128
+
+QUESTION:
+Hello all. I picked up a 89 vert a few days ago as a project. I've been diagnosing it's no start condition and have made some progress but im stuck. I have spark for sure, I tested with the spark plug wires. The car will crank and turn over but then immediately dies. I'm about 90 percent sure it's fuel related. The fuel pump does NOT get power from the fuel pump relay, I tested the connection. I hard wired the fuel pump to a spare battery, and it turned on. Shortly after, the car fired and drove for about 30 mins. I turned it off and 10-15 minutes later, the same problem is occurring. car starts but immediately dies and sputters out. I tried to jump the fuel pump relay with a wire, but it didn't turn on the fuel pump. Using my multimeter, the fuel pump relay pins 30 and 87 didn't have any voltage flowing through them. I pulled the main relay, and it's pins didnt seem to have volatge either, but wouldn't this prevent the car lights from turning on and cranking? What should I look at next if the relays aren't even getting power? battery connections, ecu? Any help would be appreciated, i'm not sure where to start my troubleshooting. Thanks so much.
+
+ANSWER 1 (id: 2128_0):
+Check the fuel pump fuses. if one them is blown, you won't get power to the relays. If the main relay is bad, you won't get power to the fuel pump relay either.
+
+ANSWER 2 (id: 2128_3):
+I think that perhaps it's fuel related? Sounds like the pump is having problems or as suggested, the filter is blocked. The filter is located on the n/s in front of the rear wheel, behind a plastic panel. Try taking the outlet pipe off and turn the ignition on to see what comes out, it should be a good flow so have a tray and someone on hand to help you.! Can you hear the pump running? Is it loud at all??

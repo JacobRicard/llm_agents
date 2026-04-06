@@ -1,0 +1,16 @@
+QUESTION ID: 865
+
+QUESTION:
+Hello Guys, We started it, and will try to find somebody who actually can help us out with an adapter between the M54B30 head and the S54B32 itb-s. Actually, it is quite hard to find this part here in Hungary, but we haven't give up yet :) My car is a '89 325i, which i have for more than 5 years. It had an M30B35 for a few years, but i've decided that it needs something lighter and more modern. I'm still collecting some parts, however i've already have the most we need for the swap. While waiting to get everything together, we started to renew the chassis as well, the 5 years made its appearance here and there.
+
+ANSWER 1 (id: 865_11):
+Originally posted by haaken675 looks good! Do you expect a power increase from the ITB's or simply better throttle response? Well, this is the question i can't answer at the moment. If i want to be honest, i would be very glad if it would give me more power. But - and this is a big but - i know, that it is really hard to joint all the pieces together to make more power at first try. Theoretically it should give us more power. It might be a problem that the ITB sizes are too big for my engine. There are setups with the s50b30/32 ITB's - which they say are better for the M54B30. We also ported the head a bit, but couldn't do too much because we kept the factory valves. What is important for me is throttle response and sound. A sound which is kinda like this: https://www.youtube.com/watch?v=JtpXhfD5CtE&feature=youtu.be
+
+ANSWER 2 (id: 865_2):
+Originally posted by digger http://www.r3vlimited.com/board/showthread.php?t=319989 Thank you digger, but if my reading is right, this project is unfinished/ or not available. There was no updates from RobertK fro a long time.... :( But i see you were a busy member of this topic. Do you know any reach to this part?
+
+ANSWER 3 (id: 865_8):
+It's been a while since i last replied, but we didn't stop with the project. The bottom part of the engine also was renewed wit new rings, new bearings, and the engine block was also reworked. Now i'm waiting for the adapter wich is going to be placed between the head and the ITB's.
+
+ANSWER 4 (id: 865_9):
+Finally the adapter has arrived, which goes between the head and the ITB's. It was a really long time coming as i had to look all across Europe. For some reason here in Hungary i couldn't find anybody... Also i got the updated cog for the oil pump, since it is well known that the M54B30's doesn't like the higher revs with the factory unit, which is likely to break when used above 6000 rpm. Hopefully the process is going to be a bit quicker from this point.

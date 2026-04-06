@@ -1,0 +1,7 @@
+QUESTION ID: 1102
+
+QUESTION:
+Don't know if anyone else has this issue but the expanding rivets on my 3rd brake light holder are cracked and busted. Instead of rigging it up I got bored today and decided to draw the part up in CAD. I have access to a 3d printer and will be printing this part since it's impossible to find. If anyone else needs one let me know. If it fits well I'll print some more for those who need them. Pricing will just be to cover materials and some of my labor.. I'll see how it comes out first. I may try to do the whole light assembly also and modify the angle for the windshield to fit a std e30, I think there are a bunch of people who have looked for this solution for a regular e30 but not found anything. What other hard to find plastic parts do you think are needed in the market that could be 3d printed? Mike
+
+ANSWER 1 (id: 1102_1):
+Originally posted by TimeMachinE30 I really hope someone takes the 3D printing by the horns. Wish you the best. Checkout tinkercad.com it's a web based cad program and you can order a 3d print from the program. You can make whatever you want!

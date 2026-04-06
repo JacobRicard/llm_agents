@@ -1,0 +1,19 @@
+QUESTION ID: 1829
+
+QUESTION:
+Is there a size or format for updating the AC system? Wondering if I can pull a (junk yard) part from another make/model that would fit. Anyone know?
+
+ANSWER 1 (id: 1829_0):
+Really what you're doing when you convert or update your ac on a stock e30 is going from r12 to r134. You're going to want new lines, that have r134 fittings, an r134 compressor and parallel flow condenser. People get away with using r134 adapters on the r12 lines and just change the compressor, the the r12 condenser just can't keep up with ambient temps above 80 degrees. Search for a new parallel flow condenser. I doubt you'll find that at the yard.
+
+ANSWER 2 (id: 1829_1):
+You've probably seen this already, but there are kits you can get to convert your whole system from R12 to R134a. I don't have any experience with this one, but plan to buy it (or components) to rebuild my ac over the winter. A/C Solutions BMW E30 Complete Conversion Kit https://www.acsolutions.co/products/a-c-solutions-bmw-e30-conversion-kit Designed and engineered for the enthusiast, this conversion kit offers a complete, plug-and-play upgrade to the A/C system in the E30 to R134a using a modern Sanden compressor, Nissens parallel flow condenser, R134a expansion valve, new R134a lines (inside and out), and all the necessary supporting bracketry. This upgrade will result in colder A/C vent temperatures, less strain on the engine, and a more efficient and durable A/C system.
+
+ANSWER 3 (id: 1829_3):
+Thanks everyone. I do currently have the half-assed R134 adapter setup w/ original lines. Makes sense what Mr Burgundy says, as the system can’t hack it above 80°. I’m a novice hobby wrencher. Feeling intimidated by this project.
+
+ANSWER 4 (id: 1829_4):
+I didn't like the quality of the nissens ac condenser so kept my oe serpentine condenser with my r134 refit. Cooling is subpar unless you're doing highway miles. The CSF looks promising, I might order one and give it a shot. Does anyone have firsthand knowledge/feedback on the CSF condenser?
+
+ANSWER 5 (id: 1829_5):
+Originally posted by strickland I’m a novice hobby wrencher. Feeling intimidated by this project. Seems like a big job, but if you have a local friendly A/C shop to help with the A/C specific stuff - it's actually not too bad. If you're not buying a kit, they can do the hard work of crimping hoses, and de-gas & re-gas. I had the same apprehension as you. But if you take your time and plan the work in advance it's straightforward. You can see my thread here. When I did mine, kits were hard to find. So ended-up piecing together advice from this forum. Having a kit costs some $$$ up front, but can save the hassle of running around.

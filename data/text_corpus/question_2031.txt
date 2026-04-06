@@ -1,0 +1,16 @@
+QUESTION ID: 2031
+
+QUESTION:
+Hello all, I have a 1990 325i and it is leaking g fuel from the intake and seems to have no spark. Anyone have this issue.
+
+ANSWER 1 (id: 2031_0):
+What do you mean leaking fuel from the intake? is it leaking at the rail where it enters the manifold? What have you checked? Is it throwing any code?
+
+ANSWER 2 (id: 2031_1):
+If it's leaking fuel you need to fix the fuel leak before you do anything else. Likely leaks: soft fuel lines between main fuel lines and the injector rail; fuel pressure regulator; injector o rings.
+
+ANSWER 3 (id: 2031_3):
+Originally posted by HVDE30 The fuel is coming from. The Intake it self not a line. Someone said on another forum check the cold start valve. you don't have a cold start valve. if it's leaking from under the intake you'll need intake gaskets. doesn't quite make sense. suspect your description is incorrect, can you get a pic of the area it is leaking from?
+
+ANSWER 4 (id: 2031_5):
+Well there are several no start/ no spark write ups which work well. In terms of the fuel “leak” I have run across several fuel dripping out of the throttle body causes; most recent was excessive cranking with a excessively leaking fuel injector, intake reversion with the closing of the intake valve drove liquid gas back into the plenum, Another was the diagram of the fuel pressure regulator started to fail and fuel went thru the vacuum line and into the intake manifold.

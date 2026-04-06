@@ -1,0 +1,37 @@
+QUESTION ID: 2216
+
+QUESTION:
+I’m pretty sure I did a stupid thing. I’ll accept that. I installed my rear hub into a brand new wheel bearing with a mallet and wood block. Once the hub was driven in, I grabbed on to it and it moved. It didn’t just shift a little. It rocked back and forth. The video below shows how bad it is and a little more on how I installed it. I know that I’ll have to wrestle this thing back apart and put in a new wheel bearing, but I DO NOT want to repeat this mistake. Should I not use a hammer to drive it in? Should I just be more careful (like that’ll happen)? Any thoughts or opinions are greatly appreciated. Hopefully someone else learns from my gorilla brain tactics.
+
+ANSWER 1 (id: 2216_0):
+Yes- you did a stupid thing You're answering your own question. No impacts on bearings.. Highly recommend taking it to a local shop and having them press it in. I wouldn't be surprised if the bearing race is stuck to the hub now. Probably gonna have to press the up out, cut the race and press in a new bearing, then the hub RIP
+
+ANSWER 2 (id: 2216_10):
+What do I think about this? I think you did a stupid thing. That being said, I've done the exact same stupid thig before. The correct way to do it is either with a press or a bearing tool (as mentioned above). You can press the outer race into the trailing arm as long as you're just pushing on the outer race. The back side of the inner race needs to be supported as you press the hub into the bearing. To make things easier, you can feeze the hub to make it smaller. Good luck!
+
+ANSWER 3 (id: 2216_11):
+Originally posted by 4tDX I used the Habor Freight 'Front Wheel Drive Bearing Kit' for front and rear bearing removal/install with no problems. I’m assuming I’ll still need a separate hub tool?
+
+ANSWER 4 (id: 2216_12):
+Looking at FAG bearings on FCP and they have two different ones. https://www.fcpeuro.com/products/bmw...le-33416762317 https://www.fcpeuro.com/products/bmw...ar-33411124358 Both say that they’ll fit a 325e which is essentially what I have. I’ve found that parts between the 325 and 325e are basically 100% interchangeable. Anyone have some niche knowledge on this? I’d just rather spend $60 vs $90 (buying for both sides in case I f’d up the other bearing while pounding it in).
+
+ANSWER 5 (id: 2216_13):
+Geez, looks like everything is getting more expensive by A LOT. I think I paid $60-70 for this kit 5-6 years ago. https://www.harborfreight.com/front-...-pc-63728.html I guess if you got those 20% coupons they normally have it will be a little better. In any event, no need to seek a shop to do this, that kit (or similar) is all you will ever need and more. when pressing the bearing, any bearing use this thought process and you will never mess up the job. You can not ever stress balls/rollers against bearing races...by pounding, pressing or otherwise. Pressing outer bearing race in the hub - all and any force is only applied to the hub and the outer race. Pressing the flange into the inner race - all force is applied against the inner race and the flange body. That simple. Ballls/rollers are always left at rest with no stress against them. Think about it a little and do the job, it's no harder than 20 piece puzzle. That tool has all sized flanges and cylinders to do any car you'd ever own.
+
+ANSWER 6 (id: 2216_2):
+Get a proper wheelbearing removal and install tool $70 from Amazon etc when you push the hub you need to support at the inner race with the correct size drift
+
+ANSWER 7 (id: 2216_5):
+I used the Habor Freight 'Front Wheel Drive Bearing Kit' for front and rear bearing removal/install with no problems. And you manage to find all kinds of uses for the various odds and ends that come with the kit. Looks like it is $120 right now, but I think you can get it for ~$80 on sale.
+
+ANSWER 8 (id: 2216_6):
+Maybe I'm an idiot too. It is my understanding some play is expected, it won't go away until the axle is installed and torqued. If you have issues once the axle is installed that'd be concerning, otherwise I would just send it...
+
+ANSWER 9 (id: 2216_7):
+Originally posted by Jaxx_ Maybe I'm an idiot too. It is my understanding some play is expected, it won't go away until the axle is installed and torqued. If you have issues once the axle is installed that'd be concerning, otherwise I would just send it... That's true in some applications, but it would be very very little movement. This is excessive
+
+ANSWER 10 (id: 2216_8):
+Originally posted by MrBurgundy That's true in some applications, but it would be very very little movement. This is excessive Can you share what you think is damaged in this situation? the seal integrity? Broken or bent cage(s)?
+
+ANSWER 11 (id: 2216_9):
+for starters i don't think the hub has been installed all the way yet as it needs to be pressed far enough in so that it goes through both inner races (inboard and outboard) to get rid of play. hammering it in without supporting both the inner races may pull the bearing apart i.e inboard inner race may separate . There is a slight chance it may not be damaged but bearings are cheap so why risk it

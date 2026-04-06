@@ -1,0 +1,25 @@
+QUESTION ID: 2475
+
+QUESTION:
+Any specific reason why most DYIs refer to the replacement of the entire Control Arm instead of just its Ball Joints? I get it that it requires a C-Clamp tool but isn't it available for rent in most auto parts stores? Or yet, I think one can buy the tool with the price difference. I am getting ready to do this and want to be sure I am not missing anything. Thanks
+
+ANSWER 1 (id: 2475_0):
+Typically, the ball joints are just under $80 for all four for decent units, and a pair of control arms can be had for $160. Considering how the splines can get damaged, how the clips can get seized, how it's just rather annoying, and can significantly delay your project if you run in to any of those things, the extra $80 makes sense to me. ​​​​​​I suspect the best justification for doing ball joint replacement alone might be if you had two or three sets around that you wanted to do at one time.
+
+ANSWER 2 (id: 2475_1):
+You'd better buy a Harbor Freight press for the ball joint replacement job in addition to the assortment of pipe adapters from the ball joint kit. You'll need some tools to insert new bushings into the lollipops (a press can work), and to remove and install back the lollipops. And tools to unscrew the 22 mm control arm nuts. It's already time consuming to build or buy those tools.
+
+ANSWER 3 (id: 2475_2):
+If you have the tools sure you can replace the ball joints, if not it’s easier to just buy a new arm. Personally I’m in Midwest and prefer one that’s newly painted, so I opt for new. But you could make MeyleHD on the cheap yourself. Sent from my iPhone using Tapatalk Pro
+
+ANSWER 4 (id: 2475_3):
+The outers can be done on the car. That's a huge benefit if you are just replacing a worn one. Quality control arms cost about $100ea, inner ball joints are $25, outer $20. So, if you already own the tools, it's a no-brainer - but if you are paying a shop, the money saved on parts is eaten up by the labor, so it's generally a wash at the shop. That being said, I have replaced hundreds of them.
+
+ANSWER 5 (id: 2475_5):
+the last couple of sets of lemfoerder control arms I bought were in the $70-75 range per arm. Makes no sense to fuck around with used arms, presses etc etc
+
+ANSWER 6 (id: 2475_7):
+With how cheap full replacement control arms are from legitimate companies it just makes no sense. The sole exception to this I feel is the 96-99 E36 M3 control arms, which are $300ea+ but E30 ball joints press right into.
+
+ANSWER 7 (id: 2475_8):
+you can also make your own 'lollipop into control arm' tool by going to home depo and getting some nuts and a "threaded stick" along with a couple of flat steel plates....$30 tool ...

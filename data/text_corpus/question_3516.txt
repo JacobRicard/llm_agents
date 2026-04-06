@@ -1,0 +1,13 @@
+QUESTION ID: 3516
+
+QUESTION:
+So I need some expertise in the area of mounting an Alpina type 147 front spoiler to a front panel. Basically, which front panel is need? 41-33-1-933-772 DOES NOT work. Would I need part number 41-33-1-933-770 or 41-33-1-933-771? This is for an e30 cabrio, production date of 12/1989, preface lift. Any guidance would be much appreciated.
+
+ANSWER 1 (id: 3516_2):
+Can you post a photo of what your car has currently? The two types of "Euro" valances. Early and Late. Both prefacelift. The Early has a sharper cutback towards the inside and doesn't allow enough room for the stock oil cooler. The later style is more straight down from below the bumper, thus allowing for room for the oil cooler. There was a great thread either here or on E30tech about the difference. The four different Alpina Spoilers: Alpina typ 137 (pre 9/85) Alpina typ 147 (post 9/85 - pre facelift) Alpina typ 159 (A/C facelift) Alpina typ 162 (non-A/C facelift) The earlier Type Alpina was similar to the E21/E12/E28 spoiler in that it didn't cover the full valance, and was almost a chin spoiler. This one won't work with the later pre-facelift valance, the side are too short length wise. The later Alpina spoiler that fits the later prefacelift valance can be made to work with the early style valance, but you'll have to use spacers. Both will require euro bumpers. The later facelift Alpina valance won't work with the prefacelift version in any shape or form. The fog light holes won't match. Type 137 (requires 41331916986 - notice the brake ducts in the bottom): Type 147 (requires 41331933770/41331933772): Type 167 (facelift non-A/C can use 41331961225):
+
+ANSWER 2 (id: 3516_5):
+A little update on this, if you do manage to order a 772 from BMW, be careful. We grabbed the one that was in the system. When it arrived, it was labeled a 772, but the completely wrong valance. It was one for a US vert.. Needless to say, BMW is getting us the correct one with blitzkrieg like speed! Sent from my 710C using Tapatalk
+
+ANSWER 3 (id: 3516_6):
+Originally posted by flyboyx That.is one.good.looking.car! Normally, I dispise red, so this is sort of a double compliment on my part. I used to hate red e30s until I owned one. Now I think it's the best color.

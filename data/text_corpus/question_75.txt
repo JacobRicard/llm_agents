@@ -1,0 +1,13 @@
+QUESTION ID: 75
+
+QUESTION:
+Good evening, I have a 316i Baur TC and for quite a while now the Odometer hasn't been working properly. I've changed gears for new ones and it turns manually but when driving it only works sometimes. Last 1000 KM I've done with it only 107 were marked on the Odometer. Any clues as to what it may be? I'm quite dumb when it comes to cars and I've been restoring this E30 for the past 2 years on and off as I was living abroad before coming back and now focusing full time on it. It's also my daily car and my first self bought car so it's a tame car that I want to keep until I die.
+
+ANSWER 1 (id: 75_0):
+its just trying to preserve the cars value! I've not had the issue I would start by ensuring the speed sensor in the differential looks alight, no dodgy connections. and then work your way up.
+
+ANSWER 2 (id: 75_1):
+Originally posted by e30davie its just trying to preserve the cars value! I've not had the issue I would start by ensuring the speed sensor in the differential looks alight, no dodgy connections. and then work your way up. I'll take a look on my next day off, thanks for the tip, I'll get back to the post with a reply when I've checked
+
+ANSWER 3 (id: 75_2):
+Is problem only with odo? Do all other gauge lights and dials work? If the problem comes and goes only when turning car on, try whacking dashboard above odo. If problem comes and goes while in the middle of driving might be something else electrical.

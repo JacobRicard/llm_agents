@@ -1,0 +1,7 @@
+QUESTION ID: 527
+
+QUESTION:
+Hello everyone, I realise this is a relatively common issue however I cant seem to find a post with similar faults to mine on here. I have no lights on the dash or any bulbs going when i use the stalk or try hazard switch, but when i use my central locking (aftermarket alarm) the 4 corner amber lights still work. Currently i have gone through the following to try and diagnose: Fuses - fine Relay.- fine Next step was to try and remove the hazard switch to have a look at that. Can anybody else offer any other guidance?
+
+ANSWER 1 (id: 527_1):
+Start with the hazard switch. Going from memory, but I believe all the turn signal wiring is fed through there. Next I would suspect the aftermarket alarm system. How did it tap into the original turn signal wiring? If there are vampire / quick / T-Taps on there, the factory wiring may be damaged. Wiring diagrams for your year can be found here: E30 (1983 to 1992 3 Series) Wiring Diagrams https://www.armchair.mb.ca/~dave/BMW/e30/

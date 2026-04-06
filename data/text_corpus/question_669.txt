@@ -1,0 +1,7 @@
+QUESTION ID: 669
+
+QUESTION:
+I modified the bbowmans Bluetooth retrofit to use a tiny sine audio module. I want to see if I can use the controls on the radio to control it. Thank you
+
+ANSWER 1 (id: 669_1):
+So I never reverse engineered any of the control logic. And it sort of depends the complexity of what you are trying to accomplish.. I see the board you used has pins dedicated for what appears to be fast forward and reverse. It could be relatively straightforward to get these working. I imagine a couple of the pins on the ribbon connector going to the OEM cassette deck will go high/low when the fast-forward/reverse buttons are pressed on the radio. Originally these would have engaged the cassette motor. You could use those signals to trigger the fast forward / reverse on the bluetooth audio module. The first task is to find those signals...So I would measure each pin on the ribbon connector and press the FF/R and see if you can find the signal. If you cant find anything obvious, the data might be coming over serial or some other means of communicating information. This would mean additional complexity to process the serial data. You also could potentially just grab the signal directly form the switches, sort of similar to the way I take the signal from the push-button knob to enable/disable the BT input. If you want to retain radio functionality though then you want to make sure those buttons will work in both BT/radio mode. Hope this helps..

@@ -1,0 +1,10 @@
+QUESTION ID: 1109
+
+QUESTION:
+Thought this might interest. S14B25 engine build, 292/284, large CF airbox (long runner/large plenum volume+under bumper filter housing), maxx alpha N with closed loop wideband lambda, Boysen gr. A exhaust, 93 aki fuel, the 2 dyno plots are for 2 different exhausts, one aftermarket and one factory (factory wins).
+
+ANSWER 1 (id: 1109_0):
+No same motor. The 2.5l engine is making near 300 hp in both cases. The black one is with factory Boysen Gr. A exhaust and the red one with an aftermarket version of that exhaust. The main point of interest was to shift the resonances, out of powerband, as much as possible. On the same same type of build and with a supersprint or similar exhaust, same dyno, we normally see around 275-280 hp.
+
+ANSWER 2 (id: 1109_3):
+I would have to look up the CR. The engine was initially built a few years ago. It may have been 11.5:1 or 12:1. Block is evo3 and custom oil squirters. S14 cylinder head (small chamber version), but our head work spec (mild setup).

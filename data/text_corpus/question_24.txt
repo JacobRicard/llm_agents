@@ -1,0 +1,13 @@
+QUESTION ID: 24
+
+QUESTION:
+I am splicing wires to us a E36 TPS for MS on my M20. I have a 5v connection, but not WOT/ Variable. Brown Blue is dead. What would be the cause/ fix for this? Its the only thing stopping me from running rn and id like to get it fixed asap.
+
+ANSWER 1 (id: 24_0):
+Are you wired up like this? E36 TPS, pin 1 is ground, 2 is signal, and 3 is vref E30 TPS, pin 1 is closed, 2 is ground, and 3 is open Swap pins 1 & 2 on the E30 connector E36 Stock wiring/TPS 1 = BRN(43) - Gnd 2 = BR/SW(12) - sig 3 = RT/GE(59) - vref E30 Stock wiring/TPS 1 = BR/BU(52) - Closed 2 = BR(-) - Gnd 3 = BR/BK(53) - WOT Running M5x TPS on E30 harness 1 = BR Gnd - Gnd 2 = BR/BU(52) - Sig 3 = BR/BK(53) - vRef
+
+ANSWER 2 (id: 24_1):
+I spliced the brown and blue with the brown wire, here’s a pic of how it looks now that I’ve had to test them. The TPS is fine and tested w a voltmeter. Does the car need to be running etc? My closed throttle is 400-600 same as my WOT in tuner studios. Attached Files
+
+ANSWER 3 (id: 24_3):
+Originally posted by the_eskimo_wonder Are you wired up like this? E36 TPS, pin 1 is ground, 2 is signal, and 3 is vref Geometry Dash E30 TPS, pin 1 is closed, 2 is ground, and 3 is open Swap pins 1 & 2 on the E30 connector E36 Stock wiring/TPS 1 = BRN(43) - Gnd 2 = BR/SW(12) - sig 3 = RT/GE(59) - vref E30 Stock wiring/TPS 1 = BR/BU(52) - Closed 2 = BR(-) - Gnd 3 = BR/BK(53) - WOT Running M5x TPS on E30 harness 1 = BR Gnd - Gnd 2 = BR/BU(52) - Sig 3 = BR/BK(53) - vRef very detailed thank you!

@@ -1,0 +1,40 @@
+QUESTION ID: 93
+
+QUESTION:
+I’ve been searching all night and morning and can’t find a definitive answer as to what this (see pic) amber light is on my dash. My best guess is that it’s rear fog lights, but this is staying on whether my lights are on or not. my car is a 87 cabrio and I don’t have a rear fog button to put on, so I’m very confused. if it is rear fog light, why is it staying on and how do I fix this? Thanks in advance! Attached Files
+
+ANSWER 1 (id: 93_1):
+Does your "Check Engine" light come on before you start the engine? The bulbs in that area are press fitted in some of the holes behind the cluster. Could it be that the check engine light bulb is in the wrong hole?
+
+ANSWER 2 (id: 93_11):
+After messing with this for a few hours, I had zero luck. Ended up disconnecting battery and seeing whaat happens. After 15 minutes of driving, the light came back and my rpm’ gauge has stopped working. Getting frustrated with wasting hours and making the car worse. is there a different pin adapter I should be looking for to try to pull codes? I’ve tried the stomp test, but had zero luck. (I’m wondering if that’s related to my light issue as well…)
+
+ANSWER 3 (id: 93_12):
+You disconnected the engine harness instead of the service port. The service port is at the front of the engine by the dipstick. Also, the stomp test may not work if you still have the early Motronic 1.1 (153) DME.
+
+ANSWER 4 (id: 93_13):
+Originally posted by reelizmpro You disconnected the engine harness instead of the service port. The service port is at the front of the engine by the dipstick. Also, the stomp test may not work if you still have the early Motronic 1.1 (153) DME. wow! What a complete arse I am. Thanks for pointing this out. Back to it.
+
+ANSWER 5 (id: 93_2):
+Originally posted by reelizmpro Does your "Check Engine" light come on before you start the engine? The bulbs in that area are press fitted in some of the holes behind the cluster. Could it be that the check engine light bulb is in the wrong hole? I’m not sure how I would even be able to check if that’s the case. I’ve recently replaced the SI board and new battery, but the light hasn’t come on until just recently.
+
+ANSWER 6 (id: 93_3):
+​ Here is your check engine light. It lights up with the key in the accessory position. Does yours? If it doesn't, you may have put the bulb/socket in the wrong hole.
+
+ANSWER 7 (id: 93_4):
+Originally posted by reelizmpro ​ Here is your check engine light. It lights up with the key in the accessory position. Does yours? If it doesn't, you may have put the bulb/socket in the wrong hole. Ok, thank you. Now I have more questions: 1) if you don’t reset your service notification lights, does the check engine light automatically turn on? 2) if I were to reset the service notification, would that turn the check engine light off? 3) would a low battery set this check engine light on? 4) is there no other possible light that would fill that position, or is that for only vehicles that have rear fog lights? 5) any link to the stomp method to check codes? 6) any other method to check codes? thanks!
+
+ANSWER 8 (id: 93_5):
+The SI an CELs are not related. The slot to the right of the non lit fog light emblem is the rear fog light, which US cars don't have. Stomp test, if applicable to your car is key to the most forward position, engine off, and 5 full presses of the throttle pedal rapidly. Scanners that are compatible with an appropriate adapter may check codes on most E30s.
+
+ANSWER 9 (id: 93_6):
+Originally posted by roguetoaster The SI an CELs are not related. The slot to the right of the non lit fog light emblem is the rear fog light, which US cars don't have. Stomp test, if applicable to your car is key to the most forward position, engine off, and 5 full presses of the throttle pedal rapidly. Scanners that are compatible with an appropriate adapter may check codes on most E30s. i just bought this diagnostic; so I hope to get some further answers soon. Attached Files
+
+ANSWER 10 (id: 93_7):
+That blurry photo looks like the Schwaben (Foxwell) kit. It doesn't work with my E30 but works well with everything newer. I never looked into why it didn't work since I have a Peake R5. If you can find a Peake, I'd recommend that over the Schwaben for the E30. Edit: I just tried the Schwaben again and it worked. Still prefer the Peake tho, its faster.
+
+ANSWER 11 (id: 93_8):
+Do you have a 'dual' foglight switch like this to the left of the steering wheel? If so, then your car is or was equipped with a rear foglight. That's where to start investigating. If it's a single wide button or no button at all, then that gauge cluster light could be something else. You can also browse thru this write-up for clues. http://m42club.com/writeups/lighting/rear_fogs_final_051109.pdf
+
+ANSWER 12 (id: 93_9):
+Originally posted by Aleman Do you have a 'dual' foglight switch like this to the left of the steering wheel? If so, then your car is or was equipped with a rear foglight. That's where to start investigating. If it's a single wide button or no button at all, then that gauge cluster light could be something else. You can also browse thru this write-up for clues. http://m42club.com/writeups/lighting/rear_fogs_final_051109.pdf I do not have the dual buttons there. I simply have one large button for the front fog lights. My code reader and adapter is on track to arrive tomorrow, so I’m hoping I’ll be able to pull codes and provide further information.

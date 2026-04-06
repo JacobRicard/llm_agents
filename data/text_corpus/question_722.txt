@@ -1,0 +1,16 @@
+QUESTION ID: 722
+
+QUESTION:
+Can anyone recommend a combo of (no fan) LED’s low beams and the necessary gizmo for non smiley ellipsoids? I am taking my lamps apart and cleaning the reflectors. Prolly polishing the lens faces too. Slightly pitted. Lighting output with new halogen bulbs is dismal. Ground has .2 ohm resistance. Thanks.
+
+ANSWER 1 (id: 722_0):
+Despite their reputation, LED bulb assemblies do not last that long. This is why they come with a huge heatsink on them, they generate and dissipate too much heat which can limit their potential for extended life. HID bulb systems are much more robust, reliable and brighter and probably cheaper too. I recommend going with nothing other than a 55W HID system.
+
+ANSWER 2 (id: 722_1):
+PIAA makes nice lights. The rear covers won't fit, of course. https://www.carid.com/piaa/shop-by-b...5D%5B2%5D=9006 I believe halogen 100W lights will produce better output if the wiring allows them.
+
+ANSWER 3 (id: 722_3):
+Originally posted by Vincenze PIAA makes nice lights. The rear covers won't fit, of course. https://www.carid.com/piaa/shop-by-b...5D%5B2%5D=9006 I believe halogen 100W lights will produce better output if the wiring allows them. I used to run 100w in my fog lights for 2 years without an issue.lol
+
+ANSWER 4 (id: 722_4):
+i took apart the ellipsoids and cleaned them. polished the reflective surfaces with proper cloth. Output is marginally better. Adjustment screws are corroded and cannot get them apart without breaking all of the plastic bits. I have other fish to fry at this point so i will leave this project for another day. I already have the best rated halogens in there.

@@ -1,0 +1,22 @@
+QUESTION ID: 2116
+
+QUESTION:
+I am installing new brakes (including calipers) in the rear and the pads don’t fit in the calipers. Anyone had this issue? Any suggestions before I ask my neighbor with a CNC to take a couple mm off each pad so I can drive my damn car? This is up there with my ignition tumbler breaking in terms of stupidest problems I’ve had. Calipers are new/rebuilt from CA Tuned and are fully compressed. Pic attached tia, Vivek
+
+ANSWER 1 (id: 2116_0):
+try installing the caliper bracket to the trailing arm first, fitting the pad to the caliper, and then trying to fit the caliper to the bracket. you might have better luck.
+
+ANSWER 2 (id: 2116_1):
+Originally posted by e30austin try installing the caliper bracket to the trailing arm first, fitting the pad to the caliper, and then trying to fit the caliper to the bracket. you might have better luck. That was it! Thanks a ton
+
+ANSWER 3 (id: 2116_4):
+Not usually one to comment on people's choices, but today I'll +1 "in the bin". I ran HPS for like 8 years and somehow they were only half worn. They didn't dust very much, which was what I was promised, but stopping always felt a little weak and that was what drove me to replace them. Pagid OE are something like $25 per axle and feel/stop much better.
+
+ANSWER 4 (id: 2116_5):
+In agreement with you guys. HPS are awful. I thought my braking system was broken - I replaced everything you can think of to fix a mushy pedal and kind of scary braking force. Bled and re-bled with no change - still mushy brakes, car could barely trigger ABS. Finally threw out the HPS, put in Pagid OE and it was magically fixed. I'd rather have brakes that work than worry about dust..
+
+ANSWER 5 (id: 2116_6):
+Originally posted by nando In agreement with you guys. HPS are awful. I thought my braking system was broken - I replaced everything you can think of to fix a mushy pedal and kind of scary braking force. Bled and re-bled with no change - still mushy brakes, car could barely trigger ABS. Finally threw out the HPS, put in Pagid OE and it was magically fixed. I'd rather have brakes that work than worry about dust.. Alright, this describes my brakes to a "T". Might be time for some new pads.
+
+ANSWER 6 (id: 2116_7):
+I've never had a problem with Hawk. I've used them multiple times HPS, HPS 5.0 and the Ceramics. Pretty nice quality, low dust and stopping was always fine.

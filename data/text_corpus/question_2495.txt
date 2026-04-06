@@ -1,0 +1,13 @@
+QUESTION ID: 2495
+
+QUESTION:
+OK guy s- I've searched and there are two very different answers out there. , What trans fluid do I use in the Getrag 240 that I am using in my build. It came from a 1990 318i - I've never run it before. There ar e no tags on it anywhere. Half the internet says ATF - the other says 75-90 gearbox oil. Wat's the real answer ? Thanks
+
+ANSWER 1 (id: 2495_0):
+In theory there should be a sticker on the transmission that indicates what fluid. Most likely it specs ATF, but in reality, you could probably use either. I personally used ATF in street cars, and gear oil in the track cars, so use case, and how the car shifts can play a role in deciding what to use if there is no sticker on the trans.
+
+ANSWER 2 (id: 2495_1):
+If you're not sure on which fluid your gearbox requires, just run Redline MTF or MT90. I've run Redline MT90 in my G240 for years and the transmission has shown no ill effects with double the factory torque twisting on it. I'm also currently running Redline MT-LV in my e92 with the S6-37 gearbox with no ill effects - my e92 had no sticker either (but theoretically it had either BMW MT-3 or MT-5 "lifetime" fluid in it originally - glad I swapped it as at 55k miles it was black and gloopy already).
+
+ANSWER 3 (id: 2495_3):
+So I ended up putting in Redline MTL...thinner than expected, but it shifts just fine. Basically no effort required and no feedback through the shifter saying that the synchros aren't engaging. So that's what I will run until there's a reason to change it. Thanks guys

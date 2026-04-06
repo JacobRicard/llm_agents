@@ -1,0 +1,13 @@
+QUESTION ID: 1584
+
+QUESTION:
+What is the real reason I need to buy lowering springs that say for ix. Does this mean all other lowering springs will not work on the ix. I searched, but did not find a real answer. Just a lot of posts that say ix h/r springs for sale:) Any help would be great. I have a set of lowering springs, but the are for an ic; can I use them on the ix??? thanks, jm
+
+ANSWER 1 (id: 1584_1):
+And since the iX naturally sits higher than other E30's, if you put RWD E30 lowering springs in the rear, the rear will sit WAY low and have alignment problems because the iX subframe mounts lower in the body than the RWD subframe.
+
+ANSWER 2 (id: 1584_2):
+Didn't even think about that, and I know the sub frame bushes are different since we have a local ix that we have been servicing for several years. Out of curiosity, did a cross reference for the rear springs to see if they were only used in the ix, and apparently tourings use the same springs... https://www.realoem.com/bmw/enUS/par...926&series=E30
+
+ANSWER 3 (id: 1584_4):
+Originally posted by ForcedFirebird Didn't even think about that, and I know the sub frame bushes are different since we have a local ix that we have been servicing for several years. Out of curiosity, did a cross reference for the rear springs to see if they were only used in the ix, and apparently tourings use the same springs... https://www.realoem.com/bmw/enUS/par...926&series=E30 The iX subframe bushings push the subframe ~12mm lower in the body than the RWD subframe bushings. The ride height that results in the correct suspension geometry is thus ~12mm higher than the RWD ride height. Did the Tourings have a higher stock ride height than the sedans/coupes? The touring's greater rear weight may be why it uses iX rear springs... The greater weight over the taller spring results in the normal RWD ride height (maybe?)

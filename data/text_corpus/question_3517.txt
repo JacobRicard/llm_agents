@@ -1,0 +1,31 @@
+QUESTION ID: 3517
+
+QUESTION:
+Long story short, I'm building a 944 track car for HPDE events with my buddy. After getting it running the brake system felt like crap, so we ran through the normal procedures. Here's whats going on... Symptoms: Pedal is very mushy... to stop the car almost takes pushing the pedal to the floor board. Even when fully pressing the pedal it feels like the car has 20% of the braking power that it should. Brakes feel very, very weak. Car does not seem to be pulling to a particular side under braking. Previous attempts to fix that have now been deemed a failure of diagnosis: 1. Initially began by flushing/bleeding brake system- did not fix the issue 2. Replaced Brake Master, Clutch Master, and Clutch Slave Cylinders. Put in new fluid and bled the system again. - did not fix issue. 3. One thought we had was that possibly the front brake calipers were seized open and were not engaging under braking. To test this we raised the front of the car on jack stands, took the wheels off, put a pry bar between two lug bolts, and attempted to move the wheel while the brakes were being applied. The thought was, if the brakes were pressed down, and the wheel moved, this meant the caliper wasn't functioning. We did this test, and the front brakes appeared to function as they should, and I was not able to move the wheels while the brakes were pressed. A third and final bleed of the system was done... which did not fix the issue. During one of the bleed sessions it appeared some small, solid rust chunks were expelled from the rear calipers. However, after that nice new fluid appeared to be flowing well. I don't know what I'm missing here guys... this is a simple power brake set-up without ABS or anything of that other high tech stuff. It should be relatively straightforward but for whatever reason this car's brake system is kicking my butt!! Thoughts?? The car is a standard 84 N/A 944 (944/1). The braking system is not overly complicated and is similar to the BMW systems of the same era. A picture of the ugly POS as it exists right now:
+
+ANSWER 1 (id: 3517_1):
+The Booster is the one thing I really haven't checked... but my understanding is a failing/failed booster would cause the pedal to be firmer than usual, not spongy and weak. Am I wrong?
+
+ANSWER 2 (id: 3517_11):
+Originally posted by ReallyDirtyThirty I believe it is an ATE Master Cylinder. The flex lines on the car are all new stainless steel lines. Bleeders are your standard caliper bleeder (similar to E30). Would a rust clog be so bad as to cause braking issues but not rust through the brake line itself? Should be ATE all around. Yes, it can happen, but it's only a possibility. It should be remembered that on a 944 the rear brakes are doing more work than on your normal car.
+
+ANSWER 3 (id: 3517_2):
+So you cannot lock the car up at this point? Or do the brakes just feel weak? Booster failure generally causes the car to feel harder to stop, which is unsurprising.
+
+ANSWER 4 (id: 3517_3):
+Correct. It feels as if it would be impossible to lock up the brakes as is. When I'm driving I almost have to push the pedal to the floor to even moderately stop the car. The pedal isn't sinking and returns to normal once I let off the brakes.
+
+ANSWER 5 (id: 3517_4):
+Based on your description I'd say there is still probably air somewhere in the system. Forgive my ignorance, but do those have ABS? If yes sometimes the ABS block can be difficult to get all of the air out of.
+
+ANSWER 6 (id: 3517_5):
+Sounds like you still have air in it, and a bunch of it at that. I would bet its in the ABS solenoids and you need to get them to cycle to get the air pushed out of them into the rest of the system where you can get it bled out.. You need to get out on a dirt road and mash the brakes and get some lock up happening to get them to cycle a few times, or find a service tool that will cycle them. If not ABS equipped then you still have air in it someplace and since you replaced the master, did you bench bleed it before you put it in the car?? Same for the clutch?? I dont know much about P-cars, but this is where I would start..... Bleed, bleed, and bleed some more. Are you pressure bleeding, vac bleeding or using the ol 2 man stomp the pedal method???
+
+ANSWER 7 (id: 3517_7):
+You must have a rust clog either in the hard/soft lines, clogging a proportioning valve, or in the calipers themselves. You might have to start bleeding from an open line in the former two are the case.
+
+ANSWER 8 (id: 3517_8):
+More than a few 911 folks are having issues (soft pedal) with currently available new master cylinders, ATE units made in czech in specific. What brand is your brake master ? Are your brake caliper bleeders on the top of the calipers? How old are the rubber flex lines in the system? I have had good success blocking the brake pedal "on" as hard as possible (2X4 between the pedal and seat) and let sit for a day or two. Release the pedal very slowly and see how the pedal feels.
+
+ANSWER 9 (id: 3517_9):
+I believe it is an ATE Master Cylinder. The flex lines on the car are all new stainless steel lines. Bleeders are your standard caliper bleeder (similar to E30). Would a rust clog be so bad as to cause braking issues but not rust through the brake line itself?

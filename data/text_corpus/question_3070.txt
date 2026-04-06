@@ -1,0 +1,34 @@
+QUESTION ID: 3070
+
+QUESTION:
+OK. I have searched, both here and on Google. I have the Bentley. And I still need some pointers... Please. 86 es, passenger power window doesn't operate. 91 325i parts car with good window operation. I have both door cards off. I have 12v to the motor of the 86, so I'm pointed towards the motor being defective. With both door cards off, there is obviously an early & late system of regulator/motor mounting. What is the best approach? Swap out the entire regulator system? (I'd lose the optional hex-key cranking sytem) Are the motors the same/interchangeable, even though they are mounted differently? Should I pull 86 motor and try to clean up the internals? Any advise (or point me towards applicable threads) appreciated.
+
+ANSWER 1 (id: 3070_0):
+Early and late are different, the motors have different splines. Also the early design is a cork screw type inside a rail that spins where the late design has arms that pivot off each other. (seta is early design). Best bet is to grab a used early and use that. I would suggest getting 2 of them because my car has gone through 3 of them on the passenger side. I'd take the rail out and clean then re-lube it to reduce any friction for the motor.
+
+ANSWER 2 (id: 3070_1):
+Originally posted by ubernasty Early and late are different, the motors have different splines. Also the early design is a cork screw type inside a rail that spins where the late design has arms that pivot off each other. (seta is early design). Best bet is to grab a used early and use that. I would suggest getting 2 of them because my car has gone through 3 of them on the passenger side. I'd take the rail out and clean then re-lube it to reduce any friction for the motor. No fucking way. Get your fab skills out, do something better. The early design is shit: in fact, I bet your motor is OK, but the damn hub wears on the worm drive crap and binds so bad it can't move, faking a dead motor. Ask me how I know... IF you have the chops, swap to the late mechanism. Much smoother, quieter, quicker. My '87 will get late doors before paint...even though I have the chops to swap, I choose to have it appear factory. Late door panels, too, IMO. GL! Luke
+
+ANSWER 3 (id: 3070_10):
+I swapped my early 87es with a late model. I Didn't modified anything. However, the windows is kind of locking itself when going down at mid opening. This only happens when the door is close. If the door is open, the window wont lock... I didn't looked at it yet...
+
+ANSWER 4 (id: 3070_12):
+Originally posted by gearheadE30 For what it's worth, the changeover date is march of 1987 if you are looking for a reg or door. Nope. 2 different '88s had early style regulators.
+
+ANSWER 5 (id: 3070_2):
+Thanks for the comment. Would prefer to fix this today, not have to go find/order another early motor. How does the actual glass release from the late regulator track? I dn't see any bolts. Where the glass sits in the channel on the two locations, just see two tiny holes drilled inthe aluminum channel, appearing to hold clips
+
+ANSWER 6 (id: 3070_3):
+<<Get your fab skills out, do something better.>> Is there fabrication involved in switching, or does the entire system swap over if you do it complete? The door cut-outs & holes appear the same at first glance.
+
+ANSWER 7 (id: 3070_4):
+Unfortunately, I cannot claim experience swapping late motors to early doors. I know it is do-able, but cannot offer advice. If you do it, post some pics! I do have a set of late regulators sitting around, and the (early) ones that are in my doors now are dead slow. I dread swapping them AGAIN, for like the 4th time, unless I go late model. For now, mine work.
+
+ANSWER 8 (id: 3070_6):
+there are some parts that do not fit (mainly the glass guide near the rear side of the door), but if you are diligent you can make things work. the bolts bolt up to holes already on the doors. I have scissor type window regulators in one of my doors that came previously wire screw type. I probably was missing some part...but majority of the parts fit correctly....window functions fine.
+
+ANSWER 9 (id: 3070_7):
+Originally posted by siggy Thanks for the comment. Would prefer to fix this today, not have to go find/order another early motor. How does the actual glass release from the late regulator track? I dn't see any bolts. Where the glass sits in the channel on the two locations, just see two tiny holes drilled inthe aluminum channel, appearing to hold clips The glass has two metal "guides" that connect with the regulator (power or manual). The front ones just slide in, the rear ones do have 2 bolts that hold it in place. the difference is in the early/late glass and the location of the guides. also early/late doors have different electrical connectors/plugs at the door jam.
+
+ANSWER 10 (id: 3070_9):
+It's pretty much a direct swap. In my 87is, I ended up getting a late model regulator/motor, insulation strip and the window because it has different mounting points than the early window. Got it all from pick n pull for around 60ish. Beats paying 200+ for a brand new early motor/regulator. The late mechanism worked much smoother and quieter. Just note the way it bolts on before you take it off the late model car, and you should have no problems installing it on an early car.

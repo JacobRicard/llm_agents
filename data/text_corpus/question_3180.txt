@@ -1,0 +1,34 @@
+QUESTION ID: 3180
+
+QUESTION:
+I was wondering where I could get started as im an extreme noobie about cars and their workings. I have always been interested in bmws but have no clue about how internals of a car work or their mechanics or where I would even start to learn about how to preform basic work on a car. Basically, i would like any resources or any idea who I could ask to start learning about this kindve stuff. Im sorry if this is a newbie question and not the right way to ask what im looking for but anything helps !
+
+ANSWER 1 (id: 3180_0):
+Best solution to start, find someone who genuinely knows about cars, get them/a car in front of you, ask questions, and let them expand. Basically, find a kind soul near you (post in the regional forum that fits NC) that might let you look over their E30 with them at hand to answer questions. You may also purchase or download a copy of the Bentley 3 series/E30 manual and read through that, although that manual assumes some level of basic understanding.
+
+ANSWER 2 (id: 3180_1):
+Much as they're not the best overall answer, if you're a reader, the Haynes and Chiltons versions are much softer car porn than Bentley- they assume less knowledge going in. If you're visual- there's only one YouTube, and it's full of DIY videos. Lots of crap, but lots of things taken apart... t
+
+ANSWER 3 (id: 3180_10):
+This guy on youtube has great videos on how most car things work- everything from n00b to master mechanic, with explanations clear for both and not boring for anyone. Highly recommend: https://www.youtube.com/user/EngineeringExplained/playlists?sort=dd&view=50&shelf_id=2
+
+ANSWER 4 (id: 3180_2):
+Agree with the above... learn from someone, learn from books, learn from the internet. Yes, there is crap, but also lots of good content on YouTube. One good E30 channel I can think of off the top is Dan Cronin's work on his E30. Just look up his name. He's posted a lot of DIY videos.
+
+ANSWER 5 (id: 3180_3):
+Originally posted by DanCampion I was wondering where I could get started as im an extreme noobie about cars and their workings. I have always been interested in bmws but have no clue about how internals of a car work or their mechanics or where I would even start to learn about how to preform basic work on a car. Basically, i would like any resources or any idea who I could ask to start learning about this kindve stuff. Im sorry if this is a newbie question and not the right way to ask what im looking for but anything helps ! I was / am in the same boat as you, having started not too long ago with absolutely zero mechanical knowledge or skill. I'm lucky to live with a car guy who is willing to share his mechanical wisdom and collection of tools which definitely helps. ;D E30s are easy to work on - you really don't need many tools or any experience to get started doing basic work on your car. My advice is to start small with something that you can't possibly screw up too badly and work up from there. Installing cup holders and even using a wrench seemed daunting when I first started, but I was able to tackle things like replacing body panels, fixing a heater core, and doing a valve adjustment within a couple of weeks (so there's hope for anyone!). I've been learning by finding something that needed to be done on my car, researching how to do it by asking for advice, checking the Bentley, watching videos, and reading DIYs and posts from others who have done the same job. I found the E30 wiki on E30Zone helpful for learning basic E30 related technical info, and RealOEM comes in handy all the time to see which parts should be on your car and where the hardware goes. Another idea is to find a scrap yard near you and practice removing and installing parts before breaking them on your own car. If you mess up, the car is going to be scrapped anyway. :p
+
+ANSWER 6 (id: 3180_4):
+lots of old videos on youtube about how a motor works, differential, transmission etc. Most of the stuff is super complicated so if it doesn't make sense right away don't worry
+
+ANSWER 7 (id: 3180_5):
+Learn how things work, not how to fix them. If you understand the concept of a system, its components and their functions, you'll be able to diagnosis problems. Working with you hands is another story that takes practice and good advice. Youtube and r3v will help out a lot.
+
+ANSWER 8 (id: 3180_6):
+I'm self taught mechanics, however I didn't try and learn it all at once. If you try and learn it all at once by reading stuff you will get nowhere, and you will forget it all. You need to have a goal on what to learn. brakes playing up? time to learn about brakes, read everything about brakes,google brakes, watch youtubes on brakes, go to the wreckers and pull apart brakes, become an expert on brakes. Then fix the brakes with your knew knowledge. suspension needs work? Same as above, become an expert on suspension and then perform the required work. There is no point learning how a differential works if you never have the need to pull it apart. Of course you can learn for fun, but you won't retain the knowledge without using the knowledge. The flip side of all of this is buy a Bentley or similar manual for your car, and read it form cover to cover. and whenever you find something you don't understand start googling. However like i said, you wont retain much knowledge without putting it into practice. And also remember that there is nothing special about bmws when it comes to how things work. Knowledge gained from watching a youtube video about removing mazda rx7 brakes can be used when working on your bmw brakes. what im trying to say is don't start googling "how do e30 brakes work", start with "components of modern braking systems explained" or something generic. It's all just nuts and bolts after all.
+
+ANSWER 9 (id: 3180_7):
++1 on the u-pull-it yards. I learn by doing, so I take apart junkyard parts cars first. Sometimes I buy odd parts as mnemonics- the E46 steering wheel airbag bracket, for example. When I get around to pulling the wheel, I'll look at that bracket to figure out how to release the retainer springs. And not wreck MY wheel... t
+
+ANSWER 10 (id: 3180_9):
+Originally posted by Roadrunner Another idea is to find a scrap yard near you and practice removing and installing parts before breaking them on your own car. If you mess up, the car is going to be scrapped anyway. :p This is great advice - I did the same when I was 16 and doing more wrenching. It also allows you to just see the similarities and differences among the manufactures.

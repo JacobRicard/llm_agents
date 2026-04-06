@@ -1,0 +1,10 @@
+QUESTION ID: 857
+
+QUESTION:
+Hi guys, I have a question about installing an oil cooler kit to my M52B28 swapped E30. I know the easy way is to purchase the oil filter cap with fittings and just run the hoses. The thing is, I live in Indonesia. It would be stupidly expensive to buy overseas since the cap itself is quite expensive. Is there anyway that I can route the cooler line? I'm running a bone stock M52B28 at the moment Thanks Sent from my SM-P205 using Tapatalk
+
+ANSWER 1 (id: 857_0):
+I understand that cooling the oil is the goal here but I have to ask; why are you looking to run an oil cooler? If you're having temperature problems, its usually much easier to go with a bigger/more efficient radiator and ducting. If that's somehow not enough you could look into having the sump modified for an increase in capacity. More oil means you have more capacity for heat, and increased sump area to facilitate air-to-air cooling. Jangan khawatir; ada pilihan yang lebih terjangkau. ;D
+
+ANSWER 2 (id: 857_1):
+If you can find a BMW salvage yard locally, perhaps the oil filter mount from an e36/e46 m3? bolts on to your block then have lines made locally as well.

@@ -1,0 +1,10 @@
+QUESTION ID: 1979
+
+QUESTION:
+I am tracing wires on an old aftermarket radio install on my ‘89 325i today. When dropping the trim piece below my steering column I discovered an orange wire (see photo) that is disconnected. Can anyone tell me what this wire does. There is an orange wire with a male plug and one with a female plug that look like they should be clipped. Thanks
+
+ANSWER 1 (id: 1979_0):
+thats aftermarket. there is no clear covers like that one connectors from the factory. put a meter on them and see if one is hot and then turn the key to run and see if one is hot. if all goes well, plug them in to each with the car and then turn the key and see what happens. its either going to be nothing noticeable, smoke and maybe fire, or something will start working you thought was broke
+
+ANSWER 2 (id: 1979_2):
+Appears it goes into that relay connector? Power feed for the relay coil id say, the earth looks black.. bmw use brown for earths. Il be honest that whole thing there looks non genuine.. someone wired up some spotlights/fogs ?? Maybe an old alarm? The horn contact uses a male blade so you would need a female blade connector for that, that one pictured is male needin a good female.. That exposed one there should be wrapped up because it looks like an exposed positive for that relay plug, has someone bypassed the relay and just joined the two together? I see a red loop wire on the back of it. Yuck if thats the case

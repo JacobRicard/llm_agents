@@ -1,0 +1,13 @@
+QUESTION ID: 1027
+
+QUESTION:
+Hello, Whenever I put petrol into the M3 I have serious problems with the fuel pump cutting off almost immediately as it does when tank is full even though it is nowhere near. This means filling up takes about twice as long as it should as the pump keeps cutting off. Any ideas why?​
+
+ANSWER 1 (id: 1027_0):
+I would suspect the large vent hose that connects from the top of the tank to the filler neck. If this is kinked or blocked in any way the tank won't vent properly and you'll have trouble filling it up. One other thing, some newer fuel pumps have a pretty high max flow rate, certainly higher then I recall 20 years ago. I can get them to click off at full flow on some vintage cars. Have you tried filling by partially pulling the handle for a slower flow rate?
+
+ANSWER 2 (id: 1027_2):
+I used to have that issue on my euro 323i. The filler neck wasn't designed for the US pump nozzle. The solution was to swap it out with a US filler neck. I don't know where you are but use the filler neck designed for your country.
+
+ANSWER 3 (id: 1027_3):
+Another thought— newer safety nozzles are prone to shutting off. I find you have to really push it in the hole continually as it fills. I have this issue with my 2013 as well, and it’s even worse on the E30.

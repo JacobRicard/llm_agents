@@ -1,0 +1,13 @@
+QUESTION ID: 174
+
+QUESTION:
+Looking for a diagram with ecu pin out for 1987 euro spec e 30 . 0 261 200 081 Bosch
+
+ANSWER 1 (id: 174_0):
+Is the car trying to fire when you turn the key? What have you replaced or not replaced? What does the stomp test tell (that is if this version has that option)? Could be relay related. It could be a CPS problem as well. What all have you checked?
+
+ANSWER 2 (id: 174_1):
+Did not do a stomp test . Checked coil fof spark . Have 12 v at coil positive . No continuity on coil ground wire . That’s why I was thinking the ecu is not grounding the coil . Car sat for 5 years . Fuel pump gets power . Any help would be appreciated!, thank you
+
+ANSWER 3 (id: 174_3):
+it's a 35 pin ecu that was euro specific and ran the most basic version of motronic 1.0. everything here was 55 pin. the e30 zone wiki has a chart for the 35 pin : https://www.e30zone.net/e30wiki/inde...s#Motronic_1.0 it's uk centric, i'm not sure of any differences in other euro markets. it's going to be set up a little different than most of what we got here. edit : it won't have a stomp test.

@@ -1,0 +1,13 @@
+QUESTION ID: 180
+
+QUESTION:
+Hey Everyone. My air conditioner has been making some weird sounds: It *seems* to be working perfectly fine. but when It's off, it's slightly screeching - not the belt, just the pulley of some sort. its a dull whine. If I Turn on the A/C it goes away. Start ups on cold mornings the belt will screech. - When I turn on AC it goes away. questions I have I am not sure IF A/c Unit is something you get rebuilt, or Replace and which is the more cost effective solution? Have you ever tried to R&R A/C yourself? What would you recommend? Thank you!
+
+ANSWER 1 (id: 180_0):
+Originally posted by fiftytakedowns Hey Everyone. My air conditioner has been making some weird sounds: It *seems* to be working perfectly fine. but when It's off, it's slightly screeching - not the belt, just the pulley of some sort. its a dull whine. If I Turn on the A/C it goes away. Start ups on cold mornings the belt will screech. - When I turn on AC it goes away. questions I have I am not sure IF A/c Unit is something you get rebuilt, or Replace and which is the more cost effective solution? Have you ever tried to R&R A/C yourself? What would you recommend? Thank you! there's a massive thread on rebuilding the ac. the issue is our cars started out on r12 which is now unavailable and banned in most markets. the fix is an upgrade of several components and hoses. you might be able to get a shop to do a custom set up, there are some shops that specialize in updating hvac for older cars. edit : have a look here https://www.r3vlimited.com/board/forum/e30-technical-forums/e30-faq-and-diy/213651-the-detailed-e30-r-134a-conversion-thread-diy
+
+ANSWER 2 (id: 180_1):
+An AC compressor has a clutch that connects and disconnects the belt pulley from the compressor. I only see a Seiko Seiki replacement clutch. https://www.ecstuning.com/b-genuine-...h/64521386601/ This image shows a bearing that may need replacement in your case.
+
+ANSWER 3 (id: 180_2):
+Originally posted by Vincenze An AC compressor has a clutch that connects and disconnects the belt pulley from the compressor. I only see a Seiko Seiki replacement clutch. https://www.ecstuning.com/b-genuine-...h/64521386601/ This image shows a bearing that may need replacement in your case. This seems like The part that would be failing. Thank you! Meanwhile, I'll look into those rebuilding / Overhauling services.

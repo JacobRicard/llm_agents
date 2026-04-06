@@ -1,0 +1,7 @@
+QUESTION ID: 506
+
+QUESTION:
+Hi I have a BMW 325is with an Alpine CM5908. Original installation, came with the car. It developed a crackling sound so a couple of capacitors were changed in the amplifier output stage. The sound is good now but only with the engine off. With the engine on there is a loud buzz and a hum. Figured something was wrong with the ground but everything is connected correctly. All original, nothing has been changed in the wiring. There is no CD player connected. The only thing I noticed that the white paste between the large aluminum block at the back of the unit and the amp is almost gone. Not sure what it's for and if it's important. Any help with this would be appreciated Thanks Peter
+
+ANSWER 1 (id: 506_1):
+Thanks. I didn't know the hood was grounded to the body on these models. It's a 325is. The symptom, by the way, is the hum or whine increases with the RPM increase. There is no hum or whine with the engine off. The music is fine.

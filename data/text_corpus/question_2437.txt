@@ -1,0 +1,22 @@
+QUESTION ID: 2437
+
+QUESTION:
+Do people have their own OBD1 scanner? Is it something I should purchase? Is it worth the price tag, which is north of $200 USD on Turner?
+
+ANSWER 1 (id: 2437_0):
+Codes are only available for Motronic 1.1 and later (starting around 1987 or 1988). I don't think earlier cars (Motronic 1.0 or L-Jetronic) had fault code ability. Assuming you have a 1988+ car with Motronic 1.3, you can do a "Stomp Test" to access most things. I haven't used one of those newer tools with a converter from OBD2-->20-Pin diagnostic, so I can't comment on them. What I can say, is that buying an old Baum CS2000 is a great use of money if you're serious about doing your own diagnostic work and repairs. These tools come up from time to time on eBay, I got mine for $200, here's one for $380: Baum CS2000 Datascanner Diagnostic Scanner for European IMPORT Vehicles for sale online | eBay https://www.ebay.com/p/1423388830 Find many great new & used options and get the best deals for Baum CS2000 Datascanner Diagnostic Scanner for European IMPORT Vehicles at the best online prices at eBay! Free shipping for many products! The Baum tool has cartridges that contain the software for different makes, BMW is the OB91-1. You can also find cartridges for Porsche/Audi/VA, Seat/Skoda, Volvo, and Mercedes. This tool is useful because it doesn't just read the fault codes, it accesses all of your ECU's inputs. (Whats the intake air temp? RPM?, Idle switch on? WOT switch on? etc...) it can also actuate different functions (purge valve, injectors, AC compressor, etc). When it comes to the Baum tool, each cartridge (OB91-1) was updated with new versions to be compatible with newer cars. Depending on your need (do you want to just scan e30 era cars, or all the way to e46?) you may want to find the cartridge version that works for you.
+
+ANSWER 2 (id: 2437_1):
+The Foxwell/Schwaben branded scanners work pretty well, and access the info listed above, at least on a 89s and later. I did have to update the unit to scan an M40 car, but I also bought the scanner used. You can also use that unit to scan most OBD2 cars, although I have had some issues interfacing with Toyota products. Also did have a diag plug to OBD2 cable fail on mine, but they are $15 new. Is it worth it, maybe, but being able to see sensor outputs/positions is more useful than a stomp test for diagnostics. I think I recall some additional diag functions that applied to E30s, just can't recall what they were.
+
+ANSWER 3 (id: 2437_2):
+I have not used the Schwaben one. However I have had a friend use their older Snap-On that is able to read OBD1 live data. Extremely useful if you know what you're looking at. Not as nice ofc as OBD2 but more info than than stomp test CEL.
+
+ANSWER 4 (id: 2437_3):
+Originally posted by roguetoaster The Foxwell/Schwaben branded scanners work pretty well, and access the info listed above, at least on a 89s and later. I did have to update the unit to scan an M40 car, but I also bought the scanner used. You can also use that unit to scan most OBD2 cars, although I have had some issues interfacing with Toyota products. Also did have a diag plug to OBD2 cable fail on mine, but they are $15 new. Is it worth it, maybe, but being able to see sensor outputs/positions is more useful than a stomp test for diagnostics. I think I recall some additional diag functions that applied to E30s, just can't recall what they were. Will the Schwaben one clear an E30 airbag light?
+
+ANSWER 5 (id: 2437_4):
+Originally posted by twright Will the Schwaben one clear an E30 airbag light? Not sure, and don't have an E30 to test, but I believe there is a procedure to clear them without a tool.
+
+ANSWER 6 (id: 2437_5):
+There is a procedure that allows you to clear them without a tool. I have successfully used that procedure, but it would be much easier if I could just push the " Clear Code" button.

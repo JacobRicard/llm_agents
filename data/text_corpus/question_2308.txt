@@ -1,0 +1,7 @@
+QUESTION ID: 2308
+
+QUESTION:
+(posting this here for visibility) I remember hearing that some (very few) e30s had automatic climate control. Did these ever make it to the USA? Can it be seen on the vin breakdown or in the car without taking the dash out? I've seen e30s with numbers on the heater dial but was told a long time ago this wasn't an indicator if the car had automatic climate control. For those who have never heard of it, this post talks about it a bit I have read that cabin filters were an option on non-ac e30s, which is cool... but they mentioned the cabin filter sits where the ac evaporator would sit, which is false, non-ac cars have smaller heater boxes with no space for evaporators. Thanks!
+
+ANSWER 1 (id: 2308_0):
+Remove the kick panels and look for the cabin temperature sensor and/or its vacuum line. It's in one of the footwells somewhere, or at least it is in an E28, which shares the sensor according to realoem. Alternatively peer up into the void from the footwell and see if you can spot that third actuator's linkage.

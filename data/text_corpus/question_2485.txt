@@ -1,0 +1,13 @@
+QUESTION ID: 2485
+
+QUESTION:
+Hey guys, Im looking to rebuild the shifter linkage on my getrag 260, and get the parts for ECS Tuning. They have two really nice kits for that with a turner sport upgraded shifter arm bracket. Anyways, I need to know the production date of my trans. There is no production stamp anywhere, just numbers on the side and the inside of the bellhousing. I know the trans is from 1989, but I need to know if it was before or after september. ECS makes two kits and one is for after 09/89, and the other is before 09/89. Im just wondering if there is anyone who can help me out here. The numbers on the side of my trans are 260.0.1346.90 Inside 260.0.1602 back of trans 260.0.1060.92 thanks yall!
+
+ANSWER 1 (id: 2485_0):
+Are these the two kits? https://www.ecstuning.com/b-assemble...5117519669kt5/ https://www.ecstuning.com/b-assemble...5117519669kt3/ The difference is just the shifter rod joint, generally if you have an 88 or early 89 car, you'll just swap to the later style joint to install a DSSR or what have you. I'm not sure what your situation is, but if your trans is original to the car, just use the build date on the door jamb. If it's one you bought, and you're doing a manual swap or something, I'd just go for the later style kit since, again, a lot of the aftermarket stuff is designed for the later style. If you have an early car, you can just swap the joint and selector rod.
+
+ANSWER 2 (id: 2485_1):
+Originally posted by rturbo 930 Are these the two kits? https://www.ecstuning.com/b-assemble...5117519669kt5/ https://www.ecstuning.com/b-assemble...5117519669kt3/ The difference is just the shifter rod joint, generally if you have an 88 or early 89 car, you'll just swap to the later style joint to install a DSSR or what have you. I'm not sure what your situation is, but if your trans is original to the car, just use the build date on the door jamb. If it's one you bought, and you're doing a manual swap or something, I'd just go for the later style kit since, again, a lot of the aftermarket stuff is designed for the later style. If you have an early car, you can just swap the joint and selector rod. Yes! those are the ones. Do you have any recommendations for a DSSR. It looks like garagistic is out of stock. Thanks!
+
+ANSWER 3 (id: 2485_2):
+I have the UUC one, but I think AKG makes one as well for less money. I'm not that familiar with all the options, I just bought one and stuck with it.

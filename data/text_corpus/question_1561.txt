@@ -1,0 +1,16 @@
+QUESTION ID: 1561
+
+QUESTION:
+From what I can gather, pin #17 in the c101 is unique to the ix, and is some sort of signal for the ECU/ABS to communicate. Maybe so if a tire is not spinning during acceleration, the ABS won't energize (only energizes if the decel sensor is reading deceleration). That being said, what has everyone doing for this circuit with MS?
+
+ANSWER 1 (id: 1561_0):
+I grounded it with a 1k resistor per this post from e30zone. I haven't noticed any negative effects... https://www.e30zone.net/e30wiki/inde...rting_Your_M20
+
+ANSWER 2 (id: 1561_2):
+yeah, this was solved ages ago. It's actually the same fix they used on early 88's that had faulty DMEs. http://megasquirt.325ix.com/MS_to_Motronic/ms_to_motronic.html I tried building a circuit that would enable it again, controlled with the input from the mercury switch and a signal from Megasquirt to the ABS computer, but I never really got it working - mostly I just stopped caring because I have never noticed an issue anyway. All it does is prevent you from locking the brakes if you lift off the gas too quickly on low friction surfaces, but I am much more careful with my throttle than that, and use the transmission appropriately when slowing down. On Motronic there's a second ICV circuit (even on non-ix DMEs, which aren't really a thing) that just isn't connected to anything on regular E30s. The on/off output from the mercury switch can trigger an on/off output from the ABS to pin 50 on the DME to open the ICV in case of wheel lockup during engine braking. This is also why the IX has an extra clutch switch - one for ABS, the other for cruise control.
+
+ANSWER 3 (id: 1561_3):
+Originally posted by Eskie I grounded it with a 1k resistor per this post from e30zone. I haven't noticed any negative effects... https://www.e30zone.net/e30wiki/inde...rting_Your_M20 I should have clicked that link first. I couldn't remember the link to my own guide. :p Lots of other info here: Directory /MS_to_Motronic http://megasquirt.325ix.com/MS_to_Motronic/ I'm glad I documented everything though because if it broke, I have absolutely no memory of how any of this stuff works. Funny thing is I haven't had a single Megasquirt related failure in 14 years..
+
+ANSWER 4 (id: 1561_5):
+Originally posted by bradnic nando that's one helluva endorsement for MS. thanks Yeah, Chris has been a great resource for many of us over the years. :)

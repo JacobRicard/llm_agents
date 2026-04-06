@@ -1,0 +1,34 @@
+QUESTION ID: 68
+
+QUESTION:
+Bought a g260 a couple of years ago and am trying to get serious about actually swapping it into my eta. Got a couple of parts built up, and am not sure what is needed or will need to be modified. I have everything in diagram 25_0027 except 25 (not quite on electronics yet so this is fine for now. Since the trans is from a late model IS, I figured this would be acceptable as I got all of this for less than $50 (id consider that a steal, even if I cant use it i can sell it for much more than that, especially since all the rubber is new.) The issue is this. In the diagram 25_0085, which is from the correct year/model for my car (not off of vin as i have an auto) it appears that number 5 is necessary. That piece is nowhere to be seen off of diagrams for a late model IS, is this a non negotiable item? I havent taken the trans out or started any work yet as I prefer to have everything I think I will need before I start. Does anyone have any input on whether or not this is needed, or does it become obselete as I am using all IS parts?
+
+ANSWER 1 (id: 68_0):
+Also, I am aware the sensors are an issue and that I will likely need to do some electrical work/tampering with the transmission in order to make everything work. This is expected and A-okay with me.
+
+ANSWER 2 (id: 68_10):
+Originally posted by packratbimmer What flywheel are you running? I do not think that a late 260 will fit over an eta flywheel. currently the one that came with my trans (probably an is flywheel) - i know that there is a difference in width between some of the flywheels, but is there a difference in diameter?
+
+ANSWER 3 (id: 68_11):
+Originally posted by Gaarath378 currently the one that came with my trans (probably an is flywheel) - i know that there is a difference in width between some of the flywheels, but is there a difference in diameter? no difference in diameter but it does not have the reference pin needed for the cps and reference sensors the eta uses. there is/was a single mass eta alternative fw, iirc they were on 325 only or non badged cars, and/or the seta. pretty sure that's the route most took for this as the depth of the bellhousing should match up.
+
+ANSWER 4 (id: 68_12):
+Originally posted by 82eye no difference in diameter but it does not have the reference pin needed for the cps and reference sensors the eta uses. there is/was a single mass eta alternative fw, iirc they were on 325 only or non badged cars, and/or the seta. pretty sure that's the route most took for this as the depth of the bellhousing should match up. Okay, so I need to either drill and tap sensor holes, get the sensors needed and track down a seta flywheel, or sell my current g260 and find an early model eta trans. Something like this wouldnt work? Says that it has been tested on both eta and is models AND has the reference pins for the eta. Seems like a viable option https://www.turnermotorsport.com/p-2...wheel-kit-eta/
+
+ANSWER 5 (id: 68_2):
+number 1 off the late model deletes number 5 on the older setup. as mentioned previous i would stick to the newer set up. it is possible to set the shifter up either way, but not every getrag has mounting points for both the older and newer styles. since the trans is from the newer car, that is the one i would use, it will open up other possibilities like a dssr or short shifter if you want them in the future. number 25 is the back up light switch, and should already be installed in the trans you have. you don't need to replace it.
+
+ANSWER 6 (id: 68_3):
+Originally posted by 82eye number 1 off the late model deletes number 5 on the older setup. as mentioned previous i would stick to the newer set up. it is possible to set the shifter up either way, but not every getrag has mounting points for both the older and newer styles. since the trans is from the newer car, that is the one i would use, it will open up other possibilities like a dssr or short shifter if you want them in the future. number 25 is the back up light switch, and should already be installed in the trans you have. you don't need to replace it. okay, yeah the transmission i have does have that sensor installed, i havent looked at it in a while but that saves me some money. Thanks for the input, next is driveshaft and clutch assembly and then i think im about ready.
+
+ANSWER 7 (id: 68_4):
+Originally posted by Gaarath378 okay, yeah the transmission i have does have that sensor installed, i havent looked at it in a while but that saves me some money. Thanks for the input, next is driveshaft and clutch assembly and then i think im about ready. you need the short little wire harness for the back up switch. also check the wires under shifter console for that same harness. i can't recall if you have to change a plug or something.
+
+ANSWER 8 (id: 68_5):
+If your eta has the bell housing sensors, me, I'd be figuring out how to manage that first. And what you're going to do for a clutch/flywheel. jus' sayin'. t
+
+ANSWER 9 (id: 68_7):
+Originally posted by TobyB If your eta has the bell housing sensors, me, I'd be figuring out how to manage that first. And what you're going to do for a clutch/flywheel. jus' sayin'. t Haha yeah I was doing more research on what clutch i should get and ran into this issue, from what i can tell from these threads https://www.r3vlimited.com/board/forum/e30-technical-forums/engine-drivetrain/transmission-driveline/10102474-manual-swap-help-late-eta-into-early-eta-g260 https://www.r3vlimited.com/board/forum/e30-technical-forums/engine-drivetrain/transmission-driveline/366569-will-an-eta-getrag-260-fit-my-88-325is that is going to be a problem. From what I understand it may be doable with an eta flywheel and an is clutch, but i think i need to do more research.
+
+ANSWER 10 (id: 68_8):
+Originally posted by moatilliatta Motronic 1.3 with a ETA chip? Some bell housings have the castings marks to see where to drill and tap Are you auto right now? yes, currently auto, i just got back from a trip so when i get off work ill have to inspect the trans i have for bellhousing marks. The trans I have is marked as a 260.0.1346.90. If anyone wants to save me a HUGE headache and wants my trans Id be happy to trade for an early eta manual (my prod date is 10/86)

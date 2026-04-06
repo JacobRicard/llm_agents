@@ -1,0 +1,22 @@
+QUESTION ID: 47
+
+QUESTION:
+I have a “clunking” anytime turning off of center or turning back the opposite direction (turning left and coming back right or vice versa). I have been chasing down parts and took two videos. I believe it is the u-joint behind the steering wheel. Not the section that goes into the rack. thoughts? 1990 325 convertible- airbag car. https://youtube.com/shorts/djUs_IckALI?si=dqPUcW1v024CJvAm https://youtube.com/shorts/i5IuC2Bj2is?si=TP0pcDzxmWRB1jy1
+
+ANSWER 1 (id: 47_1):
+Originally posted by 82eye there is a couple small bushings both upper and lower that may have worn causing it. anything replaceable? Was looking at the RealOEM site and looks like it’s the whole shaft or nothing.
+
+ANSWER 2 (id: 47_3):
+Thank you. Debate if just getting an eBay shaft would be easier. But also don’t really see how it comes off of there…. Loosen pinch bolt, big nut, and then other pinch bolt in engine bay?
+
+ANSWER 3 (id: 47_4):
+can you isolate the joint to check it without interference from play elsewhere in the shaft? i've never seen a steering joint on any e30 that produced that much play.
+
+ANSWER 4 (id: 47_5):
+Originally posted by JerEazy anything replaceable? Was looking at the RealOEM site and looks like it’s the whole shaft or nothing. yes, pretty sure the whole shaft comes out to replace those parts.
+
+ANSWER 5 (id: 47_6):
+Originally posted by JerEazy But also don’t really see how it comes off of there…. Loosen pinch bolt, big nut, and then other pinch bolt in engine bay? You may have to loosen the steering rack. If it's an airbag car, doesn't unscrewing the big nut allows to move the shaft up and down a little bit? You may as well change the rubber coupler if you're there. I haven't done this job myself.
+
+ANSWER 6 (id: 47_7):
+Originally posted by Vincenze You may have to loosen the steering rack. If it's an airbag car, doesn't unscrewing the big nut allows to move the shaft up and down a little bit? You may as well change the rubber coupler if you're there. I haven't done this job myself. have a new rubber coupler on the way - figured if i have to take out the shaft may as well do everything down to the rack. I was hoping there was just some adjustment. But i guess thats not the case.

@@ -1,0 +1,25 @@
+QUESTION ID: 1462
+
+QUESTION:
+So I made a second round of these spline extension as requested. Price is 250euros including shipping worldwide. If you want to use paypal, that will add 20euros more. pm me if you are interested. Quoting old text: Hi guys! I started to uppgrade my ix drivetrain and first thing is front shaft splines.. I have reade that they are the first point where it cracks.. here is couple articles that i read 404 Not Found http://savarturbo.se/~mattias/motor/pictures/ix/shim/ http://home.earthlink.net/~hainesinutah/members/newsletters/iXchange26.html i teared my ix transfer case apart and took measuments http://sphotos-d.ak.fbcdn.net/hphotos-ak-snc6/321094_4862846383267_701143662_n.jpg front shaft splines are on top of each other only about 18-20mm and there is 60mm long splines in gear sprocket.. so.. Heres what i got im making new weld-able splines to my front shaft.. ...increasing spline "neck" of the shaft so that splines start from the same mark than spline touching each other... also i make splines 50mm long in the shaft... so touching are increases x2.. head is made of imacro M steel and it has section that will be pressed into old shaft pipe, making it stiff and help welding.. so if someone is interested purchasing this part, i will make it and post it with instructions...
+
+ANSWER 1 (id: 1462_0):
+I've got something like that now how much you thinking? I've got two shafts I could rebuild with new splines. even better would be to make a flange on both sides so the shaft could be removed and inspected without having to drop the whole transfercase.
+
+ANSWER 2 (id: 1462_1):
+im thinking it would be good around 190$ per head... yeah its a lot of work to remove all that just for shaft... i need to figure that flange thing... im studying in school now so it might take some time to make head... ill update when i got some extra head done with splines... splines are under work atm...
+
+ANSWER 3 (id: 1462_10):
+well i have read about that mod... check the topic opening links... its just 6mm more... but its not a big thing for me to remove hole t-case :D now when i know how to do it...
+
+ANSWER 4 (id: 1462_12):
+hmmn.. i had an idea... maybe if i could add grease nipple to shaft, hich would lead the grease to splines? well more work, but make service easier...
+
+ANSWER 5 (id: 1462_5):
+Looks good! You could definitely sell a few. I assume the extra "gap" you made between the O-ring and the start of the splines is where it doesn't go into the T-Case anyway?
+
+ANSWER 6 (id: 1462_7):
+All good ways to upgrade these front shafts. I have also thought about blocking off the hollow d/shaft at the case end and installing a grease fitting . As a 30+ year mechanic I don't believe I ever saw a car part die that had a life line of grease. Please keep this going . 91' Ix owner , Joe
+
+ANSWER 7 (id: 1462_9):
+the important thing is definitely keeping them greased though. that's why I suggested some sort of flange or collapsable section like the rear driveshaft. The biggest problem with longer splines is you can't easily remove the shaft to inspect the lubrication. Even with longer spline engagement, without lubrication the splines will still fail. one thing I wanted to mention about how you've removed the "wasted" spline that doesn't actually stick into the transfercase - the problem with this is if you use a thicker flex disc, or a spacer, to push the shaft further into the transfercase, you don't get to use that extra spline engagement. and actually for the bigger HP builds a thicker flex disc and X5 centering pin make a lot of sense anyway.

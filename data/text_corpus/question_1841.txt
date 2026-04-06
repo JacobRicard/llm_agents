@@ -1,0 +1,19 @@
+QUESTION ID: 1841
+
+QUESTION:
+Researching chips and have reached out to a few companies with no response. I live at 5400' and travel to 9000' + frequently. I plan to take some cross country trips this year that will have me at sea level and up to 12,000'. Do performance chips adjust for that? Is swapping chips a pain or a no no? Here in CO we have 91 but I'll be on both the east and west coast who have 92, 93, 97, and maybe others. 1991 325i coupe 5 speed. Engine is untouched at the moment.
+
+ANSWER 1 (id: 1841_0):
+Wouldn't the AFM account for the changes in altitude? Less dense means less to push on the flap means less fuel put into the engine. I know e28s with Motronic 1.0 had a pressure sensor in the AFM, I assumed e30s would have that combined for a M1.1 or 1.3 car. Swapping chips isn't that hard, but it's not something to do for a cross country trip. I drove my '91 325i across country and never had any problems with mountains. On a stock engine, the stock chip is good enough. You may get some extra power with a new chip, but BMW did a good job of tuning these from the factory for 87 gas. If you can only get 91 at home and want a little more, only get a chip for 91. Talk to MarkD about getting a good tune. https://www.r3vlimited.com/board/forum/e30-classified-forums/retail-classifieds/10077930-i-ve-finally-got-a-new-website-for-my-chips
+
+ANSWER 2 (id: 1841_1):
+Thanks man. I sent MarkD an email with no response. I can follow up here with a PM. Driving around the mountains will be the majority as thats where I live but I'll see some sea level and in between. Appreciate the info 🤘🏽
+
+ANSWER 3 (id: 1841_2):
+Almost all E30's, except the 325i use a barometric sensor mounted next to the airbox to account for altitude. Why the 325i M1.1/1.3 doesn't have it is a good question. It's supposed to be more advanced so perhaps it accounts for altitude another way like McGyver suggests. We know the 325e and 325i AFM are incompatible despite looking identical so perhaps the difference is in the circuitry.
+
+ANSWER 4 (id: 1841_3):
+Interesting. Appreciate the knowledge. I know there's a lot of people driving these cars at all elevations, just want to learn about the altitude/chip workings. She drives great right now. I'm not doing much more than headers, exhaust and a chip. At least not for the next couple years.
+
+ANSWER 5 (id: 1841_4):
+Originally posted by Flatwerx I'm not doing much more than headers, exhaust and a chip. At least not for the next couple years. lots of guys are more than happy with that alone.

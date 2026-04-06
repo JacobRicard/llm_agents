@@ -1,0 +1,37 @@
+QUESTION ID: 2435
+
+QUESTION:
+I have an Australian delivered 1984 323i. This was a model never released in the US. It's a problem since all the good BMW aftermarket part suppliers seem to be US based, and the US websites never list this model or tell you whether its compatible. Not even FCP 'Euro' lists this model. I need some guidance as to which model is comparable. Is the pre facelift 325i the same car as the euro 323i (besides engine)? Or am I supposed to look at the 320i? I don't need help on the M20 engine difference. The earlier Jetronic vs Motronic means almost every external engine part is different, from starter motors to hoses to radiators. So don't need help on that. But what I am more focusing on is aftermarket : rotors, brake shoes, suspension, brake lines, flywheel, bushings, control arms, sway bars e.t.c There are some great kits out there for the above, but it may not be right for the 323i Also the short shift kits for the 5 speed. Again I'm unsure if it will even work on the 323i. Is there a resource out there that I can look up the OEM parts numbers across the different E30 models, which will tell me if something is cross compatible? Also, what is the best website to buy quality aftermarket stuff from? Back in 2005-2006 the place to be was Turner Motorsport, but in the meantime it looks like things have changed dramatically. Sorry for all these questions, I have just been out of this scene for so long now and don't know what resources to use.
+
+ANSWER 1 (id: 2435_0):
+Realoem.com There is no need to buy stuff from the usa for normal stuff. Runautoparts and sparesbox are both ausi websites that between them carry most of the stuff for the 323i. And don't discount genuine bmw. Their prices are often comparable to ordering it from overseas.
+
+ANSWER 2 (id: 2435_1):
++1 for Runautoparts. Also Clickable Automotive - found these guys the best for Bilstein struts. For OE parts and special stuff www.schmiedmann.com/ is price competitive - although best to consolidate what you need to save on freight.
+
+ANSWER 3 (id: 2435_10):
+BM Wise at Thebarton get good reports, but I've never actually used them. I do all my own work on the e30. I bought my e92 through Castle Motors, and their workshop seems pretty helpful and a good group of guys, so I would take the e92 there. I'd say they'd be much like Michael McMichael though - uninterested in mods.
+
+ANSWER 4 (id: 2435_11):
+Its disappointing to find out that RealOEM cannot be relied upon if you have a RHD 323i from 1984. I have tried the exact VIN number, as well as manual field entry. It keeps throwing up parts and image breakdowns that do not match. I have found the 325e from early 1985 has the accurate commonality with my car, in some cases. A perfect example is the radiator. I wonder how much else of this database is inaccurate.
+
+ANSWER 5 (id: 2435_2):
+I own an 85 323i in the states and I can tell you other than the engine/fuel injection, it's not that different from a pre facelift 325e/i. Being an early 84-85 car, it has a sheet metal shift carrier, so many short shift kits will not work unless you upgrade to the aluminum style carrier but things like springs/shocks, brakes, lines, control arms and bushings are all the same.
+
+ANSWER 6 (id: 2435_4):
+Originally posted by reelizmpro Being an early 84-85 car, it has a sheet metal shift carrier, so many short shift kits will not work unless you upgrade to the aluminum style carrier How big of a job is that?
+
+ANSWER 7 (id: 2435_5):
+Shouldn't be too bad. You need the selector rod joint, the selector shaft, aluminum shift housing and the rubber bushing that bolts to the body. Basically the same stuff you'd need to rebuild a shifter anyway, except the aluminum shift housing itself.
+
+ANSWER 8 (id: 2435_6):
+Maybe - you need to have a look at your gearbox. The 'ears' that the aluminium carrier slots into with a pin on the later gearboxes aren't present on many of the early gearboxes with the sheet metal carrier. This is cast into the rear housing of the gearbox, so if your box doesn't have it, I don't think it can be added. That said, the Z3 short shifter still works with the plate (some of the e21 guys even use them), so you do have some options for a short shifter. Agisthos - I have used Schmiedmann a lot through the years, and they're very good and shipping is normally well priced. For many things now you can use the local online parts suppliers as already suggested. If you get sick of the L-Jet down the track (if you keep the vacuum leaks at bay, they're fairly reliable), you can swap in the 2.0L Motronic and it'll run the engine just fine. The head casting on the 2.0L is the same as the 2.3L, so the spark tables etc. will work for it - the cam needs to be modified to fit the Motronic rotor for the distributor and you need the Motronic timing belt cover, but otherwise it'll all fit up pretty easily. The 323i is my favourite e30 - the 2.3L engine is highly underrated, and with a diff swap to 3.9 or 4.1 you'll keep up with a stock 325i.
+
+ANSWER 9 (id: 2435_7):
+ok so i have a euro 323i and am going to be working on converting it to motronic soon here is a document that will show you all of the differences between the two EMS's have fun Converting to Motronic 1.3 - E30 Zone Wiki https://www.e30zone.net/e30wiki/index.php?title=Converting_to_Motronic_1.3
+
+ANSWER 10 (id: 2435_8):
+Originally posted by decay ok so i have a euro 323i and am going to be working on converting it to motronic soon here is a document that will show you all of the differences between the two EMS's have fun https://www.e30zone.net/e30wiki/inde...o_Motronic_1.3 Ditto on the 323i! Looking forward to your Motronic swap!
+
+ANSWER 11 (id: 2435_9):
+Originally posted by lukeADE335i Maybe - you need to have a look at your gearbox. The 'ears' that the aluminium carrier slots into with a pin on the later gearboxes aren't present on many of the early gearboxes with the sheet metal carrier. This is cast into the rear housing of the gearbox, so if your box doesn't have it, I don't think it can be added. That said, the Z3 short shifter still works with the plate (some of the e21 guys even use them), so you do have some options for a short shifter. Agisthos - I have used Schmiedmann a lot through the years, and they're very good and shipping is normally well priced. For many things now you can use the local online parts suppliers as already suggested. If you get sick of the L-Jet down the track (if you keep the vacuum leaks at bay, they're fairly reliable), you can swap in the 2.0L Motronic and it'll run the engine just fine. The head casting on the 2.0L is the same as the 2.3L, so the spark tables etc. will work for it - the cam needs to be modified to fit the Motronic rotor for the distributor and you need the Motronic timing belt cover, but otherwise it'll all fit up pretty easily. The 323i is my favourite e30 - the 2.3L engine is highly underrated, and with a diff swap to 3.9 or 4.1 you'll keep up with a stock 325i. Thanks Luke, this is exactly the sort of info I was after. I wish I had some pics of the shift carrier housing so know what to look for. Who in Adelaide do you suggest going to for E30 work now? I stopped by Percat automotive to get some advice on my plans, and they acted exactly like Michael McMichael used to to all those years ago, i.e they threw a hissy fit at the idea of any sort of modification other then keeping everything completely stock.

@@ -1,0 +1,19 @@
+QUESTION ID: 646
+
+QUESTION:
+Wanted to give back what little I can here after asking questions and receiving help. I had a bug to replace the crumbled orange bakelite plastic connectors for my ABS sensors. I wanted something that would look neat, seal well, and fit snugly within the factory clips for the original connectors. I sourced these off of eBay: "2Pin Way 20AWG Waterproof Wire 1.5mm Series Terminal Connector" (https://www.ebay.com/itm/315225258620). I shaved them down a tiny bit on the back, and they fit *beautifully*. I soldered the connections with some 3/32" 1:3 ratio, adhesive-costed shrink tube, and I'm very happy with the results. image widge Attached Files
+
+ANSWER 1 (id: 646_1):
+As for a replica replacements... BenGerman was going to make reps, Angry Ass took over and haven't seen a thing. OR, BMW sells the whole pigtail all the way back to the ABS computer. I have a few customer cars with crumbing connectors waiting on somebody to do something. Looks like it'll be me putting DTM connectors one them. https://www.prowireusa.com/deutsch-d...ctor-kits.html BLE, Yours does fit nicely in the clip.
+
+ANSWER 2 (id: 646_2):
+I have the same problem and was just starting to investigate what to do. Questions: What are these formally called by BMW or the parts catalog and what is the part number? I've always called them "orange plastic connectors for the ABS" Are these (oem style) no longer available from the parts suppliers with no substitute?
+
+ANSWER 3 (id: 646_3):
+Originally posted by mo713 Are these (oem style) no longer available from the parts suppliers with no substitute? They are available. It's possible to 3D-print 2 halves of the connector and then glue them. https://www.ecstuning.com/b-genuine-...s/61131390540/
+
+ANSWER 4 (id: 646_4):
+I found the solution above based on 3 criteria: 1. I did not want to undo any wire wrapping bundling, so I knew I wanted to clip the factory wires right there and remake connections. 2. Once I clipped, there was not much wire left on the brake controller end, so I figured I'd be adding a pigtail anyway to have some breathing room. 3. I wanted them to fit in the factory clips. Bonuses that these are cheap, readily available, and nicely weather proofed.
+
+ANSWER 5 (id: 646_5):
+When I build custom ABS harnesses for race cars, I clip the crap factory connections and use Deutsch DT or DTM connectors. The downside is you have to modify each replacement sensor you get in the future, but the upside is you have a reliable, watertight, and commonly available connector that is more than sufficient as a replacement to the brittle factory thing.

@@ -1,0 +1,19 @@
+QUESTION ID: 1654
+
+QUESTION:
+Hey R3v, I found some significant rust and leaks in the front passenger drain of my E30 right below the windshield, and I need advice on how to deal with it. Here are some photos of the damage: I think this is the result of a shoddy repair, there was also damage in the wheel well. Here are the options I can think of, but they all seem to have significant downsides:Buy a new shell without rust and swap the interior and engine expensive, hard to find a clean shell, lots of work). Cut out this section from a parts car and weld it in (I have some welding experience but the area where the damage is is difficult to access with lots of overlapping sheet metal pieces, I would need to cut out quite a large area and I worry that I would have trouble sealing everything once welded). Seal the vent that drains into this cavity (this would maybe fix the immediate issue of water leaking into the interior, but it wouldn't address the root issues). Find a shop capable of repairing this (I have asked around a bit with no luck yet, I am concerned that there are very few people/shops interested in this type of repair at a worthwhile cost, but please let me know if you know of someone in the PNW...) So... how effed am I? And what's the best way to deal with this? Thanks!
+
+ANSWER 1 (id: 1654_0):
+you are close enough to california that sourcing a no or low rust shell from there would probably pay for what it would cost to repair the current one. there is also the diy panel beating option and welding yourself if you have the time, the welder, and the tenacity to tackle it.
+
+ANSWER 2 (id: 1654_1):
+This type of rust used to be "find a new car" territory. But with values the way they are these days, it's worth fixing. Now finding someone you trust to repair properly is another problem. Best off learning to DIY, that is the route I went with rust repair on my car, although I did not have any in the cowl area.
+
+ANSWER 3 (id: 1654_2):
+This firewall repair panel cost $2,500 and it's NLA. This guy sometimes sells California shells or even complete cars with repairable damages. Log in or sign up to view https://www.facebook.com/groups/1472962883012664/user/100010243410213 See posts, photos and more on Facebook.
+
+ANSWER 4 (id: 1654_4):
+I have some stuff from Valcas and it's good enough for the price. For me, repairing with that Valcas part is easier/cheaper than re-shelling the car. Definitely varies on how much welding gear/experience you have, how stripped the car is, what else you have done to the car, and how much optimism you carry...
+
+ANSWER 5 (id: 1654_5):
+Tiny pictures. It's worth considering that these cars are getting so old and high in average owner count that it is unlikely you would find a donor that isn't going to have the same problems for a reasonable price. Though you can pull the cowl vents and inspect part of this area with a borescope, like the sunroof cassette it's an area that rusts from the inside out so they are very difficult to catch on inspection. You could easily spend $10,000 on a rust free E30 only to have one of the areas prone to rusting from the inside bubble up a short time later.

@@ -1,0 +1,10 @@
+QUESTION ID: 119
+
+QUESTION:
+Hi, I have a 1987 325e and am planning to restore the air condition system that has been disconnected and not operating. I plan to retrofit the r12 with the r134a system by installing new AC lines, compressor, condenser, expansion valve, pressure switch, and receiver dryer. I have a question regarding one of the ac lines that goes from the compressor to the evaporator (see below photos). At one end of this ac line there is a cylinder-like tank with one pipe going to the evaporator and two small metal pipes that wrap around behind the engine block and go somewhere on the driver's side of the engine bay. My car came without the two rubber hoses attached at the end of the metal pipes so I am not sure where these go to and their function. I plan to replace it with a new ac line but I do not match what I have. I would appreciate it if anyone could tell me where these hoses are connected and their purpose. Thank you Attached Files
+
+ANSWER 1 (id: 119_1):
+That cylinder thing is an oddball, not on all cars. and google is failing me on finding the answer, but its some sort of heat exchanger and those 2 lines that go off are coolant i think.
+
+ANSWER 2 (id: 119_3):
+yes thats it a fuel cooler. quite rare. only seen it referenced on the internet a few times. https://www.r3vlimited.com/board/forum/e30-technical-forums/engine-drivetrain/m20/285046-fuel-cooler Google results suggest it was more common on the 5 series e28.

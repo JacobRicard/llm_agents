@@ -1,0 +1,7 @@
+QUESTION ID: 1616
+
+QUESTION:
+Is there a specific way the guibo for the transfer case goes in? I took it out and am reinstalling it and don't remember if there is a specific way it goes in
+
+ANSWER 1 (id: 1616_2):
+^^^x3 More than once I have had a customer come in the shop who did their own giubo and they shred before long when installed backwards. They have varying thicknesses and the thicker part needs to be under compression in forward gears, tension in reverse.

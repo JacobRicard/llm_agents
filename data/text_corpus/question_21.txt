@@ -1,0 +1,10 @@
+QUESTION ID: 21
+
+QUESTION:
+This is a collection of files to test fit, modify, and cut a Sanden compressor mount for a M20 engine, utilizing the OEM M20 compressor supporting bracket (64521717007). Compressor personally used was a Sanden 508 SD5H14. This bracket may work with other 8 eared Sanden compressors, such as the 709, but fit may vary. I recommend 3D printing the STL models first to ensure correct fitment. New hardware will also be needed. Check out the link for the full post.​ Click this to leave me a tip (any amount appreciated)! https://www.printables.com/model/134...-for-m20-engin​ ​​​​
+
+ANSWER 1 (id: 21_0):
+Looking forward to giving this a try! Could you include more info about using the Sanden compressor? Did you need custom lines? And did you use the condenser recommended in the R-134a Conversion Thread? Thinking of ordering everything from send-cut-send.
+
+ANSWER 2 (id: 21_1):
+Originally posted by evrgrn Looking forward to giving this a try! Could you include more info about using the Sanden compressor? Did you need custom lines? And did you use the condenser recommended in the R-134a Conversion Thread? Thinking of ordering everything from send-cut-send. The only line I needed to technically replace was the low pressure suction line to match up to the SAE #10 suction side on the Sanden 508 SD5H14. I did end up making a new line for the discharge side anyways as a split formed. Do yourself a favor and just get new hoses made. Most AC shops can fit new rubber lines to your existing old metal lines. I am using the stock condenser and fan with 0 issues. Sometimes the AC is too cold, so I have to turn in down.

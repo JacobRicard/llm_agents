@@ -1,0 +1,40 @@
+QUESTION ID: 2066
+
+QUESTION:
+Before you guys start yelling at me saying it’s not worth the effort, let me say that in my country we have substantial cost-related advantages for keeping our vintage cars original. I am looking at some minor upgrades to this 1989 automatic 316i sedan. The engine is a M40B16. Even gaining a few bhp would be great….. At the cost of being impractical, please hit me up with some advices XD Thanks! And nice to meet you
+
+ANSWER 1 (id: 2066_0):
+If you're not interested in swapping the engine out, I'd at least swap it to a manual transmission so then it's more fun and engaging to drive. I have an m40b18 in my E30, but in the US, it's not enough power for my liking, so it's being replaced by something else. For power adders to an M40, I'm not well versed in that knowledge --- I'll let someone else chime in for that.
+
+ANSWER 2 (id: 2066_1):
+First off, you could just upgrade to a M40B18, which would be practically undetectable. Then you could add a different camshaft, while replacing the springs, which are probably nearly worn out, and maybe pulling the head/having it machined to slightly improve flow. Probably anything beyond that would necessitate some type of exhaust improvement, which would be easy to spot, although you could of course hollow out the muffler, or perhaps replace the catalyst to yield a tiny improvement. Non engine related invisible upgrades would pretty much be limited to differential gear or total tire size changes to alter gearing up or down, depending on how the automatic feel presently.
+
+ANSWER 3 (id: 2066_11):
+Originally posted by varg If modifications as mundane as transmission swaps aren't allowed by your government without significant difficulty or expense I would sell the auto E30 get a one with a manual transmission... I've driven the automatic E30s and to me it sucks too much fun out of driving, this negates the purpose of owning an E30. This. Having to keep the auto is a deal breaker.
+
+ANSWER 4 (id: 2066_12):
+Speed can be gained in other ways. The suspension and aerodynamics will help at speeds over 100 kph. Fuel and spark also contribute. As a long time m10 fan I think just make every part of the car as good as you can and drive the hell out of it.
+
+ANSWER 5 (id: 2066_2):
+Originally posted by roguetoaster First off, you could just upgrade to a M40B18, which would be practically undetectable. Then you could add a different camshaft, while replacing the springs, which are probably nearly worn out, and maybe pulling the head/having it machined to slightly improve flow. Probably anything beyond that would necessitate some type of exhaust improvement, which would be easy to spot, although you could of course hollow out the muffler, or perhaps replace the catalyst to yield a tiny improvement. Non engine related invisible upgrades would pretty much be limited to differential gear or total tire size changes to alter gearing up or down, depending on how the automatic feel presently. Thanks guys! An engine swap is quite certainly detectable when every 2 years you need to submit the vehicle for testing in order to get the driving permits.. if I need to re-register the car I loose all the benefits of a vintage car.. that's why I am looking to stick to this engine. Even swapping ti manual gear would not be allowed I am a complete newbie, why can't I upgrade the camshaft on this engine? Inviato dal mio iPhone utilizzando Tapatalk
+
+ANSWER 6 (id: 2066_3):
+The M40 1.6L and M40 1.8L are virtually identical under visual scrutiny, and if they even have the tool to scan it the engine will show as an M40, which is almost certainly enough to cause a technician to pass the car.
+
+ANSWER 7 (id: 2066_4):
+Originally posted by roguetoaster The M40 1.6L and M40 1.8L are virtually identical under visual scrutiny, and if they even have the tool to scan it the engine will show as an M40, which is almost certainly enough to cause a technician to pass the car. Interesting point of view😅 but why can't I modify the camshaft in my 1.6L while I can in a 1.8L? I would get a good deal on a M42B18 with 140bhp, which is still a 4-cyl, but maybe easier to spot by the technician? Inviato dal mio iPhone utilizzando Tapatalk
+
+ANSWER 8 (id: 2066_5):
+Originally posted by Tofflemire Interesting point of view😅 but why can't I modify the camshaft in my 1.6L while I can in a 1.8L? I would get a good deal on a M42B18 with 140bhp, which is still a 4-cyl, but maybe easier to spot by the technician? Inviato dal mio iPhone utilizzando Tapatalk Presumably, either the 1.6 or 1.8 M40s take the same aftermarket camshafts, either one would be viable to change the cam. The M42, which uses effectively the same engine block as the M40B18 has a very different looking intake manifold, and I suspect that most techs could spot it. Then again, some techs see a four cylinder from roughly the right era and don't bother looking any further. For that matter, an M43 might be easier to get past scrutineering as long as one installed an M40 intake manifold, which ought to fit. What does the inspection process for vintage cars require a technician to inspect anyway?
+
+ANSWER 9 (id: 2066_6):
+To get a bit more pep out of it if you can’t switch to the 1.8L (the extra 200cc makes a bit of difference, the M43 1.9L would be a little better again), I’d think about a manual transmission swap. With the 4.10 or higher (maybe 4.45?) diff ratio that is in your car it should be more entertaining than it is now.
+
+ANSWER 10 (id: 2066_7):
+if you have to keep it that original i'd just enjoy the car as is. anything worth pursuing for an increase in hp is going to put you in the modified category. even a bump in cam won't make a difference without a transmission swap and other work.
+
+ANSWER 11 (id: 2066_8):
+Originally posted by roguetoaster Presumably, either the 1.6 or 1.8 M40s take the same aftermarket camshafts, either one would be viable to change the cam. The M42, which uses effectively the same engine block as the M40B18 has a very different looking intake manifold, and I suspect that most techs could spot it. Then again, some techs see a four cylinder from roughly the right era and don't bother looking any further. For that matter, an M43 might be easier to get past scrutineering as long as one installed an M40 intake manifold, which ought to fit. What does the inspection process for vintage cars require a technician to inspect anyway? Good morning to you all, sorry for the delayed answer but I waited to speak with professionals that handle the bi-yearly car check (for legislative purposes). No engine-related factors are checked, so a swap is possible!!…. This will be called the stealth swap😂 The situation is as follows: - the automatic transmission sadly needs to stay because that would too easy to spot - the engine can go, new candidate should look vaguely the same (cylinders number, etc). What would you guys do? M43b19? M42b18? Any more powerful beast to consider? - what about the transmission? Any automatic candidate that you would consider? - electric components etc? I will make sure to post a full review of the work 🤓 Inviato dal mio iPhone utilizzando Tapatalk
+
+ANSWER 12 (id: 2066_9):
+Most people on this board are Americans and we did not get the M40 let alone the 1.6L variants, so I wouldn't expect a lot of feedback here that isn't "engine swap." I doubt you will have a noticeable improvement in power if you were to upgrade only cam and valve springs with no other modifications, keep in mind that a more aggressive cam may make the car less fun with an automatic transmission because it will decrease low end torque. An M42B18 would be a massive improvement over your M40B16 but there are parts availability issues with M42s these days, there are a couple of threads about it in the M42 section of this forum. If modifications as mundane as transmission swaps aren't allowed by your government without significant difficulty or expense I would sell the auto E30 get a one with a manual transmission... I've driven the automatic E30s and to me it sucks too much fun out of driving, this negates the purpose of owning an E30.

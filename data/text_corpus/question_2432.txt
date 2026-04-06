@@ -1,0 +1,10 @@
+QUESTION ID: 2432
+
+QUESTION:
+I have a 91' 318is and I purchased an aftermarket steering wheel hub from Ireland Engineering and the steering wheel adapter ring that they recommend for cars that originally came with airbag steering wheels (Mine did). I put the wheel on and push the button in up on top of the column to get the wheel in all the way. The horn button or turn signal shutoff still doesn't reach even though the hub is pushed in all the way. Do I need to make modifications to the hub/column? Thanks.
+
+ANSWER 1 (id: 2432_0):
+Without photos, it's hard (for me) to understand what's going on, but the little "button" on the top of the column should retract by itself when the key is inserted and the ignition is in the ACC position. Are you able to take a photo of the back of the hub, back of the steering wheel, and how you installed the hub?
+
+ANSWER 2 (id: 2432_1):
+agreed, photos would help. in my case with the NRG aftermarket hubs the signal cancel tab is too short. I taped a small strip of cardstock to the cancel tab on the hub and it works well.

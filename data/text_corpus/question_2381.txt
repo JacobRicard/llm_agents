@@ -1,0 +1,10 @@
+QUESTION ID: 2381
+
+QUESTION:
+I have swapped a m54b30 engine from e46 330i 2002 into a e30 325 1988 and reflash the ms43 ews deleted. Does anyone know how to interconnect the connector x6011 to the c101 . ?
+
+ANSWER 1 (id: 2381_2):
+Originally posted by TobyB Wire nuts. Terrible advice: everyone knows car vibrations will wiggle the wire nuts loose. Plain old black electrical tape is as good as it gets. Just make sure to use a couple of wraps. I'm speaking from experience, the PO used black tape for the head unit install and it's still sticky and the tape's still there, even after a decade.
+
+ANSWER 2 (id: 2381_3):
+Oh, are you claiming that your nuts vibrate freely less frequently than my nuts??? Because that would be... nuts. Fine. Crimp your nuts. You masochist. You vinyl guys are all the same... t hee

@@ -1,0 +1,10 @@
+QUESTION ID: 620
+
+QUESTION:
+I replaced my alternator and still have a small draw which I assume is the battery dash light not working. Both that and parking brake light used to work but no longer do. I replaced the light bulbs in the cluster thinking they were all burnt but now it’s looking more like a grounding issue or something. I checked fuses and they were all good (fuse 21 blew a couple weeks ago but I already replaced that). All the dash lights including the blinkers, high beams, check, and backlights all work so it’s just the red warning lights at the bottom. Thank you guys for the info!
+
+ANSWER 1 (id: 620_0):
+Your draw is most likely from the SI board itself. This is a very well known and common issue and if you would have searched more, you would have seen many articles and information that state the SI board, when failing, will cause a parasitic draw. Have the SI board professionally refurbished and the draw will go away. We perform this repair weekly. Thanks
+
+ANSWER 2 (id: 620_1):
+Regarding the warning indicator lights not turning on, make sure you connected all the wires at your alternator correctly. This can also be a result of a failing main circuit board in the cluster.

@@ -1,0 +1,7 @@
+QUESTION ID: 1048
+
+QUESTION:
+-The car starts up is without any problems, but under load has a misfire and once warmed is more pronounced. Checked a few things today to see if there's anything I could do to fix it: Removed and checked the plenum to check for leaks (none found) Checked plugs and wires for correct resistance measurements (all checked ok) It was getting late so wrapped it up and tomorrow going to check TPS and CPS. Any other recommendations?
+
+ANSWER 1 (id: 1048_0):
+In my experience, most "mis under load" situations are traced to the ignition system. Your TPS isn't going to cause a misfire problem. Check your CPS resistance and also visually inspect the wire up and down to see if one of the three wires are broken or breaking. IDK if you pulled out all your plugs, but if you haven't, pull out each one and inspect for excessive fouling.

@@ -1,0 +1,7 @@
+QUESTION ID: 2114
+
+QUESTION:
+I’m working on an M30B35 swap for my E30 and I’ve got the engine running but not running well . I’ve checked for and fixed all vacuum leaks and have cleaned and replaced the icv. The engine idles at 2.5k on startup but if I disconnect and reconnect the afm a few time the idle drops down to 1.5k. Also, whenever I press on the throttle, the idle surges quite a bit. Another thing to note is that I did take out my icv and plug both ends so there is no vacuum leak. I then started the car with the throttle open slightly and the engine ran fine through all rpm ranges. This makes me think that there isn’t a fuel or vacuum problem but rather the icv getting a wrong signal or maybe even the new icv is not working? The TPS is also new and properly adjusted along with the throttle cable and plate positioning. I’m not 100% sure if the afm is working properly but the resistance values look fine when manually moving the plate and checking with a multimeter. Not sure what the problem is but any suggestions would be great! I’ve also attached a video of the problem for reference. IMG_1230.MOV https://drive.google.com/file/d/1PnRdGBZkjumiYCc3jpj7pLgK02vbdj1p/view?usp=drivesdk
+
+ANSWER 1 (id: 2114_1):
+Originally posted by twright I am not familiar with the M30, but some idle control valves can be put in backwards. Is yours backwards? It looks like this one can only be put in one way!

@@ -1,0 +1,7 @@
+QUESTION ID: 688
+
+QUESTION:
+My understanding, is that there are at least 3 versions of the speedo used in the e30: miles/hr; km and miles/hr; and km only. My question is whether the sensor mounted on the differential is compatible with all three, or if a different sensor is needed, especially between the "miles and km/hour" and the "km/hr" speedo? My current speedo is "km/hr" alone and I want to know if a "miles/hr and km/hr" speedo will work with my current sensor? Thanks for any help on this, Brian
+
+ANSWER 1 (id: 688_1):
+E30s have a digital speedometer. The calibration of the gage is unaffected by the gear ratios. The only thing that does affect it is different tire sizes - but as far as I'm aware, stock E30 tires are about 23.9" OD so the calibration is basically the same on all of them. and yeah, the kmh/mph gages are just different faces on the same gage.

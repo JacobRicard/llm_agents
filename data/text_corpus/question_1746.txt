@@ -1,0 +1,31 @@
+QUESTION ID: 1746
+
+QUESTION:
+My car is an S52 swapped E30... the E28 motor mounts I currently have installed are needing replacement. What are y'all using for mounts? I'm looking at the AKG's since I've had great luck with their stuff in the past. Recommendations?
+
+ANSWER 1 (id: 1746_0):
+AKG is what I would do. I have Condor UHMW, but I'd appreciate the isolation. I bought a set of the most recent Revshift ones, and they look really nice but they shift the engine to the right more and would cause fitment issues with my manifold/turbo/DP. I think they scanned an M20, 24v, and e30 engine bay, and found that the front of the swap needs to move over to keep the output angle the same as stock.
+
+ANSWER 2 (id: 1746_10):
+Originally posted by MR 325 I have never heard of someone using E30 engine mount arms for a S52 swap. Are you sure? Sorry I'm an idiot, I don't know why I thought the question was related to my control arms, not the engine mount arms. But yes, I have the e36 engine mount arms. Sorry for the confusion. Sent from my iPhone using Tapatalk
+
+ANSWER 3 (id: 1746_2):
+Originally posted by MR 325 Highly recommend AKG swap mounts. Nothing else comes close to their fit and quality. their poly mounts? Poly is kind of harsh unless it's a race car IMO. OP, do you have e36 aluminium arms? If so, I'd go e28 m5 stock btw mounts.
+
+ANSWER 4 (id: 1746_4):
+Originally posted by zaq123 their poly mounts? Poly is kind of harsh unless it's a race car IMO. OP, do you have e36 aluminium arms? If so, I'd go e28 m5 stock btw mounts. True, poly can transmit more noise and vibration. There is still no better fitting option. I have them in my own car as well.
+
+ANSWER 5 (id: 1746_5):
+Originally posted by zaq123 their poly mounts? Poly is kind of harsh unless it's a race car IMO. OP, do you have e36 aluminium arms? If so, I'd go e28 m5 stock btw mounts. EDIT: I have e36 arms, also I currently have e28 mounts on the car now but they are definitely in need of replacement. Sent from my iPhone using Tapatalk
+
+ANSWER 6 (id: 1746_6):
+I just installed 80A poly bushings and cannot notice any increase of noise while driving. At idle there is a little bit more nvh. This is with factory transmission bushings.
+
+ANSWER 7 (id: 1746_7):
+Follow up question regarding e28 M5 mounts... RealOem shows that the M5 had 2 different types of mounts for the right and left, like in the picture I've attached... My car has the top mount (but green color) on both sides... Those of you using e28 mounts for your swaps, which of these mounts are you using? ​​​​​​​
+
+ANSWER 8 (id: 1746_8):
+Originally posted by RenaissanceMan I don't have e36 arms, just the stock e30 ones. I currently have e28 mounts on the car now but they are definitely in need of replacement. Sent from my iPhone using Tapatalk I have never heard of someone using E30 engine mount arms for a S52 swap. Are you sure?
+
+ANSWER 9 (id: 1746_9):
+Originally posted by RenaissanceMan Follow up question regarding e28 M5 mounts... RealOem shows that the M5 had 2 different types of mounts for the right and left, like in the picture I've attached... My car has the top mount (but green color) on both sides... Those of you using e28 mounts for your swaps, which of these mounts are you using? You want to top version. These are the same geometry as your existing E28 mounts.

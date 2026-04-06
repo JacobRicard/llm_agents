@@ -1,0 +1,7 @@
+QUESTION ID: 1219
+
+QUESTION:
+Okay so I have finally solved the mystery behind these things. They are NLA obviously, but BMW says the bolt is a m5x6. This is a pretty uncommon size, so I got the shortest one my local hardware store had, a m5x10. I bought 3 washers and tried it out. And it works. Yay. Had to submit a special inquiry through my local dealers part department to find this out...
+
+ANSWER 1 (id: 1219_0):
+I will have to check my own, but I think they come with washers....M5x6 (Pack of 100 = $9.37) Here: http://www.mcmaster.com/#standard-cap-screws/=qjyrf6

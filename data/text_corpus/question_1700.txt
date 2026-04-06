@@ -1,0 +1,13 @@
+QUESTION ID: 1700
+
+QUESTION:
+Hey everyone, I’m about to pick up this E30 and wanted to introduce myself and the car I’ll be wrenching on soon. Been lurking for a while and finally pulling the trigger. The car: 1990 BMW 325i Coupe S50 motor (regasketed, no leaks) Getrag 260 trans w/ Sachs clutch 3.73 LSD E36 Mishimoto radiator + 16" Spal fan 2.5" straight pipe from headers back New OEM front suspension All electronics functional Heat works, no A/C Needs:Paint New dash Driver's rear quarter has a dent Driver's seat is rough, rest of interior is decent carpet replacement A/C Etc. Does anyone else have a S50 swap? Any dos and donts? Overall, it’s a solid starting point for what I want raw, but with some upgrades done to it. Planning to clean it up cosmetically, keep it streetable, and maybe see a few (more than a few) track days. Any tips, known quirks with this setup, or threads I HAVE to read? Drop them below I’m all ears. Looking forward to learning from you all.​
+
+ANSWER 1 (id: 1700_1):
+Originally posted by 82eye nice pick up. there is an entire 24v sub forum covering s50 and related swaps you should have a look at. How do I navigate to it? I looked for 24v and S50 and nothing came up.
+
+ANSWER 2 (id: 1700_2):
+Originally posted by Yes50 How do I navigate to it? I looked for 24v and S50 and nothing came up. on the main page, scroll down, about halfway there is the 24v subsection. 24V Engine Swaps - R3VLimited Forums​
+
+ANSWER 3 (id: 1700_3):
+I'd probably look at a couple swap threads to see different options and piece together what yours has in case you need to order parts. Then you'll know if you have options. I'd tidy/tuck the wiring in a bit, a set of 318/m3 firewall covers would help give you somewhere to tuck the stuff. Check how many turns lock-to-lock the steering is and if it's a stock rack, add a quicker one to the list. Even an e36 one is fine and makes a huge difference. Otherwise I'd look into options for suspension/bushings depending on how street friendly you want it.

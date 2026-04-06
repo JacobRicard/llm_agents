@@ -1,0 +1,7 @@
+QUESTION ID: 1471
+
+QUESTION:
+If I remove the front diff and axles will all the oil drain out of the oil pan? Should I drain motor oil first??
+
+ANSWER 1 (id: 1471_0):
+No, the passenger's side CV is isolated from inside of the oil pan. You might get some gear oil seepage though if you remove the CVs without draining the front diff first though.

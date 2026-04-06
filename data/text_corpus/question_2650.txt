@@ -1,0 +1,31 @@
+QUESTION ID: 2650
+
+QUESTION:
+You know how the Bentley manual has never been updated to include 1991 M42 models or even Motronic 1.3? Well I asked them why. This was their response. "Thanks for contacting us. A good question, but unfortunately, the reason is proprietary. If we did have information for the public, we definitely would share it on our site. So, for now, I have been no help, but thought you deserved a prompt reply." So it's a complete mystery...
+
+ANSWER 1 (id: 2650_0):
+They probably won't update it as there is no financial gain to do so, and I'd be shocked if they moved over 1k units per year. Or they just want you to get the E36 one as well. In reality, the resources available, both to the home mechanic, and a shop, make something like that manual obselete.
+
+ANSWER 2 (id: 2650_11):
+Originally posted by Vincenze It seems that the Bentley book was written by a person who didn't actually work on a E30. When there is a complicated step, the book gives no information about it. These How-Tos are much better, but only few repairs are covered. https://classicbimmerbits.com/e30-how-to/ The instructions on that site appear to be M20 specific.
+
+ANSWER 3 (id: 2650_12):
+Originally posted by Andrew325is The instructions on that site appear to be M20 specific. I actually don't like when Bentley mixes content for different engines, configurations.
+
+ANSWER 4 (id: 2650_2):
+Well yeah, we don't really need it, but the Bentley is a nice book for the home mechanic. The factory repair manual covers what the Bentley doesn't. It's just kind of strange the Bentley was never updated and it was out of date even when it was published since BMW was producing M42s and using Motronic 1.3 for the M20 for over a year before the publishing date. Factory manual: https://cardiagn.com/bmw-e30-factory-repair-manual-pdf/ Torque specs: http://www.e38.org/bmw_torq.pdf
+
+ANSWER 5 (id: 2650_3):
+I haven't touched my Bentley manual in like 10 years. It was nice as a beginner, but yeah - we don't really need it. the BMW TIS, ETK and ETM are better. The Bentley manual is also riddled with errors. I think everyone should have one (it's a good reference) but it's not needed to repair your car - and if it's modded, most of that stuff is useless anyway. BTW, I have all three E30 manuals - Bentley, Haynes, and Chilton. Actually I think the Bentley is the weaker of the three. IIRC the Haynes even has stuff on the 325ix which the Bentley completely ignored. I still don't really use it though.
+
+ANSWER 6 (id: 2650_4):
+Originally posted by nando I haven't touched my Bentley manual in like 10 years. It was nice as a beginner, but yeah - we don't really need it. the BMW TIS, ETK and ETM are better. The Bentley manual is also riddled with errors. I think everyone should have one (it's a good reference) but it's not needed to repair your car - and if it's modded, most of that stuff is useless anyway. BTW, I have all three E30 manuals - Bentley, Haynes, and Chilton. Actually I think the Bentley is the weaker of the three. IIRC the Haynes even has stuff on the 325ix which the Bentley completely ignored. I still don't really use it though. You like the Haynes manual, really? The one that has the 3 and the 5 in it, or is there a stand alone? Bentley really wins with wiring info (yes, some is wrong/missing), and with actual directions/torques specs, which Haynes often omits for no apparent reason. Chilton is just fire starter.
+
+ANSWER 7 (id: 2650_5):
+Originally posted by roguetoaster You like the Haynes manual, really? The one that has the 3 and the 5 in it, or is there a stand alone? Bentley really wins with wiring info (yes, some is wrong/missing), and with actual directions/torques specs, which Haynes often omits for no apparent reason. Chilton is just fire starter. Sorry, I had them backwards. Chilton's has a lot more in it that's missing from the Bentley (including the IX). Haynes is basically bad toilet paper. The wiring diagrams in the Bentley are totally useless IMO. They are too generic and missing too much stuff. The ETM is far more useful. If you've never owned an E30 or worked on one, it's fine. But beyond that honestly I think you can skip it.
+
+ANSWER 8 (id: 2650_6):
+Still think it's funny that the only manual on my shelf I grabbed lately was the E36 Bentley one to look up stuff for my M42. Now, if I still had either a Chilton or a Haynes I'd be screwed for any of the values/testing procedures I wanted. Still mad that a Haynes manual had me do a bunch of unnecessary stuff on my first really big auto project I ever took on, replacing a crank sensor on a Ford Lima engine. Could be that the job just sucked mightily too, and that may have colored my viewpoint. As to Chilton, it's the only manual I ever actually threw away, because their US production A2 GTI info was 100% wrong. Then again, it was a VW I was working on.
+
+ANSWER 9 (id: 2650_9):
+It seems that the Bentley book was written by a person who didn't actually work on a E30. When there is a complicated step, the book gives no information about it. These How-Tos are much better, but only few repairs are covered. E30 How-To - https://classicbimmerbits.com/e30-how-to/ Detailed DIY write ups with pictures for your E30 from Classic Bimmer Bits.

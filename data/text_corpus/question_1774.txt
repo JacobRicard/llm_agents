@@ -1,0 +1,28 @@
+QUESTION ID: 1774
+
+QUESTION:
+Hey all! I've been working on putting my engine back together and was just greeted by this when I decided to clean up my intermediate shaft: First, dark picture shows the inner bearing, looks like a bit of coolant on the surface? Second picture shows a small chip out of the surface of the outer bearing in the upper left region. My questions are this: 1.Can I get away with not replacing these/what could the consequences be? I don't any machining equipment at home and don't know of a reliable machine shop in my area. 2. If answer to question 1 is definitely YES- is it possible to replace these at home with limited equipment? Thank you!
+
+ANSWER 1 (id: 1774_0):
+it's an oiling hole you are looking at. it's a babbit bearing which takes some skill to install. it's not like other bearings. not every engine builder can do it. honestly can't tell you if that bearing is usable. if the block was hot tanked with the bearing installed it will be ruined. it's a crucial bearing and will take the engine out immediately if it is no good. edit: if the bearing is good you could probably leave it alone and re-use, but you'll have to make that call.
+
+ANSWER 2 (id: 1774_1):
+Originally posted by 82eye it's an oiling hole you are looking at. it's a babbit bearing which takes some skill to install. it's not like other bearings. not every engine builder can do it. honestly can't tell you if that bearing is usable. if the block was hot tanked with the bearing installed it will be ruined. it's a crucial bearing and will take the engine out immediately if it is no good. edit: if the bearing is good you could probably leave it alone and re-use, but you'll have to make that call. Thanks for the advice! so the "chip" I was referring to is on the outer edge of the bearing in the 2nd photo. Kinda hard to see unless you zoom in. I've had no luck so far calling local machine shops, have gotten no quoted so far. May have to buck up and do the work myself... As far as needed equipment, does this list seem sufficient to get the job done? Adjustable Reamer- to ream the bearing to.001" after pressed into engine Drill Press- to ream the bearing Micrometer Plastigauge or dial bore gauge Hydraulic press ​
+
+ANSWER 3 (id: 1774_2):
+I have reused this on the 3 M20 rebuilds I have done without any issues. The bearings looked good with only minor wear though. I brought up my concerns about the hot tanking to Bimmerheads but was assured their solution is mild enough to not eat away at the bearing and I could reuse it if I saw fit. I did exactly that and I have no issues at all several thousand miles later on a turbo engine. Normally, I would change these like any other bearing except these need to be honed to fit. I understand it's possible to DIY with a hone kit but I've never tried it. With that said, yours is in terrible condition and should be replaced. I ended up selling the bearing I had to someone here on the forum. Apparently, they had gone NLA a few years back. Hopefully they are available again.
+
+ANSWER 4 (id: 1774_4):
+This might be your best chance at finding a replacement bearing: https://www.r3vlimited.com/board/for...rings-upgraded Might be worth contacting him to advise on how to replace it also.
+
+ANSWER 5 (id: 1774_6):
+Ordered 2 sets of them from FCP, in case I mess up on my first try. Planning on getting either a hand reamer set or an adjustable reamer. From other posts I've seen, it seems like a small amount of material needs removed from ID before even press-fitting. Fingers crossed the hand reamers are enough to get to that initial ID, then press in and ream to final ID of .001" greater than my intermediate shaft.
+
+ANSWER 6 (id: 1774_7):
+Those bearings look terrible in the pictures- are they really that rough? They don't usually do much more than wear a bit... I have had some experience with trying to size undersize bushings- they are quite difficult to cut correctly without a really rigid reamer. As in, mounted in a vertical mill, even if you rotate it by hand. Otherwise, the reamer will try to wobble off axis, and it will cut scallops in the outer edges. If you can figure out some way to keep the reamer aligned with the bushings, you'll do OK. For camshafts, I have made mandrels that use the other journals to keep a flycutter in alignment, and that's worked pretty well... hth, t
+
+ANSWER 7 (id: 1774_8):
+I agree with the above. If reaming is needed, reaming them is machine work, the stakes are too high if it's messed up. I too aspire to be able to DIY every single thing but with no space for a mill this is one I would take to a machine shop, as hard as that is to find these days as our manufacturing sector shrinks. Manual tooling can probably remove and install them though, no press necessary similar to american V8 cam bearings.
+
+ANSWER 8 (id: 1774_9):
+I'm really quite surprised at the condition of that bearing, if the photos are what they appear. how was the rest of the engine? I've got a couple of old blocks here and the bearing is basically perfect. That bearing whilst important doesn't do much, just holds that shaft to spin the oil pump. how is it so bad?

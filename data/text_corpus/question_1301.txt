@@ -1,0 +1,7 @@
+QUESTION ID: 1301
+
+QUESTION:
+Hi There. My trunk got stuck and I have no idea how to open it. Central locking works from the trunk and I am able to turn the key full 180 degrees. The lock is not releasing the Latch. I ve been spraying WD40 but its not doing the trick. So Just wondering what are my options drill the lock? break a tail light? Does anyone else had same kinda problem. Really appreciate if someone can help me out.
+
+ANSWER 1 (id: 1301_0):
+First try hitting the trunk or latch area as you press the release repeatedly. If that fails you can go in through the rear seat knock out (center bit) and the trunk inner bulkhead trim, or through a tail light and release the latch. If you were incredibly adept, or aided with a borescope you might be able to make it happen through the license lights.

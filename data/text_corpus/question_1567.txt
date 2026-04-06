@@ -1,0 +1,7 @@
+QUESTION ID: 1567
+
+QUESTION:
+Drivers side jack point is badly rusted. Thx.
+
+ANSWER 1 (id: 1567_2):
+Good call on jacking from the subframe bolt. In addition, I would avoid jacking from the center of the subframe or the differential especially if the subframe bushings have not been changed.

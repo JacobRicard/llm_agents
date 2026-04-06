@@ -1,0 +1,31 @@
+QUESTION ID: 909
+
+QUESTION:
+For my obd2 m52 e30 swap do I need to get an FPR??? I've just seen that you need a remote fpr if I'm keeping the car obd2 so I'm just wondering if that is correct
+
+ANSWER 1 (id: 909_11):
+Originally posted by Corsair89 So I just stole this off of Jordan’s thread. But this FPR getup is what I was thinking. Sent from my iPhone using Tapatalk To be honest- I can't see why this wouldn't work- I kinda like that design better than the OEM ODB2 S52 one I have. Granted there isn't any sensor on this one- but I'm sure that is something you can delete especially if you go ODB1. I forget exactly what that sensor does anyway- Go for it!
+
+ANSWER 2 (id: 909_12):
+Yeah I got a 3/2 FPR from the junk yard a few days ago but i don't think that I have that connector required for it. I didn't pull the engine so don't know what happened to it but am willing to bet it was cut to facilitate the removal.
+
+ANSWER 3 (id: 909_13):
+Originally posted by Corsair89 Yeah I got a 3/2 FPR from the junk yard a few days ago but i don't think that I have that connector required for it. I didn't pull the engine so don't know what happened to it but am willing to bet it was cut to facilitate the removal. If you need to run it again, luckily its only a single wire to the DME (MS41.1) the ETM will tell you what pin it goes too
+
+ANSWER 4 (id: 909_2):
+Everyone will tell you to run the ODB1 M50 rail, granted it is a much simpler setup- however- you can't use the fuel rail vanity cover without extensive modification. I didn't have an M50 rail laying around to swap in my S52, so I ended up using the stock ODB2 FPR/Running losses solenoid. Mounted it under the booster (or in my case under the boosterless setup) This way you get to keep your vanity cover installed and while running OBD2, the DME won't complain about not being able to find the running losses sensor.
+
+ANSWER 5 (id: 909_5):
+AMCP, I am guessing that he made a bracket that attaches to the booster delete plate mounting bolts. I have the stock booster, do not believe that there is room in that area.
+
+ANSWER 6 (id: 909_6):
+e36 fpr I mounted it under the drivers side, pretty sure that's where they mounted it on the e36. I don't recall anything that had to be fabbed to mount it other than the stock piece. https://www.realoem.com/bmw/enUS/sho...diagId=16_0216 EDIT 7-1-17 1:21 pm: I mounted the fpr in the engine bay above the e30 charcoal canister location. Will try to figure out how to post a picture on here tonight.
+
+ANSWER 7 (id: 909_7):
+Hey guys- Yeah so I am running Massive booster-less setup, so I had plenty of room under the MC to mount it on the firewall. IIRC there was three mounting holes on the FPR, I ended up drilling and tapping in two bolts to hold it to the firewall and had access on the other side under the foot pedals. If your running a booster- you should have enough room to mount it to the side frame rail (The spot where the clutch Master/Slave line is at) Just be mindful of the rubber fuel lines- I had a heck of a time making clean bends and curves without the fuel lines pinching at the pivot points. Here is the large version of the past picture- GL!
+
+ANSWER 8 (id: 909_8):
+Hey Klug, Sorry to bring this back from the semi dead but do you have to use that 3/2 FPR? Could I use a different one, not the fuel rail, more like the M54 set up? I’m at a stand still for other things atm so it’s not pressing right now. Thanks ahead of time. Sent from my iPhone using Tapatalk
+
+ANSWER 9 (id: 909_9):
+Originally posted by Corsair89 Hey Klug, Sorry to bring this back from the semi dead but do you have to use that 3/2 FPR? Could I use a different one, not the fuel rail, more like the M54 set up? I’m at a stand still for other things atm so it’s not pressing right now. Thanks ahead of time. Sent from my iPhone using Tapatalk I mean, totally yeah- I am unfamiliar with what the M54 uses...you need to have some sort of FPR in line- weather it is on the rail itself or in line before the rail (like my 3/2 FPR) Post up a pic of what your thinking of using

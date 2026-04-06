@@ -1,0 +1,34 @@
+QUESTION ID: 272
+
+QUESTION:
+Okay so the problem now is when I take corners at say 60 to 80 on the highway, the car shakes violently, so much so I'm avoiding highway driving altogether for awhile until I can fix this. It is only when cornering under 60+ speeds on the highway, I don't corner that fast on the streets! So I've read a few threads and people say its balljoints, CAB's, or something wheel related. Would a larger hub cause this problem? I have hubrings but they don't fit perfectly... Any input is helpful, thank you!
+
+ANSWER 1 (id: 272_1):
+Sure they are straight/balanced? I have run at speeds of up to 125 with non-hub-centric wheels without shake problems. I use lug studs, not bolts, though I am not certain that makes the biggest difference.
+
+ANSWER 2 (id: 272_10):
+Before you replace anything... First, if the issue wasn't there before you got the wheels, then the problem is the wheels. There are a few ways to balance a wheel and still have the machine say its true while the weights are in different spots. Also, most shops don't balance the wheel till it says 0,0. PM me some close up pics of the wheel/ tire and I'll tell you how have them balanced. I have a good amount of experience with wheel balancing high end euro race cars and off road race trucks...
+
+ANSWER 3 (id: 272_11):
+Originally posted by dark89e30 Before you replace anything... First, if the issue wasn't there before you got the wheels, then the problem is the wheels. There are a few ways to balance a wheel and still have the machine say its true while the weights are in different spots. Also, most shops don't balance the wheel till it says 0,0. PM me some close up pics of the wheel/ tire and I'll tell you how have them balanced. I have a good amount of experience with wheel balancing high end euro race cars and off road race trucks... Well the shake was not noticeable with the stock wheels. Now it is moreso. What detail do you need? I mean, my centerbore on the wheels is larger and the hub rings don't fit just right...let me know what you need.
+
+ANSWER 4 (id: 272_12):
+Just a few pics of the shape of the inside and outside of the wheels, to give me an idea of the construction. Also if you can give me a measurement of the width, lip to lip. The spec as well as the actual would help alot. The centerbore doesn't make that big of a difference since your lugs hold it in place pretty nicely.
+
+ANSWER 5 (id: 272_13):
+Originally posted by dark89e30 Just a few pics of the shape of the inside and outside of the wheels, to give me an idea of the construction. Also if you can give me a measurement of the width, lip to lip. The spec as well as the actual would help alot. The centerbore doesn't make that big of a difference since your lugs hold it in place pretty nicely. Okay well I had them taken to a wheel shop to be straightened/trued/ whatever you call that. I can't just remove the wheels to take a picture, I do have some that may help: From outer lip to outer lip it measures 8" wide, but from the inside of the lip its 7" and it is marked a 15x7" wheel with an offset of ET22. I assumed the centerbore is 60.1 as well. The curvature of the mesh center does bend in a little from the center out (OMG RICER), but nothing is touching the brakes obviously.
+
+ANSWER 6 (id: 272_3):
+I have the same issue on the GFs 325i and her fucking Momos. 10mm hubcentric (to the hub, not on the outside) H&R spacers, lug bolts (not studs) and I cannot get the damn 40 to 60MPH wobble out of it. Rebalanced twice, checked for straightness twice. Now I am going to find correct spacers...habcentric or die!
+
+ANSWER 7 (id: 272_4):
+Originally posted by StereoInstaller1 I have the same issue on the GFs 325i and her fucking Momos. 10mm hubcentric (to the hub, not on the outside) H&R spacers, lug bolts (not studs) and I cannot get the damn 40 to 60MPH wobble out of it. Rebalanced twice, checked for straightness twice. Now I am going to find correct spacers...habcentric or die! Hubcentric doesn't really work unless its 15mm or more. Ask Jay (Mystikal), they don't make a hubcentric spacer smaller than 15mm.
+
+ANSWER 8 (id: 272_5):
+Originally posted by M42Technik Hubcentric doesn't really work unless its 15mm or more. Ask Jay (Mystikal), they don't make a hubcentric spacer smaller than 15mm. Trust me, I know. I am so glad my wheels fit with no drama, no spacers, no BS. I am ready to call Momo and find out about their goofy little hubcentric rings built into the wheels...I think they suck too! Luke
+
+ANSWER 9 (id: 272_8):
+i bought some konig remembers and had the same problem. I took them back to americas tire and they threw in some pastic ones that helped. But bigger heavier whhels will make bad CAB's more noticable. As soon as i put in the solid rubber ones i had no more shake whatsoever. in short hub rings + new control arm bushings= no shake
+
+ANSWER 10 (id: 272_9):
+I have RTRS offset CAB's that have been on for about two years, don't know how long they last... I've heard many remedies, like rotors that need resurfacing, ball joints, a simple alignment, CAB's, control arms themselves, tie rods... Looks like a long list of stuff to replace before I find it. Going to a shop tomorrow morning, we will see.

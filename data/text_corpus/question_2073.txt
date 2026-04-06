@@ -1,0 +1,16 @@
+QUESTION ID: 2073
+
+QUESTION:
+Hi I would like to swap the stock diff from my 91 318is which I think still has the 4.10. The car has a sr20det built motor and highway cruising is a pain. I've been considering the 2.93 from a 325e or possibly a 3.25, 315. My question is which would be considered the most suitable taking into account my desire for a more comfortable highway cruising and would anyone have any of these options for sale. I also don't want to upset the acceleration factor much so not so sure about the 2.93. Another question I have is would either of the above diffs be a straight swap without much modification. Thanks in advance for the advice etc.
+
+ANSWER 1 (id: 2073_0):
+What are your transmission gear ratios? That's what you need to make that decision. I don't think a 2.93 is right for a turbo 4 cylinder, you need to put your gear ratios into an rpm calculator or create an excel spreadsheet and see where you'll land at various engine rpm and gear combinations with each diff ratio. I have a 3.23:1 diff in my turbo M20 E30 and it's a good mix between acceleration and highway rpm. A 188mm E30 cased diff is a bolt-in swap for a 168mm 318 diff.
+
+ANSWER 2 (id: 2073_2):
+This was that project car from Bring A Trailer wasnt it? Please make a thread in members' rides so we can see how this ones coming along I vote for 3.25 or even a 3.46 based on zero knowledge lol
+
+ANSWER 3 (id: 2073_3):
+The S14 Silvia ran a 3.6 ratio, so assuming you’re using the Nissan 5 speed with the SR20DET, then the 3.25, 3.46 or 3.64 would likely be good options.
+
+ANSWER 4 (id: 2073_4):
+Don't forget that an S14 rear tire is probably an inch or so taller than an OE E30 size, which would put the 3.46 right at the same effective ratio as the 3.60 in the S14 if my estimate is correct.

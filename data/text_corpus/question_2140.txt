@@ -1,0 +1,10 @@
+QUESTION ID: 2140
+
+QUESTION:
+I’m working on an M30 swap and I’ve got the cooling system all set up. Is there any way to check if the coolant is circulating and the engine is being cooled without letting my engine run for too long and potentially overheat? The temperature gauge is not moving so that could be because I wired it in incorrectly, the sensor is bad, or the engine is just not getting any coolant. I let the car run for a couple minutes and the hose connecting to thermostat to the water pump was warm but everything else stayed the same temp. I also have the E34 overflow tank set up by the firewall if that helps.
+
+ANSWER 1 (id: 2140_0):
+Originally posted by e30davie Did you bleed all the air out? I believe I did bleed all the air out as when I open the bleed screw a stream of coolant comes out with no air bubbles. I haven't tried lifting the front of my car up and bleeding it yet which I might try next.
+
+ANSWER 2 (id: 2140_2):
+Originally posted by Panici You'll have to run it up to temperature enough for the thermostat to open up. The rad should stay cold until that happens. Can I test the radiator temp with an infrared thermometer or is there a better way?

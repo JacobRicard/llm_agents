@@ -1,0 +1,31 @@
+QUESTION ID: 425
+
+QUESTION:
+Component Speakers: The Speaker system is made up of separate 'components', the woofer, the tweeter, and the crossover. Better sound reproduction is achieved by separating each component and controlling which frequencies are played by each speaker. Example: The larger diameter speaker is the woofer - it plays low frequencies. The small speaker is the tweeter - it plays very high frequencies. The 'box' is the crossover - it controls which frequencies are played by each speaker. Coaxial Speakers: The speaker is an 'all-in-one' type system. The tweeter is mounted in the center of the woofer, and there is usually a small capacitor to control the frequencies played by the tweeter. Example:
+
+ANSWER 1 (id: 425_1):
+Originally posted by LikeCDoos Is there a HUGE price difference between the 2? How hard is the install with component speakers VS. coaxial? From the same manufacturer, components are usually close to twice as much as a coaxial. The coaxial is pretty much 'plug and play', whereas with the component speakers you'll need to mount the tweeter separately from the woofer. You'll also have to find a place for the crossover and run cabling to and from it.
+
+ANSWER 2 (id: 425_10):
+Originally posted by BMWguy Jensen now owns MB Quart, do they not? No, Rockford Fosgate owns Quart. Paid way too much for them, and basically lost their ass. Luke
+
+ANSWER 3 (id: 425_11):
+Edit: UPDATE: MB QUART is now owned (and fuckin-ghey I mean OWNED) by MAXXONICS, the same fucktards that own "Dual". Junk, I tells ya, JUNK! HAHAHA, all of you retards that think Quart is the shnit! Luke
+
+ANSWER 4 (id: 425_12):
+I think the only line that was affected (actually it didn't even exist until the buyout) is the Discus line. It's made in China garbage. AFAIK Quart still runs the rest of their production out of Germany and their quality control has not changed. Nonetheless, I've never cared much for them, seeing as how I could never stand MB Quart's metal dome tweet anyway. BTW, Maxxsonics is not Dual. It's Crunch, AutoTek, and HiFonics. HiFonics was once a good brand, but now they are turning into crap. I'd assume it's only a matter of time before Quart does the same...
+
+ANSWER 5 (id: 425_13):
+Yup, David, good call. http://www.dualav.com/press/2004/2.html Discus has been around since at least '91. Was always made in China. Quarts' metal dome sounds much better if you put a band-aid over it. My bitch is power handling and lack of midbass. While we are whining about this crap. go take a look at http://www.exilecaraudio.com and let me see you opinions. This is 3 guys from the old days of Phoenix Gold, designing and selling Chinese stuff, but with their own twist. I signed a dealer agreement yesterday (4/11/06) Luke
+
+ANSWER 6 (id: 425_2):
+Originally posted by LikeCDoos How hard is the install with component speakers VS. coaxial? Get the premium stereo system tweeter pods and mount your component tweeters there. You can use the stock wiring to the tweets in order to keep it simple.
+
+ANSWER 7 (id: 425_5):
+Originally posted by Dominick nice post! now what are reference speakers? Reference is a product line shared by several manufacturers (MB Quart and Infinity both have "Reference" speakers). That's all. It's not like there's a set standard for clean response and this many Hz with this many watts or anything like that. They just share a name.
+
+ANSWER 8 (id: 425_6):
+there is also a third type (which are really nice in my opinion) integrally mounted components basically is a component system in a co-ax configuration but the tweeter is mounted over the woofer not through it... and they have real crossovers.. an example of this would be the mb-quart qm-100 (which sound amazing)
+
+ANSWER 9 (id: 425_8):
+Basically, any coaxially mounted speaker with an outboard crossover are "integerally mounted components". It is nothing more than a marketing term. They are still co-axes. Jensen invented the coaxially mounted speaker way back in the 30's as a means to make the tweeter and woofer work better together. Back then, when most products were sold as a kit, (where you built you own cabinets) Jensen was the shizz. Take a close look at most any manufacturers cheap series of components, and you will see it is the same as the co-axes, but with cheaper crossovers. Take a look at the top of the line stuff, they are the same.

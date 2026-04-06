@@ -1,0 +1,16 @@
+QUESTION ID: 1519
+
+QUESTION:
+Last step getting out my subframe to replace bushings and the driveshaft is hung up. I collapsed the driveshaft but I’m a little confused about that. Should the rear part of the driveshaft slide off the end or collapse towards the front of the car to clear the subframe? If the latter is the case I must have done something wrong as I can’t collapse it forward enough to clear the subframe possibly because the big nut came off the threads when I loosened it (too far??) Hopefully the pics explain it better than I am! Attached Files
+
+ANSWER 1 (id: 1519_1):
+It slides forward (it also slides off, but you don't want to do that - it'll screw up the balance if you don't put it back on *exactly* right). If the coupling is loose, try pushing it forward with a pry bar. It can move several inches. It should be enough to get out of the way, but you may also have to undo the flange bolts at the transmission and drop the whole thing. The nut just clamps the two halves together. If it's all the way off, I don't think it matters, but you can thread it back on a little and push it forward.
+
+ANSWER 2 (id: 1519_2):
+Originally posted by glnr13 the driveshaft should fold/collapse at the center support bearing the 325ix doesn't have a center support bearing. it's a one piece shaft with a coupling at the diff.
+
+ANSWER 3 (id: 1519_3):
+Thanks Nando! Ended up dropping the diff off of the subframe and (*gasp*) sliding it off.....it is marked so hopefully it goes back exactly right. Subframe is now out and I can get back to the business at hand! I think that completely undoing the big nut completely is what screwed me up. The coupling was completely loose, but the nut appears to have blocked the end of the driveshaft from being able to slide forward and I was unable to thread it back on because there is no way to get to it, it is sort of trapped in the driveshaft tube.
+
+ANSWER 4 (id: 1519_4):
+Originally posted by nando the 325ix doesn't have a center support bearing. it's a one piece shaft with a coupling at the diff. my bad, didn't pay attention to which subforum this was.

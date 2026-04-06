@@ -1,0 +1,22 @@
+QUESTION ID: 2992
+
+QUESTION:
+Long story short my buddy bought his first E30 and first project car this weekend, I personally own an 86 E and I'm having some confusion about his car, its a 1989 325i, however, it does not have the stock m20b25 in it that came with the car, someone who owned it before him put something else in it, the car has a tach out of an E car, tach stops at five and the motor only revs to 4500 before hitting red line, the car has headers, exhaust, and an intake, but feels like it pulls quite a bit harder than my 86 e. my confusion is coming from the fact that the car has a tach and rev limiter of an e but feels pretty similar to an I, am I just crazy and the car really does have an m20b27 and the headers and intake make that much of a difference over my stock motor e? despite most saying there are no great power gain mods for an E despite the 885 head? any insight on this would be great! and maybe I'm just stupid but whats the easiest way to determine what motor is in it may be a stamping of some kind? Thanks in advance sorry for a confusing story and probably a dumb question with an easy answer, I tried to check for a stamp but it was dark out and its a pretty dirty motor.
+
+ANSWER 1 (id: 2992_11):
+I'd check out the CPS as AK said. I went through the same problem he stated; really bad ignition cut at ~4.5k with a failing CPS Also, is that an O2 sensor I see hanging by the strut tower?
+
+ANSWER 2 (id: 2992_2):
+Originally posted by MrBurgundy Look at the P/N on the intake side of the cylinder head. If it ends in 885, its an "i" head. I knew 885 is stamped on 885 head but it’s all caked on with gunk right there so when he’s back in town I’ll scrape that off and see Sent from my iPhone using Tapatalk
+
+ANSWER 3 (id: 2992_5):
+Originally posted by MrBurgundy well, the intake setup is from an "i" So why redline at 4500? That my biggest confusion, if it’s an b27 with an 885 head then wouldn’t the emu have to be switched to a I car ecu?
+
+ANSWER 4 (id: 2992_6):
+Originally posted by Chaseb124 So why redline at 4500? That my biggest confusion, if it’s an b27 with an 885 head then wouldn’t the emu have to be switched to a I car ecu? He said the intake manifold is that of an "I", not the cyl. head. Still have to check it out. Also, a bad CPS can stop your revs at 4500 - it's happened to me twice. First time from a badly gapped one. Second time from using an aftermarket one - problem went away after purchasing OEM. If I read correctly, are you saying the car has the cluster of a 325e model?
+
+ANSWER 5 (id: 2992_8):
+Originally posted by ak- He said the intake manifold is that of an "I", not the cyl. head. Still have to check it out. Also, a bad CPS can stop your revs at 4500 - it's happened to me twice. First time from a badly gapped one. Second time from using an aftermarket one - problem went away after purchasing OEM. If I read correctly, are you saying the car has the cluster of a 325e model? Ah gotcha, yes, the car has the cluster of a 325e Sent from my iPhone using Tapatalk
+
+ANSWER 6 (id: 2992_9):
+Okay. Well, last thing to check is the head stamping. The car might pull harder than your 85 because of the 89's gearing (3.73 I'm assuming) that is mated to the potential 325e motor that could be in there.

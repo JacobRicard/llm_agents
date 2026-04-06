@@ -1,0 +1,16 @@
+QUESTION ID: 2788
+
+QUESTION:
+Hello, I have seen turbo users add a FMU or a fuel presser regulator that adds pressure under boost. Where and how is it installed? The ones I have seen still use the stock fuel presser regulator? Thanks!
+
+ANSWER 1 (id: 2788_0):
+I assume you are asking about a rising rate fuel pressure regulator. Where and how you would install it would all be based on the specific application.
+
+ANSWER 2 (id: 2788_1):
+the stock regulator is manifold pressure referenced, so it will deliver a constant 43.5psi between the fuel rail pressure and manifold pressure. Some incorrectly call this a 1:1 rising rate fuel pressure regulator. If you have 10psi in the intake manifold, the fuel pressure will be 53.5, for example.
+
+ANSWER 3 (id: 2788_2):
+Originally posted by Jaxx_ the stock regulator is manifold pressure referenced, so it will deliver a constant 43.5psi between the fuel rail pressure and manifold pressure. Some incorrectly call this a 1:1 rising rate fuel pressure regulator. If you have 10psi in the intake manifold, the fuel pressure will be 53.5, for example. Ok that makes sense! Thank you But I have seen some add or use a separate boost controlled regulator when using a turbo? like a 8-1 or an adjustable. Can someone explain that setup? Or is it when you use a external FMU say 8-1. it will increase the fuel pressure for the boost and the stock will maintain the 1-1 pressure and the injectors will have the extra fuel for boost?
+
+ANSWER 4 (id: 2788_3):
+it is a very old school a basic way to add fuel. stock will add 1psi of fuel to 1psi of manifold pressure. the FMU will adjust to whatever ration you need maybe this vid will help. https://www.youtube.com/watch?v=9XCBZoi4TTY

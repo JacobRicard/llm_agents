@@ -1,0 +1,16 @@
+QUESTION ID: 2105
+
+QUESTION:
+Hi I need some help for my forged m20b25 bottom end. I have the Wiseco pistons with part number KE317M845AP which they have 34.7 compression height,im using 135mm rods,stock crankshaft,84.5 mm bore. 75 stroke My issue is that those pistons hit on my 885 head with oem standard head and with oem oversize headgasket. Keep in mind that my engine was in perfect condition and i just wanted to build a forged block to be able to run a turbo,so i just bore the block ,Head was in perfect condition Wiseco on their site claims that those pistons are for 206.7 deck height. I made some maths and i have this result 75/2+135+34.7 =207.2 which is 0.5 more than the oem specs. If i use the oem compression height piston which is 34.2 the result is 206.7 which is correct Did i miss something? Are those numbers from Wiseco correct? If i want to run this engine i will need at least 2.5mm Mls headgasket? Thanks and sorry for that big post
+
+ANSWER 1 (id: 2105_3):
+Originally posted by digger Thicker gasket will do it, can add some shims and check with clay to work out the best thickness We try the oversize 2.05 and it dosnt work, The Wiseco has the m20b25 block height 206.7 and the compression piston height 34.7 ,also it says deck clearance 0.5 So we that numbers how much sits the Wiseco over the block ? 1mm or 1.5mm? ​​​​​
+
+ANSWER 2 (id: 2105_4):
+Originally posted by panose30 We try the oversize 2.05 and it dosnt work, The Wiseco has the m20b25 block height 206.7 and the compression piston height 34.7 ,also it says deck clearance 0.5 So we that numbers how much sits the Wiseco over the block ? 1mm or 1.5mm? ​​​​​ You would need a mls as these are available thicker than oe gasket. you need to know your deck height it will be about 206.2 or less depending how much was removed. So it will be a minimum of 1mm above block. Add some 3mm shims instead of gasket and lightly install head measure clearance between head and piston with clay and calculate the number.
+
+ANSWER 3 (id: 2105_5):
+Originally posted by digger You would need a mls as these are available thicker than oe gasket. you need to know your deck height it will be about 206.2 or less depending how much was removed. So it will be a minimum of 1mm above block. Add some 3mm shims instead of gasket and lightly install head measure clearance between head and piston with clay and calculate the number. I spoke with Wiseco and the pistons are wrong made. i try with 1mm solder and the 2.05 headgasket and it croush the solder about 0.53 Probably a 2.6mm mls could work,but i have copper orings and i dont want to use an Mls Most probably i will get replacement correct pistons If my maths are correct with the 2.05 i have 0.47 clearance, so my deck height is close to 205.7-8 and 0.1 from the head. So to run a stock 1.75mm with the replacements pistons ,the pistons must have a compression height of 33.7 ?
+
+ANSWER 4 (id: 2105_6):
+so with 2.05mm you have 0.47mm clearance then you only need CH reduced by 0.53 to give 1mm clearance, so 34.2mm if you are ok with using 2.05mm OE gasket or 33.9mm with 1.75mm gasket. I would aim 1.00mm clearance 33.7mm will give you 1.2mm clearance with 1.75mm gasket

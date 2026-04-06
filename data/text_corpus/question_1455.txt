@@ -1,0 +1,19 @@
+QUESTION ID: 1455
+
+QUESTION:
+Hey Guys, My 88ix is now on its 3rd ps hose. Its a short (approximately 6") return line (I believe) that I cant seem to find on Real OEM diagrams. I lost all my PS fluid yesterday and found this hose with a 1" tear in it. I think the tear comes from the PS hose above it that has a metal covering that is rubbing on the hose, eventually tearing it. This had happened twice before so I thought I would post this up here to see if anyone had any suggestions so it doesnt happen again? The red hose in the pics is the replacement hose I installed yesterday. The hose next to it that has the zip tie is the culprit I believe. I zip tied it to pull it away from the red house so it wont rub. You may also see a small piece of hose I zip tied to the red hose as a little bit of protection. Thanks!
+
+ANSWER 1 (id: 1455_0):
+You could try taking an old bicycle inner tube, cutting a section and zip-tying it around the metal fitting that appears to chafe the red hose. That said, is the red hose oil safe? It might become oil saturated and just split. I just had to replace the main pressure line from the power steering pump over to the rack on my M3. Giant PITA. I hope you can get this sorted out. Will
+
+ANSWER 2 (id: 1455_1):
+Originally posted by BlackbirdM3 You could try taking an old bicycle inner tube, cutting a section and zip-tying it around the metal fitting that appears to chafe the red hose. That said, is the red hose oil safe? It might become oil saturated and just split. I just had to replace the main pressure line from the power steering pump over to the rack on my M3. Giant PITA. I hope you can get this sorted out. Will Yes thats part of the plan....gonna wrap that metal fitting on the other hose. Just seems that other folks would have had this problem? Maybe my ps hose routing is wrong or my ix is missing something that BMW designed to protect the hose from rubbing on the other hose? Agree these hoses are a PITA to work on!
+
+ANSWER 3 (id: 1455_2):
+Get some high pressure push on hose from a hydraulic hose shop, I think the issue is with the product you're using is incompatible. For added protection put some electrical conduit around the return hose if worried about it rubbing. If it's a clean split then it's a hose issue, rubbing leaves evidence of doing so. My money is crap hose.
+
+ANSWER 4 (id: 1455_4):
+Originally posted by bangn Get some high pressure push on hose from a hydraulic hose shop, I think the issue is with the product you're using is incompatible. For added protection put some electrical conduit around the return hose if worried about it rubbing. If it's a clean split then it's a hose issue, rubbing leaves evidence of doing so. My money is crap hose. Interesting! It was a clean split, I was just using generic hose from a local auto parts store. This is a return hose (I believe) so I wouldnt think it carries high pressure fluid, but I will look into better quality hose..
+
+ANSWER 5 (id: 1455_5):
+its not so much the pressure, its the wall strength and its suitability to oils. Generic hose will go hard. Need to specify push-on so you can put a hose clamp on it or youl end up with steel corded hydraulic hose which only uses crimp fittings

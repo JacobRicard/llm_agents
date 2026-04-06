@@ -1,0 +1,10 @@
+QUESTION ID: 2762
+
+QUESTION:
+Hello, Hoping this comes in handy for you guys. For the longest time after finishing my v8 swap I wanted to be able to read live data off the DME. I ended up purchasing an older Dell laptop with a serial port, an ADS cable and BMW diagnostics software. I played with it for some time and it was just a huge pita, INPA/EDIABAS would half the time not communicate with the car or just crash during establishing the connection process. Everyone always said you have to use GT1, you have to use Serial cable and ADS cable etc...but I gave this Foxwell NT510 scanner and a $20 OBd2 to 20pin round pin connector a shot and what do you know, it works! I've tried it so far on 2 out of 3 PRE96 cars, with the round 20 pin. It was able to connect to my E30 with M60 swap and read me the data I wanted to see, and today I tried it on my 89 635csi and it connected to the 179 DME as well. So, if you are looking for a way to read codes/reset them and more importantly looking to see data that the DME is able to share then this works w/o having to deal with the laptop/ads cable and software. See screenshots :) These are just a few of the data points I selected, it's got lots more in the menu that you can pick from. It all depends on what DME it's connecting and reading from. Attached Files
+
+ANSWER 1 (id: 2762_0):
+One more, engine speed is 0 as engine was not running when I took this photo. Anyway, the scanner is this guy - https://www.amazon.com/FOXWELL-Autom...dp/B019QCG5RE/ Cable I used is this https://www.ebay.com/itm/Foxwell-BMW...s/232644703577 Attached Files
+
+ANSWER 2 (id: 2762_1):
+I have the Schwaben branded Foxwell scanner, pretty neat to read that sort of info without a terribly expensive scanner. It also has some module functionality on CAN cars. However, it, or the adapter cable on mine seem to have died of late as it cannot communicate with anything except for an F150 when plugged in to the OBD or 20 pin port. This is despite an update as suggested by Foxwell, and as of yet they have been unable do provide any further assistance.

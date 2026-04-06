@@ -1,0 +1,10 @@
+QUESTION ID: 2580
+
+QUESTION:
+This is mounted behind a removable, factory looking panel in the trunk of a European-spec 325i. Car looks like it has the bracket up top for a since-removed factory CD player. Is this related? I haven't seen something like it in an E30 before..
+
+ANSWER 1 (id: 2580_3):
+For all curious, BOSCH 0 260 002 086, automatic transmission control unit. Would make sense as this is an auto to manual swapped car. Did not know the auto included one of these in the trunk!
+
+ANSWER 2 (id: 2580_9):
+Originally posted by ForcedFirebird The first of electronic transmissions. Pretty rare to have the button, only seen one out of the thousands of e30's we have worked on over the years. They seem to be more common in cars outside of the North-American market. Seen quite a few grey market cars in Canada with them and a friend of mine has owned two e30's with them. Also seen a few in e28's. Originally posted by gregs325is Yep! It's got the "S/E/1-2-3" selector knob. Has the headlight adjustment system as well...pretty late model car with some interesting options. Very cool! I'm guessing your car is an import, possibly even a touring, given the headlight adjustment option?

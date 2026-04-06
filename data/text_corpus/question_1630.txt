@@ -1,0 +1,22 @@
+QUESTION ID: 1630
+
+QUESTION:
+Hey E30 hive mind - Have you ever experienced a loud groaning noise coming from your running M20 engine following a timing belt change? The noise was not there before the TB change, and it starts immediately when the engine starts. It keeps making the noise even after reaching operating temp. I suspect a faulty (new) belt tensioner, but I can't get my mechanic's stethoscope in there to confirm it. I did confirm it's not the alternator. Any way I could confirm the tensioner w/o taking everything apart and basically re-doing the TB job? I may not have found the right angle to get the stethoscope in there... TIA
+
+ANSWER 1 (id: 1630_1):
+Low PS fluid groan would be a good description of how it sounds. None has leaked that I'm aware of, but I'll double check anyway - good suggestion. I have to wait till the Philly weather moves out of frozen tundra Hoth mode before heading back out to the garage to make a vid.
+
+ANSWER 2 (id: 1630_11):
+Originally posted by digger what brand belt, brand idler/tensioner did you use? how did you tension it? Hey Digger, I followed the Bentley book procedure, like I have the previous 2 times I did the TB:With the belt correctly positioned on the sprockets, slowly loosen the camshaft belt tensioner pulley upper retaining bolt so that the belt is tensioned . Using a socket wrench on the center crankshaft bolt, slowly rotate the engine clockwise through two complete revolutions (720°) until the timing marks are aligned again.CAUTION -If either the crankshaft or the camshaft are not perfectly aligned, it is necessary to release tension on the camshaft drive belt, carefully peel the belt from the camshaft drive gear, and repeat the above steps. It is permissible to rotate the camshaft drive gear by hand by one or two teeth in either direction to ensure proper alignment. Once the alignment of crankshaft and camshaft timing marks are correct, torque first the upper and then the lower tensioner mounting bolts to 22 ± 2 Nm (16 ± 1 ft. lb.).
+
+ANSWER 3 (id: 1630_12):
+Originally posted by Aleman Hey Digger, I followed the Bentley book procedure, like I have the previous 2 times I did the TB:With the belt correctly positioned on the sprockets, slowly loosen the camshaft belt tensioner pulley upper retaining bolt so that the belt is tensioned . Using a socket wrench on the center crankshaft bolt, slowly rotate the engine clockwise through two complete revolutions (720°) until the timing marks are aligned again.CAUTION -If either the crankshaft or the camshaft are not perfectly aligned, it is necessary to release tension on the camshaft drive belt, carefully peel the belt from the camshaft drive gear, and repeat the above steps. It is permissible to rotate the camshaft drive gear by hand by one or two teeth in either direction to ensure proper alignment. Once the alignment of crankshaft and camshaft timing marks are correct, torque first the upper and then the lower tensioner mounting bolts to 22 ± 2 Nm (16 ± 1 ft. lb.). it is unlikely to be over tensioned then, which would sound like a whine not a groan
+
+ANSWER 4 (id: 1630_2):
+I think the reservoir has an integrated filter as well. Maybe a combination of freezing temps, slightly dirty filter and slightly low fluid is making that pump choke a bit
+
+ANSWER 5 (id: 1630_5):
+Originally posted by roguetoaster That'll teach that engine to make weird noises. LOL! Why didn't BMW just use a timing chain on the M20 - like every other engine they've made? I'll get to the bottom of it one way or another. I tend to assume to worst - like maybe an oil passage is clogged, and the noise is from my crankshaft bearings disintegrating. I'll point my stethoscope at the PS pump to rule it out as the source. Thanks for the ideas - I'll update the thread when I figure it out.
+
+ANSWER 6 (id: 1630_9):
+Originally posted by roguetoaster We're all familiar with the noises that your mom makes.... Glad to know someone's taking care of her, but i'll never call you dad!

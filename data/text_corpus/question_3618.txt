@@ -1,0 +1,40 @@
+QUESTION ID: 3618
+
+QUESTION:
+I'd like to build an E30 coupe.My goal is about 300 WHP.I wouldn't want to go over 2 liters in engine displacement because of a high tax in my country.That's a pretty big problem,given the fact that most of BMW's performance oriented engines are 2.5-3.5L.I understand that i'll need a turbo.My budget is 15000 Euros,max.Also,i don't want to run a 100 shot of nitrous to get power.I want a constant,reliable,300 WHP,because it will be my daly driver.So if anyone had any ideas,i'm ready to learn! :)
+
+ANSWER 1 (id: 3618_0):
+Fifteen thousand euro? Swap in an N20 turbocharged 4 cylinder 2 liter engine. Or if that's a typo and you mean one thousand five hundred euro, then uh.. well that's not happening. In any case, 2 liter and 300hp is not happening without a turbo.
+
+ANSWER 2 (id: 3618_1):
+Originally posted by Kershaw Fifteen thousand euro? Swap in an N20 turbocharged 4 cylinder 2 liter engine. Or if that's a typo and you mean one thousand five hundred euro, then uh.. well that's not happening. In any case, 2 liter and 300hp is not happening without a turbo. Yes,15 thousand Euros.And the N20 seems perfect,except for one thing.It's a pretty new motor,so it's hard to find.Also,i don't know how complex would the swap be because of electronics and stuff.Any other ideas?
+
+ANSWER 3 (id: 3618_10):
+So you have 15k euro in a country that has no money and a team of cousins that are mechanics who will do the work for cheap and the inspectors don't care. Why don't you swap in an s54 and pay off the inspector? I don't know the m50b20, but I'm sure rturbo suggested it because it's probably the same block as the m50b28, so boring it out to 3 liters would be fine. And the real answer is, ask your cousins what engines they have the most experience with. Another answer is, 15k euro is a lot of money. You could just buy a crazy built turbo e30 from the Scandinavians and be done with it.
+
+ANSWER 4 (id: 3618_11):
+Originally posted by Kershaw Another answer is, 15k euro is a lot of money. You could just... ...buy a different car and keep the E30 as is. ...pay the taxes on a larger displacement engine. ...lower your "need" for 300HP as it's not necessary, but is fun. ...get an S14B20. ...get a motorcycle.
+
+ANSWER 5 (id: 3618_13):
+Originally posted by Kershaw I don't know the m50b20, but I'm sure rturbo suggested it because it's probably the same block as the m50b28, so boring it out to 3 liters would be fine. I'm not sure if it's exactly the same. I looked up a few things on wikipedia, and the M50B20 has an 80mm bore, the M50B25 has an 84mm bore, and the S52B32 has an 86.4mm bore . If the blocks are exactly the same except for the bore diameter, then you could likely bore it out to 84 or 86, but if not, you might be a bit more limited. The cranks I would imagine swap out pretty easily though, but I don't know that for sure. I don't actually know that much about the 24v motors. Even if you were limited to the 80mm though, if you could get an S52 crank in there, you'd have a 2.7L, which isn't bad. 82mm bore would get you just shy of 3L, which is plenty.
+
+ANSWER 6 (id: 3618_3):
+Trying to use an engine that was normally available in a E30 chassis is going to be very difficult to do. The M20B20 2 liter 6 cylinder being a 2 valve engine even with a Turbo is going to be very difficult to get to 300 HP and have it be much of a street car engine. At the very least you will need a modern stand alone EFI system complete with knock sensors and a very good Map to keep from melting it down. Same thing goes with a M42 (or the derivative M43/M44) The 4 valve combustion chamber will help but 300 hp from 2 liters is going to be very difficult and I'll bet your 15,000 euro budget might build you the 1st one and maybe part of your 2nd one soon there after. How about a turbo Rotary? Or one of the more recent Turbo engines from other manufacturers? Does the engine have to be one that came in the chassis (for licensing/emission reasons in your country) ? Short answer, I believe you are working with unreasonable expectations thinking you are going to build a "Reliable 300 HP using a 2 liter engine" without starting with a very modern engine and ECU for 15,000 euro.
+
+ANSWER 7 (id: 3618_4):
+M12/7 race-cars.com http://www.race-cars.com/engsales/other/1402255807/1402255807ss.htm Race cars for sale and race cars wanted, rally cars, spares, memorabilia, transporters and pit equipment for sale with on-line photos and spec sheets. No idea if its actually available still, but... or here Page not found http://www.carandclassic.co.uk/car/C393215 Find your dream classic car from over 10,000 private adverts plus many more trade adverts on Europe&#039;s No 1 classic cars site. 100% F... S42 1989 BMW 3 Series Nero Left Hand Drive in Italy - For Sal... http://www.carandclassic.co.uk/car/C345692 1989 BMW 3 Series Nero Left Hand Drive in Italy - For Sale | Car & Classic, £0 This engine has been prepared to be installed on a prototy... one can dream right?...
+
+ANSWER 8 (id: 3618_5):
+Originally posted by BMW012 Yes,15 thousand Euros.And the N20 seems perfect,except for one thing.It's a pretty new motor,so it's hard to find.Also,i don't know how complex would the swap be because of electronics and stuff.Any other ideas? With 15k euro you can pay a shop to do it. You could probably find one for 5k euro. Swap the transmission too. Custom driveshaft. No idea what you'd use for engine management. Full standalone or a reflash deleting EWS or whatever.
+
+ANSWER 9 (id: 3618_6):
+Originally posted by Kershaw With 15k euro you can pay a shop to do it. You could probably find one for 5k euro. Swap the transmission too. Custom driveshaft. No idea what you'd use for engine management. Full standalone or a reflash deleting EWS or whatever. Maybe an SR20DET out of a Nissan Silvia? How would that work?
+
+ANSWER 10 (id: 3618_7):
+Originally posted by BMW012 Maybe an SR20DET out of a Nissan Silvia? How would that work? Also,my cousins are all mechanics.They'll do the swap for little money.They all have 10+ years of expirience.There's 3 mechanics i can count on.I can't do shit by myself....
+
+ANSWER 11 (id: 3618_8):
+Do they check the displacement of the engine themselves, or do they go by what the block says? I'm assuming it's the latter, and if that's the case, I'd get an M50B20 (if they're available where you are), bore it out, stroke it, and add a turbo.
+
+ANSWER 12 (id: 3618_9):
+Originally posted by rturbo 930 Do they check the displacement of the engine themselves, or do they go by what the block says? I'm assuming it's the latter, and if that's the case, I'd get an M50B20 (if they're available where you are), bore it out, stroke it, and add a turbo. I'm not sure about that.I can tell you something for sure though.I live in Serbia.It's a country where very little people do their jobs properly,and everyone just wants to scam you.This is because Serbia is economically pretty weak.Point of the story is,they will probablly just take a look at it and let it go,cause they don't care.I'm just wondering,how safe is boring gonna be? Also i will need custom pistons even if i don't stroke it.So does it pay off?

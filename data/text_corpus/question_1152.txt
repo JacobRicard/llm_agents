@@ -1,0 +1,16 @@
+QUESTION ID: 1152
+
+QUESTION:
+Just curious but how come my emissions label does not say OBD exempt and looks different from other e30 emissions labels?
+
+ANSWER 1 (id: 1152_0):
+From what I read only the black label has smog exempt on it, and ETA cars are also exempt. I can't find a full pic online, but it looks like the black m3 label is part number 2.124.992. If you're having trouble smoging it go to the bmw dealership and get them to put it in writing that it doesn't have a check engine light.
+
+ANSWER 2 (id: 1152_1):
+Well I don't need a new one because the car is getting an S52 swap but I was just curious about it before it got peeled off when the engine bay gets painted.
+
+ANSWER 3 (id: 1152_2):
+Probably had something to do with the changes to California ARB regulations for 1990 but can't say for sure. Mine is a 1990 model: Edit: Did a little research and it appears the emissions control labeling requirements changed for 1990 models. The ARB specification states the following: "Engine family or test group identification, model designation, engine displacement (in cubic centimeters or liters), and for all 1993 and subsequent model-year vehicles the statement, " ________ (specify OBD I or OBD II, as applicable) certified" or "OBD Exempt" for all 1990 and subsequent model-year vehicles which do not have an Air Resources Board approved on-board diagnostic system. Motorcycles, motorcycle engines, and ZEVs are exempt from these requirements."
+
+ANSWER 4 (id: 1152_3):
+I would assume that when your car was made, OBD didn't exist. Hence not needing to be exempt from something that doesn't exist. Then, later on, in the early 90's came OBD.

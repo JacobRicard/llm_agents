@@ -1,0 +1,10 @@
+QUESTION ID: 513
+
+QUESTION:
+Hey gang, What are some common reasons for an inoperable door gong? I replaced mine with a known working gong. The push nipple in the drivers door jamb works because the dome light comes on when the door opens and turns off when the door closes… Thanks
+
+ANSWER 1 (id: 513_0):
+The gong chimes under two conditions, both require the ignition key in: an unfastened drivers seatbelt (6 seconds) and (continuously) when the driver’s door is open. Does the chime come on for approximately 6 seconds when the drivers seatbelt is unfastened, and the ignition key is put to run position? This chime should be independent of the door jamb switch status. There are two contacts on the drivers side door jamb switch, both ground their respective wires to the ignition key/seatbelt chime (green/violet) and the interior light control unit (brown/yellow). The switch can be removed (one screw) and cleaned of years old dirt and grime. You can easily test if both contacts are grounding by switching the two wires and see if the lights still come on when the switch is in the open position. if the door switch is working properly, then the fault may lie in the wiring between the door jamb switch, the ignition switch or the chime module wiring. This is illustrated on page 6131-0 of the BMW Electrical Troubleshooting Manual, and can be investigated with the aid of a multimeter. This all assumes you have a working gong. You can test that by insuring you have 12V power at pin 1 of the chime module connector (C1). If so, with the gong disconnected, jump pin 1 of the connector to where pin 1 inserts in the gong, and simultaneously jump where pin 4 inserts on the gong to ground, should cause the gong to chime.
+
+ANSWER 2 (id: 513_1):
+Thank you. I’ll switch the contacts on the door jam nipple to isolate the wiring or corrosion on the contacts. If it’s working I’m going to leave it inoperable lol.

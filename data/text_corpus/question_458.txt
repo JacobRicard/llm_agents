@@ -1,0 +1,7 @@
+QUESTION ID: 458
+
+QUESTION:
+I have an e30 1987 model carb 316 but I don't know what this ecu reads. Do you have any idea bout what that reads? I don't have OBD reader. But I have done all the services. Maybe there is something it reads that hasn't been done or I missed. I changed everything like oil pump, water pump, turned service of and everything was fine. But inspection isn't on green. Before ignition click both red and orange lights are on. After the ignition it takes some time and only orange is on. There is something I am missing but I don't know why and that's annoying. I searched lots of things on the car. The only thing I haven't changed is the tensioner of the timing chain. But engine runs smoothly. There is a problem with the carb choke but I don't know if that thing can read that. It's impossible for me to read that on such an old car. So what this ecu inspects? What are these sensors? Maybe its something failing but I don't have any problem at all when using the car. Not even temp is different. Thermostat works perfectly it's new I changed it the day I got the car because it was in a yard for 7 years. Ventilation works aswell perfectly. If anyone has any idea about that I will be happy.
+
+ANSWER 1 (id: 458_0):
+There is no ECU on a carbureted vehicle. To reset the Service Interval lights you mentioned on the dash, here is a guide: Resetting Inspection Lights - E30 Zone Wiki https://www.e30zone.net/e30wiki/index.php/Resetting_Inspection_Lights You can also search youtube for "E30 Service Interval Reset" to find videos on the topic.

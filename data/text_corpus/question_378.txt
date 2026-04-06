@@ -1,0 +1,28 @@
+QUESTION ID: 378
+
+QUESTION:
+Hi all, I'm facing some problem with my handling. First I'm going to tell a little bit of my car setting right now. I'm using ACS adjustable antiroll bar (3 setting each bar)- front middle hole and rear inner hole/stiffest. H&amp;R sport lowered coil spring, Bilstein yellow sport absorbers. Michelin pilot sport all round 205/50/16 front and 225/45/16 rear. Tire pressure 33psi all round. Tire 1 month new. All round K-Mac adjustable camber/caster/toe kit. Front camber -2.2 degree and rear camber -2.4 degree. My problem is when I take high speed (from 80km/h above)corner, have loud noise from the front tires. Could it be my car is understeer? What setting should I set to to solve the problem? Thanks
+
+ANSWER 1 (id: 378_0):
+Re: Need help on handling setting Originally posted by Calvin Tan Michelin pilot sport all round 205/50/16 front and 225/45/16 rear. Tire pressure 33psi all round. My problem is when I take high speed (from 80km/h above)corner, have loud noise from the front tires. Could it be my car is understeer? What setting should I set to to solve the problem? Not sure about the noise but that tire size combo most definetley is going to cause understeer. A staggered setup may look good but it's going to cause understeer for sure. I'd try raising your tire pressure as well. 33 seems low, but it depends on what you doing, is this on the track? James
+
+ANSWER 2 (id: 378_1):
+Re: Need help on handling setting Originally posted by arsevader Originally posted by Calvin Tan Michelin pilot sport all round 205/50/16 front and 225/45/16 rear. Tire pressure 33psi all round. My problem is when I take high speed (from 80km/h above)corner, have loud noise from the front tires. Could it be my car is understeer? What setting should I set to to solve the problem? Not sure about the noise but that tire size combo most definetley is going to cause understeer. A staggered setup may look good but it's going to cause understeer for sure. I'd try raising your tire pressure as well. 33 seems low, but it depends on what you doing, is this on the track? James Noise like going to loose traction. For daily drive and fast road.
+
+ANSWER 3 (id: 378_2):
+Re: Need help on handling setting Originally posted by arsevader that tire size combo most definetley is going to cause understeer. A staggered setup may look good but it's going to cause understeer for sure. James True, but he also has his rear swaybar on the stiffest setting, which would cause oversteer. Maybey the rear swaybar isn't enough to overcome the staggared tires though. Try changing the setting of your front swaybar to the softest setting first, because it's free. If that doesn't help, get wider front tires.
+
+ANSWER 4 (id: 378_3):
+Re: Need help on handling setting Originally posted by erik325i True, but he also has his rear swaybar on the stiffest setting, which would cause oversteer. Maybey the rear swaybar isn't enough to overcome the staggared tires though. Try changing the setting of your front swaybar to the softest setting first, because it's free. If that doesn't help, get wider front tires. Yeah that's what I was thinking. This page is a decent resource for basic corrections of over/understeer. Page not found – Roger Kraus Racing – http://rogerkrausracing.com/overundr.html Gives you somewhere to start. James
+
+ANSWER 5 (id: 378_6):
+Originally posted by Mystikal With those parts and settings, handling should be quite capable. Methinks your driving technique may need to be adjusted/developed. wow!!! Anyway Brew, my front total toe is 2.1mm and rear total toe is 1.8mm.
+
+ANSWER 6 (id: 378_7):
+Originally posted by Calvin Tan Originally posted by Mystikal With those parts and settings, handling should be quite capable. Methinks your driving technique may need to be adjusted/developed. wow!!! LOL, I did think that sounded harsh. But seriously, all your specs add up to a very healthy car.
+
+ANSWER 7 (id: 378_8):
+Originally posted by Mystikal Originally posted by Calvin Tan Originally posted by Mystikal With those parts and settings, handling should be quite capable. Methinks your driving technique may need to be adjusted/developed. wow!!! LOL, I did think that sounded harsh. But seriously, all your specs add up to a very healthy car. Thanks for the input. I received a few comment from a few tire shop here. They ask me to give more negative camber up front, increase tire pressure a little bit on the rear tires. Softer setting for the front antiroll bar. Well I might need to test one by one though.... what do you think?
+
+ANSWER 8 (id: 378_9):
+Originally posted by Calvin Tan Originally posted by Mystikal Originally posted by Calvin Tan Originally posted by Mystikal With those parts and settings, handling should be quite capable. Methinks your driving technique may need to be adjusted/developed. wow!!! LOL, I did think that sounded harsh. But seriously, all your specs add up to a very healthy car. Thanks for the input. I received a few comment from a few tire shop here. They ask me to give more negative camber up front, increase tire pressure a little bit on the rear tires. Softer setting for the front antiroll bar. Well I might need to test one by one though.... what do you think? All good advice. You have plenty of negative camber, start with the sway and tire pressures.

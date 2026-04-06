@@ -1,0 +1,31 @@
+QUESTION ID: 117
+
+QUESTION:
+1990 Alpineweiss coupe. Automatic. Check this out. When the ignition switch is in position 1, my power window switches illuminate and operate up and down as they should. On start up, once the engine powers up and is running, the switches go black and do not work up or down at all. WTF….. I’ve checked fuses, relays????? Thanks in advance.
+
+ANSWER 1 (id: 117_0):
+Originally posted by g.ruff561 1990 Alpineweiss coupe. Automatic. Check this out. When the ignition switch is in position 1, my power window switches illuminate and operate up and down as they should. On start up, once the engine powers up and is running, the switches go black and do not work up or down at all. WTF….. I’ve checked fuses, relays????? Thanks in advance. I had a bad power window lock (circuit breaker) I ended up replacing the breaker: 61311369375 and all the switches:61311381205​
+
+ANSWER 2 (id: 117_11):
+Thanks Panici. I gonna start that this weekend. First thing I’m gonna do is jump the center console power window circuit breaker suggested by AWDBOB. Don’t get me wrong, my ac works well. I rarely use my sunroof or windows. As a matter of fact I don’t know many E30 owners who use their sunroof on a regular basis. I wish my 90 325i was a slick top.
+
+ANSWER 3 (id: 117_12):
+Anybody ever heard of a comfort relay? There are videos that show the E36 comfort relay location. But I can’t seem to find any info on the E30 comfort relay location or if the E30 has one.
+
+ANSWER 4 (id: 117_2):
+Possible bad K5 relay? "We can see we are dealing with fuse 17, which has a rating of 30 amps. We can also see in the diagram that fuse 17 is "hot in run only from unloader relay K5" This means our windows will only receive power via fuse 17 when the car is in run, and relay K5 is switched on." From this thread: https://www.r3vlimited.com/board/forum/e30-technical-forums/e30-faq-and-diy/213640-e30-wiring-diagram-basics
+
+ANSWER 5 (id: 117_3):
+Just swapped in a known working K5 relay. Problem still exists. Power in position one. No power after crank and running. WTH…. Bob do you have a good power window circuit breaker.? I have plenty of power window switches, but no pw circuit breaker.
+
+ANSWER 6 (id: 117_4):
+Originally posted by g.ruff561 Just swapped in a known working K5 relay. Problem still exists. Power in position one. No power after crank and running. WTH…. Bob do you have a good power window circuit breaker.? I have plenty of power window switches, but no pw circuit breaker. I've got a tested circuit breaker! I'll text you tomorrow
+
+ANSWER 7 (id: 117_6):
+Just got a tip from Jon Gilbert. Could be the ignition switch. I just ordered a new one. I’ll give it a shot. If anything it’s money well spent. The car has the original ignition switch. A new one couldn’t hurt.
+
+ANSWER 8 (id: 117_8):
+Bump in the road. Ordered switch at the dealer. They said it would be in the next day. Went over the next day for pickup, found out part was out of stock. ?????? WTF????? Dealer ordered by Vin. It appears they may be vin specific. I have to try other sources. Dammmmnnn! I was pumped for the install.
+
+ANSWER 9 (id: 117_9):
+Ok update. I have swapped in a new ignition switch. Put all the pieces back together on the steering column. Ignition works as it should and engine starts and runs as it should.. Still power windows will not operate after the engine turns over and is running. New wrinkle……I have 2 dash lights that do not go out after start up. My abs light and my brake pad sensor light are constantly on while the engine is running. Normal operation is these light come on at start up, then go out. FYI, my front and rear brake pad sensor circuits are closed circuit.s. Both circuits have been closed for 2 years. I visually check my pad wear. This light should not be on. WTF……..

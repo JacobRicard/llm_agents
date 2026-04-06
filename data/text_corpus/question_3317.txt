@@ -1,0 +1,34 @@
+QUESTION ID: 3317
+
+QUESTION:
+There's a late model e30 near me that my brother wants to buy. I talked to the guy and he said it was in an accident over 10 years ago that deployed the airbag, but he can't find any evidence of damage to the car, and it looks clean and original in pictures. I've yet to check it out in person so I'm wondering just how easily an airbag can be set off. I've read about large potholes setting them off, but also times where collisions failed to deploy it.
+
+ANSWER 1 (id: 3317_0):
+My buddy hit a telephone pole at 20mph. Crunched the front end pretty good. He had to replace and weld in the first 18" of the car off a parts car. Airbag didn't deploy.
+
+ANSWER 2 (id: 3317_10):
+Originally posted by Kershaw Rip your thumbs off? I want to see proof of that. Ok - not "rip" them off. But not really care for your hands well being when it's your face/brain that matters. It's hard to google for since it's all pre-internet. But yes, there was two types of bags. One assuming you wern't wearing your seat-belt that inflated to a much larger size (hence, damage to your hands on the wheel) and smaller bags that were to protect your head .
+
+ANSWER 3 (id: 3317_11):
+Mythbusters tested the thumb ripping thing. I was under the impression that it wasn't about bag size, but purely just if your thumbs are over the center of the wheel, when the airbag goes off, you pushes your thumbs backward and "rips" them off. Some people drive with strange hand positions. http://www.discovery.com/tv-shows/my...ow-thumbs-off/
+
+ANSWER 4 (id: 3317_12):
+That didn't have lap belts at all No, they had lap belts that you had to fasten, but then the shoulder harness ran itself up for you. I was under the impression that it was to avoid having to do airbags for a year or two because it counted as an 'active' system. Since we're bashing airbags, BMW has owed us Takatas for the E46 for 2 years+ now. I'm a lot less impressed with that than the 'bag in the E36... ...which I haven't used, yet. And as to deploying from the brakes, nope, if they go off because of a 1- g decel, the system's just not working right.... which, of course, is quite possible. Or you hit just the wrong pothole while braking hard... t
+
+ANSWER 5 (id: 3317_3):
+Originally posted by AwakenNoMore I removed my airbag wheel as one of the first things I did to my car. I just can't trust a 25 year old airbag. I had a 20yo airbag go off on me from a 50mph crash. I was pretty impressed. Walked away with a brush burn on my arm the size of a quarter and a sore nose that lasted a couple of hours.
+
+ANSWER 6 (id: 3317_4):
+Originally posted by AwakenNoMore I removed my airbag wheel as one of the first things I did to my car. I just can't trust a 25 year old airbag. I don't understand this logic. I can see not trusting it to go off when it should, but removing it is the same thing basically, except you KNOW it won't go off. An airbag either goes off or it doesn't. It's not like any situation less than it fully going off is worse than not having one in the first place. The airbag deploys based off of lateral acceleration (deceleration actually), so if you don't stop suddenly enough, it won't go off. So it's not necessarily about the speed you are traveling, but more about how quickly you stop. On a side note, I wonder if you could upgrade the brakes and tires enough to stop quickly enough to deploy the airbag? That would be interesting.
+
+ANSWER 7 (id: 3317_5):
+Originally posted by AndrewBird I don't understand this logic. I can see not trusting it to go off when it should, but removing it is the same thing basically, except you KNOW it won't go off. An airbag either goes off or it doesn't. It's not like any situation less than it fully going off is worse than not having one in the first place. The airbag deploys based off of lateral acceleration (deceleration actually), so if you don't stop suddenly enough, it won't go off. So it's not necessarily about the speed you are traveling, but more about how quickly you stop. On a side note, I wonder if you could upgrade the brakes and tires enough to stop quickly enough to deploy the airbag? That would be interesting. Pretty sure he is saying he does not want it to go off at all. With old equipment and non-depowered air bags I can understand not wanting to take an airbag to the face unnecessarily. That said, it's less than likely that an airbag in an E30 will work now, not so much from the bag/charge not working, but from the crash sensors coming out of their mounted positions (leaked black goo around the sensor), or from simple age/corrosion. Yes, you can make a car stop so quickly that the car thinks it has had a crash. IIRC it was a CTS-V that is in a common video of this very thing happening.
+
+ANSWER 8 (id: 3317_6):
+(someone correct me if I'm wrong, but this is the little I know) Keep in mind our North America e30 air bags are "full body" air bags. They inflate to protect your whole body. And in the process, they will rip your thumbs off the wheel, and not care what happens to them. It's was made because 1988-1992 was a weird few years for seat-belts and safety laws. The assumption back then was that not enough people were wearing seat belts - so the US got the big air bag to cover that. IIRC there are even some cars (VW's and some Honda's?) That didn't have lap belts at all, rather they relied on a crash zone for your knees, as long as they had automated shoulder straps. Odd for sure. I've heard that e30 in europe had much smaller air bags at the time - just to protect your face, not your body.
+
+ANSWER 9 (id: 3317_8):
+BMW did not change the seat belt part number between 1989 and 1990. Newer cars belts stretch more to slow your bodies deceleration and you actually contact the airbag. I think BMW's version for the first airbag was to protect those w/o a belt. Unless you are a little old lady sitting 6" from the wheel, you should never reach the bag with your belt on. Has anyone been in an accident in an e30 with your belt on and contacted the airbag?
+
+ANSWER 10 (id: 3317_9):
+Originally posted by Kershaw Rip your thumbs off? I want to see proof of that. I have a couple of spare airbag wheels. You can try to hold it facing towards you and I can set off the airbag. Will be interesting to see what gives first, the fingers, wrist, elbow or shoulder. But it's really only a problem for those that really wrap their thumbs around the wheel and get all death grippy in a crash. ^ Very interesting to hear that about the seat belts. It should also be remembered that SRS=secondary restraint system (for those that can't be bothered with the hassle of seat belts), with the belts being the primary.

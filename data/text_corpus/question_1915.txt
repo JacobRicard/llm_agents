@@ -1,0 +1,37 @@
+QUESTION ID: 1915
+
+QUESTION:
+It’s been really hard to get use to all of the non-availability with repair parts. i totally understand that we’re in a gap between OEM parts are falling out of support from suppliers, but before the aftermarket reproductions have come around. It wouldn’t be that frustrating but vendors keep luring me in with the promise that parts are still available, but then canceling. This one particularly stings because if took them three months to notify me.
+
+ANSWER 1 (id: 1915_0):
+Check ECS tuning first. They often the Unavailable status when a part is not available. Essentially, they order from BMW. When BMW rejects the order, ECS updates the status. A guy 3D-prints the part of the lock that breaks. Pardon Our Interruption... https://www.ebay.com/itm/314961876392
+
+ANSWER 2 (id: 1915_1):
+i've been looking for that kit for about 18 months. my understanding is it's now nla and not back ordered. isn't available in europe either. fcp canceled my order months ago, then pelican, ecs, etc. the 3-d printed part may be the only fix.
+
+ANSWER 3 (id: 1915_12):
+Originally posted by TobyB Walloth und Nesch.... just sayin'... t Why does it say that the part is not available? Search results for: '51219061343' | Wallothesch https://www.wallothnesch.com/en/catalogsearch/result/?q=51219061343
+
+ANSWER 4 (id: 1915_13):
+Originally posted by TobyB Walloth und Nesch.... just sayin'... they can't source it either. schmiedmann is also a bust before you ask. pretty sure we'll never see these again. i'm holding out on the overpriced printed part until i have no choice but to repair it.
+
+ANSWER 5 (id: 1915_2):
+If it looks suspicious online, I usually call the dealer and get the low down. The dealer usually has the best info, but it’s hard to find a good dealer to work with…
+
+ANSWER 6 (id: 1915_3):
+Originally posted by moatilliatta If it looks suspicious online, I usually call the dealer and get the low down. The dealer usually has the best info, but it’s hard to find a good dealer to work with… there are no longer bmw dealers here who get parts or work on anything older than 5yrs
+
+ANSWER 7 (id: 1915_5):
+Having been through this many times, it is not that vendors are luring you with parts they know are unavailable, but rather that there are many thousands of parts to an E30, some of which are infrequently ordered. Vendors do not typically update their website until after a part is ordered by a customer, and they are subsequently notified by BMW that the part is NLA. Also, although I have ordered many parts from ECSTuning, they are not necessarily the final word on parts availability. I just received an order from Schmiedmann in Denmark of several parts that both my local BMW dealer and ECSTuning said were NLA: 51-45-1-902-637 61-13-1-370-743
+
+ANSWER 8 (id: 1915_6):
+ECS is no better, worse in fact. Besides, car friends don't let friends buy from ECS. As mentioned, it's coming from the dealer. If you want more accurate ordering, based off of an individual making a product post and keeping it up to date, then use a vintage BMW specific parts supplier... like Blunttech, IE, Walloth and Nesch, etc. Speaking from the 02 world, what you're experiencing will only get worse as more things go NLA.
+
+ANSWER 9 (id: 1915_7):
+I'm guessing that FCP made it clear that the item was special order at the time you purchased it, and it did not say "in stock." Usually this is not malicious and not a bait-and-switch. Think of how large and complex the inventory is of a company like FCP, and even then, some of the items they sell they don't stock themselves, and they have to source it after you order.
+
+ANSWER 10 (id: 1915_8):
+Did it say "in stock"? I doubt it. Many things are listed as "ships in X days" based on their special order availability. Those parts are always a gamble. It does suck that these lock parts are unavailable, as the locks do wear out (mine are getting stiff and need to be lubricated again, I just hate pulling the door panels).
+
+ANSWER 11 (id: 1915_9):
+Get used to it. What business still stocks parts for 30+ year old cars? Many parts outside of the regular maintenance parts are special order parts from BMW, etc.. As mentioned, ECS does try to give you a status of their parts if you pay attention. I ordered a few parts myself and was quite upset to learn they only ship whole orders after waiting 2-3 weeks. When I called to find out what was happening they informed me that the entire order was on hold because of a $8 plastic tow hook cover cap that had to be special ordered with no ETA. I told them to cancel the item and ship the rest. It's frustrating as hell but it is what it is. I remember a time, when they would call you and let you know when a single item was holding up the order but nowadays it seems you have to call to find out what's going on.

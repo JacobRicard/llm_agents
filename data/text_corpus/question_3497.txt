@@ -1,0 +1,10 @@
+QUESTION ID: 3497
+
+QUESTION:
+I'm overhauling my M3's wiring harness and removed the pins from the injector connectors for inspection/cleaning - but forgot to take a pic of which order they went in. I have the wiring manual, but it doesnt say which goes on the left and right. Here's how i put it back together - can someone either confirm if this is the correct order?
+
+ANSWER 1 (id: 3497_0):
+Thats brown on the left, red on the right, if the pic is too small. I did that because I'm guessing brown is ground, and viewed from the position of going into the injector this would put it in position 2, with red being in position 1.
+
+ANSWER 2 (id: 3497_1):
+Never mind - Dave Markert from Markert Motorworks sent me this... If you're anywhere near Atlanta you should check these guys out. They tuned my 335 to 585whp and have a ton of E30 experience as well (they do s54 swaps all the time) Automotive Repair Shop in Atlanta, GA - Specialists You Can Trust and Count On http://www.markertmotorworks.com TRUE Automotive offers expert auto repair services with several locations in Decatur, Lawrenceville, Marietta, Atlanta, Suwanee, & Woodstock. Sent from my iPhone using Tapatalk

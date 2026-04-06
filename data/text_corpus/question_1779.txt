@@ -1,0 +1,25 @@
+QUESTION ID: 1779
+
+QUESTION:
+I have the project car finally running but I realize there is no CEL when turning ignotion on. I took the cluster(actually both clusters I have) have no lights in the cel slot. Was hoping someone can help with what I need to make that light up. The etk was not showing me what I need amd am hop8ng for help 1989 e30
+
+ANSWER 1 (id: 1779_1):
+Originally posted by e30davie You might want to specify which year and engine. The early cars dont even have a cel on the jetronic. Sorry fixed that above... 1989 e30. There was no light in mine but i have the grn/wht and brown wires to power it up
+
+ANSWER 2 (id: 1779_2):
+Originally posted by Enriquez2000 Sorry fixed that above... 1989 e30. There was no light in mine but i have the grn/wht and brown wires to power it up is this for your m50 swap or an m20? the answers will change depending.
+
+ANSWER 3 (id: 1779_3):
+Originally posted by 82eye is this for your m50 swap or an m20? the answers will change depending. Its the m50 swap but it uses the e30 chasis harness inside so should be same
+
+ANSWER 4 (id: 1779_4):
+Originally posted by Enriquez2000 Its the m50 swap but it uses the e30 chasis harness inside so should be same did you double check the pinout between them? there are a few differences over the years. edit: to clarify i'm wondering if the m50 ecu is looking for a missing signal from a deleted or incorrectly pinned sensor.
+
+ANSWER 5 (id: 1779_5):
+Originally posted by 82eye did you double check the pinout between them? there are a few differences over the years. edit: to clarify i'm wondering if the m50 ecu is looking for a missing signal from a deleted or incorrectly pinned sensor. Pinout is good. Bulb is just burned out. I was able to pull the abs bulb and check both with a AA battery and its just burnt out. Need to know what bulb goes in the holder
+
+ANSWER 6 (id: 1779_6):
+Originally posted by Enriquez2000 Pinout is good. Bulb is just burned out. nice catch. gotta love when it's a simple fix. Originally posted by Enriquez2000 Need to know what bulb goes in the holder should be a w1.2w - osram/sylvania 2721
+
+ANSWER 7 (id: 1779_7):
+Originally posted by 82eye nice catch. gotta love when it's a simple fix. should be a w1.2w - osram/sylvania 2721 Awesome thank you! I was digging around and saw some posts with that mentioned but no confirmation. Ill circle back when I get the bulbs and replace to confirm fitment

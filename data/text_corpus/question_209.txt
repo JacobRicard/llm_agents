@@ -1,0 +1,7 @@
+QUESTION ID: 209
+
+QUESTION:
+AC blows very cold air while driving and accelerating but only blows air but not cold air while idling. Any ideas?
+
+ANSWER 1 (id: 209_0):
+Not enough air moving over the condenser at low speeds. I am assuming you have an e30 with a stock mechanical fan, stock electric fan, and its using r134a?

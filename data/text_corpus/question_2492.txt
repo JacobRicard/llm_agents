@@ -1,0 +1,22 @@
+QUESTION ID: 2492
+
+QUESTION:
+Hi All, Just received a replacement clutch pedal helper spring for my '87 E30 5 speed. I tried searching for a DIY , but can't find anything related to this topic. Any tips/tricks to successfully install? From what I can tell, the bottom of the helper spring attaches to a notch in the pedal bracket. I was able to get this in the groove, but the eye bolt on the other end doesn't line up with the pedal bracket (too long). My thoughts are that I need to unbolt the M/C top nut attached to the pedal and push the clutch pedal towards the back of the car until the eyebolt aligns for the helper spring? From here, finish installing the helper spring then push the clutch pedal down towards the floor and then re-install the MC nut? Does that sound correct? Also, how compressed should the spring be before install? The new part came in loose and I tightened it down to just "snug". Thanks for the help! - Nick
+
+ANSWER 1 (id: 2492_0):
+it was too hard to put the spring in the notch first for me. I attached the spring to the clutch pedal (with it not being attached to the master cylinder) and put it in the notch on the floor, then compressed it enough to line up the master cylinder bolt. you know the spring is on right when you push it in all the and it pulls it self to the floor, the master cylinder cant be attached of course for this test. hope this little bit helps
+
+ANSWER 2 (id: 2492_1):
+Originally posted by robby41 it was too hard to put the spring in the notch first for me. I attached the spring to the clutch pedal (with it not being attached to the master cylinder) and put it in the notch on the floor, then compressed it enough to line up the master cylinder bolt. you know the spring is on right when you push it in all the and it pulls it self to the floor, the master cylinder cant be attached of course for this test. hope this little bit helps @robby41: That makes sense. Thanks for the tip. I actually just realized I don't have the bushing for the eyebolt on the pedal spring. Ordering now and hopefully can try sometime next week. Appreciate your help! I'll update the thread once I make the attempt :)
+
+ANSWER 3 (id: 2492_2):
+I finally got around to replacing the clutch pedal spring. Before install, I ran it without a return spring and the car drove perfectly. After the install, I started having issues with the clutch pedal not returning back/getting stuck on the floor. The clutch, slave, master are all new and I ran drove the car the same day prior to install. I'm not sure what the issue is? The tabs on the clutch pedal spring were installed in the notch of the pedal bracket. Do I need to tighten the nut on the pedal spring to add more tension possibly?
+
+ANSWER 4 (id: 2492_3):
+If everything is plumbed correctly, you shouldn't need the helper spring. Go through the basics: make sure slave is bled, reservoir is topped off, and leaks are nonexistent.
+
+ANSWER 5 (id: 2492_4):
+Originally posted by Zambuzan If everything is plumbed correctly, you shouldn't need the helper spring. Go through the basics: make sure slave is bled, reservoir is topped off, and leaks are nonexistent. You're right, I don't need it, but I prefer it back on the car. Prior to installing this, everything worked as designed. However, since installing the pedal spring, the clutch pedal sticks to the floor. I have a feeling it's not 100% installed correctly or that the nut on the pedal spring needs to be tightened some more to give enough tension to push the pedal back? Worst case, I'll just remove it and run without it. Any input on the install would be greatly appreciated! thanks, Nick
+
+ANSWER 6 (id: 2492_5):
+Update: I ended up removing the brand new clutch pedal spring and the clutch pedal works great again, no more sticking. It definitely has something to do with the spring. Not sure where I went wrong with the install?

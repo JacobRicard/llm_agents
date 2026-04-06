@@ -1,0 +1,13 @@
+QUESTION ID: 3230
+
+QUESTION:
+If you call the dealer they will usually give you the radio code for our old radios if you provide them the radio serial number. Does anyone know what software they use to pull these codes?
+
+ANSWER 1 (id: 3230_2):
+its pulled via DCS. The radio code can be retrieved sometimes by vehicle vin. If not the radio unit must be pulled out and the serial # is entered along with the make of unit.
+
+ANSWER 2 (id: 3230_3):
+They are finally old enough BMW is willing to give you the code with just the unit serial number. It used to be you had to have the unit SN and VIN and proof of ownership of the car and they all had to match up in the BMW database. This was a HUGE pain when we found a radio that had been exchanged on warranty or the dealership screwed up and got them in the wrong car.
+
+ANSWER 3 (id: 3230_5):
+Originally posted by Dj Buttchug its pulled via DCS. The radio code can be retrieved sometimes by vehicle vin. If not the radio unit must be pulled out and the serial # is entered along with the make of unit. Yes this is correct. Fyi it is not a requirement to match the vin but they should be taking a Copy of a Photo ID when they do so. D

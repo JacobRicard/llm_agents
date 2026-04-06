@@ -1,0 +1,16 @@
+QUESTION ID: 543
+
+QUESTION:
+Hey guys, just installed a new antenna. The antenna itself will go up and down however when going up, the motor keeps running. Anything I can do to try and I can hear it attempting to push the antenna further and clicking along side that. Any suggestions on how to fix this? thanks in advance
+
+ANSWER 1 (id: 543_0):
+​Seems like an internal antenna issue to me. Only three wires going into the antenna. Power, ground, raise/lower. You can check these, but my bet is some kind of limit switch inside the antenna box isn't making connection. ​
+
+ANSWER 2 (id: 543_1):
+Not really sure how to read that diagram but based on what you said, I believe I may have forgotten to place the ground thst was on the antenna mast it self. although, it’s sort of hard to believe that that may be the issue as the antenna does go down and stops perfectly. aside from this, does anyone happen to know what the original coax is that inserts into the mast? Mine was not there when I was replacing this.
+
+ANSWER 3 (id: 543_2):
+The electronic block in the antenna should detect that the electric motor can't move the antenna further and stop it. You probably won't be able to fix it.
+
+ANSWER 4 (id: 543_4):
+It should stop almost immediately or plastic threads on the antenna mast will be sheared off. You may google for 'hirchmann antenna electronics repair'. I doubt there are any parts to repair its electronics.

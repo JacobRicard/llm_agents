@@ -1,0 +1,19 @@
+QUESTION ID: 1742
+
+QUESTION:
+Please see the attached photo. Is this the correct way, meaning can I keep the car terminals connected while I charge the car? Or do I need to disconnect the car cables to then charge the car? ​​​ Attached Files
+
+ANSWER 1 (id: 1742_1):
+Originally posted by e30m3s54turbo On my e30’s I leave the terminals attached whir my charger is working. you can charge with out terminals connected. So either/or is fine then? Leaving the terminals on will not harm the alternator or anything?
+
+ANSWER 2 (id: 1742_2):
+Either is fine, consider a battery charger to just be an alternator, provided nothing goes wrong with batt or charger you will be fine. That said, disconnecting the battery from the car mitigates any issues beyond a battery explosion or boil over if you are worried.
+
+ANSWER 3 (id: 1742_3):
+It's perfectly fine leaving it connected while charging. I would connect the charger negative straight to the battery post though because the way you have it the hood could easily fall, damaging the hood and the clamp. It's triggering just looking at it because it's happened to me many times in the past where I've left tools, etc on the engine and the hood dropped. Clamp directly to the battery and lay the hood down.
+
+ANSWER 4 (id: 1742_4):
+for a jump start it's better to ground to chassis. for a charge most newer chargers with digital like ground to battery. old battery chargers don't care. edit: some newer cars also prefer ground to battery. those are past e30 though.
+
+ANSWER 5 (id: 1742_7):
+OP, what is the situation here? Is this trickle charging for vehicle storage over the winter?: For over-winter storage I will typically disconnect the battery from the car, and cycle a charger through my vehicles. Topping up a weak battery?: If you are topping up a weak battery in a car you are driving, I see no reason to disconnect from the car while doing so. Completely dead/flat battery?: If the battery is completely dead and potentially offgassing, you might consider actually removing it from the vehicle and charging somewhere safer. I typically do this on an open porch that is covered but well ventilated. This is much safer then even an enclosed garage, or on a vehicle with gasoline onboard (and potentially 30+ year old fuel lines?) You may also want to check the acid level in the cells if applicable. Originally posted by 82eye for a jump start it's better to ground to chassis. for a charge most newer chargers with digital like ground to battery. old battery chargers don't care. Indeed, you should use a chassis ground when jumping a car with a dead (offgassing) battery. This is to prevent explosion if the connection arcs. But you'd want to choose a ground AWAY from the battery if that is your concern. ​ Originally posted by varg The only way you'd risk hurting anything is if you tried to run a desulfate cycle on the battery while in the car. Yes the car's electronics would probably not like the overvoltage / AC pulses from a desulfate cycle.

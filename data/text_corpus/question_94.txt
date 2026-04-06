@@ -1,0 +1,7 @@
+QUESTION ID: 94
+
+QUESTION:
+I've consulted an E30 fuse diagram but am still having problems troubleshooting what I believe are blown fuses. 1. when I put on my left blinker, the orange light (visible to other drivers) is fine ... but on the instrument panel, I don't get the green blinking arrow. 2. my climate controls (heater, fan speed, etc) don't light up anymore, when I'm driving with headlights on The diagram is confusing. For turn signals, they mention fuse #4 or #24, but I believe these are just for the *outside* lights. And for the climate, there are at least a half dozen that refer to interior lights/instrument gauges & indicators - so I'm not really sure where to begin. Or it is possible that the problem is with the bulbs, and not the fuses?​
+
+ANSWER 1 (id: 94_0):
+Fuses are all easy to check so it's worth looking at first, although I think you have a bulb problem. The small wedge bulbs used in the cluster and climate control panel often go bad.

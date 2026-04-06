@@ -1,0 +1,7 @@
+QUESTION ID: 1004
+
+QUESTION:
+Hey yall. Having some sort of fuel leak in my 86 e30 m52 obd1 w/ m50 manifold. Having consistent fuel burning w/ smoke arising from what I thought was from the last two fuel injectors. Area around those two FI's was wet with fuel, so I swapped those two. Still having fuel burn and smoking from the same area. What else could it be ? Could the intake have a crack? Fuel pressure regulator? thanks in advanced!
+
+ANSWER 1 (id: 1004_0):
+I had a similar issue when I got my M50 running. Turned out the injectors weren't properly seated. Used a little oil on the seals to make sure they sat right. not sure if that's your issue but worth a look?

@@ -1,0 +1,7 @@
+QUESTION ID: 2001
+
+QUESTION:
+I've been chasing a gremlin for awhile now. The car would basically lose power up in the higher rpms when I was at wot. Kept throwing a 1261 code. Now I know there is million threads on here about this issue and similar issues. But I couldn't get it to stop. No matter what I cleaned or replaced it it just kept happening. I finally swapped in my other DME. And so far the code or the backfiring hiccup has not returned. Anyway my main question is does anyone rebuild dme's? Or who would buy it? Its a 524/525 out of a E34.
+
+ANSWER 1 (id: 2001_0):
+I doubt there’s anyone out there that can rebuild these DMEs. I’ve opened up DMEs for B25’s and B27’s (just out of curiosity to see the circuitry inside) and there are parts in there that are no longer made - I searched some of the serial numbers printed on the ICs and transistors and stuff on Google and got no results. If you found someone who could rebuild E30/E34 DMEs, they’d probably have a rough time getting replacement parts for some of the circuits in there.

@@ -1,0 +1,13 @@
+QUESTION ID: 1591
+
+QUESTION:
+Hey All, Over the years have entertained the idea of having a stroker built for my IX money pit. Would need to have it done for me, well beyond my ability (technical, time, space, interest, stick-to-itiveness -- all of the above). A guy is selling a fully built, new, bimmerheads 2.9 stroker w optional ITBs. Not an IX motor, though. Know that there are oil pan, pump, and pick-up tube differences that need modification. Found one thread describing very briefly the mods necessary to retrofit an i motor into an IX. Seems pretty doable but I won't pretend to fully understand the work involved. Thoughts on picking up this motor (asking price = $7k), shipping to east coast, and modifying vs. starting from scratch? FS link: https://www.facebook.com/groups/R3VL...59257358082627
+
+ANSWER 1 (id: 1591_0):
+The iX *BLOCK* is different than the RWD block. That's completely insane, but it's what BMW did. If you want it to bolt together, you'll have to start with an iX block. However, the only difference in the blocks is the location of the dipstick boss. If you can fab a dipstick solution, you can use a RWD block. If you use a RWD block, you have to swap the iX intermediate shaft and oil pump drive shaft, as the iX oil pump turns the opposite direction from the RWD oil pump. This is the case because the iX oil pump is behind the oil pump drive in the rear sump pan, rather than in front of the drive in the front sump pan that the RWD cars use.
+
+ANSWER 2 (id: 1591_1):
+Ah yes, that is my engine. I actually came here looking to see what the difference was between the cars. I always thought it was the same block, with a different transmission. Guess I was wrong on both counts!
+
+ANSWER 3 (id: 1591_2):
+I don't think there's a good reason BMW couldn't have left both bosses on all blocks and only machined each one for their intended application... but they didn't.

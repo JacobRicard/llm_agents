@@ -1,0 +1,25 @@
+QUESTION ID: 1276
+
+QUESTION:
+I have reason to believe my fully auto roof was converted to manual by the previous owner. My reasoning is that the motors in the trunk have both been disengaged and there are snap straps on the tonneau cover. I just can't figure out how to lower it. I can get the front back about 6-12" but the rear is attached tight. This model has no release under the back seat. There is a broken cable in the trunk that I suspect may have something to do with it. Any ideas??
+
+ANSWER 1 (id: 1276_0):
+pics go a long way.... electric to manual top conversions are extremely common. not sure what you mean by snap straps. I shared the following on BaT a while back, which describes the electric to manual top conversion options. It’s extremely rare to find an E30 1st generation electric top mechanism in proper operating condition, as over time the housing for the main electric top motor gets damaged. Most electric top E30 owners disconnect the linkages to the top motor and lid motor so that they can open and close the top and tonneau lid manually. Unfortunately the electric top cars don’t have manual latches to hold the boot lid down. Options to resolve (1) leave the main electric top motor disconnected so raising the lowering the top is manual. Leave boot lid motor linkage connected though, and use the electric top button to open and close the lid only, not the top (2) leave the top manual per above, disconnect the boot lid motor linkage and retrofit the manual boot lid latches cables and handle from a pre 10/90 325i or any 318i e30 convertible. this requires finding a manual top driver’s side interior trim piece that matches the natural interior of the car, or – heaven forbid – cutting the hole for the latch handle in the current trim piece (not recommended!) (3) if the top motor housing is indeed damaged (highly likely) get the electric top mechanism working again by either repairing the top motor housing or replace the top motor completely ($900+ from BMW, buying used not recommended). the top mechanism will need to be re-synchronized, which is hard to do if you haven’t done it before.
+
+ANSWER 2 (id: 1276_1):
+Bradnic is right about pictures. Is the broken cable in the trunk on the left side next to the strut that holds the trunk lid open? If so, that cable wouldn't prevent the top from folding or the cover from opening. That cable prevents the cover and the trunk lid from being opened at the same time and colliding into each other. Also, the part number for that cable is 51251932350 and it is NLA (I know this because I tried to order one from the dealer today as mine is broken too). After you move the front of the frame from the windshield header rearward, can you lift the frame beneath the rear window forward? Doug
+
+ANSWER 3 (id: 1276_3):
+Originally posted by dougsic Bradnic is right about pictures. Is the broken cable in the trunk on the left side next to the strut that holds the trunk lid open? After you move the front of the frame from the windshield header rearward, can you lift the frame beneath the rear window forward? Doug The cable is on the left by the strut. When I release the front and pull it back the rear does not lift at all. That's what I can't figure out. I'm working on some pictures. Thanks for your input.
+
+ANSWER 4 (id: 1276_4):
+That cable prevents the trunk and the top boot lid from touching each other when they are both open. There’s a channel in the trunk that the cable sits in on the way to the top boot lid. If you pull the trunk lid open when the top boot lid is up it will pull the boot lid down, and visa versa. it should be connected to the drivers side boot lid hinge and the trunk lid hinge
+
+ANSWER 5 (id: 1276_5):
+Here are some photos of the straps attached to the boot lid. I have read that some people attach these to hold the lid since the motor is disengaged. These are not OEM correct? Also you can see the broken cable on the left of the trunk. As I mentioned above, the problem is that the rear of the roof is locked in place on top of the boot lid. Any ideas on lowering this roof? Please let me know any specific pictures you might need.
+
+ANSWER 6 (id: 1276_6):
+Those straps are not stock both your top motor and lid motor are disengaged. With your lid motor disengaged there is nothing holding your boot lid down when the top is down except the straps. the cable is indeed broken, or someone cut it. It is supposed to be attached to the little pin next to the trunk lid hinge. what exactly so you want to do?
+
+ANSWER 7 (id: 1276_7):
+Once you undo the latches, you should be able to push the front of the top up about a foot off the header. That should release the back of the top so you can fold it up from the boot lid. Then you should be able to undo the snaps and open the boot lid.

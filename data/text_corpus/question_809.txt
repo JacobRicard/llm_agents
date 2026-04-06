@@ -1,0 +1,22 @@
+QUESTION ID: 809
+
+QUESTION:
+Hell All, I did a quick write up on how to repair the ABS relay that always blows. Now you get the ABS light to go out. http://peakracer.com/peak-racer-race-team/race-car-blog/fixing-the-abs-relay.html Tell me what you think.
+
+ANSWER 1 (id: 809_0):
+I'll respond to this. I think its very helpful. My light has been on since I bought my 86 car and I just purchased a new relay. Cheers for the effort even if no one responded.
+
+ANSWER 2 (id: 809_10):
+under the driver's side dash, see the big loom of wires between the steering column and the unit? there is a bundle of 6 wires, 2 brown, one green, the rest read. they go to a black plug shaped like a box with a cross on one side like this + the ABS relay should be attached.
+
+ANSWER 3 (id: 809_11):
+I did this to the race car and my abs light is now off! And I priced a new relay and they wanted to charge me 95 dollars for one so I grabbed 2 at the local junk yard for 4 dollars!
+
+ANSWER 4 (id: 809_4):
+emi325i, you are 100% correct and everyone should do that, and I clearly outline that. At 25-35 bucks a pop plus shipping it can get expensive to test to see if it is the relay that is the problem. This is a great way to verify the problem. What I do is keep an extra one with the solder fix Just in case my normal one blows.
+
+ANSWER 5 (id: 809_5):
+Or, you could get really creative and solder in a standard flat fuse instead of using a wire. If the thing blows because you jump start the car... don't jump start. Invest the $35 bucks into a battery charger. This is good to know. My ABS light is on and this will be my first step at diagnosing it. I have been rebuilding everything else and had not gotten to this yet. I have only had the car for a couple of months and have only test driven it so far.
+
+ANSWER 6 (id: 809_6):
+Back to this thread. I took my ABS relay out yesterday. I purchased a new one (25$). But out of curiosity, I took the old one apart. Sure as shit, that little wire was popped. Still hasnt fixed my ABS light yet, but I have a sensor with a cut wire. After that I hope its good. Thanks for hte writeup

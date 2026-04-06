@@ -1,0 +1,10 @@
+QUESTION ID: 2266
+
+QUESTION:
+Just had my trailing arms powdercoated and my powder coater said the plug burned out and liquid almost grease came out. Anyone have a official word and part number ?
+
+ANSWER 1 (id: 2266_0):
+It's a blanking plug and the inside is coated with a cavity wax/corrosion inhibitor so it doesn't rust from the inside out. Any plug the right size should be fine as long as it seals the hole.
+
+ANSWER 2 (id: 2266_1):
+Check mcmaster.com for some replacement plugs. I haven't found a P/N for it. I filled mine with cavity wax after they were done and found a missing plug.

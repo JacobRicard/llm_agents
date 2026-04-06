@@ -1,0 +1,13 @@
+QUESTION ID: 3535
+
+QUESTION:
+I really don't know where to put this one. I have been looking online for used 42LB injectors for my turbo build. It looks like china is counterfeiting injectors. $11.81 or best offer Pardon Our Interruption... http://www.ebay.com/itm/New-42-lb-hr-440cc-Fuel-Injectors-0280155968-for-Audi-BMW-Ford-Lotus-Chrysler-/221965821076?hash=item33ae31a494:g:KvAAAOSwnH1WapPU&vxp=mtr They are PN 0280155968 and look exactly like these 4 from ECS for $279.80 https://www.ecstuning.com/b-bosch-pa...80155968~4cyl/ Now, my question is this: If I find used injectors online, how the crap do we know if it is real? No, I am not buying these china injectors. I don't care if your friend's cousin has them in his 500HP integra.
+
+ANSWER 1 (id: 3535_0):
+As they say, "you get what you pay for." Applies here. Used parts online are always a gamble, so for peace of mind, to ease tuning issues, and to aid in eliminating potential failure points/fire hazards you should just pony up for new. Technically, they aren't counterfeit as far as the seller is concerned as they aren't branded and China has basically zero patent infringement protections. We could talk about international laws, and reasonable ties/conducting business, but why bother because China. So, if you wanted used ones, only buy those that look like quality parts and are hopefully branded. Edit: Since I didn't say it, the eBay ones look like cheap crap, just look for clean casting lines and good mold release marks when looking at important parts.
+
+ANSWER 2 (id: 3535_1):
+You can clearly see the spray nozzles is not centered on the ebay ones. Chances are those are the ones that did not pass inspections or they are moonlighting from the factory.
+
+ANSWER 3 (id: 3535_2):
+They're not counterfeit- they really are injectors! It's pretty easy to figure out where they're from: "FREE ePacket delivery from China" They don't claim to be GOOD injectors... This has been going on for quite a while. The biggest problem is that very poor parts end up in boxes that are branded with names that USED to mean good parts. So you spend the $40 you figure will get you a decent aftermarket part, and what's in the box is exactly what you've linked to from China. THAT'S what really sucks- the mid- range 'decent' parts are rapidly disappearing. t

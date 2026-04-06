@@ -1,0 +1,7 @@
+QUESTION ID: 1293
+
+QUESTION:
+I recently picked up a factory hardtop about three months ago. I have two main questions for anyone that might know. In the last week, I bought a factory tool as well for the splined wheel on the rear pins. I was under the impression this is what is used to lock the top to the car, but those splines don't turn. Up until now, I've been using a crescent wrench to attach by turning the top hex nut. What am I missing here? Second is that one side against the tonneau cover is a bit higher than the other. Is there any adjustment? I thought perhaps between the two hex nuts and the spline that I could make a height adjustment, but I didn't want to screw it up so I haven't dug into it yet.
+
+ANSWER 1 (id: 1293_0):
+The hardtop tool is used to adjust the height of the hardtop. If you match the amount of threads with the opposite side's pin, you'll get pretty close between sides. Then you can "fine tune" by taking a measurement with a tape measure, BMW lists specs for this. To lock the hardtop in place you need to twist the hex up top, usually a 10mm however I've also seen 11mm. Only takes a quarter turn or so to lock in place.

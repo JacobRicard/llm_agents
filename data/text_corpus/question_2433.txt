@@ -1,0 +1,28 @@
+QUESTION ID: 2433
+
+QUESTION:
+Just saw this this morning. I have a coupe and no mods so I know I don’t really need this. I was just wondering what you guys thought of it. https://youtu.be/X-YyYGRs9B8
+
+ANSWER 1 (id: 2433_0):
+I saw that episode when it released on Motor Trend, really interesting. I went a totally different route with my E30 (the Vorshlag route), but still looks pretty good. Would have liked to have seen him do it with a dual ear diff cover, but oh well.
+
+ANSWER 2 (id: 2433_1):
+What he did doesn't fix what goes wrong though. They tear that crossmember off the body; making the crossmember itself stronger doesn't help that. Was wondering wtf he was doing the whole episode.
+
+ANSWER 3 (id: 2433_2):
+yeah, he hasn't really fixed the problem. He's helped it, but he hasn't gone all the way. the single diff mount twists the crossmember, which pulls it straight off the frame rails and the trunk floor. He's just plated it, but the proper solution replaces the whole thing with a constructed I-beam tied into the rear chassis rails. I had the Randy Forbes kit installed in my m coupe. It was an early build, and hadn't had any signs of failure despite being supercharged, but it was a peace of mind thing. Highly recommend the kit or a structure inspired by it - it's basically industry standard at this point.
+
+ANSWER 4 (id: 2433_3):
+What he did is nothing compared to what's involved in the RF kit. Honestly, if I bought that car I'd be pissed, since then I would have to undo his work, and redo it properly, rather than start with a clean slate. Z3 M Coupe Rear Subframe Reinforcement: Part 1 - BimmerBrothers http://www.bimmerbrothers.com/z3-m-coupe-rear-subframe-reinforcement-part-1/ It is well known that the Z3 chassis, especially the M Coupe and Roadsters, suffer from rear trunk floor issues. While BMW produced arguably their best vehicles in the 90s and early 00s, many of the models suffered from rear subframe and trunk floor issues.
+
+ANSWER 5 (id: 2433_4):
+Originally posted by E30SPDFRK What he did doesn't fix what goes wrong though. They tear that crossmember off the body; making the crossmember itself stronger doesn't help that. Was wondering wtf he was doing the whole episode. That is funny - he points out the weak diff mount, then that the spot welds holding the rear crossmember to the floor let go, tearing the crossmember from the body. Either they skipped the whole boot floor reinforcement part just to keep it to 10 mins, or it's a dud. Ed wouldn't have made that mistake, but if you've seen his YouTube video on why he left the show, it was because the new US producers wanted to cut down on the segments where he fixes the cars as they were too tricky / costly to make & they felt that the lengthy technical sections wouldn't appeal to US audiences, so he left as he felt that he'd be forced to cut too many corners fixing the cars, which would damage his reputation as a mechanic.
+
+ANSWER 6 (id: 2433_6):
+I saw that episode a few weeks ago. Was actually a little surprised the Z3 coupes had that issue since it uses an e30 subframe. I always thought it was just an e36/e46 problem for the regular coupes and sedans.
+
+ANSWER 7 (id: 2433_7):
+Originally posted by E30SPDFRK After watching Ant's Alfa build, I feel like that's just how he works. Lots of things done to a "good enough" standard. To be fair, Edd seemingly bodged a lot of repairs on camera too, especially in the cosmetics department to keep the work "under budget."
+
+ANSWER 8 (id: 2433_8):
+Originally posted by Codym42 Was actually a little surprised the Z3 coupes had that issue since it uses an e30 subframe. I always thought it was just an e36/e46 problem for the regular coupes and sedans. it's a z3-specific problem with how the trunk floor brace is attached to the trunk floor. it's thought to be aggravated by sloppy subframe bushings, too. the e36 and e46 subframe tearing problems are different.

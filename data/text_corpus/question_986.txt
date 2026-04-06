@@ -1,0 +1,31 @@
+QUESTION ID: 986
+
+QUESTION:
+I know this May have been discussed at length separately but I have started acquiring parts and now need to make a decision, I have acquired a clean low mile 318is that I want to swap. There are many choices to get more power this is what's on my radar. Refresh the M42 and throw a turbo on it. 200hp $2000 I have a nv M50 that I could turbo 3-400 hp approx $4000 s52 is now a tried and tested route that makes very reliable power and is more or less a plug and play with all of the info on prior swaps out there, on here. 250hp $3500 s54. Prices are coming down and it seems a lot more affordable. 330 hp out of the box stock, makes a great sound and is sexy. $5-6000 I have no interest in a V8 at all M30s are a great motor but are a little Stone Age for what I am trying to achieve. Posting to get some of your input.
+
+ANSWER 1 (id: 986_0):
+S54 > all turbo? meh - maybe if you like constant tinkering. that shit gets old though. even though the S54 has some high maintenance items, it's a stock production motor that will put down 300+whp with just software and decent headers. Second would be an S52. But you're missing like 100hp.. it's a big difference!
+
+ANSWER 2 (id: 986_1):
+Originally posted by nando S54 > all turbo? meh - maybe if you like constant tinkering. that shit gets old though. even though the S54 has some high maintenance items, it's a stock production motor that will put down 300+whp with just software and decent headers. Second would be an S52. But you're missing like 100hp.. it's a big difference! This is the same conversation I have been having with myself.
+
+ANSWER 3 (id: 986_2):
++1 on what Nando said. s52 is a lot of fun but an s54 would be all you would ever need for a DD. I wish to have an s54 swapped into my wagon right now, but replacing a perfectly running s52 setup makes no sense even for the extra 100hp. I went on a quest for power with a big turbo build on my last car and the tinkering and maintenance made me end up selling her. With an s52/54 it's just start and go.
+
+ANSWER 4 (id: 986_3):
+Considering prices these days s54 or m52 turbo. You can make a reliable 24v turbo car - the problem is either people never do everything right the first time around or come up with the assumption that turbo = try and squeeze every HP possible out of the motor, which doesn't usually end well.
+
+ANSWER 5 (id: 986_4):
+My main concern with the S54 is I don't see a really good solution for the brakes on a street car. Manual brakes with a BBK seems the way to go but with a ABS delete and manual brakes I don't think will be a good for road driving. Is there a solution that I have not seen yet ?? With the extra power of the 54 I would like to be able to stop it, my whole goal is to have a nice weekend driver that isn't too wild but is fun to drive I am not a street racer or a track rat kinda guy, I have wanted a swapped e30 for years and only want to do it once and have it a reliable car.
+
+ANSWER 6 (id: 986_5):
+The brakes are solvable, just not with the stock parts. I think the dual MC setup with a BBK makes the most sense. you could also do a hydroboost but it seems like a bunch of extra weight and complication to me. modifying a booster or using a smaller one could also work. I want to do MK60 DSC retrofit (with Mtrack mode), probably some sort of Massive BBK and his pedal bracket with dual MCs. If I can pull it together it should be pretty slick!
+
+ANSWER 7 (id: 986_6):
+If you want to make big power go with the 24v T. However if it were my car and I had some loose cash I would do the s52/54 in a heartbeat, especially if it's a daily driver
+
+ANSWER 8 (id: 986_7):
+Originally posted by nando The brakes are solvable, just not with the stock parts. I think the dual MC setup with a BBK makes the most sense. you could also do a hydroboost but it seems like a bunch of extra weight and complication to me. modifying a booster or using a smaller one could also work. I want to do MK60 DSC retrofit (with Mtrack mode), probably some sort of Massive BBK and his pedal bracket with dual MCs. If I can pull it together it should be pretty slick! i think the most DD brake setup would actually be using a hydro boost setup from e28 era. Not pretty though and not light weight or full RAZE, but very street oriented. Bmw used hydro boost for intake manifold clearance issues on the e32 750il; all other e32's have moden vacuum boosters. On the e34 the remote mounted booster was done for v8'; this may be to extreme for a s54 e30.
+
+ANSWER 9 (id: 986_8):
+decided and done, I went with a S52.... There is so much info on the swap and aftermarket parts re plentiful.... I will post a build thread when I get closer to it all happening

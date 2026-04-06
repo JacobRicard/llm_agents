@@ -1,0 +1,13 @@
+QUESTION ID: 2181
+
+QUESTION:
+I'm about to move from CA to PA and will be shipping the e30. The car is currently lowered on H&R Sport springs and is likely too low to drive on/off a truck. I really don't want to source a set of stock springs and swap them in. I've got some risers for the rear, but I need a solution for the front. Does anyone have experience with any type of coil spring spacer that works well? I found this on Amazon and am considering it, although it looks like OEMs have a slightly easier solution. Amazon: OEM:
+
+ANSWER 1 (id: 2181_0):
+Coil spring spacers eliminate whatever coils they go between so the suspension gets REALLY stiff. Spring spacers also deteriorate and fall apart rather quickly, in my experience. But they do work, and will fine for just shipping and transport.
+
+ANSWER 2 (id: 2181_1):
+I've shipped my e30 a few times now. Twice was on a big transporter truck and once in a two car box trailer. I'm on HR race with Billy sports and have a Zender front valance. Never was a problem loading or unloading onto those. I'm also on 16" wheels so that may help my case a bit.
+
+ANSWER 3 (id: 2181_3):
+Your username is McGyver, so you don't need to buy anything special. If you need lift front or rear, jack up the car, measure or estimate maximum spring gap, find appropriate wood blocks, drill holes in said blocks to pass zip ties, install blocks wherever they will fit, lower car. In reality, a car on sports should clear, and if you are still worried just be there for loading/unloading if possible, and remove any front valence lower elements.

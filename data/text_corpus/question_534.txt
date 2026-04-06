@@ -1,0 +1,10 @@
+QUESTION ID: 534
+
+QUESTION:
+Hello mates. I want to say i have already searched the forum but i have not found an install of an alarm with similar wiring diagram as mine. I want to install a “Tomahawk tw9010” alarm system in my 1989 318i e30. Can you help me with the central locking wiring? ​ I think i should wire like this: Tomahawk tw9010 ——— car wiringblue (unlock) —— green/blue central locking module (through relay) blue/grey ———— ground blue/black - not connected green (lock) ——— yellow/blue central locking module (through relay) green/grey ———- ground green/black ——— not connected Is this the right way to do it? Thank you. ​ Attached Files
+
+ANSWER 1 (id: 534_2):
+Originally posted by reelizmpro Follow the Central Lock Negative Control diagram in the manual. Thank you. I do not understand what “-12v” from that diagram mean. Does it mean “ground”?
+
+ANSWER 2 (id: 534_3):
+I think it's in reference to the negative trigger sent to the Central Locking Unit for lock/unlock. It's important to note, your alarm connects directly to the Central Locking Unit. There's no need for external relays.

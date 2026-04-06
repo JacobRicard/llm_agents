@@ -1,0 +1,19 @@
+QUESTION ID: 3366
+
+QUESTION:
+A bit of an embarrassing story to tell - I've had my 318is for 3 months now and have been slowly addressing all the deferred maintenance and botched repairs during my spare time on the weekends. Well, this weekend was the weekend to drop the oil pan and make sure the upper oil pan bolts were tight - apparently it is common for them to loosen up on the M42. Well, when I had the front of the car jacked up, I noticed that the driver side motor mount looked off - in fact, the bolt had torn straight through the subframe bracket! At first I thought it was just the driver side, but I found that the passenger side was the same way! So for the 3 months I've had this car, I've been driving around with the motor just sitting on the subframe, completely unsecured. Looking back, I had noticed a lot of drivetrain slop but put it down to a worn driveshaft or diff or something (I'm new to this whole working on cars thing). This is my first enthusiast/manual transmission car so I didn't know exactly what to expect. Well, I reattached the motor mounts this evening with a large flat washer as reinforcement against the torn subframe, and holy hell! The entire car is different. Not just zero slop in the drivetrain anymore, but even the handling is improved. There is much less play in the steering, less body roll, and the engine is way smoother. I know it probably goes without saying that having the motor mounts attached is pretty critical, but I just had to share. Thread title is a joke, I don't expect anybody else to be driving around with disconnected motor mounts for any length of time. Yay!
+
+ANSWER 1 (id: 3366_0):
+My first e30 was a 318 cabby. I pulled the engine to swap in an s52, I noticed that both engine mounts were broken and so were the trans mounts. Wtf???? The car belonged to a 70ish year old lady. It had some funny shimmies but I would have never thought it would have been that f'ed up.
+
+ANSWER 2 (id: 3366_1):
+Yeah, that started happening back in about 1972... with 2002's. Also happened to my E36 318. Some things it took BMW a few decades to iron out... ...why, no- one really knows... t
+
+ANSWER 3 (id: 3366_2):
+At least we don't have to deal with balance shafts on an M42. I'd take failure prone trans mounts and somewhat pricey engine mounts over that any day.
+
+ANSWER 4 (id: 3366_3):
+When I first got my car like 5 years ago I noticed alot of driveline wiggle in it. I assumed the motor mounts were shot and was going to get to them sooner than later. When I did finally get around to buying new mounts...I found absolutely no trans mounts. It was floating off the engine mounts, CSB and rear dif. I went ahead and replaced all but the dif bushing. What a trainwreck this car was, haha.
+
+ANSWER 5 (id: 3366_4):
+Over the last few months I have been noticing that a lot of M42 car owners have said the same thing- that their subframes have been cracked at the motor mount tabs. When I pulled my M42 back in February this is what I found: Passenger side: Driver side: I welded the cracks from above, and then welded in Garagistic reinforcement plates underneath to repair these.

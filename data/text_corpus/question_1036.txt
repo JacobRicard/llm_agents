@@ -1,0 +1,31 @@
+QUESTION ID: 1036
+
+QUESTION:
+Hi there, Working on an E30 M3 and just realized there is no Bentley for it. What is the bible for the M3 besides that 'rare book' mfg's manual on ebay for $1,500? I did find the wedo etm site for the electrical stuff so that will help down the road. Tasks include e brakes, rear brakes, coolant piping and hoses among other things. In searching I don't see any cross referenced numbers on realoem for the M3 with the e30 325i or e28 for brake parts. All unique brake parts for the M3? Also downloaded a pdf ($30) of someone's BMW E30 M3 manual, but that is difficult to navigate and the photos aren't there in most cases. TIA
+
+ANSWER 1 (id: 1036_0):
+Aren't M3 suspension and brake parts sought after because they are 5-lug? Otherwise, this how-to will help to rebuild the brake calipers: https://classicbimmerbits.com/e30-ho...liper-rebuild/ It seems that the front rubber rebuild kit is compatible with the E36, E46, Z3: https://www.ecstuning.com/b-genuine-...t/34111153202/ The rear: https://www.ecstuning.com/b-genuine-...t/34211157042/ https://www.ecstuning.com/b-genuine-...t/34212226092/ --- It seems that most brake parts are relatively cheap from BMW compared to the S14 parts. Hoses are hoses. You buy a replacement set and change the hoses one by one. Then, bleed the cooling system and the brakes.
+
+ANSWER 2 (id: 1036_1):
+You can send your brake calipers to Jordan. They will look period-correct and better than new. 404 Not Found https://mtechniqueauto.com/girling-front-calipers Specializing in the restoration, rebuild and remanufacturing of the ABS2 topology anti-lock brake hydraulic units.
+
+ANSWER 3 (id: 1036_2):
+Originally posted by Vincenze Aren't M3 suspension and brake parts sought after because they are 5-lug? Otherwise, this how-to will help to rebuild the brake calipers: https://classicbimmerbits.com/e30-ho...liper-rebuild/ It seems that the front rubber rebuild kit is compatible with the E36, E46, Z3: https://www.ecstuning.com/b-genuine-...t/34111153202/ The rear: https://www.ecstuning.com/b-genuine-...t/34211157042/ https://www.ecstuning.com/b-genuine-...t/34212226092/ --- It seems that most brake parts are relatively cheap from BMW compared to the S14 parts. Hoses are hoses. You buy a replacement set and change the hoses one by one. Then, bleed the cooling system and the brakes. Yes they are 5 lug, the brakes have unique to M3 part numbers. Was mainly curious as to what repair manual people follow for working on the E30 M3. After browsing other E30 M3 specific forums they link some old r3v threads which are loaded with information from the authors, still reading through them. So r3v still rules the day in assisting the novice mechanic like me with 10 year old threads. Thank you for your links Vincenze!
+
+ANSWER 4 (id: 1036_3):
+These threads will be more interesting than reading black-and-white books with tiny pictures. https://www.r3vlimited.com/board/for...318is-restomod https://www.r3vlimited.com/board/for...-e30-m3-reborn
+
+ANSWER 5 (id: 1036_4):
+The e30 M3 uses some brake parts from other cars. The front brake brackets are from the 5/6 series. The rear calipers are from a 7 series. The brake pad wear sensor for front/rear are the same - they are the rear sensor on your basic e30.
+
+ANSWER 6 (id: 1036_5):
+Although not M3 or 318i M42 specific, much of the Bentley still applies to these models. The only thing mechanical that is uniquely different to work on would be the S14 itself.
+
+ANSWER 7 (id: 1036_6):
+Originally posted by uturn The e30 M3 uses some brake parts from other cars. The front brake brackets are from the 5/6 series. The rear calipers are from a 7 series. The brake pad wear sensor for front/rear are the same - they are the rear sensor on your basic e30. Today, 12:39 AM Although not M3 or 318i M42 specific, much of the Bentley still applies to these models. The only thing mechanical that is uniquely different to work on would be the S14 itself. Thank you for posting uturn and reelizmpro, reelizmpro I was told this very thing yesterday by someone local to me. So I will start digging into the ebrake / rear brakes this weekend. I enjoy wrenching on our e30 cars, however I am not a mechanic so the Bentley combined with realoem.com make for a great base to work from. With having a gem in the e30 m3, I want to be a good steward for the vehicle as well as get it back on the road and track. Brad
+
+ANSWER 8 (id: 1036_7):
+bradmer, find a copy of the Koala Motorsport E30 M3 repair manual (its a CD). Brett Anderson put this together and it is the best all in one resource... MJ
+
+ANSWER 9 (id: 1036_8):
+Originally posted by mjweimer bradmer, find a copy of the Koala Motorsport E30 M3 repair manual (its a CD). Brett Anderson put this together and it is the best all in one resource... MJ Thank you for that, I had looked at it while searching but wasn't sure if it was any better than the pdf I had downloaded. Purchased. Brad

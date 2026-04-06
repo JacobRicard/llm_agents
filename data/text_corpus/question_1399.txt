@@ -1,0 +1,13 @@
+QUESTION ID: 1399
+
+QUESTION:
+A quick question for next season. I have a '92 E30 Convertible hard top, which I sourced years back and love. For one season, the rear defrost worked great. However, the rear defrost has stopped working. Anyhow, I think I may have found the answer, which would be a wire that came off it's spade lead. But I need help in confirming this. Could someone confirm that's all I need to do? The plastic on my right rear mount is a bit shot, but it still seems to hold the pin from the hard top. Given it's a $70+ part to replace, I'm not sure if that's vital to have fully intact an electrical connection standpoint right now. But when I looked at it, as compared to the one on the left rear mount, there's a male electrical spade connector that looks like missing a connection. Is that all it is? If so, I'll have to take that door panel off and just find the wire that must have come off and reconnect it. So if someone with hardtop hardware mounts wouldn't mind checking theirs to see if there are male spade mounts with wires that connect to BOTH sides, that would likely solve the problem. Many thanks!
+
+ANSWER 1 (id: 1399_2):
+Thanks so much, @spade. I think that's probably the answer, in that the connection to the passenger side must have slipped off and I'll have to go fish for it. The only thing else that I'm wondering is if I can get away without that plastic piece, as it seems like it's only for positioning. Or do I need it to lock the hard top in place? Just going to be short of funds, as in the other thread - I likely need to repair the boot lid motor that just failed.
+
+ANSWER 2 (id: 1399_3):
+Originally posted by thoomp Thanks so much, @spade. I think that's probably the answer, in that the connection to the passenger side must have slipped off and I'll have to go fish for it. The only thing else that I'm wondering is if I can get away without that plastic piece, as it seems like it's only for positioning. Or do I need it to lock the hard top in place? Just going to be short of funds, as in the other thread - I likely need to repair the boot lid motor that just failed. I used plastic bond epoxy to try and build mine back up a little. without that little bit of plastic, my hardtop would rattle over bumps. ended up using a garden hose rubber washer for that little bit of a gap to prevent the rattling this past winter
+
+ANSWER 3 (id: 1399_4):
+The white plastic sleeve aka "bushing" keeps your hardtop locked down as well as providing the contact point for the rwd. There's also a micro switch that's activated by the hardtop that cuts power to the fan defogger for when your soft top is up, and routes it to the hardtop wire.

@@ -1,0 +1,31 @@
+QUESTION ID: 2298
+
+QUESTION:
+So as some of you may know, I recently posted a thread with questions about turbo-ing my M20 E30. Well that’s done. Had to overcome some hurdles, and your answers to my last thread made that possible. hot everything installed with the exception of injectors, fuel pump, ECU, and M50 TPS. Started the car with the freshly installed turbo and it ran and idled fine. Making sure everything was fine, I then installed the stuff I just mentioned. towed it to the dyno tuner. He got the car started and creeped up on boost. However, car was misfiring/sputtering on the dyno. So he wasn’t able to tune for full boost. I got sent home to fix the misfiring issue then go back on the dyno. The dilemma I have now is, I cannot for the life of me, find out the culprit. I just replaced my 7 spark plugs to 8s. Gapped them to .020 as the tuner suggested. Replaced the plug wires with IE 8mm ones. New Bremi distributor cap and rotor. Coil is a Bosch I replaced about 2k miles. Maybe worth it to mention, it is running on E85. I also do have an exhaust leak at the manifold which I will address tomorrow morning, but I’m not sure if that would cause the issues I’m having. Driving on surface streets, accelerating, seems to be ok. The issues is at steady throttle and RPMs. More so on the highway. Cruising at 70 at 3k RPM, it starts sputtering/misfiring. After about 10-15 minutes of highway driving, it’s sputters really bad. No acceleration or power. When this happens, if I give it any kind of throttle, it just backfires out the exhaust without going anywhere. It almost feels like car hits spark cut or something. I’m stumped. I hope I was able to throughly explain the symptoms. I’m thinking it might have something to do with the TPS even though I’m pretty sure I did the wiring correctly.
+
+ANSWER 1 (id: 2298_0):
+Datalog it, see what the ECU thinks (unless it's a stock DME with a chip). Failing that, you could use a wideband and a gauge to monitor in real time. Almost goes without saying, but change your fuel filter after a bit of time on E85, and fix the maintenance issues mentioned before monitoring.
+
+ANSWER 2 (id: 2298_10):
+It’s been a while since I updated this thread due to work and whatnot, but the issue is resolved. Previous tuner, that shall NOT be named, didn’t set the correct dwell timing and pulse width. Figured I’d update this just in case anybody else has similar issues.
+
+ANSWER 3 (id: 2298_3):
+I'm with Rogue: change the fuel filter. If that doesn't work, put a fuel pressure gage on it and monitor the pressure while driving. If it gets below 10 psi, you found the problem.
+
+ANSWER 4 (id: 2298_4):
+how do you get it to stop sputtering after driving on the highway? You need to do a megasquirt log and post it here, it will be the best use of everyone's time.
+
+ANSWER 5 (id: 2298_5):
+I’m running a MSPNP2 ECU and the stock Crank Position Sensor. However, I did not have any issues immediately prior to going turbo. I’ve installed a brand new Mahle fuel filter. Also I’ve installed an adjustable fuel pressure regulator with a gauge from IE. Shows about 60 PSI on idle and when revving in neutral, though it’s in the engine bay. So not visible whilst driving. When it sputters badly on the freeway and is not drivable, I just exist the freeway to come to a stop, then it drives again. It just almost hits a snag then works again. it will not allow me to attack the MLG datalog files here. Here’s a link to a MSExtra thread I’ve posted that has the MLG files attached as well as my current tune. https://www.msextra.com/forums/viewt...dee97105c33c39
+
+ANSWER 6 (id: 2298_6):
+I had a new fuel pump that would show 40 psi at idle. It was only when I rigged a gage that I could see while driving that it dropped to 5 psi at WOT. Mount your phone under the hood so it can record your fuel pressure while driving.
+
+ANSWER 7 (id: 2298_7):
+I was finally able to get a datalog of the actual issue on the freeway. Check my MSExtra thread. Post number 20 is the datalog log file. Any help is appreciated please!
+
+ANSWER 8 (id: 2298_8):
+Originally posted by 6th Element I was finally able to get a datalog of the actual issue on the freeway. Check my MSExtra thread. Post number 20 is the datalog log file. Any help is appreciated please! I'll be happy to help, but I can't find that post. Can you link it?
+
+ANSWER 9 (id: 2298_9):
+Originally posted by twright I'll be happy to help, but I can't find that post. Can you link it? I’d really appreciate it! Heres the link to the thread. If you scroll all the way down, it’s the file called “backfire 1.mlg” Newbie To MS Needing Help! - Megasquirt Support Forum (MSEXTRA) https://www.msextra.com/forums/viewtopic.php?f=101&t=74663&p=568102#p568102

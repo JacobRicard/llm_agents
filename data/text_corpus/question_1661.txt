@@ -1,0 +1,7 @@
+QUESTION ID: 1661
+
+QUESTION:
+To anyone looking a for a replacement for crumbling abs sensor connectors on the male body harness side, I think I found a new source. It seems like a variety of truck abs systems use the same connector. If you search for “Bendix Wheel Speed Sensor Extension”, "Haldex ABS Sensor Extension Cable" or “201198BD”, "201198BF", “AL919801”, “AL919803”, or “AL919805”, you will find it. Seems most cost effective to buy the extension at around $20 and chop the ends off, and now you can replace both sides of the connection if you need. I found the pigtail for sale but it was $40 which is a bit steeper. I have confirmed they work great! ​​​
+
+ANSWER 1 (id: 1661_0):
+The male part should be easy to 3D-print. You print 2 halves, then insert the contacts, and glue the halves together. Printing of the female part will be more complicated.

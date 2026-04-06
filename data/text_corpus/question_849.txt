@@ -1,0 +1,7 @@
+QUESTION ID: 849
+
+QUESTION:
+I like to install the E21 brake booster for my e30 s52 swap is there any modifying to the brake booster or direct swap? The rod looks longer compared to the stock one?
+
+ANSWER 1 (id: 849_0):
+It's been 15 years ago since I did this. No mods iirc, but you have to make sure that you get the correct adjustment of the bracket that connects to the brake pedal. I may have bought one pre modded. Otherwise you have the brakes locking up .

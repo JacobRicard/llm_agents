@@ -1,0 +1,16 @@
+QUESTION ID: 405
+
+QUESTION:
+Before I switched to winter tires, my car had some pretty shitty off center response. But now with much stickier tires, it likes to wander a lot. What do you guys think it is? I think it's the steering rack, but I'm not 100% sure. I just did the front bearing on it because I had a really bad shake when turning left, but it's still evident. Tie-rods were all tight, bushing look original but still ok, except the CA bushing. They are shot. Could this cause the same wandering? If so, is it worth getting polyerethane bushing?
+
+ANSWER 1 (id: 405_0):
+If the CAB's are shot, your steering will feel awful, so this can very easily be the cause of your "off center" feeling. Offset urethane M3 bushings are cheaper than OEM rubber offset bushings, and just a touch more expensive than OEM centered bushings. Were I to do it again, I'd go with the treehouse metal units, as it saves you the PITA of pressing new bushings in. How old are the CA's as well? -Charlie
+
+ANSWER 2 (id: 405_1):
+Most likely original. 0 maintence done by PO. Yeah, I'm going to do bushings, and all suspension/steering maintenance items and lowering in the spring, but I may push the upgrades to the winter. My front shocks are blown. How much sacrifice is there for the solid CA mounts? Thanks for the response.
+
+ANSWER 3 (id: 405_2):
+Re: Vauge steering off center. Originally posted by Axxe Before I switched to winter tires, my car had some pretty shitty off center response. But now with much stickier tires, it likes to wander a lot. What do you guys think it is? I think it's the steering rack, but I'm not 100% sure. I just did the front bearing on it because I had a really bad shake when turning left, but it's still evident. Tie-rods were all tight, bushing look original but still ok, except the CA bushing. They are shot. Could this cause the same wandering? If so, is it worth getting polyerethane bushing? Explain your tire situation more precisely. What type/size of tire are you on now, what were you on? Skinnier tires with higher sidewalls will feel more mushy on the highway. Wider/low profile tires will feel more direct but have the tendency to "wander" and follow lines in the road. For example, in my old 325is I used 225/45-16 performance tires in the summer, but 195/65-14 snows tires in the winter. It's like driving two completely different cars on the highway. Steering feels a lot different.
+
+ANSWER 4 (id: 405_3):
+Same tire sizes, just went from Cooper Cobras (slightly better than rags on rims) to Bilzzaks (WS-50's). Needless to say I am no longer sliding like a mofo in the rain, and if I do it is 100x easier to catch because it's a gradual release, and the added grip must make my bad bushing situation to amplify itself. Now that I think more about, I realise that when I am going on the highway, hit a bump, the steering goes all fuxored, then i hit another bump and it goes the other way. I thought tierods at first but they are tight with very little play (less than a mm). But when I turn my wheels to opposite lock, get out, and kick the tread (imitating a bump) the whole wheel deflects back a couple centimeters (1/2 inch) and there's a loud metal on metal noise.

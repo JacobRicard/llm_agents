@@ -1,0 +1,7 @@
+QUESTION ID: 1842
+
+QUESTION:
+Hi all, I have purchased a KdFi v1.4 ECU for my M20 ITB build and I am having a hard time getting support from Kdata for some reason.. maybe some can help? I need help wiring the IGN-6 to the ECU’s ignition port. While I have the diagrams for both plugs, I don’t know where to put the three leads from the IGN-6. I have the switched 12v already sorted! any help is appreciated! Thanks!
+
+ANSWER 1 (id: 1842_0):
+full compatible to MSextra Software is this megasquirt in a Motronic can? And while I've been around this stuff for ages, IGN-6 doesn't ring a bell- care to elaborate? t

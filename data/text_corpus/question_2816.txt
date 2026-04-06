@@ -1,0 +1,34 @@
+QUESTION ID: 2816
+
+QUESTION:
+Hi all going to look at a 2013 e92 320d manual today as a possible new daily. It's the M-sport / Premium package, comes with free dealer servicing until 2023. Any suggestions on what I should look out for with the e92s? Seeing as it's the last of the line presumably most issues have been more or less sorted by then. Just pondering whether I can tolerate the diesel after 15 years of inline 6 goodness. Car only has 40k miles on the clock. Cheers Luke
+
+ANSWER 1 (id: 2816_1):
+Thanks Byron. Drove it today - drives like new with full service history, and is mint. It's no inline 6 (the diesel is pretty gruff) is a little laggy off idle, but has plenty of midrange grunt for the open road. Going to sleep on it.
+
+ANSWER 2 (id: 2816_10):
+Doesn't make much sense given the 6 cylinder petrol has the chain at the front and is a significantly longer engine! The front of the N47 is very compact, but the N57 also has the timing chain at the back - given they are essentially 4 and 6 cylinder versions of the same engine, maybe it was for additional clearance on the N57?
+
+ANSWER 3 (id: 2816_11):
+Agreed on chain comments, I've seen some and personally heard some disastrous n47s. I want to say timing chain location might ahve something to do with it being a motor also found in the mini? Which also has timing chain issues in that year range.. shrug
+
+ANSWER 4 (id: 2816_12):
+Good point on the Mini - as the motor is used in a lot of different models, the packaging has to cater to those. Very happy with the car - averaging 40mpg in mostly urban driving. I'm using almost 1/3rd the fuel vs. the M30 in the same driving conditions :shock: At that rate, I'll only need to fill up once a month, and as a daily the manual keeps it interesting, and it really has all the power needed for overtaking on the highway, so I'll keep an ear on the timing chain over the long haul. :up:
+
+ANSWER 5 (id: 2816_3):
+Thanks for the replies. Decided to go for it, so picked the car up Monday - some pics are in my members rides thread. The car is a Jan 2013 build, so basically towards the very end of the e9x production run. Full service history with oil changes every 10k miles, so hopefully shouldn't have too many problems. The engine is clean as a whistle with no leaks anywhere. Takata recall has been done. Interesting switching to the diesel. It lacks a little bottom end vs the M30 (combination of drive by wire + some turbo lag), but once up and running it's got plenty of mid-range, and when I filled the tank today and the trip computer reset itself it calculated 1023km to empty The N47 would be a great swap in an e30 if it could be made to work. In the 1450kg e92 it's got plenty of performance for the daily grind, so with more than 200kg less to lug around it would be awesome.
+
+ANSWER 6 (id: 2816_4):
+Take a good ear to the timing chain, they are prone to fail on these cars. Mind: not all - i've had a 320d, a X20d and a 120d who are well over 200.000km now and never had a problem, so maybe it's how you treat them. But it's a persistent problem in a lot of them. Changing the timing chain is an engine out procedure for an inexperienced mechanic, as the timing chain is on the back of the engine. They had to do this for pedestrian safety to have more clearance on the front between engine and bonnet.
+
+ANSWER 7 (id: 2816_6):
+Thanks - I was taken with the way the e92 drove vs. the F30, the e92 felt much more traditionally BMW to me. Originally posted by Ludwig Take a good ear to the timing chain, they are prone to fail on these cars. Mind: not all - i've had a 320d, a X20d and a 120d who are well over 200.000km now and never had a problem, so maybe it's how you treat them. But it's a persistent problem in a lot of them. Thanks - yes, aware of the timing chain issue. The chain is quiet on the car I've bought, so I'll keep up the regular oil changes that's for sure! The 2013 (MY13.5) has the same revision of the N47 as the early F30, and they seem to have been reliable, so hopefully it'll be fine.
+
+ANSWER 8 (id: 2816_7):
+Originally posted by Ludwig The timing chain is on the back of the engine. They had to do this for pedestrian safety to have more clearance on the front between engine and bonnet. If that was the real explanation it sounds very fishy, if you have a timing chain it's location front or rear of the engine isn't going to change overall size of the package or significantly alter the space for ped crush zones as far as I can discern.
+
+ANSWER 9 (id: 2816_8):
+That's how i was told and it made sense to me, because nearly every DOHC engine has "ears" on the front of the engine cover for the camgear to clear. So if you can put these out of the way you earn a few centimeters clearance. You do have a point however when looking at the fact that the N54 is a longer engine with camgear on the front. However, the gear is in the back, it's a shitty work and a shitty timing chain.
+
+ANSWER 10 (id: 2816_9):
+I would really like to hear the real story on that choice. It's a really bad one from every angle I can think of, and looking at pictures of an E90 320d there is nowhere near a shortage of hood clearance and nothing else is designed as if hood clearance was a factor. The reason behind the choice to make that engine very difficult to service in an important way is a point of great interest to me.

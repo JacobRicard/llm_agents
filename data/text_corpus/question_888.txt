@@ -1,0 +1,19 @@
+QUESTION ID: 888
+
+QUESTION:
+hello, I've been on this project for sometime now, having personal things going on in life that has kept me away from this project. i have a few questions that some of you out there may be able to answer. i also plan to get all the following deletes: rear 02, SAP, EWS, fuel tank sensor, muffler flap valve. air and fuel: seeing that everyone in just about every M5X swap, tend to go for the ODB1 intake manifold from the M50 because of the power gains and moving around the fact of having to worry about the remote fuel pump regulator (RFPR). i have my engine from a e46. i have the sensors for the e46 intake boot that comes off the throttle body and goes to the air box. im just wondering if anyone has any information on using a ODB1 manifold when your end goal is to go ODB2. transmission: i plan to stick with the 260g that came out of my 325I e30. but with this being a different engine i would like to know if using a single mass m20 flywheel is within question at all or if i should go a different route. booster: looking for some ideas on a booster with little to no modifications. i have been thinking about moving the original booster over just a little and welding that one little fork to make a slight change so you dont have to move any of the pedals. https://www.r3vlimited.com/board/showthread.php?t=250474&t=250474 cooling: wondering what the best option for a radiator is. i also plan to go electric cooling for the fan operation. https://www.r3vlimited.com/board/showthread.php?t=210783&t=210783 i have all kinds of information already and ive been doing hours and hours of research. but i would just like everyones opinions and facts. thank you.
+
+ANSWER 1 (id: 888_0):
+I am in the process of doing the same.. M52TU in my E30 my cousin did a S52 in a E30 some Years ago he showed me some pics of M50 Intake manifold shaved ever-so slight to clear the stock brake booster.
+
+ANSWER 2 (id: 888_1):
+Obd 2 Glad to see someone is in the same boat. So what I did was pull the ENTIRE harness out of my parts e46. My initial plan will be to connect everything in on the e46 harness and get it to run from there. Then eventually I will start deleting portions of the harness. I have no idea about the security systems.
+
+ANSWER 3 (id: 888_2):
+you only need the engine harnesses, relay and power connections and to cut the x60004 connector (with some wire length attached) out of the DME box on the donor car. Ditch the rest. EWS, SAP etc etc is simple to code out of the DME. Pretty sure m50 manifold on M52tub needs quite a bit of work, i wouldnt bother
+
+ANSWER 4 (id: 888_3):
+Originally posted by ba114 you only need the engine harnesses, relay and power connections and to cut the x60004 connector (with some wire length attached) out of the DME box on the donor car. Ditch the rest. EWS, SAP etc etc is simple to code out of the DME. Pretty sure m50 manifold on M52tub needs quite a bit of work, i wouldnt bother And the m50 intake is even worse than the m52tu intake so just waste of money and work hours.
+
+ANSWER 5 (id: 888_4):
+transmission: Single mass flywheel is the way to go. That being said, I would look into replacing it while you have everything out. booster: Not too sure about fitment with the different manifold, but 944 works well and E9X boosters are an option apparently. cooling: Z3M radiator with a Spal fan. I used a pusher since I deleted A/C.

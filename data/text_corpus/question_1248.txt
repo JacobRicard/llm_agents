@@ -1,0 +1,10 @@
+QUESTION ID: 1248
+
+QUESTION:
+I have a 325i with a motorized convertible top. However, the motor doesn't engage when I attempted to operate the top, and there's no audible sound of the motor in motion. I've already inspected and replaced all the fuses, but the problem persists. Is there somewhere else I should look into? Thanks in advance for all the help.
+
+ANSWER 1 (id: 1248_0):
+Can you take a video of your issue? I'm assuming when you hit the down switch, the rear window does not lift up? If so, then it's possible the elbow sheared off from the main drive motor in the passenger corner of the top compartment. Open the compartment and inspect the motor. The control module will shut the whole top down if that elbow shears off because the top movement is now out of sequence and the microswitches are lost. If the main drive is still intact then you most likely need to resynch the microswitches on the lid motor in the center of the trunk.
+
+ANSWER 2 (id: 1248_1):
+May just be that the microswitches need to be synched. If they get out of sync the system can just act dead, even if every component is good. You can Google that. There should be some YouTube videos too.

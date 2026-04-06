@@ -1,0 +1,7 @@
+QUESTION ID: 141
+
+QUESTION:
+Hi, I'm having trouble getting the temperature gauge to work. When I remove the unloader relays K5 and K7, the temperature gauge works as it should. The blower also works with the ignition off. Any tips? Robert.
+
+ANSWER 1 (id: 141_0):
+sounds like your wiring is a mess. download the etm so you can trace the circuits and restore it to stock. from there you can fix issues. Index of /Manuals/BMW (wedophones.com)​ make sure you get a copy for your year and model.

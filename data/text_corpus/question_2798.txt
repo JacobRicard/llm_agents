@@ -1,0 +1,10 @@
+QUESTION ID: 2798
+
+QUESTION:
+Hey guys I need some fresh input troubleshooting a problem with my bakkie. Vehicle in question is a Ford bantam rocam 1.6l year2005 Basically what I want to know ( if I have no change in engine behavior when no. 1 spark plug lead is removed or no. 1 injector plug removed what dose that mean???) The engine idles roughly and doesn't Rev up smooth when no. 1 spark plug lead and no. 1 injector plug is back on. But once I remove one of the 2 it idles and revs smooth!!!!! Lacks power up hills but straight roads downhills drives normal. Puzzled Appreciate any input
+
+ANSWER 1 (id: 2798_0):
+Sounds like cyl1 isn't making compression, perhaps a bent valve. Check to make sure it's getting spark first pull spark plug lead off and hang a spark plug in there. make sure to ground it. Injector can be a little harder, you can try swapping it out or using a test light to make sure it's getting power. Lastly, do a compression test.
+
+ANSWER 2 (id: 2798_1):
+Yes I was leaning to burned valves but compression was fair across all cylinders. I went back through the wiring cause I did redo engine harness, I messed up. The coil pack wiring and injector wiring is same colours so I had them swapped around and that fixed the issue.

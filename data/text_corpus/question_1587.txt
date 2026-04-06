@@ -1,0 +1,13 @@
+QUESTION ID: 1587
+
+QUESTION:
+Both of my front wheels have some noticeable negative front camber. I don't know the exact measurement, but it looks like ~5 degrees. The car isn't lowered, there have been no other modifications to the suspension, and I believe none of the suspension components have been whacked. Is this a sign of sagging front springs, rotted out rubber spring pads, or/or bad mounts?
+
+ANSWER 1 (id: 1587_0):
+5 degrees is a LOT of camber. I don't see how it could get to that amount without broken parts (The top of the strut would have to move more than 2 inches). Measure it before you go thinking it's that bad. Parking on uneven ground can product optical illusions relative to wheel alignment.
+
+ANSWER 2 (id: 1587_1):
+https://www.r3vlimited.com/board/forum/e30-technical-forums/325ix-technical-and-discussion/374638-differences-in-ix-strut-towers Read this thread. Can you provide measurements?
+
+ANSWER 3 (id: 1587_2):
+Will, indeed my estimate was quite a bit off. According to Big-O, the left front camber is fine, but the right front is reading -2.2 degrees. Not totally surprised since I'm sure the right front fender has been replaced. I don't know anything about alignments, but -2.2 degrees seems significant to me. I'm assuming the reading is relative to vertical, rather than 2.2 degrees off what the camber should be. Kershaw- Interesting thread. I got 42"strut center to center. I'll take the others when I have a helper. My next question is whether 2.2 degrees is something a body shop can fix, or whether I should just live with it. It would seem to me these folks get it as close as they can with their frame straightening machine and call it good. Happy New Year. Thanks for your responses.

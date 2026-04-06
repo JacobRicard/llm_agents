@@ -1,0 +1,19 @@
+QUESTION ID: 13
+
+QUESTION:
+Ever since I got my new-to-me E30, I have been able to start it without pushing the clutch in. Seems very suspicious, so I looked at the wiring diagram and saw this: If I am researching correctly, the Black/Yellow wire is the wire that actually triggers the start solenoid? If so, does that mean that the Factory never had a clutch interrupt switch for starting the motor? Also, what exactly does the Black/Green wire do? What is its purpose?
+
+ANSWER 1 (id: 13_0):
+All my E30's never needed a clutch pressed in to start it, from this I just assumed they didn't have clutch safety switches. Might've accidentally made a fool of myself at the local grocery store parking lot a few times.
+
+ANSWER 2 (id: 13_1):
+The diagram literally says exactly what the black green wire does. Why would anyone need or want a clutch safety switch anyway? If we're responsible enough to drive the car, we're responsible enough to make sure it's in neutral or hold the clutch down while we're starting (which isn't great for the car anyway).
+
+ANSWER 3 (id: 13_2):
+Yes I see the diagram shows that wire provides voltage to the unloader relays to deenergize them. My question is - why? What do the unloader relays do? Why are they needed? If that black/green wire was not hooked up, what would happen? And I agree, I always do the neutral shake and/or push in the clutch when starting anyways, but I am trying to get this car as factory as possible and wanted to make sure i didn't need a clutch safety switch.
+
+ANSWER 4 (id: 13_3):
+I don't know if it's the same on your car, but the unloader relays typically cut power to accessories like radio for cranking so the starter has everything available. Not one E30 I've owned has had a clutch switch for starting. It's a good thing IMO, not great for thrust bearings being loaded up with no oil behind them.
+
+ANSWER 5 (id: 13_5):
+plus, if the engine dies, you can jam it in 3rd, crank it, and use the starter to get you out of the intersection. t defeats the 'safety' switch on the more modern cars, too.

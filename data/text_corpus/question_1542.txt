@@ -1,0 +1,10 @@
+QUESTION ID: 1542
+
+QUESTION:
+Hey Guys! First time doing an e30 timing belt. This is on my new to me 88ix. i seem to lose the crankshaft timing slightly when I install the belt. Prior to installing the belt the crankshaft timing marks are dead even, after the belt as you can see in the pics, it is slightly off. Is this acceptable or do the marks need to be dead even? If so, any thoughts on why I’m losing the timing while installing the belt?? Pics make the timing marks look a little closer than they are guys....
+
+ANSWER 1 (id: 1542_1):
+Turn the crank clockwise to get rid of slack, line up the marks there and then look at the cam marks. It is hard to see the cam marks due to the camera angle.
+
+ANSWER 2 (id: 1542_2):
+I ended up getting everything timed and timing belt installed but had a no start and coolant leak! Took it all apart again, found the WP gasket pinched so I replaced and used gasket sealer this time. The no start I believe was due to misaligning the rotor on the cam guide cover after removing to do the cam seals. I also have a suspect CPS, so that is ordered and when it arrives I should be good to go (fingers crossed)!

@@ -1,0 +1,19 @@
+QUESTION ID: 450
+
+QUESTION:
+Hey everyone, I know it's a very common topic but I have tried many ways without success. I found a bmw radio from a 325i 1997 and I contacted the dealer for the code. They told me that they no longer support the code for the Pioneer KE-83ZBM as you can see in the picture. I have tried websites such as https://www.radio-code.co.uk and no luck. I was wondering if anyone could help me with this.​ Here is the information of the radio: Car VIN: WBAAD130XLED12005 Radio number: PKH0173717 FCC ID: AJD4DIKE-83ZBM Thanks!​
+
+ANSWER 1 (id: 450_0):
+if you do a search they can be re-coded. you have to open them up and solder a bunch of jump points together to do it and break some others to create a known code.
+
+ANSWER 2 (id: 450_1):
+Thanks, I will look into that! But, before I do that, does anyone know of a website for this radio model? I would appreciate it. Also, I saw the one-hour technique. Has anyone tried it with the KE-83ZBM or another Pioneer unit?
+
+ANSWER 3 (id: 450_2):
+I received a response from a website that provides code for various BMW radios: ''Sorry ... this is a PIONEER make of radio and the code cannot be calculated as there is no software nor available database It will have to be taken into a Radio Decoding Service where the will open it and an decoder/recode the code memory chip inside using specialist software Sorry we could not help on this occasion.'' ​ ​I am starting to think it would be easier to find another one.
+
+ANSWER 4 (id: 450_3):
+Originally posted by SwapLimited I received a response from a website that provides code for various BMW radios: ''Sorry ... this is a PIONEER make of radio and the code cannot be calculated as there is no software nor available database It will have to be taken into a Radio Decoding Service where the will open it and an decoder/recode the code memory chip inside using specialist software Sorry we could not help on this occasion.'' ​ ​I am starting to think it would be easier to find another one. you probably could do that. that one may be on a chip which means it could be unlocked. earlier radios require physical intervention. edit: whatever way you go the radio will require coding. be it physical or chip coded.
+
+ANSWER 5 (id: 450_5):
+I saw what 82eye was talking about regarding resoldering the jumper on an Alpine model. The Pioneer model doesn't seem to have a physical jumper for the code. Back in 2022, I requested the code from BMW, but I lost it. When I called the BMW dealership back, my request had been deleted, so when I made a new request this year, BMW answered the message in the caption. Luckily, I stumbled upon my code on a notebook I thought was lost. I'll get in touch with you if that's not the right code. Thanks, Bradnic!

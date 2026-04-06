@@ -1,0 +1,16 @@
+QUESTION ID: 98
+
+QUESTION:
+Advice needed... While replacing the gasket for the coolant block I stripped the threads for one of the screws. Do I need to buy whole new throttle body or can I repair this? Is epoxy or Heli-coil an option? (photo is not mine, but you get the idea) Thanks, -Jesse
+
+ANSWER 1 (id: 98_0):
+try tap it first. it's metric, so if you have to drill the rest of the threads out you can go to an sae a hair size larger and get a bolt for that. edit : epoxy etc won't cut it in that app. not sure you can get a heli small enough to work.
+
+ANSWER 2 (id: 98_1):
+Originally posted by moatilliatta Time sert could work It looks like they have inserts small enough. If that doesn't work I'll try and tap it. Thanks!
+
+ANSWER 3 (id: 98_3):
+Originally posted by rhockyrhodes It looks like they have inserts small enough. If that doesn't work I'll try and tap it. Thanks! Keenserts or similar are the best method. We sometimes spec them in softer material like aluminum from the manufacturer as a preventative measure.
+
+ANSWER 4 (id: 98_4):
+Originally posted by ehrawn Keenserts or similar are the best method. We sometimes spec them in softer material like aluminum from the manufacturer as a preventative measure. Never knew about Keenserts. Interesting design. Why are they better than Helicoil/Timesert in soft material?

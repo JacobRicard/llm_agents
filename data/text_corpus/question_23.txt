@@ -1,0 +1,7 @@
+QUESTION ID: 23
+
+QUESTION:
+Hi Folks, I am trying to track down why my temp does not work. I replaced the thermister in the front bumper. Nothing. I tried to clean the contacts behind the OBC and while fiddling with it, for a fleeting second, the temp appeared, and then returned to what it always says at start up, -30.0C. Ideas? Ricardo
+
+ANSWER 1 (id: 23_0):
+Connect a variable 10 kOhm resistor between the contact #2 and GND #1, provide +12V to #7 and #5. The contacts in the connector are numbered: Code: 1 GND 7 Power 2 Temp Sensor 8 3 9 4 10 5 Ignition Power 11 6 12

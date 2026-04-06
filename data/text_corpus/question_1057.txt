@@ -1,0 +1,7 @@
+QUESTION ID: 1057
+
+QUESTION:
+Hey all- Does anyone know the difference in strut length from M3 to i? As far as I know, the M3 is 51mm diameter like the i, but is a bit shorter. I could be wrong though. I noticed Koni offers a different p/n for front M3 struts (hence the curiosity), but Bilstein doesn't appear to have a variation. I appreciate it-
+
+ANSWER 1 (id: 1057_1):
+As far as I have found out, they are the exact same strut inserts dimensionally. The reason the M3 has a different part number is due to it having a 4cyl engine, and thus Koni deemed it necessary to have different valving up front.

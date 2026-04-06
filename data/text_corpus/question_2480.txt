@@ -1,0 +1,7 @@
+QUESTION ID: 2480
+
+QUESTION:
+Sorry, I know this has been beaten to death but my searching is giving me different answers depending on where I look. GC offers different length options for the strut modification. What is the purpose of the various options and what is recommended? I assumed the reason for the modification is to accommodate the shorter shock inserts, but the shortest strut option (2" cutout) still requires the use of a spacer below the shock body. 1) what is the "standard" or "recommended" length to be removed from the strut body when modifying the length for coilovers? 2) Is the main reason for the length modification performance, aesthetics, or both. Thank you.
+
+ANSWER 1 (id: 2480_0):
+completely depends on your setup/what you already have. I think the standard length to be cut is 2", but the springs in your coilover kit and your height goal is going to drive that. The adjuster only has ~3" of adjustment. Usually the reason to cut them is to regain suspension travel after lowering the car. Not a huge amount of travel for a low car on stock housings, so you tend to ride the bump stops. I sectioned mine 1" because I had already done a coilover conversion with one of the GE groupbuy kits and wanted to use the springs. This is probably the reason that someone would choose to do less than 2". If you section much more than 2, you can have the adjuster run into the tire, so you might limit yourself on how much tire/what offsets you can run. I'm not sure where the limit is for that.

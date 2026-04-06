@@ -1,0 +1,10 @@
+QUESTION ID: 2617
+
+QUESTION:
+Just wondering if anybody knows if you can fit a fuel tank from an 83 e30 into a 91 e30.
+
+ANSWER 1 (id: 2617_0):
+The answer is most likely yes, although you may need to reconfigure some wiring/hoses/pump location based on your application. Perhaps a new tank would be a better way to go. The eBay $200 or so units are fine.
+
+ANSWER 2 (id: 2617_3):
+Yes, it fits. Yes, you'll need to adapt a bit of the plumbing, as the early tank uses a single in- tank pump and a crossover pipe. You'll also need to modify the shielding underneath- but don't delete it completely. I too would source a late- model tank for a late- model shell. t

@@ -1,0 +1,31 @@
+QUESTION ID: 1890
+
+QUESTION:
+Anyone replicate Chase Bays kit for fraction of the price? If so can you guys provide a parts list?
+
+ANSWER 1 (id: 1890_0):
+My question is... WHY? Just replace the lines with the proper rubber parts. They'll last another 10 years at least. Chase Bays P/S kits are something we constantly remove at BimmerHeads.
+
+ANSWER 2 (id: 1890_2):
+Is it possible/cost effective to buy a tool to crimp the lines at home? Would this be the same tool for AC lines? I'm thinking something along the lines of those hydraulic wire crimpers:
+
+ANSWER 3 (id: 1890_3):
+I'd just re-hose all the low pressure lines and use hose clamps instead of the crimps. High pressure line, I see new ones anywhere $50 to $90, which is still half the price of the Chase Bays crap. I don't think the Chase Bays unit even has the restrictor in the hose? I imagine steering is pretty light without it.
+
+ANSWER 4 (id: 1890_4):
+I ended up going cheap on one of my other cars - using all Sunsong lines from RockAuto. No issues with fit and they've been on for 5k miles (~1yr) without any issues so far.
+
+ANSWER 5 (id: 1890_5):
+Any time I've needed anything hydraulic for any cars I've just taken the leaky line to the local hydraulic shop, plonked it on their desk and said make me one please. and they generally do it while i wait and pressure test it. You want to look for the type of place that works on machinery, excavators etc. proper hydraulics. This applies to brake lines too.
+
+ANSWER 6 (id: 1890_6):
+The why is because I have a Z3 rack and I manually bent the stock lines to fit and began to leak. So no point in getting stock ones again if I’ll have to bend them anyway correct?
+
+ANSWER 7 (id: 1890_7):
+Originally posted by AmosCake The why is because I have a Z3 rack and I manually bent the stock lines to fit and began to leak. So no point in getting stock ones again if I’ll have to bend them anyway correct? did the same. i found the original fit better than anything with minimal bending of only the one pressure line. where are yours leaking ? the mating surfaces on the pressure line changed from side to side at the rack, and the line wound up a little too long, but other than that it was perfect. i bent the original and bought a second one, if an issue comes up i'll bend the second as well then get it shortened a couple inches at a hydraulic shop. i don't know if a chase bay line is going to work any better.
+
+ANSWER 8 (id: 1890_8):
+Originally posted by 82eye did the same. i found the original fit better than anything with minimal bending of only the one pressure line. where are yours leaking ? the mating surfaces on the pressure line changed from side to side at the rack, and the line wound up a little too long, but other than that it was perfect. i bent the original and bought a second one, if an issue comes up i'll bend the second as well then get it shortened a couple inches at a hydraulic shop. i don't know if a chase bay line is going to work any better. It’s leaking at the crimp location and I’d rather not bend the new line and have it leak again. I bought a ptfe hose and AN fittings to make my own at least for the low pressure lines
+
+ANSWER 9 (id: 1890_9):
+Originally posted by AmosCake It’s leaking at the crimp location and I’d rather not bend the new line and have it leak again. I bought a ptfe hose and AN fittings to make my own at least for the low pressure lines i picked up a second cheap line from rock auto. at some point i'm going to bend that line and have it shortened. there's actually a very minimal amount of bending needed. it only needs shortened by a couple inches at most, any hydraulic shop can handle it. you might wanna look into something like that. edit : you really only change the angle on the rack side fitting on the pressure line. its the only one that changes in the rack swap.

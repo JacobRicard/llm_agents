@@ -1,0 +1,28 @@
+QUESTION ID: 594
+
+QUESTION:
+My early 318i has had numerous clusters in it throughout the four years i've had it and all have the same issues. The speedometer doesn't work (common from what i've read) and the tach will read slow (as in i'm going 3500rpms and it says i'm at 2k). Now i'm starting to suspect that its a wiring issue to the cluster not the cluster itself since all the clusters i put in it exhibit the same symptoms. The reason for my post is that i'm trying to figure out what the testing procedures are for ensuring the tach and speedo are both getting the proper signal. All the guides i can find are for motronic, and my car is L jet if i remember correctly. Can anybody clarify if they are the same as other cars? Specifically does the tach signal come from the ECU still or is it coming from the distributor or coil on this car?
+
+ANSWER 1 (id: 594_0):
+Hmmm the 1983/84/85 e30's with a m10 are a bit of a mix of e21'S and e30's. (and yes there was a e30 in 1983 - euro only) But what you're describing sounds like a coding plug issue. On most e30's there is a little white plug on the front right bottom of the cluster that is removable(you can see once you remove the bezel or take the cluster out of the dash). It has two plastic clips on the side, you squeeze, and it pulls out. Except that the plastic is so old, they always break off. And you need to pry them out - a plastic trim removal tool works well for that. Commonly called a "spudger" An very early e30 m10 car might not even have a coding plug from the factory - it might have been built into the cluster.. So that might be your issue with later clusters in your car. If newer clusters are getting a tach signal, then that would be my guess. You could try a coding plug from a 318is. That might work. The speedo gets it's signal from a sensor in the diff. Not sure about early e30's. As I said, it was kinda of a mash of of things. Does your diff even have a sensor and plug?
+
+ANSWER 2 (id: 594_1):
+The diff does have a speed sensor on it, last night i also came to the conclusion that the tach at least may be a coding problem. Up until now I hadn't thought it could be the common issue with the diff plug pigtail because my original gauge cluster sometimes the speedo would work if I whacked it. Though hasn't worked in a long time. Today I'm gonna replace the pigtail with fresh wire and connectors to see if that makes a difference on the speedo, plus I'll check the coding plug numbers. My confusion was that a lot of posts and even the local bmw dismantlers implied I could only use early clusters in my car but as of two days ago I'm running a cluster that had a date code of 90 that was pulled out of a early 318i but apparently the difference is just i need to make sure I get the right coding plug because my original m10 clusters plug won't swap. I suppose that serves me right for taking the advice from a guy who only takes them apart not from someone who builds em :p. Update: Speedo is now working after a close inspection of the diff by pulling the rubber part off and pulling it back to look at the wires i found the brown wire (ground i'm assuming) was popped out of the connector and bent back so you couldn't see that until you pulled the insulation back a little bit. No clue how or when it happened or how i got intermittent speedo signals before but we are golden now. Now i just gotta get a tach code and i think we are golden.
+
+ANSWER 3 (id: 594_3):
+The new plug should be here within a week and once i get it i'll make a more detailed writeup with my findings so that hopefully anyone with the same model thats keeping it fairly stock will have more information in the future.
+
+ANSWER 4 (id: 594_4):
+The engine speed signal is routed through the SI board. If your SI board is not refurbished, you will experience slow, inaccurate, non working tachometer. It is a very real possibility that all four clusters you tried all have dead SI boards since they are all around 30 years old each.
+
+ANSWER 5 (id: 594_5):
+Any update to this? I have dissasembled my early 84 cluster several times. All connections look good. The MPG meter is not working and the Tach reads low most of the time, but not all the time. The inside of the cluster looks great and i have deleted the SI board with no change.
+
+ANSWER 6 (id: 594_6):
+Originally posted by Bmwrestorer Any update to this? I have dissasembled my early 84 cluster several times. All connections look good. The MPG meter is not working and the Tach reads low most of the time, but not all the time. The inside of the cluster looks great and i have deleted the SI board with no change. Yeah, you deleted half of the SI board. The other half is inside the tachometer assembly. There is no replacement part and it must be refurbished.
+
+ANSWER 7 (id: 594_7):
+Ok thanks. So what is the voltage that I should be seeing at the tach signal wire. I’m trying to see if it’s the signal or the actual tach that has died.
+
+ANSWER 8 (id: 594_8):
+Originally posted by Bmwrestorer Ok thanks. So what is the voltage that I should be seeing at the tach signal wire. I’m trying to see if it’s the signal or the actual tach that has died. https://www.r3vlimited.com/board/for...mp#post7000232 It's 12V square wave: ⎍⎍⎍⎍⎍⎍ Tachometer, get’s it’s signal from Pin 7 of C1 connector. Engine speed is also a Square Wave signal, I’ve noticed 8volts is the minimum that gets it’s moving. The frequency vs RPM as an example is the following 500rpm is about 0.034 kHz 1000rpm is about 0.058 kHz 2000rpm is 0.105 kHz or 105 hz 3000rpm is 152 hz 4000rpm is 200hz 5000rpm is 249hz 6000rpm is 301hz 7000rpm is 348hz

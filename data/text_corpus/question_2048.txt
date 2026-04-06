@@ -1,0 +1,10 @@
+QUESTION ID: 2048
+
+QUESTION:
+The plastic screw / cap thingy that helps the maplight mirror from vibrating got broken in transport. Anyone know a part number to replace or does anyone know of a similar screw/cap that would work? Looks like m6 thread and OD would be close to .5in not sure length if anyone has one handy that they could do a quick measure that would also be sure helpful.. thanks
+
+ANSWER 1 (id: 2048_2):
+Originally posted by roguetoaster Use a nylon screw and a vacuum cap. Yeah i like the vacuum cap for to finish it off, that's a great idea. It's a female screw/cap thing, there's a stud attached to the arm that it mates to if that makes sense. Check out this crude drawing for what Im trying to say.. Left side being the arm on the mirror​
+
+ANSWER 2 (id: 2048_4):
+I completely forgot which way the threads were situated, but scrounge around for whatever works and make one. I thought I remembered using some nylon hardware. Heck, if the male thread protrudes you could just nest vac caps or even take a plastic chunk, melt the center and screw it in place when semi molten.

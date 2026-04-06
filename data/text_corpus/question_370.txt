@@ -1,0 +1,10 @@
+QUESTION ID: 370
+
+QUESTION:
+MY cv boot is ripped on the rear passenger side of the car, some oil/grease is spilled onto the shock, does this mean the cv axle is bad? How hard is it to change this boot and what has to be removed?
+
+ANSWER 1 (id: 370_0):
+Re: CV Boot Ripped Originally posted by zandi MY cv boot is ripped on the rear passenger side of the car, some oil/grease is spilled onto the shock, does this mean the cv axle is bad? How hard is it to change this boot and what has to be removed? Depends on how long the boot has been ripped. I would at the very least repack that joint with grease. Good luck getting the new boot over the CV joint. It might be reletively easier to remove the axle and put the boot on from the other end. James
+
+ANSWER 2 (id: 370_1):
+The problem when those boots crack is that they let dirt and other grime in, that harms the CV joint, and that all of the fluid leaks out. To repair it (replace the CV joint, they aren't made to be maintained, so just replace), it depends on which CV joint it was, inner (connected to the differential drive flange), or outer (connected to wheel hub), if it is the inner CV joint, you can buy a CV joint, and it's replaceable. For the outer CV, it is connected to the axle, so you have to buy the axle and the CV joint (which is more money). I would just go replace the boot to start out with, and later if the CV joint goes bad, just replace it. And, to get the outer CV out, you have to take the wheel hub and bearing off, which require special tools (and replacement of a bearing, which is another thing you would have to buy, only if the outer CV went bad, not inner).

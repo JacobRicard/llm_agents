@@ -1,0 +1,16 @@
+QUESTION ID: 660
+
+QUESTION:
+Other forums Im on for different platforms have a list of nut and bolts for ease of replacement. Hoping there is one here. In the short term my inherited project has no clutch master hardware and im looking for the size if the bolts if anyone has it handy
+
+ANSWER 1 (id: 660_0):
+Generally unnecessary as most hardware sizes are listed in the ETK. Clutch control http://bmwfans.info/parts-catalog/E30-2-doors/USA/325i-M20/browse/clutch/clutch_control/ Clutch control | BMW 3' E30 325i M20 USA That said, if you have no hardware at all, a set of calipers will give you most of the numbers you need to source hardware.
+
+ANSWER 2 (id: 660_1):
+ETK plus something like this should have you sorted. Pitch Gauge https://racegerman.com/products/pitch-gauge?_pos=14&_sid=d6cafbb07&_ss=r I have to admit, its hard to figure out what size bolts or thread pitch when working on your car. To make my life just a little easier, I always keep this thread pitch gauge in my tool box. This tool is used to measure a bolts diameter, pitch, and length. Now available in metric or standard. A great tool to have in the
+
+ANSWER 3 (id: 660_3):
+Originally posted by 82eye they're listed in realoem as well. Hadnt heard of that yet.. thank you. 1st BMW project so trying to find all the hiding spots for info
+
+ANSWER 4 (id: 660_4):
+Originally posted by 82eye they're listed in realoem as well. You are the man! This was better than any info Ive been given yet. Can find all the part numbers I need here

@@ -1,0 +1,22 @@
+QUESTION ID: 149
+
+QUESTION:
+This is an Official cry for help: I have a 1993 326i Touring (Don't be afraid of that, the Cruise Control systems are the same for all E30's). I am trying to install a BMW E30 cruise control system in this car, but I can't get it to work. (I have installed several these in other cars and haven't had any real problems.) The issue that might be the cause of this problem is the output from the green plug on the cluster. (This blue and yellow wire goes straight to the Cruise Control electronic box.) This signal does not appear to be what I think it should be. This signal does not go up and down with increase and decrease in vehicle speed. In fact, it seems to be increasing and decreasing with engine RPM! Does anyone know what this signal should be? Is it the same shape as the one leaving the differential, or does it get modified by the Cluster somehow? Thanks for anyone's help.
+
+ANSWER 1 (id: 149_1):
+Originally posted by roguetoaster AWDBOB Would be the person I'd ask. I am his local support 😂 We have tried everything I can think of. I suspect his initial tach issues with the car that were solved by a fuse 21 issue are relevant to a wiring issue that is disturbing the speed signal. My solution was to take the cruise control back off and save it for the next one lol
+
+ANSWER 2 (id: 149_2):
+I have traced the signal down from the Differential to the Cruise control module. Here is the path: 1.)Differential 2.) Harness to Cluster( brown/red wire and brown wire) 3.) Speedometer (Inside the speedometer, there is a circuit board trace that goes directly from the 5 pin connector on the speedometer to the green plug connector on the back of the cluster) Green plug on back of the cluster Harness to Cruise control ECU (Blue/ Yellow wire) I think this means that the signal coming from the differential is the the same as the signal leaving the speedometer. Anyone have any additional info?
+
+ANSWER 3 (id: 149_3):
+I just figured out the answer to my question: The signal from the differential changes as the rear wheel turns. It goes from short to ground to not shorted to ground. The speed signal from the speedometer to the cruise control module is about 5 volts at 0 mph. I have been told by a local expert that the 5 volts decreases with increasing speed. My cruise control now works MOST of the time at highway speeds. It usually does NOT work at 30-40 mph.
+
+ANSWER 4 (id: 149_4):
+Per the owners manual.... cruise control should work for speeds 25mph and above. Last time my cruise control was wonky... the cruise control cable to the throttle body was out of adjustment.
+
+ANSWER 5 (id: 149_5):
+I have had problems with the cruise related to the instrument cluster. If you have a spare cluster, try swapping it out. My car kept dropping the cruise at speed and a different speedo solved it.
+
+ANSWER 6 (id: 149_6):
+Originally posted by packratbimmer I have had problems with the cruise related to the instrument cluster. If you have a spare cluster, try swapping it out. My car kept dropping the cruise at speed and a different speedo solved it. I thought that was my problem also. Different cluster didn't fix it.

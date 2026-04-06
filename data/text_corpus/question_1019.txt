@@ -1,0 +1,22 @@
+QUESTION ID: 1019
+
+QUESTION:
+My trans leaks a bit of fluid from the front seal (I think) during tracking. I get some fluid splatters on the rear of the car after a track day and the fluid level is a little low after a few events. The car did this with the original transmission and its still happening after installing an expensive, freshly rebuilt unit. Its not enough to be a huge concern - just keep an eye on the level. I've heard of this from one other guy, but I'm curious if many others have the same issue. I believe its somehow a result of the 20 degree tilt that happens with the 24v swap. Anybody have any thoughts?
+
+ANSWER 1 (id: 1019_11):
+Originally posted by LJ851 When you say sut, do you mean soot? of course...lol sut - Wiktionary, the free dictionary http://en.wiktionary.org/wiki/sut
+
+ANSWER 2 (id: 1019_2):
+Try extending your breather? the g260 breather is positioned for the SOHC tilt; adding more tilt to it may be the culprit. Why not just fit a ZF 5 speed? its cheap and more efficient bearing design; closer gear spacing. the ZF gearbox doesn't leak when installed with 24V in e30; 40+hrs racing it all stock.
+
+ANSWER 3 (id: 1019_5):
+Originally posted by JRKOUPE I get some rear valence sut...not sure of the source tho.... 24v/g260 here. isnt trans fluid red?... geeeez...old thread alert...lol Trans fluid is red if you have an autotragic, or Redline oil. Power steering (ATF) leak?
+
+ANSWER 4 (id: 1019_6):
+Originally posted by LJ851 Trans fluid is red if you have an autotragic, or Redline oil. Power steering (ATF) leak? Just to be clear, Redline oil is not inherently red. Redline ATF, like most other ATFs, is red.
+
+ANSWER 5 (id: 1019_7):
+Originally posted by nrubenstein Just to be clear, Redline oil is not inherently red. Redline ATF, like most other ATFs, is red. I agree, the manual trans oil i used from them was red however. At least that's what i remember...
+
+ANSWER 6 (id: 1019_9):
+Originally posted by LJ851 Trans fluid is red if you have an autotragic, or Redline oil. Power steering (ATF) leak? my post was confusing....I didnt mean my sut was red..lol anyhew..I do get some grimy residue after a day at the track...hmmm my ps lines are tight every track day.... I could have a rms drip too... I never considered it being my tilted g260 causing the residue.... I cleaned her all up this past month...so now I hope to trace the loss....

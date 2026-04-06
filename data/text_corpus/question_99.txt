@@ -1,0 +1,7 @@
+QUESTION ID: 99
+
+QUESTION:
+I thought redoing my grounds fixed the problem I was wrong.. lol Hopefully someone here knows. Is there a relay that prevents the starter from cranking if it’s bad and if there is one where is it located? Everything else works fine. I can start the car with a remote starter off of the starter solenoid, but once it’s warm, it won’t crank ￼83 323 euro
+
+ANSWER 1 (id: 99_0):
+Please check your URL and try again https://www.wedophones.com has wiring diagrams. BMW starters can have the solenoids fail in such a way that they bind when hot- the test is to pour a gallon of water on the starter, and if that fixes it, replace the starter (or just the solenoid, if that's how you roll) t

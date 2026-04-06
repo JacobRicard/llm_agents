@@ -1,0 +1,19 @@
+QUESTION ID: 1161
+
+QUESTION:
+I've been having issues with the idle behavior of my 87 M3. Here's a quick rundown of what I've been dealing with: -The car runs perfect for everything except the idle -Start-up is without any problems -When cold the car would idle a little high (1000rpms) -Once it heated up the idle would surge between 900-1500rpms Today I decided to dig into it to see if there's anything I could do to fix it: -took off the plenum to check for any vacuum leaks (none found) -cleaned idle control valve with brake cleaner -checked the plug on the throttle position sensor -cleaned inside of afm Unfortunately I think I made things worse. The car now idles at exactly 2000rpms both cold and warm. The rpms just stick at 2000 and won't come down. Has anyone experienced something similar and knows what the problems is? Any help is greatly appreciated!
+
+ANSWER 1 (id: 1161_0):
+put a timing light on it - make sure your gauge is reading properly. If so, it may be your temp sensor which would let the motor know it's warmed up and input less fuel
+
+ANSWER 2 (id: 1161_1):
+make sure the PCV breather hose fittings didnt fall out or come loose in the plenum or at throttle body end ,they like to come loose. might be worth checking the throttle switch (idle switch portion),and that its adjusted properly (this is what tells the ECM that the throttles are closed and to use the ICV to control idle speed) with engine off you should hear the switch click just as throttle plates are opened, also need to ohm test the two pins for idle position switch to make sure its working
+
+ANSWER 3 (id: 1161_2):
+Originally posted by spdracrm3 make sure the PCV breather hose fittings didnt fall out or come loose in the plenum or at throttle body end ,they like to come loose. might be worth checking the throttle switch (idle switch portion),and that its adjusted properly (this is what tells the ECM that the throttles are closed and to use the ICV to control idle speed) with engine off you should hear the switch click just as throttle plates are opened, also need to ohm test the two pins for idle position switch to make sure its working thank you so much! The position of this switch was completely wrong after I reinstalled it. Positioning this switch correctly finally lowered the rpms. :D Do you happend to know what the correct idle RPM's are for the S14?
+
+ANSWER 4 (id: 1161_4):
+Where to you get the power from to hook up a timing light? I have one with a digital rpm read out, but I don't have a clue as to where to get power for it. Will
+
+ANSWER 5 (id: 1161_5):
+put red lead on large Alternator stud ,black to any metal block surface for ground or pull cover behind coolant bottle to find battery cable post ,alt is easier though

@@ -1,0 +1,16 @@
+QUESTION ID: 886
+
+QUESTION:
+This is my 2nd 24v swap, did it with a friend who is a Mercedes tech - knowledgeable guy. Car would not start after the swap. There's spark, there's fuel, checked relays, checked fuses, OBD2 reader with 20 pin connector says P0101 and P0135 (MAF and o2 heater relatively). These should not be a reason the car does not start. DME has been modified by Kassel Motorsports; 2.5 MAF, M50 manifold, 02 delete at the cat, s52 OBD2; Kassel also took my harness and took out all the necessary wiring - trimmed the fat. Car cranks, wont start; I pulled the fuel rail up and fuel is shooting out of the injectors. Spark plug sparks when I pulled one out and tested. Cam POS is new, crank POS is new. Fuel lines from filter to rail are correct. Pulled the MAF sensor wire out to diagnose, exact same thing. Car sometimes sputters as if there was a combustion, but does not happen more than one or two times max. Headers are disconnected to the rest of the exhaust, but I do not see why that would be the issue. Please help.
+
+ANSWER 1 (id: 886_0):
+I have a video of putting starting fluid through the throttle body. Thoughts? Error 404 (Not Found)!!1 https://drive.google.com/open?id=1dcGMe38-7-Y8g8cR9MVyelhZ8beK-P_O
+
+ANSWER 2 (id: 886_1):
+In case this will be helpful to someone in the future, Figured it out. Very important car lesson to me these last couple weeks. I knew that air, fuel, and compression are the elements needed to run an engine, and what confused me is that I had all of those things but was not running. What I did not figure was that you need the right mixture/combo/ratio of all those things which I did not have. In doing the s52 swap in my e30, I used the s52 fuel rail. That rail does not have the fuel pressure regulator (fpr). The fpr in the e30 is with the engine, hence by the nature of the swap, I deleted the fpr without realizing. I have a friend who has a chat buddy of all people, come up with the idea when he heard about my symptoms and swap (knowledgeable e36 guy). So I went to the junkyard, pulled a 97 528i fuel rail (which was a change I was going to eventually do anyway) and installed it. Then battery was unresponsive when I tried to start it (what gives!). But it was my junction block cable which was loose, so put that on, then tried it out - Bam, it starts. Life LESSON: Even if you have everything, that ain't necessarily enough; you need the right amount of it all and the right timing of those amounts - like a dance.
+
+ANSWER 3 (id: 886_2):
+Good work. If you had no regulator installed then the fuel was probably just being pumped up to the rail and back through the return with very little pressure, so your mixture would have been extremely lean.
+
+ANSWER 4 (id: 886_3):
+Impressed that you found it. I hate to sound like a wimp, but this can be daunting stuff. These engines are like rocket science compared to some pre smog Detroit V8.

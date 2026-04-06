@@ -1,0 +1,7 @@
+QUESTION ID: 765
+
+QUESTION:
+Hi all, bought an 87 ES from a less than scrupulous seller, unfortunately. Going through fixes now, so please excuse what are sure to be plenty of questions. I am using forums, realoem, etc before posting. On this front, I need some help with hose routing and connections please. The car has no heat. I bought a new core and heater control valve. At the location where the two aluminum pipes go through the firewall, the attached picture shows what exists. Question 1: I read about people plugging or bypassing the heater with a loop. Does that appear to be what was done here? Question 2: Does it appear that I can take out that clamped 90 degree bend and what I'll most likely have are the inlet and return lines to connect to the aluminum pipes from then heater control valve? Thank you! Attached Files
+
+ANSWER 1 (id: 765_0):
+Yes, that looks like they bypassed the heater core and looped the two lines together. Trace back the two hoses to make sure they go back to where they need and you should be good to go after putting in the new heater core in with new aluminum hoses. When you're done, the aluminum hoses should protrude out a bit into the engine bay.

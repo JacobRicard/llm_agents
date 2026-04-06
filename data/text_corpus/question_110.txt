@@ -1,0 +1,10 @@
+QUESTION ID: 110
+
+QUESTION:
+I noticed a rotted fuel hose from behind the fuel filter on the driver side. by feel i traced it back to what feels like a hard line/pipe near the top of the tank. it feels like there is a hose clamp at the end of it but there is no room for my hand or a tool to get in there. i think it's number 5 on the attached photo. is there a way to replace this hose without having to drop the gas tank? or can i just unbolt a couple bolts on the driver side to let it sag just enough for me to get access to the clamp? thanks in advance.
+
+ANSWER 1 (id: 110_0):
+My long- ago recollection is that you have to drop the tank... but that's not bad (if it's not rusty) and you may be able to let it rest on the exhaust and driveshaft, which are the hard parts about getting the tank out. Me, I would jack the thing up, drain the tank, and then start unbolting things until I got the clearance I needed... whenever that happened... Maybe others will have more recent experience with this? t
+
+ANSWER 2 (id: 110_1):
+In just the right situation you can get the hose clamp off without totally dropping the tank, but if it's clocked strangely, or you are working off of jack stands it'll be a struggle. Start with removing the bolts on the driver's side, and just loosening those holding the tank elsewhere.

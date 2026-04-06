@@ -1,0 +1,7 @@
+QUESTION ID: 1116
+
+QUESTION:
+Hi All, Has anyone tried to bolt a 6 speed gearbox to an S14 ?... If so, insights and advice most welcome. Cheers, Dave.:D
+
+ANSWER 1 (id: 1116_0):
+So, your basic problem is that the only 6spd that was sold from the factory with a matching bell housing pattern was in the late E34 M5. AND, it doesn't have the sensor ports, so you would either need to machine them in, or go standalone engine management. It's probably ultimately easier to do a custom bellhousing, unfortunately.

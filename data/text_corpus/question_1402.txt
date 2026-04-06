@@ -1,0 +1,7 @@
+QUESTION ID: 1402
+
+QUESTION:
+Hi folks, Trying to get the roof working on a friend of mines 325. It's apparently the EH model roof with hydraulic actuation on a G-reg car, 1989/90 or thereabouts. Comes with all the grey leather interior and some M badges, etc. Does anybody have a wiring diagram for this? I've gone through the wiring as far as I can reach and found various continuities, checked all the microswitches which seem to be doing their job but despite all this, without really knowing the logic that's gone into it, it's all a bit of a waste of time! For instance, when the button is pressed either up or down, the main relay clicks, switching the system on, but the second relay which controls the pump does not get actuated. I've gone as far as tracing the circuit all the way back to the transistor on the circuit board, but of course as above, without knowing where or how it's meant to be getting the go-ahead from, it's a bit of a waste of time... Can attach photos and more details upon request. Thanks in advance, Tom.
+
+ANSWER 1 (id: 1402_0):
+did you figure it out? you didn't provide last 7 of your VIN and build date, so hard to help you. In the US we have manual (87-9/90) and electro-mechanical (after 10/90).

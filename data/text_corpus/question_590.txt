@@ -1,0 +1,10 @@
+QUESTION ID: 590
+
+QUESTION:
+Hey R3V- After replacing the chassis harness on my 318 and installing the dash, I realized that someone cut the A/C pigtail off. There are multiple same color/same size wires on this pigtail. My question is: Does their orientation matter? There is no way to tell which is which on the chassis side, and I reaaaaaly don't want to undo everything I did yesterday to take the dash out to replace the HVAC harness. Trying to get this buttoned up ASAP Untitled by Bobbie Morrone, on Flickr Untitled by Bobbie Morrone, on Flickr
+
+ANSWER 1 (id: 590_0):
+Pages 6413-0, 6421-0 and 6452-0 should have all the info you need. https://www.armchair.mb.ca/~dave/BMW/e30/e30_92.pdf For the two pairs of same colored wires (Br/Gn and Yl), it should not matter which is connected to which since they are joined in splices on the chassis side.
+
+ANSWER 2 (id: 590_1):
+Originally posted by bmwman91 Pages 6413-0, 6421-0 and 6452-0 should have all the info you need. https://www.armchair.mb.ca/~dave/BMW/e30/e30_92.pdf For the two pairs of same colored wires (Br/Gn and Yl), it should not matter which is connected to which since they are joined in splices on the chassis side. Thank you, x a million I spent a ton of time on wedophones yesterday trying to trace them, but the ETM was missing info. The one you linked has 3x the number of pages than the one I was using yesterday.

@@ -1,0 +1,37 @@
+QUESTION ID: 1139
+
+QUESTION:
+Going to rebuild my shifter while I have the interior completely out. The shifter currently "buzzes" and wobbles back and forth (by itself) when driving. I'm pretty sure its not supposed to do that. I want to tighten it up, but dont care so much about shortening the throw. Definitely dont want to change height. Has anyone had good/bad experiences with a particular brand? I like the VAC one most right now. VAC "Better than New" Premium Kit - $190 Product Not Found – VAC Motorsports Online Store http://store.vacmotorsports.com/vac---e30-m3-better-than-new-oem--shift-kit-p1908.aspx Turner sells the UUC Evo 3 Kit - $325 (+$125 if you add a DSSR, which I'm not sure how a big piece of metal like that wears out, but what do i know) http://www.turnermotorsport.com/p-35...es-e30-m3.aspx Bavauto has options ranging from $150-$500 http://www.bavauto.com/shop.asp?HC1=0&htarget=asgridyearmodel.asp&Hecode=&hdept_id=183&HCY=1989&HCM=M3 B&M has a kit - which im not considering because it doesnt have all the replacement bushings, etc.
+
+ANSWER 1 (id: 1139_0):
+This is the route I am going, wont be able to install until spring though. I am replacing #4 with this: http://store.garagistic.com/ocart/bm...hifter-bushing Along with 5, 6, 7, 10, and 11. #4 is where most of the slop comes from, so the upgrade to the delrin bushings is generally considered a worthwhile upgrade. I will probably replace my transmission mounts at the same time too.
+
+ANSWER 2 (id: 1139_1):
+IMO the stock lever is best. Not only do the various SSKs reduce leverage, but they are sometimes notchy. YMMV. I find that BMW absolutely nailed the driver interface on the E30s. The shifter length, height of the knob (people are making the tall knobs like the OE M3 unit now), pedal placement / spacing, and steering wheel position (even without adjustments), is perfect. If I were you I would get OE replacements for the wear items and spend the leftover cash on a DSSR from AKG or UUC, which is one of the best upgrades around.
+
+ANSWER 3 (id: 1139_10):
+Originally posted by Zinoberrot ahh, that helps. Yeh i have no desire to replace more than i need to. upgraded bushings and selector rod sounds like a good option. I agree about BMW nailing the driver interface on this car - plus the object of my restoration is to stay very close to the original with reliability/other improvements where these dont interfere with the OEM feel. Yep. The other aftermarket part I like is RSMs. I have Rogue units sitting on a shelf waiting to go on the car.
+
+ANSWER 4 (id: 1139_2):
+Just saw your note about the shift rod. Double-shear is a robust attachment method, far superior to the OE single shear, which contributes to early wear of the washers, where the play / slop comes from.
+
+ANSWER 5 (id: 1139_3):
+I recommend what the poster above did. Its less expensive but pretty much does the same thing. You just need to figure out which lever you want to go with.
+
+ANSWER 6 (id: 1139_4):
+Originally posted by markseven Just saw your note about the shift rod. Double-shear is a robust attachment method, far superior to the OE single shear, which contributes to early wear of the washers, where the play / slop comes from. ahh, that helps. Yeh i have no desire to replace more than i need to. upgraded bushings and selector rod sounds like a good option. I agree about BMW nailing the driver interface on this car - plus the object of my restoration is to stay very close to the original with reliability/other improvements where these dont interfere with the OEM feel.
+
+ANSWER 7 (id: 1139_5):
+Originally posted by markseven IMO the stock lever is best. Not only do the various SSKs reduce leverage, but they are sometimes notchy. YMMV. This was my experience with a UUC SSK. Not only that, I feel like the install method, and the lever itself is way too complicated and overly engineered. The price doesn't help, either. I took it out after maybe 1k miles, and put the stock lever back in with the DSSR and it is so much nicer. At some point, I'd like to get a Z3 1.9 shift lever. So, that would be my recommendation - Z3 1.9 lever, DSSR, and upgrade the various bushings. Also make sure you replace #16 in the diagram posted above, I feel like people overlook that one.
+
+ANSWER 8 (id: 1139_6):
+What are people's thoughts on the delrin rear bushing? I see in one of the reviews someone saying it would cause problems if you have stock transmission mounts (which i plan to keep). Anyone replace this piece? #13 Also, why are some of you recommending replacements for metal hardware? Doesn't look like these would wear out. I'm open to suggestions though #5 - pin #6 - self locking collar nut
+
+ANSWER 9 (id: 1139_7):
+When I rebuilt mine, I felt like the delrin version of #4, #13 (or you can just replace the little sponge inside it #16) and a DSSR made the most difference. I replaced #7 because mine was destroyed and #2 because the holes which #5 inserted through were ovalized.
+
+ANSWER 10 (id: 1139_8):
+If you replace 7, there's no need for a rear Delrin bushing. I'm replacing 5 or 6 for the sake of new hardware :) And yeah, the reason I opted out of the dssr is I didn't want it overly notchy
+
+ANSWER 11 (id: 1139_9):
+DSSR doesn't make the shifter feel notchy at all. unless you consider anything tighter than peanut butter gears "notchy" here is my setup, it feels great. nice and crisp, but not notchy at all, ever. you could just use the stock shift lever too if you want to keep the same height on the setup. UUC DSSR garagistic carrier bushing (only the front one, #4 in the diagram) new oem ball cup bushing and yellow washers for the DSSR custom nylon bushing on the trans input fitting (#13 in the diagram) custom delrin knob there are some pictures of the height and what not in my build thread too at the very minimum replace all the bushings with oem and get a DSSR. it really does make the shifter feel so much better.

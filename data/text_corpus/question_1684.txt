@@ -1,0 +1,43 @@
+QUESTION ID: 1684
+
+QUESTION:
+What's the go-to for lightweight batteries for e30s? I know there are a lot of expensive options out there and just want to give a quick overview of what I'm looking for; My car is a japanese market 320i coupe and the battery is mounted up front in the engine bay allowing for a storage area in the trunk where the US market cars have the battery. This is just my fun car and is usually kept on a battery tender but is still a full interior car so I'm not looking for the absolute utmost weight saving option with budget being no object. Ideally I'd like to get something reasonably lighter up front that mounts similarly (I can fab another hold down bracket if necessary) and that would save me pulling apart the interior to break NLA clips and run a 0ga wire to the trunk and lose that convenient space. That being said, I would like to lose some weight off such a high point that is the engine bay battery tray. Are there any reasonable choices out there that fit my use case?
+
+ANSWER 1 (id: 1684_0):
+Depending on the demands of the starting I have had good success with both Odyssey PC 680 (I think thats the number) and DEKA ETX30L .... One was for a carburated car with no stereo, the other was slightly more advanced, but kept on a Tender. Best 'baller' option nowadays is an Antigraviry battery, but thats like 4x as much as the others, but no compromises other than money
+
+ANSWER 2 (id: 1684_1):
+After asking here I went to AI for answers and got to Odyssey PC925T (the T is for male terminals) as seemingly the best option for me since it is still primary a street car. I'll keep messing around trying to bully prices and weights out of meta's AI and post here for reference. Odyssey PC680T 15.4lbs ~$150 Odyssey PC925T 23.8lbs ~$280 Fairly big discrepancy in both price and weight but still early in the thought process and research
+
+ANSWER 3 (id: 1684_10):
+If you decide you're willing to spend more money, I use Antigravity AXT-30-HD in my K24 swap E30 and an ATX-30 in my 2002. They're really light weight and start the car really well. My cars sit for 6 months at a time, so I just disconnect the negative terminal. When I'm ready to drive I just hook it back up and there's no issues. I think I've had the ATX-30-HD for like 4 years now. I've used Brailles in the past on an E36, but they didn't last very long. It may have been an issue with my car having excessive draw though, I never looked in to it.
+
+ANSWER 4 (id: 1684_12):
+Originally posted by reelizmpro Do you use a quick disconnect or tender? I put it on a gel-cell tender when I remember to, but I've let it go flat more than a few times, and it's always come back. Likewise, when I remember, I switch off the battery disconnect, (because raceycar) but I think I forget as often as I remember. I've been really surprised I haven't killed it. Yet. t
+
+ANSWER 5 (id: 1684_13):
+Originally posted by reelizmpro I looked up the axt-30-hd and curiously it says it's not for automotive applications? well, he's running a lawnmower engine, so it works fine
+
+ANSWER 6 (id: 1684_2):
+H6 AGM's are typically 45-50lbs as a comparison so the weight savings are pretty good but then there's the added cost and question of longevity with the Odyssey battery. It seems both Optima and Odyssey batteries don't last as long as they used to. Since your main objective is to shed weight, then that PC680 sounds reasonable as long as you keep it on a tender or disconnect the battery if not driving the car every other day or so. There's a lot of pros and cons. Your climate is also a factor.
+
+ANSWER 7 (id: 1684_3):
+FWIW, the Braille G20 is the same size as the PC680 and weighs 4.5lbs, it's also like $500. Either way, 20AH batteries like these seem undersized for a street car with full accessories, but RX7 guys seem to make it work and they have electric fans that an E30 doesn't. Regardless, I wonder if you'd even feel the difference between a 4.5lb G20 and a ~35lb 50AH OE replacement.
+
+ANSWER 8 (id: 1684_4):
+If an e30 with rear battery relocates to the front battery tray, then the long positive cable that runs front to rear could be removed and probably save about 3kg / 6lbs. Doesn't apply to OP since their battery is already in the front.​
+
+ANSWER 9 (id: 1684_5):
+I use an ETX16L powersport battery in a race car. It is similar in size as a PC680. I've sort of abused the battery by not taking it out of the car in the winter, and it lasted 3 years before it wouldn't hold a charge very well. I'm not sure I'd do it again, especially because the car is light and needs to be ballasted up. But, in a street car, it doubly makes little sense to me to try to take weight off even a high point in the car, even if it's a fun canyon carver or whatever.
+
+ANSWER 10 (id: 1684_6):
+The current battery in the car is 5 years old but has been maintained on a tender each winter. Figured I'll be replacing it in the next couple years so upgrading then would be ideal. If it's an extra $100 to shed 20lbs that's a reasonable trade off in my mind, even if it's only a canyon carver. Not many weight saving mods are that cheap and easy. I plan on doing the same once the steel lower control arms are ready to be replaced and switch to the aluminum option. Wish I had scales for the car to have a proper corner balance done and to weight it with the stock battery, then pull it out and put weights in place to see how it affects the balance. 20+lbs of ballast near the top of the engine bay isn't insignificant. Whether I'd be able to tell the difference is another story..
+
+ANSWER 11 (id: 1684_7):
+I've had a PC680 in the racey cars for decades... I think they're both still original, even. As long as it starts, the alternator does the rest of the work. t
+
+ANSWER 12 (id: 1684_8):
+Originally posted by TobyB I've had a PC680 in the racey cars for decades... I think they're both still original, even. As long as it starts, the alternator does the rest of the work. t Do you use a quick disconnect or tender?
+
+ANSWER 13 (id: 1684_9):
+At Volvo we would warranty out tons of those lithium start/stop auxiliary batteries. The majority of them were still good, so most of us techs would run those little things in our project cars.

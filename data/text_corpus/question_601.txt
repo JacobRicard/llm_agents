@@ -1,0 +1,10 @@
+QUESTION ID: 601
+
+QUESTION:
+Hi, I have a Z1 (with E30 speedo) that was repaired a few Km ago, worked fine, now stopped registering speed. There is a burned smell from the rear of the speedo. Is this a simple fix? Can anyone advise what to test? Thanks Frank
+
+ANSWER 1 (id: 601_0):
+It's relatively easy to take out the instrument cluster and then to unsrew the speedometer. Plastic odometer gears are usually broken, so a replacement set is usually installed. But the speedometer also has electronics in it. Also, the instrument cluster has a pcb, there can be soldering problems with pins. If something burns, you should be able to pinpoint it easily. Maybe, it's a wire short.
+
+ANSWER 2 (id: 601_1):
+First, nothing in the cluster should be burning up, I would replace all cluster related fuses first, they should be 7.5A first. Many times, if the damage is severe, the speedometer circuit board cannot be saved and must be replaced. If the damage it minor and the speedometer processing chip was not damaged, it can sometimes be saved. Its impossible to tell without analyzing the circuit board and testing it. I dont know who you sent the speedometer to be "repaired" but sometimes people do such a poor job soldering, they sometimes cause more issues. If you need more help with this, we fix speedometers and other cluster issues all the time.

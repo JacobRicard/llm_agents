@@ -1,0 +1,16 @@
+QUESTION ID: 925
+
+QUESTION:
+Hi everyone i'm new to the forums and have a few questions about my m52 swap. I've looked around to see similar problems but no real solution's. if there is i'm sorry for re-posting and would appreciate a link! So first things first The car is a 85 318i, and have a m52 from a 98 323is. (stayed obd2) ECU and harness Got my ECU flashed my kassle performance and also got the custom plug and play harness from them so i didn't have to do any rewiring myself. (dont really trust myself doing all that haha) The Problem So when i go to start the car i hear my fuel pump prime and when i crank there is no start. I pulled the fuel-rail/injectors out of the manifold to see if they would spray but they just kinda spit out fuel. its not a strong mist at all. I ran to a buddy's house to grab a fuel pressure tester and connected it to my shrader valve in the front of the rail and I'm not getting any fuel pressure. also it will pop off using started fluid but dies out immediately. My thoughts? At first i thought it could be the fuel pump but I hear it prime up just fine. then i was reading that i could be my Fuel pressure regulator? I know i have one under the driver side door but i don't have one in the engine bay. I've seen the E39 fuel rail with the regulator connected to the fuel rail but if I bought that and installed it would i have to remove the one under the car? or can I get away with buying a certain one and installing it in my engine bay? I'm a little confused on all this. I'd appreciate any help, thanks!
+
+ANSWER 1 (id: 925_2):
+Originally posted by Klug What FPR are you running? M50 rail or stock running losses FPR module? I'm running the stock one from the 85 e30 (under driver side door) My fuel rail doesn't have the integrated one. Right now I have 0 fuel pressure but the injectors still spit out a little fuel
+
+ANSWER 2 (id: 925_3):
+Originally posted by ba114 Did you hook up the fuel lines correctly? On the frame near the firewall: Bottom hose is return, middle hose is feed Yes I switched them but the same thing occurs, injectors still just spit out fuel
+
+ANSWER 3 (id: 925_4):
+Power the fuel pump with 12v directly and check the fuel pressure. If you are not getting fuel after you hear it prime its because the ECU is not firing the relay either due to EWS still being enabled or due to lack of crank reference signal. If you power the fuel pump and still have no pressure then you have the lines backwards or a blockage or your pump is leaking pressure internally to the take. I see this happen when people retrofit pumps to old housings and it pops the fuel hose off the assembly. In this case you will hear a healthy pump running but not pressure.
+
+ANSWER 4 (id: 925_5):
+Regulator under the driver door? I don't believe there is one there, only fuel buffer and damper as seen in this diag... http://www.realoem.com/bmw/enUS/show...diagId=16_0172 The 318 should have had a regulator on the fuel rail as shown in this diagram... http://www.realoem.com/bmw/enUS/show...diagId=13_0254 I believe what is happening is in the absence of a regulator, the fuel is just bypassing the injectors at full flow back to the tank, and whatever residual pressure is in there is dribbling out when the injectors are energized.

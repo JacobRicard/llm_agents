@@ -1,0 +1,13 @@
+QUESTION ID: 2612
+
+QUESTION:
+So I just finished a manual swap on my 91 325i and I have got this yellowish fluid leaking from my bell housing on the transmission side. There are some pictures of various fluids that could be in the area. The first time I noticed the fluid I had old engine oil, fresh brake fluid, and new transmission fluid. I got a sample of the MT-90 that went into the transmission, some engine oil from the oil pan (when I replaced the pan gasket shortly after), and the yellowish fluid that I had dripping. My coolant is also green from PO so it can't be that, I have also changed the oil pan gasket and put new oil in and the color of the fluid has not changed so it cant be engine oil. The MT-90 has a red tint to it so it can't be that. I think its brake fluid but if its brake fluid then what have I done wrong. When I did the swap I got new master and slave cylinders, and then I noticed this fluid so I swapped slaves again to another new one. The first one was a febi then the second one was a fte. So unless I got 2 bad slave cylinders what else could it be? When I bled the system, I used the 2 person method with a few pumps on the clutch, hold, open the bleeder, close, then repeat... I also used new ATE fluid and did a flush of the whole brake system. Attached are some of the pictures of the fluids with labels of where they came from. Also note that its not MTL but its MT-90 in the transmission, but I marked the picture with MTL
+
+ANSWER 1 (id: 2612_0):
+If it's brake fluid you'll be able to spot any issues by removing the slace and checking the rest of the system visually. If you feel that it's an external issue try wrapping components in paper towels to check fo leak source. It could also be a combination of two fluids, in any case clean the area and just inspect your components.
+
+ANSWER 2 (id: 2612_1):
+So I just loosened the nuts on the slave and to see the boot, it looked dry. Also I noticed that the boot even when the pedal is pressed doesn't go into the bell housing so I think it would be hard for the amount of fluid I've been seeing flow along the Piston then drip
+
+ANSWER 3 (id: 2612_3):
+Make sure the fittings on the slave cylinder line aren't loose/leaking. Have someone press the clutch while looking at everything. Did you replace the rubber clutch hose? Maybe it has failed and is leaking.

@@ -1,0 +1,10 @@
+QUESTION ID: 1326
+
+QUESTION:
+I had my 92 cabrio swapped from automatic to manual a few months ago and there is a box of leftover parts. I’m trying to figure out what this piece is. Can anyone help please? Thank you!
+
+ANSWER 1 (id: 1326_0):
+Engine and tranny vibration damper. Attaches to passenger side transmission half-bowl support. Part #14 here (part has no 11 digit BMW # as it is NLA): https://www.realoem.com/bmw/enUS/sho...diagId=11_0073 Or part #35 here: https://www.realoem.com/bmw/enUS/sho...diagId=11_0119
+
+ANSWER 2 (id: 1326_2):
+That "missing" part is only found on United States E30's with m20's as required by Department of Transportation, so in a violent front end crash that missing part will hit the front subframe and prevent m20 from violently launching forward. Same with part #9 on rubber motor mounts which can shear in a high impact front end crashes, helps prevent m20 from launching forward. The motor mount arms are also steel in the US. https://www.realoem.com/bmw/enUS/sho...diagId=11_0073 ROW (rest of world) got aluminum motor mount arms which can shear off, not steel which will only bend, and did not use that "missing" part, obviously disregarding any engine movement problems in a front end crash. In sum, that missing part is only required if you don't want your m20 to violently launch forward in a hard front end crash. Good luck

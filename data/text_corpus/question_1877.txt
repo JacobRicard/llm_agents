@@ -1,0 +1,16 @@
+QUESTION ID: 1877
+
+QUESTION:
+I have a 1990 325ix. For some reason my rear windows don’t work. They were working fine one day and the next the didn’t. I have checked that the child safety switch works by jumpering the wire connector to rule that out. All the window switches are illuminated and the illumination goes out when depressing the child safety switch and or the circuit breaker switch. When pressing the console window switch by the shifter the illumination will go out in the rear window switch as I press the button. When I let go of it, it lights back up. This happens to both rear sides when I press their corresponding switch. Does anyone have any ideas? I have tried pounding on the door to no avail thinking it may be a stuck motor. If one motor went out, would it affect the other side? Because the switch is illuminated does that mean it’s getting power to the motor? Any help would be greatly appreciated.
+
+ANSWER 1 (id: 1877_0):
+Here is a list of the wiring ETMs, you can find the right one for your car (download it!). This will help you isolate the circuit. 404 Not Found http://wedophones.com/Manuals/BMW/ You could have crap in the switches that are preventing them from making contact to roll down the window. You could try jumping the contacts to roll it down to see if the motor works. You may just need to pull all the plugs apart, clean them, and put them back together.
+
+ANSWER 2 (id: 1877_2):
+Great advice. I’ll try those out this weekend. I’m new to wiring. How would I jump the contacts? Do you think one side not working could affect the other side? Is it normal for the switches to dim when depressed from the front?
+
+ANSWER 3 (id: 1877_3):
+Forgot to mention, also try to help the windows down as you depress the switch. The wiring diagram shoud make it clear how it's sequenced, but I don't know off hand. IIRC, the dimming is normal, but cannot confirm as my only E30 is all manual windows.
+
+ANSWER 4 (id: 1877_4):
+Also cleaning all the contact points/connectors, especially the door connectors: https://www.e30zone.net/e30wiki/index.php/C40x I'm always getting a ton of dust/dirt in my car so I always find myself spraying electrical contact cleaner, and sometimes sanding contacts, about once a year to keep the electricals functioning properly.

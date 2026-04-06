@@ -1,0 +1,22 @@
+QUESTION ID: 1708
+
+QUESTION:
+Hi there! I bought my first BMW a couple of weeks ago. It is a 1983 320i that needs alot of work, rust repairs etc. The car runs, but when I first filled up 5 litres of petrol and started the engine quite alot of fuel was leaking from the fuel tank somewhere. I removed what I thought was an in-tank fuel pump assembly and there was alot of rust around this area and the o-ring was old and hard. So I hope I have located the problem. Since the in-tank unit looked like it had seen better days + the engine needed alot of cranking before it started, I decided looking into replacing the in-tank pump and the external high pressure pump with a single high pressure in-tank fuel pump. However, I discovered that the assembly in the tank was just a fuel level sensor unit. So, my car has just one pump and it is the external one. I have tried to find some information, but it seems like this fuel system is rather uncommon? My e30 is one of the earlier models and I guess BMW decided to ditch this setup for some reason. Does anyone here run just an external pump? Since I dont have an in-tank pump assembly to install an aftermarket high pressure pump in, I am not sure what to do now. Shall I leave it like it is, replacing the external pump and try to get the tank sealed? Or can I install a combined in-tank pump and level sensor and get this to work (show the correct fuel level)? Thanks​
+
+ANSWER 1 (id: 1708_0):
+never seen a set up like that on either e21 or e30. the sending unit is separate from the in-tank pump in every other car i've seen. i'm not sure there is a combined sending unit and pump you can go to. there are loads of aftermarket pumps you can use even if staying with the large external.
+
+ANSWER 2 (id: 1708_1):
+My 323i was the same way. I deleted the main pump and used the combination intank pump and sending unit from an early US car found on 84-87 325e/i and M3. I replaced the low pressure pump with a high pressure as well. Works great.
+
+ANSWER 3 (id: 1708_2):
+In 1983- make sure it's Motronic 1.x, and not CIS by some unholy BMW parts bin fuckery. (but I agree, even the E21 CIS had a lift pump in the tank, in the cars I've taken apart) If it's indeed electronic, then yes, an in- tank pump's probably the clean way to do this. The late 318i mounting system works, too- you do have to change the wiring harness to later connectors, and potentially add a return line, but once it's done, then the pump itself is easy. t
+
+ANSWER 4 (id: 1708_3):
+yep same as my euro 1984 323i. that was originally L-Jetronic. Yours being 1983, is it L-Jetronic as well? Given the condition of that tank, id be lookin to find a replacement late model in tank pump and tank complete. Tidy things up a bit.
+
+ANSWER 5 (id: 1708_4):
+Originally posted by e30davie yep same as my euro 1984 323i. that was originally L-Jetronic. Yours being 1983, is it L-Jetronic as well? Given the condition of that tank, id be lookin to find a replacement late model in tank pump and tank complete. Tidy things up a bit. Yes, mine is L-jetronic also. After cleaning the tank with a wire brush it didnt look as horrible and I filled it up with water and it didnt leak. I will have it sandblasted and powder coated soon (diy). Yesterday I removed the fuel vapor expansion tank and I am thinking of deleting this one somehow. This car doesnt have the charcoal canister so shouldnt be too complicated? At the moment it seems to vent fumes to the atmosphere anyway.
+
+ANSWER 6 (id: 1708_5):
+happy days then. paint it up and run it. my car does have a charcoal canister in the engine bay. There might be some advantage to running an intank lift pump as my external pump is always noisy. Pumps run quieter with a bit of positive pressure on the inlet. I've been meaning to convert mine to intake for years.

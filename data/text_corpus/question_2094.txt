@@ -1,0 +1,37 @@
+QUESTION ID: 2094
+
+QUESTION:
+After 10+ years and a good amount of work I almost burnt my car to the ground. 1987 325is that I poured a lot of work into and daily drove it for nearly 100k miles. S52 swap, rebuilt a lot (diff, brakes, suspension etc). I had a catch can mounted in the engine bay on the metal above the drivers side wheel well. One of the mounting screws popped loose allowing it to rest against the thick cables of wires that are part of the body wiring harness that runs along the drivers side part of the engine bay. One day I came out to a dead battery. I thought it was odd but nothing too crazy. I then fired it up and half my cluster wouldn’t illuminate. I went to pop the hood. The release latch wouldn’t open it. Now the problems are starting to add up in a strange way. When I opened the hood I saw it. The hood release cable was burned as was a 10” section of the body harness. soooooo I’m assuming the front body harness doesn’t separate from the rear at all. Body harness replacement time? Anyone have a spare for a chum in need?
+
+ANSWER 1 (id: 2094_0):
+A bad situation could have been made worse if you used a traditional fire extinguisher. Perfect motivation to pickup a clean agent fire extinguisher and keep it in your car: What type of fire extinguisher to get for a car? | RTS - Your Total BMW Enthusiast https://www.rtsauto.com/what-type-of-fire-extinguisher-to-get-for-a-car/ For automotive uses, we are generally concerned with Class A, B and C fires. Dry Powder: Without a doubt, the cheapest fire extinguisher type is dry powder. These fire extinguishers use mono-ammonium phosphate, sodium bicarbonate or potassium bicarbonate (Purple K). Apart from making a mess, the problem with them is that they are extremely
+
+ANSWER 2 (id: 2094_1):
+especially on a fire that had gone out hours ago... I'd just take the harness apart and fix it. Far less time- consuming, and done carefully with heat shrink tubing is, 'as good as new'. The overwrap that's braided nylon but opens is great for covering things like this. F6N0.75BK100 | Digi-Key Electronics https://www.digikey.com/en/products/detail/techflex/F6N0-75BK100/2502525 Order today, ships today. F6N0.75BK100 – Self Wrap X 100' (30.48m) Black from Techflex. Pricing and Availability on millions of electronic components from Digi-Key Electronics. for just one example. t body harnesses SUCK.
+
+ANSWER 3 (id: 2094_10):
+Hahah ok both issues are fixed. When troubleshooting I had a blown fuse. Problem solved! the fan issue was in fact the switch. I have it setup to trigger the spal fan at either the high or low speed circuit (since it’s the same speed with my 80/88 fan switch. Is this the lowest temp fan switch available? It still won’t fire when the A/C button is pressed but I’m swapped and don’t have A/C. Maybe I need to jump the compressor switch to complete the circuit? the only casualty that I have remaining is the hood release cable. I need to find one but I don’t want to shell out $90. I’ll post some pics later today of the fire damage. I really dodged a bullet!
+
+ANSWER 4 (id: 2094_11):
+I remember my first e30 fire. I was about to go pick my GF up for our first date and dry rotted fuel line leaked and caught the under-hood insulation on fire. I noticed the car was smoking a little more than normal, so I popped the hood and FLAMES!!!! I was able to blow it out and take the other e30. I rocked that burnt insulation for a decade. Fun times!
+
+ANSWER 5 (id: 2094_2):
+Yup, I’m going to go the repair route. I disconnected the old body harness in the engine bay all the way to the fuse box. Can anyone confirm that the harness is one piece and doesn’t disconnect from the fuse box? It doesn’t look like it does on realoem. The good news is the body harness the bay that was damaged doesn’t have any sensors so I won’t run into ohm issues with a repair. It’s mostly lighting. I plan on soldering with a butt connector on either end of the solder joint (I’ve read solder can crack and I have delrin mounts. I’ll then heat shrink and then cover with high temp wrap followed by a plastic split loom. I’m going to the junkyard to cut out the body harness tomm (fingers crossed it’s intact). This will allow me to do one joint vs two, and keep wire colors a continuous color. I’ll update with before and after pictures.
+
+ANSWER 6 (id: 2094_3):
+Originally posted by noid A bad situation could have been made worse if you used a traditional fire extinguisher. Perfect motivation to pickup a clean agent fire extinguisher and keep it in your car: https://www.rtsauto.com/what-type-of...get-for-a-car/ That's good info! I just have a standard extinguisher I keep in the trunk but I think it's time for an upgrade.
+
+ANSWER 7 (id: 2094_4):
+A tightly wrapped wire splice that's soldered and then heat- shrunk won't crack unless you flex it repeatedly, like in a door harness. The best practice is to get the copper- to- copper surface area tight, and then the solder simply cements the copper into place. Good quality crimps that are closed with a good quality crimper (not squeezed, but wrapped and closed) over clean shiny wire and then heat shrunk will be equally good. Stripping is important- don't knick the strands, as that can weaken the joint significantly. (I'm guilty of this) The harness is an integral part of the fuse box- if you open the back of the box, it just spiders out into the loom. t
+
+ANSWER 8 (id: 2094_5):
+I scored a harness and fuse box from an 87. I removed everything and cut the wires from the donor car that lead into the interior at the firewall. Now I just need to label everything and remove unneeded wires (ABS, A/C etc)
+
+ANSWER 9 (id: 2094_6):
+We’re back! I know it took a long time but work and other projects put this on the back burner. Wiring isn’t my forte so I rarely had the energy to do this project. I sourced a wiring harness from a junkyard (same year and model). I cut everything from the fuse box forward and brought it back to my garage for sorting. The old harness was an absolute mess (thanks a lot previous owner). It felt good to “do it right”. The only thing I’m kicking myself over is not using a 20pin automotive connector that I could quick disconnect. Oh well I can add that in later. These combo solder-heat shrinks are awesome. Even though they’re made in china, the smallest gauge held a 25lb kettle belle no problem. They also have heat shrink and heat activated adhesive for a waterproof seal. I deleted unnecessary wiring, tested connections, soldered connections, and wrapped the whole thing in Tessa tape. Finally I wrapped the harness in heat shielding. my only due outs: -my fan only runs when jumped at the sensor plug. I know it’s rarely the switch but in this case it probably is. New one is on order. -I’m running a KAmotors intake funnel. I only have one high beam. I’d like the low beams to stay on with the one high beam. I forget how, any pointers?
+
+ANSWER 10 (id: 2094_7):
+Fan runs when AC is on or the temp switch is kicked. Has high and low circuit depending on temp. I thought the low beams stayed on with high beams? The fogs cut out?
+
+ANSWER 11 (id: 2094_8):
+The low beams do stay on with the high beams, at least in the stock wiring. I tried reading this diagram but I blew a fuse... I'll see myself out. And yeah the aux fan only comes on low speed if the low temp switch or ac has been triggered, and high speed only when the high temp switch is triggered. I think low speed was around 91 celsius and high speed was 99 celsius, or 196F and 210F. Just checked, yup.

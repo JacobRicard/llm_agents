@@ -1,0 +1,10 @@
+QUESTION ID: 280
+
+QUESTION:
+Okay so I bought the street GC RSM. I want to make sure I'm not an idiot and am going to install it correctly. Basically, the GC assembly bolts to the rear shock mount INSTEAD of to the shock itself (like OEM)? As in, the GC RSM parts all go onto the rear shock tower, and then u just put your shock through and thread the nut in the trunk? TIA.
+
+ANSWER 1 (id: 280_0):
+The RSM goes on the shock, then you shove the shock underneath, the bolts protrude in the trunk, you slide the plates on top of the inside bolts, then screw on the nuts :).
+
+ANSWER 2 (id: 280_1):
+The GC shock mount is different. You are correct in the way you want to mount it. You have to put the shock through the tower, then thread the nut on and put the 2 13mm on from under the car. Will

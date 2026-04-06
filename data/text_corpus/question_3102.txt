@@ -1,0 +1,7 @@
+QUESTION ID: 3102
+
+QUESTION:
+Hi guys just had to make a new account unfortunately. I know there will be many people telling me I am wasting my time with this swap. Regaurdless though I'm doing it because the m20 is a great daily driver engine. Also it has been fully rebuild from the ground up. Right now I'm coming into some questions concerning my fuse box. Getting my key ignition to connect to my ecu and starter. Everyone says it is "plug and play" unfortunately it's a little more than that. Right now I have a relay from a 325e that connects my ecu to the starter the ecu is also connected to my fuse box. Before adding power I want to see if anyone has in site on this. If anyone has pages or anything regaurding this I'd be interested. As of right now I have already switched the engine, exhaust, ecu, z4 shifter,new diff, and drive shaft. I haven't installed my radiator or oil cooler just yet so I have more room to play. So far the swap has been really easy I just want some peace of mind. Thanks for the help -Baron
+
+ANSWER 1 (id: 3102_0):
+Need some years and what is going into what. M20 and harness out of what into what year 318is? The m20b25 out of the 325i will plug right into a 88+ 318is with m42. Abs will need power on pin 20.

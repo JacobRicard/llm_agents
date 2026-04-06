@@ -1,0 +1,13 @@
+QUESTION ID: 1379
+
+QUESTION:
+My top was sitting about 1/4 inch from the front frame of the car and LEAKED when it rained, am usually able to pick and chose when I take it out and can opt out of the rain but want it to be right! Loosened up vertical and horizontal mounts and closed the front bow and removed the 3 and 4 shims that were used and it remains 1/8 to 3/16 away from the front frame. The weather stripping looks relatively new and in good shape. I don't see how the Hex bolt can make up that much and when I adjusted it it did not seem to do move it much except dictate where the rear sealed on the deck lid. Ideas? Anyone know a good trim ship in Atlanta that could deal with this? I could get there in the future possibly. Thanks, Mark
+
+ANSWER 1 (id: 1379_0):
+Hard to help you without pics, but there are 2 plastic guide pin covers that should be present over the metal pins on the front of the top. Make sure those are there. Search for “bmw convertible top repair” in YouTube and you should find a set of 3 videos from BMW that we’re transferred from tape. They are the oficial training vids BMW used to train service techs on the convertible tops. They will show you how high the rear mounts should be. If you don’t have enough shims just pick up some stainless steel washers. You should not be removing shims in the back. If after the front part of the top is pulled down it’s still too far from the window frame, you may want to ADD shims to the rear most mount points, and potentially remove some from the forward mount point. This will tilt the top towards the front, which may be what you need. It will also lift the rear hoop away from the top lid cover though. Finally, even after you do all of this you may still have leaks due to the top rubber not being in good shape. It’s very expensive unfortunately. You can check my vert build thread towards the end. I’ve been doing some top work that you may find helpful
+
+ANSWER 2 (id: 1379_1):
+Are the plastic post covers available? Mine are metal and small! I removed all the shims from the bolts to slide the top all the way forward but left the vertical shims alone. I can see where the plastic covers on the front posts would help some but may need to shim the rear most posts to tilt it forward some more. I have watched the BMW videos and they were very helpful. Thanks
+
+ANSWER 3 (id: 1379_2):
+Yes you can get them from any BMW parts seller, but they are absurdly expensive - over $20 each. Part number 54311971255 shown as number 27 in https://www.realoem.com/bmw/enUS/sho...diagId=54_0162

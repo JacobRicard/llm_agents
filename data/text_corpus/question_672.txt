@@ -1,0 +1,7 @@
+QUESTION ID: 672
+
+QUESTION:
+I don't like the idea of knocking the old seal into the transmission. Also, on the 260/6 transmissions there's a boss that the seal bottoms out on. Using a pick/ screwdriver runs the risk of damaging the housing, and is a major pain in the ass to do especially when the trans is still in the car. 0.010" Brass shim, set it lengthwise on a deep 9mm socket and smack it with a dead blow to give it a round profile. Remove one of the top little screws holding your instrument cluster to the dash. Rip the outer dust lip off the old seal with some needle nose pliers. ​ Slide the feeler gauge in between the seal and the selector shaft. Tape the screw to your screwdriver, and screw it in between the seal and the feeler gauge. Pry the screw back, and the seal pops right out. ​​ ​ ​​​ ​​​ ​​​
+
+ANSWER 1 (id: 672_1):
+The screw I've seen and done many times, but I like the brass shim for protecting the rod. A piece of aluminum can could probably also be used. I usually punch then drill the seal with a tiny bit to make a small screw easier to use. I too have heard of people pushing the old seal in and putting a new one on top of it to make for a quick installation. Removing the bottomed out one may be easy with the transmission out, I don't know. I pulled the old seal out on my transmissions so if I do have to do the seal with it in the car in a pinch, I can just push a new one on and bottom the old one out and deal with the consequences at the next clutch job.

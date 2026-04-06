@@ -1,0 +1,7 @@
+QUESTION ID: 2069
+
+QUESTION:
+Hi, recently I've had a problem with my M30 swapped E30 where the car will either not crank at all when trying to start the car or crank once or twice and stop. After a few tries, it eventually starts. Every time I try jumping the starter from the diagnostic port the starter runs perfectly. I narrowed it down to the ignition switch and replaced it with another used unit but it didn't fix the problem. The only possible problem I feel like there could be is a poor connection between the ignition switch and the starter (black/yellow wire and terminal 50) but I double checked all my connections and they seem okay although this is likely where the problem is. I did do the wiring for the swap myself but the car has been starting up and running great for the past few months so I don't believe the wiring is wrong. Not sure what to check or what the problem could be, any help is appreciated!
+
+ANSWER 1 (id: 2069_0):
+Double check all your grounds.... using the starter is the most amp draw you use in the entire car, rusty / frayed or loose ground cable will give you these issues...especially since you said you recently did all the wiring and it worked fine before, something simple and little had to happen... there isn't much to the starting system, wiring an components are simple and minimal so a few hours of non stop diag time will get you your answer

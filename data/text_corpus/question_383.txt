@@ -1,0 +1,10 @@
+QUESTION ID: 383
+
+QUESTION:
+Yeah, we knocked out the CA from the subframe, but is there any special way to knock the balljoint loose from the steering knuckle (I think its the steering knuckle...)? We're pretty sure its just rusted on there, but should I just jam some sort of thin object in there and hammer it like a prybar? Just wondering... Edit: Will just flat out whacking/using a pickle fork on the tie rod balljoints fuck up the ball joints? I don't want to pull an "OH SNAP" and then have to re order ball joints.
+
+ANSWER 1 (id: 383_0):
+apickle fork will ruin the rubber, you can hit the stud on the top or on the side of the knuckle and that should do it, you just have to wail as hard as you can and it will come off, if your carefull you can remove it using a pickle fork but you have to be verry carefull. i recomend wailing on it at first and then the pickle fork if nothing else works. and according to the manuel you have to buy new controll arms its a one piece unit, however lordco sells ball joints so i was confused about that fact.... so im not really sure.
+
+ANSWER 2 (id: 383_2):
+I just replaced mine and I found that using a floor jack to support the ball joint worked wonders. I raised up the ball joint with the floor jack and then proceded to wack the hell out of the steering knuckle with a BFH. After about 2-3 wacks the ball joint popped right out with the boot untouched. A bit late, I know, but hey keep it in mind for next time.

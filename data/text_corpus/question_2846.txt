@@ -1,0 +1,22 @@
+QUESTION ID: 2846
+
+QUESTION:
+So, have a local guy with an E30 for sale. It’s a 1986 325. No “e”, “Es”, “i”, etc. He claims it is an “i” model but do any show on the trunk, is cloth interior. Is this not an eta motor even though not showing an “e” on the trunk? Trying to figure a value of a 78k one owner 5spd.
+
+ANSWER 1 (id: 2846_0):
+BMW Made base models in 86 - 88, all of which were ETA engines (except for 88 with the SuperETA) Unless it was swapped, you have a basic M20B27 in there. The Intake Manifold, Coldstart Valve, and 5K Tach will also give it away.
+
+ANSWER 2 (id: 2846_12):
+Snap a pic of the vin number, then you’ll know that it’s an eta and you can prove it to the seller. If it’s truly a 1 owner car then the guy telling you it’s an i is being dishonest, or he’s not the owner. If the car is in good shape it’s worth a decent amount. There are garage kept lightly driven cars out there.
+
+ANSWER 3 (id: 2846_13):
+If it red lines at 4500 it's definitely an eta. My car is a 1987 325 too and it also has eta motor even though it doesn't have the "e" on the back. I believe you can also check if it's an eta by looking in the door jam. I could be wrong, but I believe the door jam sticker should say the engine model or information. Also I don't know if all cars had this, but my car also had a sticker in the engine bay saying it had eta engine model which came in 325, 325e, and 325es. Additionally if the car has the original motor and is a true 1986 car then it has eta motor (unless it's a vert). All 1986 and earlier models came with the eta engine except for convertibles; only some 1987 models came with i engine, but it's pretty uncommon. I could be wrong on some of this information, but I'm pretty sure it's all factual. You might want to check the VIN just in case too, he could have swapped an 'I' motor into it.
+
+ANSWER 4 (id: 2846_2):
+Originally posted by Lizard 1 Am I correct in thinking the standards were just badged 325? Standard as in Stick? My 86 325 (no letter) had a ZF Auto in it.
+
+ANSWER 5 (id: 2846_5):
+This isn't some euro car, right? Wiki show "i"s starting in 1985. I have a seen a few 1986 convertibles for sale. I always assumed they came with "i" engines but could have well been typos in the ad. Regardless, this is an eta cluster: This is an "I" cluster: I am pretty sure that's just a regular eta especially if the seller says its a U.S. production car with no engine swap. Sounds like a nice car being sold by an uniformed seller. Javier
+
+ANSWER 6 (id: 2846_6):
+Originally posted by Javier h Regardless, this is an eta cluster: This is an "I" cluster: OP, thats a euro early eta cluster and a US late i cluster. Javier's point is that the eta cluster rev's to 4.5k and the i cluster revs to 6.2k If it's a US stock 1986 325, it is an eta. So unless the seller did a bunch of stuff to it, it's an eta.

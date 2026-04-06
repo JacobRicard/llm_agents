@@ -1,0 +1,10 @@
+QUESTION ID: 2811
+
+QUESTION:
+Hi, I need some data points from m10/40/20 cars so if you have one and can spare a few minutes let me know if you are willing to help. If you have a multimeter and know how to use it, I just need an ohm reading from the factory temperature sender (the one for the cluster temp gauge, not for the dme / ecu) most likely it’s brown single pin. What I am looking for specifically is the ohm reading when the cluster temp gauge needle is in the first 3 locations a) end of the blue area b) next Mark before it’s at the middle c) the 1/2 gauge mark. If you have a good working / running or even just idling 318i 325 or 325i i would really love to have this information . What you’ll need to do is pop the hood, let the car warm up to middle mark, disconnect the connector from the Brown temp sender and measure the resistance in ohms between its pin and ground . Do the same thing for the 3 positions (end of blue mark , next line over, and the 1/2 mark). I recently spent some time reverse engineering e30 cluster (see technical section for my post there) on how to troubleshoot it’s common issues and one of the last things I need are these data points from stock (engine wise, not swapped) cars so I can figure out what calibration is needed for the temp gauge under different scenarios. Thanks again if you are willing to help !
+
+ANSWER 1 (id: 2811_0):
+Megasquirt supposedly offers a raw logging format (FRD) which, if it does what I'm hoping, should make it trivial to get this information - turn on logging and go for a drive. Not had much luck turning it on yet. Will keep trying and if it doesn't work will break out the multimeter.
+
+ANSWER 2 (id: 2811_2):
+Just realisdd the CLT and cluster sensors operate independently. MegaSquirt wouldn't have that info as it'd be handled solely by the gauge/cluster. :stupidsign:

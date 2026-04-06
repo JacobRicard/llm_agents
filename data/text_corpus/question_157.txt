@@ -1,0 +1,31 @@
+QUESTION ID: 157
+
+QUESTION:
+Hey gang, still working on my 87 -IS. I removed the H-vac panel to remove the OBC. I changed the bulb in the back and also the light strip I had a few kicking around. When I put the headlights on I didn't get the OBC light to respond in sync. Would anyone know why it isn't lighting up? thanks in advance.
+
+ANSWER 1 (id: 157_0):
+Check your fuses - I think its 12 but not sure. Originally posted by Ceeker Hey gang, still working on my 87 -IS. I removed the H-vac panel to remove the OBC. I changed the bulb in the back and also the light strip I had a few kicking around. When I put the headlights on I didn't get the OBC light to respond in sync. Would anyone know why it isn't lighting up? thanks in advance.
+
+ANSWER 2 (id: 157_1):
+Originally posted by Victor_PR Check your fuses - I think its 12 but not sure. The OBC is working...it's the light that isn't. if the fuse was out then you'd be getting nothing.
+
+ANSWER 3 (id: 157_10):
+ok..so just to make sure I tested the 4 light strips I have. Two are lighting with 9 volt battery. now when I put them into the OBC and powered it on. I get no light. The back light bulb is working. this tells me no power is getting to the light strip. I tried a couple OBC's I have and get the same result with each.. is there another power source for this unit? I can't believe the 3 OBC's I have are faulty in some way.
+
+ANSWER 4 (id: 157_11):
+Just a FYI if you haven't noticed on your other E30's, the OBC back light turns on when the ignition switch is on (radio or accessory mode doesnt matter), it is not related to the headlight switch like the other lights. Check all fuses mentioned and connectors. Check fuses 27, 21, S213, etc. The CU can be found here: If all else fails: I would start going over everything related to the OBC. Looking at this picture: and this picture: Work your way back from the green OBC plug, checking all connections. I know the light bar light bulbs work in series, so if one goes out both go out. I am not certain if they work in series with other light bulbs in the car.
+
+ANSWER 5 (id: 157_2):
+Check the relay next to the central locking unit, my guess is that that socket/relay pins are rusted. I have circled the appropriate relay and an arrow showing where it lives (behind the drivers side front speaker). Just an FYI, you dont have to remove the HVAC to replace the light bar, I did it on my old E30 through the glovebox; alot quicker and cleaner.
+
+ANSWER 6 (id: 157_5):
+Originally posted by noid No worries, let us know if it fixes your problem. \ the pins are fine. If I recall it has to do with the delayed auto light for the interior. I remember now I tricked my relay to make it work again. if my relay was bad then it would affect all the lighting in the car. My interior lights, dash lights, and dimming on the light switch all work fine. it's just the OBC light strip. I swapped out two and still nothing. I doubt all 3 are bad...?
+
+ANSWER 7 (id: 157_7):
+Originally posted by noid Have you tried swapping out another OBC? Could be the contact points for the light inside the OBC. well, I recall I did, but I suppose I can take the HVAC panel out AGAIN!!! UGH!!!! LOL I don't like going through the glove box..just as much pain in the ass..LOL I'll try that out..thanks.
+
+ANSWER 8 (id: 157_8):
+You don't have to fully take it out to inspect the two pins on the inside, just pull the light bar out and look inside. Check to see if they are bent. That of course doesn't fully rule out the possibility of a fault with the OBC unit itself, but its quicker then pulling the whole unit.
+
+ANSWER 9 (id: 157_9):
+ok, so I took the OBC out again and swapped another one in with the same result. They all work but no light strip function. Could it be the control unit.. I noticed in the early vert the CU is under the drivers side near the hood handle. On my 325is it's non existent there. Where should I be looking? Wondering are all the relays (CU) are near the drivers side kick panel?

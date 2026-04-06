@@ -1,0 +1,10 @@
+QUESTION ID: 1911
+
+QUESTION:
+So I recently installed a stage 3 clutch alone with a aluminum single mass flywheel and I replaced both the pilot and throwout bearing and I made sure to add grease to the throwout bearing , now that I think about I might have gotten a bit of grease from my hands on the contact surface of the bearing but anyway I got the car all back together and it started up fine but only one issue whenever I press the clutch in it makes this weird noise almost like a grinding noise , I’ll add a video below but it only does it when the clutch is pressed in and if I put in gear while being stationary with the clutch in it still makes the noise and when I drove it it would also make the noise in between gear changes. Now I’ve never had a stage 3 clutch on my car but I am pretty sure that’s not normal right ? Anyway I couldn’t upload the video so I had to post it on YouTube here is the link . You can see when I press the clutch in the noise will start . I haven’t drove the car since because I want tu be sure and not risk damaging anything anymore if I already did Sorry I forgot to smack the top of my dash lol https://youtube.com/shorts/A1Gui_BSp98?si=Jaa-xu9ClS8CLPAA
+
+ANSWER 1 (id: 1911_0):
+Your video is private. But yeah, noise when depressing the clutch isn't right. New throwout bearing? RIGHT throwout bearing? You CAN get a bit of a 'zizzz' sound right as it engages, as you let off the pedal, from the radial surface grinding texture on the flywheel and pressure plate. t
+
+ANSWER 2 (id: 1911_2):
+It does seem like a throwout bearing issue. I also wonder about the pivot and if it happened to be greased or replaced when you put it back together. I think generally a squeak from the pivot would happen in the opposite case, but also worth investigating. I don't know if there is much else that would cause this problem. I would consider pulling the transmission off and inspecting (at least) or replacing the throw out bearing. Inspecting the fork for bends, grease the pivot, etc. I think it is possible to incorrectly orient the throw out bearing, but I think you'd have other problems too.

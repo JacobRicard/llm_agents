@@ -1,0 +1,7 @@
+QUESTION ID: 727
+
+QUESTION:
+Hi from New Zealand! :) I'm working on repowering my little 88 e30 coupe and had acquired a ZF 5-speed from an e39. However, after talking with a few in the know, there were some that suggested the gearing was different between these models? Being a n00b, it worried me after spending a pretty penny on the box (in short supply here in NZ). I found this thread, which talks about the physical characteristics of the bellhousing etc but I was wondering if anyone was able to share some wisdom re the gearing between these models and if I've made a rookie mistake in buying a box from the e39 :facepalm. Any help would be greatly appreciated. Ben
+
+ANSWER 1 (id: 727_0):
+I think they're all the same for fitment and gearing? The ratios from the Getrag boxes might occasionally be quoted as ZF ratios. I think the only difference is the ZF 310 for early production cars, which I think is only a different fluid spec (and maybe different synchro material?)

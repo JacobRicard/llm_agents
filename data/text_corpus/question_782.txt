@@ -1,0 +1,10 @@
+QUESTION ID: 782
+
+QUESTION:
+Here is an easy pictorial reference of how MS2 wasted spark works with the use of GM D555 / MSD 8224 coils. This is meant to be a supplement to the following write up: http://www.e30tech.com/forum/showthread.php?t=82341
+
+ANSWER 1 (id: 782_4):
+This is my understanding. You have 3 coils with 2 leads on each. Each time the individual coils fire, it sends a spark down both of its leads to two spark plugs. One of which is on the compression stroke and one is not. The spark that goes to the cylinder on the exhaust stroke is "wasted" because it doesn't ignite fuel.
+
+ANSWER 2 (id: 782_5):
+Necroing a 4 year old thread to add a small bit of clarification for future searchers. The really 'clever' part about a wasted spark ignition setup is that it ONLY requires a crank position trigger (which E30s already have), and does NOT require a camshaft position sensor (which E30s do NOT have). Since a pair of pistons (e.g. #1 and #6) are always together and at the same 'height' of travel in the cylinders at a given crank position, you can't know which one is on its compression stroke and which one is on its exhaust stroke without looking at the camshaft or valves. The crank position alone isn't enough, and that's why all modern cars with sequential fuel injection and sequential coil-on-plug ignition need a camshaft position sensor. But with a wasted spark setup, you don't care which is which, and just fire both plugs: one fires the 'right' cylinder on its compression stroke and the other is 'wasted' into the exhaust stroke of the 'wrong' cylinder. So that's why wasted spark is pretty slick, and a good way to modernize the ignition system without a lot of extra complication on these cars!

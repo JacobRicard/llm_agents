@@ -1,0 +1,7 @@
+QUESTION ID: 2227
+
+QUESTION:
+How are you guys adding photos? i have an old build thread with posts that have like 30 photos per post from 2018-19. I went to add another post on monday and after spending legit like an hour on the post and setting up all the embedded images (like I did in the past) the forum spat back after trying to post that I couldn't have more than 5 photos. what am i missing here? Do I need to do it a different way or is that just how it is now. I hit add image then copy over my onedrive embedded photo link like I always do.
+
+ANSWER 1 (id: 2227_1):
+I almost never use the forum hosting for pics, but not for any real reason. I think that's the only way it will trigger a limit the number of pics per post. 99% of the time I use flickr - but wouldn't really recommend it in its current state. Too many ads, storage limits, editor sucks, not mobile friendly, pictures add a bunch of links and text unless you lobotomize them after you paste, etc.

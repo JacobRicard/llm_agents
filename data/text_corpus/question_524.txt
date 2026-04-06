@@ -1,0 +1,16 @@
+QUESTION ID: 524
+
+QUESTION:
+The speakers in my convertible are pretty bad, so I've been looking at options to replace them. I just want replacement speakers, nothing crazy. I have the tweeters on the doors, so the original speakers in my car are component, right? If so, why would Crutchfield recommend full range speakers as replacements? Wouldn't that give me two tweeters? Do the OE speakers have the crossover built in?
+
+ANSWER 1 (id: 524_0):
+The fronts are component with passive Crossover. The rear is just a mid range. Get a nice component set for the front or upgraded mid range, install a Crossover and keep the stock tweeter. Install full range speakers in the rear or components if you want to cut holes for the tweeters. Backspacing is limited in the rear so it must be shallow to fit.
+
+ANSWER 2 (id: 524_1):
+Awesome, thanks. So you think if I get a component set for the kick panels it will work with the stock tweeters? I definitely want to keep the stock tweeter housings. No cutting the rears for me, components will be just fine.
+
+ANSWER 3 (id: 524_2):
+The rear is https://www.ecstuning.com/b-genuine-...r/65131386541/ The front is https://www.ecstuning.com/b-genuine-...h/65131386546/ It has an L-circuit with red wire wrapped around the speaker and a capacitor. It cuts out high frequencies. You'll have problems installing a full-range speaker because it won't fit due to the thickness.
+
+ANSWER 4 (id: 524_3):
+Originally posted by Lippy Awesome, thanks. So you think if I get a component set for the kick panels it will work with the stock tweeters? I definitely want to keep the stock tweeter housings. No cutting the rears for me, components will be just fine. If you get a component set for the front, I assumed you would want to replace the stock tweeter with the component tweeters. Removing the stock tweeter from the grill housing isn't hard to do at all and keeping the housing retains the stock look. You could use hot glue to secure the new tweeter in the housing. If you want to keep the stock tweeters that's no problem either as the component speaker system comes with a high pass filter. Just be sure to wire it in. The choice is yours. As for the rear, when I mentioned full range I meant to say 2 way speakers for the rear (mid/tweeter). As mentioned, a 3 way or full range speaker may not fit in the rear.

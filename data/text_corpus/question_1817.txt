@@ -1,0 +1,37 @@
+QUESTION ID: 1817
+
+QUESTION:
+I am finally getting around to switching out the Gen 1 Can Bus with Gen 2 version. The Gen 1 version was flaky. When we went to do the pinouts for the new connector I noticed that there are 18 slots in the Gen 2 vs the 12 in Gen 1. I reached out to Garry, he hasn't responded, not sure if he is on here anymore. Can anyone else help me understand the pinouts on the new connector, which ones correlate to the 12 on the old one? Attached Files
+
+ANSWER 1 (id: 1817_0):
+I wish I could help - and that these were still available, because they would also work for more modern swaps (N52/N54). Pretty sure he's been MIA for a couple years now at least.
+
+ANSWER 2 (id: 1817_1):
+Are the V1 box's the Same as V2? The unit I put on a car worked good for about a year to get the CEL and A.C. working. But then glitched out burning up an HVAC unit and causing idle faults and issues. - E36 I haven't had any luck contacting Garry within the last few years..
+
+ANSWER 3 (id: 1817_10):
+Originally posted by MarkD I'm curious if anyone else has made a replacement CANBUS module yet. If there's enough demand for this, I may consider making one. I don't believe anyone is making a module, I'd buy one if you made it!
+
+ANSWER 4 (id: 1817_11):
+Originally posted by bubbajan21 I don't believe anyone is making a module, I'd buy one if you made it! I've just bought some hardware to make a new version of this CANBUS A/C controller. Can anyone tell me what the main problems with the G Peterson controller were?
+
+ANSWER 5 (id: 1817_12):
+I had ICV and Purge valve faults. The ac output was not working after a while and getting stuck on. I think the hvac panel got fried too. e36 application.
+
+ANSWER 6 (id: 1817_3):
+Dont forget to reference the Wiki and writeups in the XDF Swap subfolder/PWM fan wiring https://github.com/saildot4k/MSS54-X...%20Swap%20XDFs And wiki, pay attention to the right side selections: Home https://github.com/saildot4k/MSS54-XDFs/wiki MSS54 and MSS54HP XDFs . Contribute to saildot4k/MSS54-XDFs development by creating an account on GitHub.
+
+ANSWER 7 (id: 1817_4):
+Originally posted by nando I wish I could help - and that these were still available, because they would also work for more modern swaps (N52/N54). Pretty sure he's been MIA for a couple years now at least. Nando, I have a connection with someone that was willing to make another controller. He does so for other BMW related stuff, this guy: https://airventdisplay.no/en/ He had a schematic/prototype and beta software but stopped when I sold my BMW as I could no longer test. As you can see, he has the skills, and I KNOW you know the system better than I as far as software side, probably HW side as well. If you like, I can try to connect you two to come up with another "universal" product.
+
+ANSWER 8 (id: 1817_5):
+Originally posted by R3Z3N Dont forget to reference the Wiki and writeups in the XDF Swap subfolder/PWM fan wiring https://github.com/saildot4k/MSS54-X...%20Swap%20XDFs And wiki, pay attention to the right side selections: https://github.com/saildot4k/MSS54-XDFs/wiki I forgot I could just ask you lol. I had the Gen one then I had Gary send me a Gen 2 with the programming the same as the Gen one. The first picture with the white plug is my Gen 1 wiring, the second picture with the black is the gen 2 plug correct. So I should follow your Gen 2 wiring.
+
+ANSWER 9 (id: 1817_6):
+^Yuppers! Good luck. I have helped with ~40? of these installs now, so far the Gen 2 has been the LEAST reliable oddly. I hope your experience differs. I believe you have my number as well if you need to call, otherwise PM me. I rarely jump back here, but alas I still have a passion for the S54 project stuff. Maybe someday a 240z with S54 supercharger swap.....
+
+ANSWER 10 (id: 1817_7):
+Originally posted by R3Z3N ^Yuppers! Good luck. I have helped with ~40? of these installs now, so far the Gen 2 has been the LEAST reliable oddly. I hope your experience differs. I believe you have my number as well if you need to call, otherwise PM me. I rarely jump back here, but alas I still have a passion for the S54 project stuff. Maybe someday a 240z with S54 supercharger swap..... Yes I have it I am going to text you.
+
+ANSWER 11 (id: 1817_9):
+Originally posted by nando I wish I could help - and that these were still available, because they would also work for more modern swaps (N52/N54). Pretty sure he's been MIA for a couple years now at least. nando, have you found anyone who is making these now? I'm asking as I'm thinking about making a version. MarkD

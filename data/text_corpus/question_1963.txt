@@ -1,0 +1,22 @@
+QUESTION ID: 1963
+
+QUESTION:
+For those with the atiwe or 3 bolt hubs, is this gap between the hub and column normal?
+
+ANSWER 1 (id: 1963_1):
+Originally posted by bangn I take it you have the key turned in the ignition? Doesnt look like enough stud is poking through Yeah the keys turned. I fitted the nut with the washer and there is enough stud. It just doesnt look right
+
+ANSWER 2 (id: 1963_2):
+Havent heard of atiwe so cannot vouch for their quality but I guess the gap will be dependant on how much offset the boss kit has. If its relatively flat on the back then it will have that gap youve posted. I would lay your factory steering wheel flat and measure off the mounting face inside to the back of the wheel to the back of the hub and do the same on your boss kit, subtract the two numbers and that will give you your gap difference if correctly mounted. The OE wheels run minimal gap. You could probably even just run a straight edge over the back of the oe wheel and boss hub to gauge the gap diff when mounted . If ones got a larger gap than the other theres your culprit
+
+ANSWER 3 (id: 1963_3):
+Originally posted by bangn Havent heard of atiwe so cannot vouch for their quality but I guess the gap will be dependant on how much offset the boss kit has. If its relatively flat on the back then it will have that gap youve posted. I would lay your factory steering wheel flat and measure off the mounting face inside to the back of the wheel to the back of the hub and do the same on your boss kit, subtract the two numbers and that will give you your gap difference if correctly mounted. The OE wheels run minimal gap. You could probably even just run a straight edge over the back of the oe wheel and boss hub to gauge the gap diff when mounted . If ones got a larger gap than the other theres your culprit After digging a few more, I found out that I need to remove the white lock pin (this was not stated anywhere) and that did the trick. Thanks
+
+ANSWER 4 (id: 1963_5):
+Originally posted by CR325IS There is an adaptor sold by paddock that makes the wheels bolt up to a momo hub. What wheel do you have? Lets see an after picture. I was planning on getting that adapter but the wheel would stick out too far so i went for the authentic hub adapter.
+
+ANSWER 5 (id: 1963_6):
+Originally posted by AmosCake I was planning on getting that adapter but the wheel would stick out too far so i went for the authentic hub adapter. That adapter is about 1/4" thick. Where did you get that authentic one?
+
+ANSWER 6 (id: 1963_7):
+Originally posted by CR325IS That adapter is about 1/4" thick. Where did you get that authentic one? Bavarian Parts & Steering Wheels (@bavariansteeringwheels) | Instagram https://instagram.com/bavariansteeringwheels?igshid=MzRlODBiNWFlZA== 2,185 Followers, 306 Posts - 🛑Steering Wheels & Rare Spareparts 🌍Worldwide Shipping ✈DHL Express 4-7 days 💸Paypal Goods And Services 📍Location:Middle east, Lebanon🇱🇧 I believe he has a couple left

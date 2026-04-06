@@ -1,0 +1,7 @@
+QUESTION ID: 60
+
+QUESTION:
+The male side of the connector (harness side) of the reference sensor came apart in my hand. Looking at RealOEM I see a lot of the female connectors but few if any of the male connectors from the end of the cable harness. Is there a source for these plastic connectors? I can de-pin the connector and replace it if I can find the part. In a pinch, I can purchase some Delphi Weather tight connectors and replace both ends of the connector.
+
+ANSWER 1 (id: 60_0):
+You can browse the connector catalog of AMP, which made some E30 connectors. The Junior Power Timer​ series, for example. Access to this page has been denied. https://www.mouser.com/ProductDetail/571-282190-1 BMW provides some repair cables. For ABS: https://www.turnermotorsport.com/p-1...uine-bmw-part/

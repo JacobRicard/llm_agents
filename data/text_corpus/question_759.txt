@@ -1,0 +1,10 @@
+QUESTION ID: 759
+
+QUESTION:
+Hey, I got my car running but the charging system is not charging and battery light is not coming on even though it is not charging. I have battery voltage 12.045 volts at alternator stud and at the exciter wire. I replaced the alternator today but starting to think I got a bad alternator cause i checked the cluster battery light bulb which is working fine and I ohm tested the cluster and got 5.54 ohms which is what the bulb tested at. So if anyone can help ill listen and answer any questions to the best I can. Thanks
+
+ANSWER 1 (id: 759_0):
+Is the alternator grounded? Early alternators have rubber grommets and thus require a separate ground wire. If left ungrounded, it'll leave similar symptoms to what you're facing.
+
+ANSWER 2 (id: 759_1):
+Originally posted by AWDBOB Is the alternator grounded? Early alternators have rubber grommets and thus require a separate ground wire. If left ungrounded, it'll leave similar symptoms to what you're facing. Thanks AWDBOB that fixed my problem, I just used sum wire that was laying around so I'm going to go to the part store and make a better ground out and thicker gauge then 20 gauge wire.

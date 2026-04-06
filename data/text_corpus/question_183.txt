@@ -1,0 +1,7 @@
+QUESTION ID: 183
+
+QUESTION:
+Hi All, My car was recently painted and the electrical gremlins have crept in. If I leave the car unlocked overnight (without the alarm on) I find that within 3 days of no start that battery is either weak or dead. What I have noticed...With the doors closed and ignition off all the electric switches (2 doors and sunroof) still lights up The sunroof only works when the door is opened but the light remains on With the window switches locked - the sunroof switch remains on Any help will assist. Thanks
+
+ANSWER 1 (id: 183_0):
+you can find a copy of the electrical trouble shooting manual here : http://wedophones.com/Manuals/BMW/ get a copy now before the resource disappears altogether. time to start tracing connections and wiring.

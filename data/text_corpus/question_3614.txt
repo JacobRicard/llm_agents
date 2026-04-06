@@ -1,0 +1,10 @@
+QUESTION ID: 3614
+
+QUESTION:
+I figured I'd share my dyno day for all the other eta owners who were wondering what kind of gains you would get with chipped motor. I have a Turner Chip and a custom exhaust (just resonator to a Magnaflow muffler) and I was pretty impressed by my numbers! These cars made 121 HP at the crank and I ended up with 127 HP to the wheels according to the Mustang Dynamometer. Check out this YouTube link for the pulls and results: https://www.youtube.com/watch?v=BVPUHRdWDYI&feature=youtu.be This car obviously isn't fast, but I compete in autocrosses monthly and it does pretty well for it's power! (I also have upgraded suspension, wheels, tires and brakes) I won't be keeping the engine forever, but for now, it's a really fun car!
+
+ANSWER 1 (id: 3614_0):
+Nice! The eta was under rated. We dyno'd a bone stock eta with just a muffler/cat delete (resonator only, endurance race car) and it did 125whp/160wtq. Swapped an 885 head, eta intake mani, "i" intake manifold and eBay headers, power went to 145whp/175wtq - both times the car was chip tuned at the dyno.
+
+ANSWER 2 (id: 3614_1):
+It does seem like there is more to be had with the ol' 327i combo. Having ran an M20B25 for a while, and just picking up a car that had the 885 head/SSquid chip on an eta - I am liking the torque of the 327i combo. It's usable power I would say, and fun to drive. If you've got an eta, and a spare 885 head sitting around, I almost wonder why you wouldn't do the swap.. Sure, you lose a little in MPG, but meh.

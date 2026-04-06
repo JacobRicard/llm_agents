@@ -1,0 +1,16 @@
+QUESTION ID: 131
+
+QUESTION:
+I noticed my 87 325e was leaving small puddles of coolant on the driveway every day. After investigating further I first noticed there were traces of coolant basically everywhere directly in front of the radiator and that the radiator had a big wet spot. After running the engine for a while I finally say the cooling spewing out of the radiator whenever I reved the engine up. Here's a video: https://youtube.com/shorts/uEEijZ54UdM I tried this with the engine running while still warming up, and didn't noticed it. This finally happened after had plenty of time to warm up. What could be the issue? A blocked/dirty radiator? Air pockets? Anything else? Also, on a related note. I suspected my thermostat may be broken in the open position because the fan runs all the time, as soon as I turn on the car. But now that I saw the spewing only when the engine is hot made me think that the thermostat is working properly. Any thoughts on this second point? Lastly, I plan to fix this ASAP, but if I drive the car in the meantime will I run the risk of overheating the engine even if I keep topping off the coolant? I appreciate your help
+
+ANSWER 1 (id: 131_1):
+I have seen pinhole leaks which are very hard to find but this is a huge leak from the center of the core! Replace it asap. I hear early radiators are NLA and there aren't many aftermarket suppliers.
+
+ANSWER 2 (id: 131_2):
+Originally posted by ghrays Looks to me like the radiator is leaking. If your car has a production date after 9/87, a new one from Nissens is less an $200 at RMEuropean. Looks like I'm out of luck. My car's production is 11/86. The only radiator I can find is a genuine BMW for $612 + shipping. Is it possible to retrofit the post-9/87 radiator into an earlier model?
+
+ANSWER 3 (id: 131_3):
+Originally posted by marsgorski Looks like I'm out of luck. My car's production is 11/86. The only radiator I can find is a genuine BMW for $612 + shipping. Is it possible to retrofit the post-9/87 radiator into an earlier model? I don’t think so. Bobbie (AWDBOB) would likely know. https://www.r3vlimited.com/board/forum/e30-technical-forums/24v-engine-swaps/m50-52-s50-52/76622-mounting-late-e30-radiator-to-early-e30
+
+ANSWER 4 (id: 131_4):
+Sure you can if you change to the later style cooling system...water pump, coolant reservoir and get the cross over pipe. Not sure if there is an easier way to do it without converting.

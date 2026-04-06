@@ -1,0 +1,13 @@
+QUESTION ID: 1619
+
+QUESTION:
+I am leaking a tiny tiny bit of fluid from the front face of the transfer case, and I think it is from the two seals under the dust shield. Has anyone been successfull with replacing just those seals? Without breaking the case open? And if so what do I use to drive in the new seals?
+
+ANSWER 1 (id: 1619_0):
+The front drive sprocket has a shaft seal between it and the case. The dust shield (black plastic part) just keeps the spline grease contained between the sprocket and the shaft. There's an o-ring on the sprocket and an o-ring on the shaft. The shroud just has surfaces that compress those o-rings when it's in place. So if you're leaking actual fluid, it's the shaft seal around the sprocket. If you're leaking a little bit of grease, it could be one of those o-rings.
+
+ANSWER 2 (id: 1619_1):
+It's atf, I took the sprocket off when I greased fornt drive shaft and I It's wet with atf fluid. How does one remove the double seals that are on there? And what tool can you use that can press the new seals into it, it is a tight Gap.
+
+ANSWER 3 (id: 1619_2):
+There's a factory tool that presses the new seals in. I used it once - I'll bet it's NLA now. IIRC it was basically just a round ring the same size as the seals. I have never used it since, I've always disassembled the transfercase and resealed the whole thing. you can get out the old seals with a pick, but you'd better be careful not to scratch the aluminum housing..

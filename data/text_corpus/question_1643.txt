@@ -1,0 +1,13 @@
+QUESTION ID: 1643
+
+QUESTION:
+​Hey All! First post here on the Forum. I recently bought a pretty 89 that came with these Alpina-style 16s. The tires on it currently are 225/45R16 93W. I like the look of the alpinas but I'm more tempted to buy some RS reps for the car. I added a screenshot of what I was thinking of getting. The specs for the RS reps are Size : 16X7.5 Bolt pattern : 4X100/114.3 Offset : F&R: 35MM Hub Bore : 73.1mm : Will these fit on the car as it is lowered and with the same tire spec, or is there another rim and tire spec that might work a little better for handling? I bought the car with my dad, and he doesn't seem completely sure those rims and tire specs will work with the car as it is, lol. I'd love to get any advice on making sure the rims and tires fit before I spend the money. All help is greatly appreciated!​
+
+ANSWER 1 (id: 1643_0):
+This is going to depend on the offset. At 35, you should be fine. Use this site to visualize the current setup and your proposed setup: Alloy Wheel & Tyre Fitment Calculator. Offset, Tyre Stretch and Speedo Error | Will They Fit https://www.willtheyfit.com/ Alloy Wheel & tyre fitment calculator - it calculates inset, poke, speedo error, tyre stretch and loads more. Also, are you sure you want to spend your money on reps? The wheels on the car look pretty cool. I bet if you polished the lips and maybe painted the centers, they'd look even better.
+
+ANSWER 2 (id: 1643_2):
+Yeah, I've been wanted to move up to 225 as well but like digger said, tires are expensive and almost all options i see 200 or less for TW Honestly the indy 500 205/50/16 grips crazy style
+
+ANSWER 3 (id: 1643_3):
+Agree with all the 16" comments. I ditched mine for this reason and went back to 15" If you do go 16, plan to run 205/50R16 as they're the only thing that's still somewhat available. RS reps you posted will need hubcentric rings and spacers - up front for strut clearance, and in the rear just to match/look good. Maybe 15mm worth. I'd wait to test fit the wheels/tires and play with some washers.

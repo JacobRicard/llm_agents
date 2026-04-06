@@ -1,0 +1,13 @@
+QUESTION ID: 143
+
+QUESTION:
+Hello, My car (1991 325i) runs nice and cool (between 1/4 and 1/2 lines) while driving but starts to run warm when idling. It takes about 10 mins of sitting and idling for the needle to pass the center line and that’s after driving around town. I replaced the fan clutch about 4K miles ago since the old one was bad and it’s working as the needle never passes the center line (but gets close) while driving in stop and go traffic or at stop lights. The needle used to pass the center line in these circumstances with the old fan clutch. It’s only when idling for 5-10 mins in a parking lot that it will pass the center line. So under normal driving circumstances, the car does not overheat or ever go past the center line. The cause for concern is the car used to stay cool (hair above the 1/4 line) no matter what but the issue started last year after the cork gasket on the throttle body sprung a leak (it lost a lot of coolant from this leak). Car never overheated or even passed the 1/2 line during this time and turned car off before it could overheat and had it towed and left the car until I got the system repaired. I do not believe the gauge to be inaccurate as once I drive the needle goes back between 1/4 and 1/2 and is glued there until idling comes into play. Car does not leak coolant. It seems like the system just isn’t getting good coolant flow. All I know is i replaced the water pump and thermostat with the timing belt last year and shortly after that the gasket leak happened. I’m thinking perhaps one of those new parts created more pressure in the system causing the old gasket to leak. Perhaps it’s the thermostat not fully opening and sort of blocking the flow? does engine speed influence the power of the water pump? Lastly, aux fan works like new as I replaced the resistor last year. Thanks yall​
+
+ANSWER 1 (id: 143_0):
+this is after 15 mins of idling right now from a cold start. Pulled the car out of the garage for first time today and just let it sit and idle. It only goes over the middle line if driven around all day and then let it sit and idle. Am i being too OCD?
+
+ANSWER 2 (id: 143_1):
+I’m a GOON!! Aux fan resistor is dead again. I just replaced it last year so that’s annoying. Anyway yep temps in Austin are 92 F right now and I’ve been running the AC and that’s when the needle sits on and passes the center line verryyyyy slowly. Needle stays below the center line with AC off (like in the pic) or with heat on while idling all day long. Can this thread be deleted?
+
+ANSWER 3 (id: 143_2):
+Yeah that looks totally normal for clutch fan only. My car with working aux fan vs my car with broken aux fan represents the exact difference you're experiencing.

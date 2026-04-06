@@ -1,0 +1,37 @@
+QUESTION ID: 1334
+
+QUESTION:
+So mine is full of rust! How bad is everyone else's? Does anyone run the rubber battery vent cable somewhere under the car?
+
+ANSWER 1 (id: 1334_0):
+Convertible owners - post your battery tray Is the battery front mounted in the convertible? Here's the front tray in my 318i. It's a CA car so this is the only rust. It's eating through the shock tower also. I want to rear mount the battery when I get the chance.
+
+ANSWER 2 (id: 1334_1):
+Some verts in the rear have a very odd, weighted damper, where a battery would normally be. I assume you can relocate the battery with just a non-ver battery cable. I parted out an e30, and sold it to a 2002tii guy that wanted to relocate the battery. Some guy that worked at a metal re-cycle plant, laughed at my $30 asking price. Telling me the that the copper in the wire was worth more then what I was selling it for! Oh well!
+
+ANSWER 3 (id: 1334_10):
+i have never heard that removing the weight caused issues. Every time I have read about it no change was reported. Hmmmm, I was just about to remove mine to.
+
+ANSWER 4 (id: 1334_11):
+Originally posted by rcsoundn1 i have never heard that removing the weight caused issues. Every time I have read about it no change was reported. Hmmmm, I was just about to remove mine to. Same here, and I'd been driving fine without it. But lately my commute has been city driving only, and I'd taken out all the extra weight in my trunk (tools and crap) and just yesterday drove on the highway, and the back end was shaking like crazy. Then on the way back after picking up new wheels and having those in the back, the drive was fine. So I guess the extra weight makes a difference. I will be swapping the weight out for a battery in the summer though.
+
+ANSWER 5 (id: 1334_12):
+Does anyone still use the factory battery tie down in their convertible? (Or 318, which apparently also has the batt in the front.) Mine is gone which means the batt is just sitting there willy nilly
+
+ANSWER 6 (id: 1334_13):
+I use the factory tie down. It's a combination of a white nylon block on one side to keep the battery from moving from left to right and a hold down clamp with a bolt that threads into the metal battery tray to keep it all in position. 61-21-1-350-825 spacer block 61-21-1-370-816 battery hold down 07-11-9-913-589 bolt http://www.r3vlimited.com/board/showthread.php?t=330303 Sorry the car is 7 hours away and I don't have access for a picture.
+
+ANSWER 7 (id: 1334_2):
+My front battery tray had a little bit of rust, but it was easily dispatched with a wire wheel and touch-up paint. IMO it's best to move your battery to the rear. You get to ditch that large weighted damper (saving 40-50lbs) and get better weight distribution.
+
+ANSWER 8 (id: 1334_4):
+The weight in the rear of a 'vert is called a "vibration dampener" in the parts catalog. What exactly it is supposed to be dampening is a mystery to me. I'm not sure why the battery could not serve the same purpose. It was debated on E30Tech some years ago ... http://www.e30tech.com/forum/showthread.php?t=28058
+
+ANSWER 9 (id: 1334_5):
+Originally posted by slammin.e28 I'm still confused why they put the battery up front....then a weight in the rear battery tray....in 'verts. $$$ same reason the later models came w sealed beams and no lsd remove weight relocate battery
+
+ANSWER 10 (id: 1334_6):
+It's supposed to help with cowl shake. You know for the luxury buyer and all. My battery is now in the trunk. I ran an eta cable but it was a tight fit. Pay attention to proper grommets and wire insulation. You don't want that cable shorting out. My battery tray is now a bit smaller and I run a washer fluid bottle in that spot. I was able to get a stock e/I plastic battery tray to bolt into the right rear wheel well area without much modification. The vibration damper was rubber mounted so as to absorb vibration whereas a battery is more solidly mounted and is less effective at minimizing vibration. The battery could have been mounted back there but Iit would have required an all new cable and the structural reinforcements added to the verts would have made it more difficult.
+
+ANSWER 11 (id: 1334_9):
+I removed my weight in the rear months ago but have only recently driven on the highway without a trunk full of tools, and now I see why they call the weight a vibration damper! I thought the car was going to fall apart and can't believe the extra weight in the back made that much of a difference. I'll be throwing the weight back in until I can get parts to relocate the battery. An AGM battery would help prevent rust in the future but I JUST bought mine this year. I'm on the lookout for one of those acid catcher bottles that plugs into the vent on the side of the battery - saw one on a Mercedes once and can't believe I didn't get the chance to grab it.

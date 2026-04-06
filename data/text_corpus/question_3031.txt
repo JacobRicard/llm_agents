@@ -1,0 +1,25 @@
+QUESTION ID: 3031
+
+QUESTION:
+Forgive me if there's already a thread on this (couldn't find one). I've recently acquired an untouched OEM euro plate filler. Was wondering if there are any clever mounting techniques. Specifically ones that don't require drilling in order to fit a US plate. I've seen US plates mounted over euro plates. Looks busy to me. That said, I ain't afraid to drill if I have to... Thoughts?
+
+ANSWER 1 (id: 3031_1):
+Being that the holes are in completely different locations, I don't see how you could get a EURO plate filler and adapt it to a US spec car without drilling new holes. You can either drill new holes in the car or drill new holes in the plate filler. What's the big deal? the holes you drill are hidden behind the plate and the fillers probably aren't going back to Europe.
+
+ANSWER 2 (id: 3031_2):
+Originally posted by roguetoaster Get an E46 or similar modern rear plate mount. It should adapt the Euro holes to US. Thanks. Trying to understand. Won't the plate filler cover the mounting holes in the body? Here's a picture of my car (currently being painted). How do mount the e46 bracket to the filler? Attached Files
+
+ANSWER 3 (id: 3031_3):
+Originally posted by reelizmpro Being that the holes are in completely different locations, I don't see how you could get a EURO plate filler and adapt it to a US spec car without drilling new holes. You can either drill new holes in the car or drill new holes in the plate filler. What's the big deal? the holes you drill are hidden behind the plate and the fillers probably aren't going back to Europe. Right. Agree.
+
+ANSWER 4 (id: 3031_4):
+Originally posted by roguetoaster Get an E46 or similar modern rear plate mount. It should adapt the Euro holes to US. Dang this is exactly what i needed to know, yet in an unrelated thread. thanks! So the E46 body side holes are actually the same width apart as the e30 euro holes?
+
+ANSWER 5 (id: 3031_5):
+Originally posted by Sea Aych Dang this is exactly what i needed to know, yet in an unrelated thread. thanks! So the E46 body side holes are actually the same width apart as the e30 euro holes? They should be, but I encourage you to measure on your own of course. As to the OPs last, the Euro plates use a U shaped mounting insert in a standard round hole. I do not know if US bodies are drilled to accept it, but oddly Euro cars do seem to come with stickered over holes for US size plates. Had not considered that you would also need the correct mounting holes on the body as I was looking at this through the lens of a touring owner mounting a US plate on a Euro delivered car.
+
+ANSWER 6 (id: 3031_6):
+OP, since you have a face lift model, you only need to drill the two top holes. The US plate hangs over the bottom lip of the body on the face lift models which may be of concern especially if you have a frame. I only used the top 2, I then removed the bottom inserts from the body and covered the remaining holes with tape. It'll become clear what needs to be done once you go to install the filler.
+
+ANSWER 7 (id: 3031_7):
+The E46 or E53 rear plate holder mounts to the trunk via 2 bolts towards the center. So while you may get away not making new holes to the filler, you will need to make new ones on the car

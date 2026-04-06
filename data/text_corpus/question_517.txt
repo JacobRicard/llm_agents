@@ -1,0 +1,10 @@
+QUESTION ID: 517
+
+QUESTION:
+Hey guys, not sure where to start on this. I was thinking initially may have been a ground loop but I don’t know much about them to really confirm. I purchased a radio from bmwradios. Swapped all 4 speakers, and everything was working fine. My car is a 90 325 e30 and the car has daylight running lights. We ran into an issue where the wire that would normally be the remote, was acting like a constant for some reason. I disconnected everything and I ran a wire from an accessory as a remote instead to avoid the radio constantly being on. upon hooking the speakers back up, my rear speakers now have a constant buzzing/ tweaking/hum. This hum is only auditable when there is volume on and will stop afree some time, and turn into an ticking. Anyone have any idea what might be causing this? Have the speakers gone bad? The head unit? Have I potentially mis wired something? I also ran rcas but disconnecting them or the remote wire I set up, doesn’t change anything. https://youtube.com/shorts/vzF5kCW7jZ4?feature=share help! And thanks in advance.
+
+ANSWER 1 (id: 517_2):
+Originally posted by It's Soda Not Pop bad or poor ground don’t the grounds for the rear and front connect to the same spot? Only rears are doing this
+
+ANSWER 2 (id: 517_3):
+Originally posted by Noxasian don’t the grounds for the rear and front connect to the same spot? Only rears are doing this If you have another speaker to hook up back there, then try swapping it out to see if the defect follows the speaker or stays with the car.

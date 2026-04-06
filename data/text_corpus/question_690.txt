@@ -1,0 +1,7 @@
+QUESTION ID: 690
+
+QUESTION:
+I have been struggling for a while to get my 89 E30 oil level sensor to work and I have even purchased a second one and both fail to shut off the check light. I even tried another check panel and it still fails. I finally cleaned out the sensor and ran the tests found in the oil electrical trouble shooting manual and I discovered that the the two sensor wires are (pin 1 and 3) are swapped based on the wire color from the sensor. The sensor description says pin 3 the GR/YL wire should close at full oil and open and low oil and I found that the blue wire closes at full oil and opens at low oil. I swapped the two wires to the male connector ( moved blue to pin 3 and GR/YL to pin 1 and the switch works as expected and the check light goes out. This is the original wire before the swap.
+
+ANSWER 1 (id: 690_1):
+Exactly what I found the blue wire is static and the GRN/YEL is the dynamic switch. I did not have to modify the female side (connection to engine) since the EV1 3 pin connector was fine but the male side on the sensor was disintegrated on both sensors, my original and the used one I purchased.

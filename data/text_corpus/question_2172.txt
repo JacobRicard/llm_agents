@@ -1,0 +1,13 @@
+QUESTION ID: 2172
+
+QUESTION:
+After what feels like a century got both rear wheel bearings and hubs off the car. After replacing the bearings and installing the hub (partially in the video) and completely on the other side, the wheel hub wobbles up and down and side to side. I am not sure if I damaged the bearings during installation, or what it may be? The old hubs/bearings did not. What is likely causing this? https://youtube.com/shorts/EGKqw6grZo0?feature=share
+
+ANSWER 1 (id: 2172_0):
+Check out this thread from only a few weeks ago: https://www.r3vlimited.com/board/forum/general-forums/general-discussion/10042674-i-trashed-my-wheel-bearing-what-should-i-do-different Still have yet to hear theories as to what is damaged in the bearing if you hammered the hub in.
+
+ANSWER 2 (id: 2172_1):
+Originally posted by Jaxx_ Check out this thread from only a few weeks ago: https://www.r3vlimited.com/board/for...i-do-different Still have yet to hear theories as to what is damaged in the bearing if you hammered the hub in. Will take a look, thanks. I used a proper wheel bearing install kit (no impact either), but I did really tighten it, and I am not 100% sure I used the right size. I figured I had broken the bearings... Edit - Just watched your video and literally laughed when you noted how disappointed you were. Same here man, same here.
+
+ANSWER 3 (id: 2172_2):
+It's wobbling in your video because the hub is only being supported by the front half of the bearing which is free to move like that, have to press it all the way through until it's fully seated and snug inside both halves. As others said in the aforementioned thread, you have to support the backside of the inner race as you press the hub in. That's the mistake I made the first time and it wrecks the bearing as you press the hub through, splitting the backside inner race from the outer. If you do that maybe you could force it back together somehow but idk. Don't use a hammer.. If you have to, find some old pipes in the right diameter and a strong threaded rod and you can make the tool.

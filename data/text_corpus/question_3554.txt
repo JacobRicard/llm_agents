@@ -1,0 +1,16 @@
+QUESTION ID: 3554
+
+QUESTION:
+What tracking technology are you guys using to be able to track down your E30 (or other assets) if they are stolen? Everything I seem to find has limitations. Spot trace - $100/year service fee Tile - Have to depend on others to be around and have a Tile app + retile every 12 months. Using old GPS phone - need data plan which is $10/month (same price as SPOT/yr). Any ideas?
+
+ANSWER 1 (id: 3554_0):
+I saw this tracking device named TrackR on facebook. The TrackR is about the size of a quarter and could be tracked using your phone. I think it was about 30 bucks for one. I'm tempted to get one and try it out for my E30. thetrackr.com - thetrackr Resources and Information. https://www.thetrackr.com/ thetrackr.com is your first and best source for all of the information you’re looking for. From general topics to more of what you would expect to find here, thetrackr.com has it all. We hope you find what you are searching for!
+
+ANSWER 2 (id: 3554_1):
+Originally posted by RobDog I saw this tracking device named TrackR on facebook. The TrackR is about the size of a quarter and could be tracked using your phone. I think it was about 30 bucks for one. I'm tempted to get one and try it out for my E30. https://www.thetrackr.com/ Just looked at that, its using bluetooth so it has a 100 ft range, and you'd need another person with the app to go within that to actually find your car... Looks fine/fun for lost keys/wallets and whatnot, but a car? Nah
+
+ANSWER 3 (id: 3554_4):
+If the thief really wants it, they will take it regardless of kill switch or alarm. They dont know what they dont know though, and a tracking device gives you the upper hand.
+
+ANSWER 4 (id: 3554_6):
+Fuel cutoff is beyond the scope of his question. If the vehicle is to be stolen, flatbedding it is a great option. A "stinger" can easily conceal in the bed of a pick-up truck. Neither require turning over a motor. For tracking, the best is LoJack. They have impressive recovery rates. LoJack is a part of the law enforcement world, too. Many cruisers, helicopters and undercovers have the tracking devices to locate stolens.

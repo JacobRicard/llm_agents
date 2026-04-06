@@ -1,0 +1,10 @@
+QUESTION ID: 2323
+
+QUESTION:
+Just in case anyone runs into a similar situation, perhaps this will save you a bit of trouble. I just finished installing a new auxiliary fan (purchased from ECS) and the orientation of the low speed and high speed plugs were switched in the plug housing. After installation, every time the AC was turned on, it would blow the #3 fuse. Once the issue was discovered and the plugs were placed in the correct orientation in the housing, all works as it should. Hope this may save someone some time if they run into a similar issue. Attached Files
+
+ANSWER 1 (id: 2323_0):
+I am likely going to have a new Aux Fan installed soon, so this is very timely. Would you mind explaining what did you use to support it, what brand this is and what did you use for pigtail (the SPAL one)?
+
+ANSWER 2 (id: 2323_1):
+Originally posted by Westija I am likely going to have a new Aux Fan installed soon, so this is very timely. Would you mind explaining what did you use to support it, what brand this is and what did you use for pigtail (the SPAL one)? That's a stock replacement fan from the look of the mounting hardware. If that is the case the connector would be included.

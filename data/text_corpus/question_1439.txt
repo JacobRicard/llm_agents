@@ -1,0 +1,19 @@
+QUESTION ID: 1439
+
+QUESTION:
+Hi Guys, Bored here on a rainy Sunday thinking about this first world problem.... I have an 88ix with a 270k mile engine that is running fine but is seemingly leaking from every possible spot. Coolant, oil and power steering! Just drips mind you nothing serious. My question is, whats more work, rebuild or replace? I have a good ix engine that is not leaking sitting in my garage so it wont cost me anything to swap it out. I have a lift so I'm leaning towards replace and maybe rebuild the leaky engine while its out of the car.
+
+ANSWER 1 (id: 1439_0):
+Through testing, I would determine which engine is best and then proceed to reseal that one or a combination of the two. The pan with axles running through it is the real time killer here. Make sure to not put an oil pan gasket on the iX!
+
+ANSWER 2 (id: 1439_1):
+Any M20 that I am putting in a car gets resealed no matter how it looks hanging out in the garage. I would at the very least have the head redone, and regasket the whole motor if you're going through the hassle of swapping an iX engine out. These engines are old, and even though it looks like it's not leaky, it doesn't take long for seals to dry out when the engine isn't in a car being ran regularly.
+
+ANSWER 3 (id: 1439_2):
+you can't kill an m20 (within reason). pull the plugs and scope the cylinder walls. if you don't see any scoring, and the cross hatching is still evident, why not recondition that one? pull the head and have it gone through, hone the cylinder walls, stick some rings and rod bearings in it - good for another 270k. just my $.02 from having done this stuff once or twice. :)
+
+ANSWER 4 (id: 1439_3):
+Thanks guys! Great advice, just what I was looking for. I think I will most likely re-gasket the engine thats out of the car now and swap it in, then rebuild the leaky motor while its out. Unless I bail out of this ix obsession and buy a new car lol. Then I can pass on all this shit to you guys! I'm going on 60 y/o, it may be more than I want to deal with!
+
+ANSWER 5 (id: 1439_4):
+Well the decision to rebuild the old engine or replace it with the lower mileage motor in my garage was made for me.....the 280k mileage motor in my 88ix started flashing the oil pressure light which soon became solid, quickly followed my loud knocking. Gonna have a shop near me thats familiar with the e30 ix swap out the engine for me. My question for you guys is, what parts should I save off the old high mileage motor? I'm assuming the bottom end is toast. Is the high mileage head worth keeping? ix specific oil pan have any value?

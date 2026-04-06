@@ -1,0 +1,16 @@
+QUESTION ID: 1263
+
+QUESTION:
+So as part of fixing one thing that touches on another thing I decided to convert my system to r134a, part of that includes cleaning out all the old pipes and I had hoped the evaporator. But I cannot for the life of me figure out how to get the evaporator core out of the car. I suspect that the firewall on the convertible is different because of the battery placement, but I am not sure. Here is the best I can get: You can see that there is a grey box the glovebox hinge is attached to as well as the wires to the ECU. The tutorials all say tip it down and it will come out, but all of the images I found don't look like mine. Either I am missing something or this just can't be done this way on a convertible. Help!
+
+ANSWER 1 (id: 1263_1):
+I was thinking that I would need to do that, but I cannot even get that far. I hit that grey bump, I read stuff about angeling it down and the like but I am only able to slide it in and out, I assume I am not getting it far enough out to be able to angle it yet. Do I need to tear all the foam padding out? Would that make enough room? It is fairly fragile and I don't want to break it on the way out. Attached Files
+
+ANSWER 2 (id: 1263_2):
+Just to sorta close the loop on this, I ended up just cleaning the evaporator in place because I could not reasonably get it out. I used a couple of Home Depot vinyl hoses to spray the AC cleaner into the core and then route the stuff coming out into a catch can under the car. I still don't have a dryer so I haven't tried to pull a vacuum on it yet, but hopefully that was good enough.
+
+ANSWER 3 (id: 1263_3):
+Yep, if it’s not leaking a evap flush is good. reverse flushing is better as you want to avoid lodging crap in there. A RHD evap core replacement is a PITA as you’ve got the steering column as well as the bump in the way. I flushed mine in place and was astounded by the amount of gunk that came out
+
+ANSWER 4 (id: 1263_4):
+Just removed the evaporator core from my 1988 convertible yesterday. I did not encounter the same problem you experienced. It was a pain to get the core out, but with patience I managed it. The new core seems slightly smaller than the original one and it went in much easier. Hopefully I didn't order the wrong one.

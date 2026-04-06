@@ -1,0 +1,13 @@
+QUESTION ID: 860
+
+QUESTION:
+Hey Guys, I found one thread where this was discussed briefly, but want feedback from anyone who's done it. The motor is out of my car right now and everything will be bone dry when I put it together. I've spent hours researching this and am leaning towards making the switch but want to hear direct feedback from anyone who's run/is running it.
+
+ANSWER 1 (id: 860_0):
+I've thought about it, but reducing the heat transfer of an already marginal cooling system is not that appealing to me. The reality is that much of the increased theoretical heat capacity of an Evans system ends up getting used to offset the fact that it can't dissipate heat as well.
+
+ANSWER 2 (id: 860_1):
+Originally posted by nrubenstein I've thought about it, but reducing the heat transfer of an already marginal cooling system is not that appealing to me. The reality is that much of the increased theoretical heat capacity of an Evans system ends up getting used to offset the fact that it can't dissipate heat as well. I understand all the arguments for/against quite well. What I am looking for is people who've actually done it. I'm running a 75# t-stat in my car and it currently runs quite cool, so I have a decent amount of headroom there, even under track conditions. I do like the zero pressure/corrosion and getting rid of cylinder head hot spots. Just looking for experiential feedback.
+
+ANSWER 3 (id: 860_2):
+UPDATE. I've been running this for a little while now. While I haven't had the car at the track, I've had it sitting in heavy traffic on 90+ days with the A/C running. It gets warm, but never above 3/4 on the gauge. As soon as I get moving again it cools down quickly and drops a little below the halfway mark. I'll be at PIR on the 8th running some full sessions and will have another update after that. I'll probably get some IR readings on outside temp of the head as well.

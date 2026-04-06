@@ -1,0 +1,7 @@
+QUESTION ID: 72
+
+QUESTION:
+new problem, I have no dash lights, when I put the headlights on the dash is just dark, is this an easy fix?
+
+ANSWER 1 (id: 72_5):
+Check the dimmer on the headlight switch by rotating it clockwise for full ON, counter clock wise for dim. Try rotating it back and forth to see any change. Do this in the garage or at night so you can see what's going on it. Many times it's just the potentiometer in the headlight switch.

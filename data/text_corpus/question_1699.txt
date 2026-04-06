@@ -1,0 +1,16 @@
+QUESTION ID: 1699
+
+QUESTION:
+I've been a lurker for a while however I'm now needing some assistance. I'd been having intermittent stalling issue and hard start issue, on the way to school one day the car died as normal i went thru with my normal routine of letting the car sit for a minute before trying to start it. I went to start it and the car just wouldn't start no matter what i did. I called AA and had them tow the car back to my house i assumed it was the fuel pump as it had been whining louder than normal, so i replaced the pump and the car wouldn't start I checked for spark didn't have spark or fuel. I just replaced the cps so i don't believe it to be the issue. I started testing voltage at the relay inputs and all of them test normal except for the main relay instead of reading somewhere near 12v it reads 6.2 I'm unsure of where to go from here any assistance would be appreciated.
+
+ANSWER 1 (id: 1699_0):
+first you'd need to include what car and year of production you have. there are differences between e and i cars plus some small differences over the years. cps may or may not be the issue. they can be bad out of the box and need to be checked to be certain. you'll need to have a multimeter and know how to use it. get a bentley repair manual if you don't have one. the diagnostics and repair for no start problems are laid out in it. make sure to read through the faq/diy sticky for in depth diagnostics on no start and poor running conditions. if you have stomp code capability you can check them following this - https://www.r3vlimited.com/board/for...17#post6384197 dme, relay, and electronics diagnosis is included here - https://www.r3vlimited.com/board/for...16#post6384191 engine management diagnostics are found here - https://www.r3vlimited.com/board/for...12#post6384179 make sure to read through and get familiar with them, there is a lot more useful info in the main links for other issues as well.
+
+ANSWER 2 (id: 1699_2):
+I would swap out a known good main relay and fuel pump relay to start. Also, be aware or the fusible link just ahead of the battery in the trunk. The fuel injector connector under the intake should be looked at. Just start checking off the boxes - you might come across the culprit while you are in there.
+
+ANSWER 3 (id: 1699_3):
+Originally posted by packratbimmer I would swap out a known good main relay and fuel pump relay to start. Also, be aware or the fusible link just ahead of the battery in the trunk. The fuel injector connector under the intake should be looked at. Just start checking off the boxes - you might come across the culprit while you are in there. good reminder on the fusible link.
+
+ANSWER 4 (id: 1699_4):
+Yeah I had a main relay take a shit on me years ago. Also the connector for fuel pump can go bad or have a bad spot (the connector on top of the assembly). Both of these issues happened to me. I just rebuilt the connector and that solved my intermittent issues. The Relay, was just that, a bad relay. After I put in a new relay the car started right up.

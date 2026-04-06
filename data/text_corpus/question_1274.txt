@@ -1,0 +1,16 @@
+QUESTION ID: 1274
+
+QUESTION:
+Quick question: for those running the Koni Yellow Sports on their convertibles it looks like the rear shocks do not require a shock protection boot (part #: 33 52 1 129 263) because they come with a metal tube already pre-installed. This seems like a no brainer, but I just want to make sure this is correct?
+
+ANSWER 1 (id: 1274_0):
+yep. youve got it. Ive got koni yellows in mine and no additional rubber tube thing required. Im sure this is common knowledge for some, but i coudlnt figure out how to adjust the rear shocks when i first got it. but turns out there is a rubber donut "bump stop" that slides up and down the shaft inside the metal tube. you need to remove this in order to be able to compress the shock far enough to reach the adjustment (you compress it all the way and then you turn the base in relation to the shaft to make adjustments). then once you have made your adustment you extend the shock all the way again and put the donut back in. What i will say is that the koni bump stop im not convinced is the best solution, and i have had it get jammed in between the shock shaft and the yellow metal tube quite a few times and i start to hear it squeaking and carrying on as it gets squished up and down as the suspension works. On multiple occasions i have had to fish out the bump stop with a coat hanger. For approx 3 years i have been meaning to come up with a better solution....just slightly less diameter and maybe a tad thicker so it holds it shape better would be the go. This is just my experience, others may not have issues with the bump stops.
+
+ANSWER 2 (id: 1274_1):
+In my last e30 I had Bilstein struts and shocks, I have never had Koni before. After reading a lot of great reviews about the Koni I figured I would give them a shot. Hopefully the adjustability is not a pain in the butt like you are mentioning.
+
+ANSWER 3 (id: 1274_2):
+The rear adjustment is a pain, but you don't have to do it very often. the front is fine. but neither have "clicks" you just have to measure how far you turn them, so you can match the other side. If you are interested i do have dyno charts for the 80-2522SPORT (rear) and the 8641-1210SPORT (front). They do a pretty good job i think, but i personally think the rears could do with more low speed rebound damping, and less high speed rebound. and the adjustment mechanisms only adjust the rebound, but it puts more high speed in BEFORE it starts putting low speed in. so it becomes quite uncomfortable whilst still being a bit "bouncy". hope that makes sense. Prolly doesnt. But thats being pretty damn picky on off the shelf slightly better than oem shocks. As an exercise in making a mess I should get some bilsteins and work out how to re-valve them myself. I've been meaning to do that for....years.
+
+ANSWER 4 (id: 1274_3):
+I have them with no additional cover. I wondered the same thing at the time. Also agree that the rear adjustment is a pain as well as that bump stop is less than ideal. I like them though so far the ride is nice and controlled. I wanted stock with a bit more firmness these seem to fit the bill.

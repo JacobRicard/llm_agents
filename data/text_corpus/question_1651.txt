@@ -1,0 +1,40 @@
+QUESTION ID: 1651
+
+QUESTION:
+Hi, I am very new to the forum and this is my first ever post so please forgive me if I am posting this in the wrong place. I recently bought what I believed to be a 1989 325i. When I went to insure the vehicle the VIN came back as a 325iS. Upon further inspection, the top horizontal VIN sticker in the driver door jamb reads 325iS-2, but the lower vertically placed sticker reads 325i/A USA. The VIN sticker in the trunk matches the rest of the VIN stickers but is badged as a 325i. M decoder shows it was optioned with the LSD and the Alloy wheels which I know came on the iS but no other typical iS options were listed. From my research on the forum, I guess not all iS's had to have all of the iS options, but ive seen some conflicting answers. How do I determine if its really an iS? Attached is a photo of the sticker in the door jamb. Attached Files
+
+ANSWER 1 (id: 1651_0):
+It's not an "IS," but that's interesting it's listed like that on the VIN sticker. The "IS" has option code S841A AUSSENSPIN WAGFAU325IS SCH. It would also have the full OBD with option code S551A and sports suspension setting with option code S226A. Also S481A for sports seats and S401A for power sunroof.
+
+ANSWER 2 (id: 1651_1):
+Originally posted by Andrew325is It's not an "IS," but that's interesting it's listed like that on the VIN sticker. The "IS" has option code S841A AUSSENSPIN WAGFAU325IS SCH. It would also have the full OBD with option code S551A and sports suspension setting with option code S226A. Also S481A for sports seats and S401A for power sunroof. Its just really weird that the VIN decodes as an iS and says it on the VIN plate. If it was an iS, would the bottom sticker also say 325iS? Any better ways to view full spec sheet other than mdecoder or going to a dealership?
+
+ANSWER 3 (id: 1651_10):
+Originally posted by Symbly My car does not have any of those options besides the LSD. I got the spec sheet from BMW and it listed 0209 (LSD) 0286, 0410, 0530, 0540, 0556, 0925. So I guess this confirms my car is not an iS? Did BMW have a run of falsely vinning i’s as iS’s? I just can’t wrap my head around why it decodes into my insurance company as an iS and has iS on the vin plate but is not really an iS. If all you have is the LSD which was an standard on the iS but an option for other models...then it's safe to say that your car was not an iS. You'd be missing a bunch of premium parts.
+
+ANSWER 4 (id: 1651_12):
+Originally posted by 82eye went and had a look at the vin plate on my door jamb and it has the same 325iS-2 script. mine is definitely not an is model. Interesting. What year is yours and did yours also have factory LSD?
+
+ANSWER 5 (id: 1651_13):
+Originally posted by Symbly Interesting. What year is yours and did yours also have factory LSD? 88 325i. no it did not come with an ls. i did build one for it though. pulled it from an auto 4.10 ls then rebuilt and regeared it to a 3.73.
+
+ANSWER 6 (id: 1651_3):
+My canadian spec '90 iS has the same door jamb situation with the tire pressure sticker having that exact text. Has all the options that Andrew listed. Maybe the S fell off... that seems like the main outlier here.
+
+ANSWER 7 (id: 1651_4):
+The “IS” is a 325i with sport package that included the options I listed. It would have the front and rear spoilers, basket weave wheels, sport seats, power sunroof, premium sound system with door tweeters, and 13 button OBC. It’s not an “IS” without those options. The 325is didn’t come with a black headliner, but it was available for the 318is.
+
+ANSWER 8 (id: 1651_5):
+This topic has come up several times over the years. Don't go by the sticker. Also, every US spec 325iS came fully loaded with leather sport seats, front /rear spoilers, M technic steering wheel (airbag for 90), premium sound, 13 button OBC, LSD, 14" basketweaves, power sunroof, "sport" suspension and body colored mirrors. Any exception to this means it's not a 325iS. They didn't come a la carte like the 91 318iS. Now, with that said, a lot can change over 40 years as things get swapped out.
+
+ANSWER 9 (id: 1651_6):
+Originally posted by reelizmpro This topic has come up several times over the years. Don't go by the sticker. Also, every US spec 325iS came fully loaded with leather sport seats, front /rear spoilers, M technic steering wheel (airbag for 90), premium sound, 13 button OBC, LSD, 14" basketweaves, power sunroof, "sport" suspension and body colored mirrors. Any exception to this means it's not a 325iS. They didn't come a la carte like the 91 318iS. Now, with that said, a lot can change over 40 years as things get swapped out. also a lot of lower spec car buyers could order off the sport menu to a limited degree. you could get weaves, seats, rear spoiler, electric sunroof, premium sound maybe a couple other things.
+
+ANSWER 10 (id: 1651_7):
+My VIN tags are basically the same as yours (325i/A, 325is-2), and my car is an IS. It came with an LSD, basketweaves, spoiler, etc. Originally posted by Northern Maybe the S fell off... that seems like the main outlier here. Not possible. The S is joined to the I.
+
+ANSWER 11 (id: 1651_8):
+Originally posted by reelizmpro This topic has come up several times over the years. Don't go by the sticker. Also, every US spec 325iS came fully loaded with leather sport seats, front /rear spoilers, M technic steering wheel (airbag for 90), premium sound, 13 button OBC, LSD, 14" basketweaves, power sunroof, "sport" suspension and body colored mirrors. Any exception to this means it's not a 325iS. They didn't come a la carte like the 91 318iS. Now, with that said, a lot can change over 40 years as things get swapped out. My car does not have any of those options besides the LSD. I got the spec sheet from BMW and it listed 0209 (LSD) 0286, 0410, 0530, 0540, 0556, 0925. So I guess this confirms my car is not an iS? Did BMW have a run of falsely vinning i’s as iS’s? I just can’t wrap my head around why it decodes into my insurance company as an iS and has iS on the vin plate but is not really an iS.
+
+ANSWER 12 (id: 1651_9):
+Originally posted by Symbly My car does not have any of those options besides the LSD. I got the spec sheet from BMW and it listed 0209 (LSD) 0286, 0410, 0530, 0540, 0556, 0925. So I guess this confirms my car is not an iS? Did BMW have a run of falsely vinning i’s as iS’s? I just can’t wrap my head around why it decodes into my insurance company as an iS and has iS on the vin plate but is not really an iS. could have denoted an ls diff. an s was used on the diff and elsewhere to mark them.

@@ -1,0 +1,19 @@
+QUESTION ID: 1144
+
+QUESTION:
+Overview S14B23 No start. not even a sputter Cranks 12v at Coil ECU tried on other S14 car worked fine 35PSI of fuel pressure on gauge of AFPR Two bell housing sensors #5 replaced with new ones Wires, Distributor, rotor, plugs all new engine and harness grounded. The head was removed from the engine and regasketed. I Turned the engine over 1440 degrees to ensure timing was dead on. Flywheel was never removed. I will poke around more tomorrow but snow forced me inside. Maybe i have the three bell housing sensors mixed up where they plug in harness? Im going to guess #10 is like the CPS in a motronic 1.3 car? Ideas? I will change out #10 for a known good one tomorrow and see.
+
+ANSWER 1 (id: 1144_1):
+I took the harness off without marking them. As far as i know part #5, the two sensors are exactly the same however they both read different parts of the flywheel so white plug has to connect with the sensor that reads below the other on the bell housing. Connector #3 has a red zip tie right above the rubber boot(hidden in pic). as does sensor #10. Knowing this makes me think I have hooked it all up right. Ill try that new #10 sensor tomorrow.
+
+ANSWER 2 (id: 1144_2):
+Check the resistance of the CTS to make sure it's not too high ...flooding the engine. The 3 sensors: 1 has a red zip tie, 1 has a white zip tie or collar and 1 has none. This is how they came from the factory.
+
+ANSWER 3 (id: 1144_3):
+I know this seems obvious, but have you verified spark / good coil? Are you getting wet plugs when you pull? What changed, what did you replace, or what is the variable that is the reason the motor went from running to no run - was this just a mystery event or were you working in a certain area / R&R parts / making mods?
+
+ANSWER 4 (id: 1144_4):
+Did you use OE sensors from BMW or aftermarket? I've seen some aftermarket sensors that had incorrect resistance when brand new. The connectors appear to be hooked up correctly. Are you running with the atmospheric pressure sensor connected or disconnected and is it original to the car? I think that you would still get some kind of sputter as they tend to lean out when they go bad.
+
+ANSWER 5 (id: 1144_5):
+So I tested the resistance of the sensors. Around 835 ohms for the #5 sensors so those checked out. Then tested the #10 and got nothing but OL. Tested the one in my M3 and got 68.1 ohms.Ok the sensor is bad. swapped the one from my M3, still no start. Maybe the two black ones are mixed up. Using the harness in my M3 and the multimeter found that they were indeed switched(connector that leads to #10 is connected to pin 9 in the diagnostic port). The guy who owned the harness previous had marked one of the connectors on harness side red that didnt plug into the #10 sensor with red zip tie so it threw me off. Switched em and it fired right up. thanks for the help guys. For those who asked I got the engine from a guy with a parts yard. It had been sitting in a truck trailer for several years. I had never seen it run so it was a relief to see it run and idle smooth.

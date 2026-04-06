@@ -1,0 +1,7 @@
+QUESTION ID: 2542
+
+QUESTION:
+A friend, (non message board type) has a problem his dash light has been on for a l o n g time....(2000 BMW Z 3 M) I remember from my E 30 day that there was often a problem with the seat belt/air bag electronics.. He had the car to a dealer, and an indie, and they told him that it might cost up to $2000 .. What is the LOGICAL place to start checking components? TIA
+
+ANSWER 1 (id: 2542_1):
+Check if the seat belt pyrotechnic charge hasn't already fired. The boot on the receptacle is usually straight, if it's buckled like an accordion then its been deployed. FYI- ~$240 for a new one.

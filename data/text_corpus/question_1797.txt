@@ -1,0 +1,10 @@
+QUESTION ID: 1797
+
+QUESTION:
+Hi everyone, I am in search for a part for my 1987 325ic Getrag 260 5-Speed Transmission. I need Part Number 14 (Locking Pin) as shown on the two links below. Can someone tell me where I can find this part? https://www.realoem.com/bmw/enUS/sho...diagId=23_1096 https://www.realoem.com/bmw/enUS/par...23311224142​
+
+ANSWER 1 (id: 1797_1):
+From google images it looks like a solid pin with the ends rounded. I don't know if I trust it to be 4x13mm exactly like RealOEM says, so I'd try to measure it (or the hole) and make a copy out of a matching diameter drill bit.
+
+ANSWER 2 (id: 1797_2):
+Oh, carp- that is an interlock pin, to prevent one shift rod from moving when another is engaged in a gear. It looks like a ball bearing with an added cylinder in the middle- the ends are rounded close to spherical. Yes, one could be made out of 4mm drill rod and some rounding and polishing, but you'd want to test it pretty comprehensively with just the rods and the case to make sure it never bound.... I think if I'd lost one, I'd be looking for a trashed parts transmission to find another. t

@@ -1,0 +1,16 @@
+QUESTION ID: 498
+
+QUESTION:
+Hi all, I have a CM5808 and wanted to do a little tinkering with the mbus plug. For the life of me I can’t find the wiring schematic anywhere. If any of you happen to know what it is or have a pic, could you please share? thanks a bunch!​
+
+ANSWER 1 (id: 498_1):
+Originally posted by platelets Guessing no one knows? I got the Bentley manual, and still no dice. it's proprietary to alpine. they didn't release schematics to bmw. i'm pretty sure they are out there though if you do a search. there's a few threads on adding bluetooth and external inputs on the board, you may find what you want there. edit : pick up an etm to trace electrical here : http://wedophones.com/Manuals/BMW/ hopefully that helps. save a copy now as the resource could vanish any day.
+
+ANSWER 2 (id: 498_2):
+Originally posted by 82eye it's proprietary to alpine. they didn't release schematics to bmw. i'm pretty sure they are out there though if you do a search. there's a few threads on adding bluetooth and external inputs on the board, you may find what you want there. edit : pick up an etm to trace electrical here : http://wedophones.com/Manuals/BMW/ hopefully that helps. save a copy now as the resource could vanish any day. Thank you. I do have that PDF, was the first place I looked, then went down the rabbit hole of the repair manuals. I know most people rather just yank out the radio, but I want to keep the radio and still use the tape deck.
+
+ANSWER 3 (id: 498_3):
+Originally posted by platelets Thank you. I do have that PDF, was the first place I looked, then went down the rabbit hole of the repair manuals. I know most people rather just yank out the radio, but I want to keep the radio and still use the tape deck. try a search for adding bluetooth or the extra input. there used to be a few pretty in depth threads on it.
+
+ANSWER 4 (id: 498_4):
+Originally posted by 82eye try a search for adding bluetooth or the extra input. there used to be a few pretty in depth threads on it. I have found quite a few in depth threads, just no dice on the wiring.

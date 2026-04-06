@@ -1,0 +1,16 @@
+QUESTION ID: 210
+
+QUESTION:
+Hi there, I own an 316i 1990 year without cat. The engine was producing loud tappeting noises so I changed the hydro lifters, rocker arms and the camshaft. But the tappeting noise is still present, at idle you cannot hear it but if you are driving you can hear it. My question is, why is it still there, I cannot order oil spray bar bcs I cannot order it anywere. I started the car with the valve cover off the engine and the spray bar is doing its business. Could it be the lifters, my friend told me I should've compress the lifters so the old oil comes out of them, so they won't be stuck. But is that really the reason, considering they were brand new? I tried that with my fingers when I installed the and they were rock solid. Now after 400 km the camshaft is showing a bit of wear on it. Also when i cold start the car, it sounds a bit like a diesel, but it goes away when you start driving. Pleas help.
+
+ANSWER 1 (id: 210_0):
+I did end up with one dead new lifter from the Schmiedmann kit when I did the same job you did, so it's possible. Take it back apart and inspect. The dead lifter was obvious once I had it out of the cylinder head.
+
+ANSWER 2 (id: 210_1):
+Originally posted by roguetoaster I did end up with one dead new lifter from the Schmiedmann kit when I did the same job you did, so it's possible. Take it back apart and inspect. The dead lifter was obvious once I had it out of the cylinder head. And how did you fix it, bought a new lifter? Or cleaned it somehow. And the timing belt is also new, 400 km old, do I need to change it also?
+
+ANSWER 3 (id: 210_2):
+Originally posted by Adrian42693 And how did you fix it, bought a new lifter? Or cleaned it somehow. And the timing belt is also new, 400 km old, do I need to change it also? It was totally collapsed with some type of mechanical failure, don't recall if I bought just one, or more than that. I didn't change the timing belt again since the scenario was similar, recently changed both on time and mileage.
+
+ANSWER 4 (id: 210_3):
+Originally posted by roguetoaster It was totally collapsed with some type of mechanical failure, don't recall if I bought just one, or more than that. I didn't change the timing belt again since the scenario was similar, recently changed both on time and mileage. I'll try that. I added a bit of oil in the beginning of the week. But it was different branded and, yesterday I added the same brand of oil and it got alot quieter.

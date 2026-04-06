@@ -1,0 +1,19 @@
+QUESTION ID: 1648
+
+QUESTION:
+Hello, I got my E30 about a month and a half ago and have been driving it around to learn how to drive stick. It was running well until the battery died, but I replaced it, and everything was fine afterward. Last week, there was a severe rainstorm where I live, and now the car won’t crank. I need help diagnosing the issue. Here's what I've found so far:The car has a new battery. I ordered a new starter. Three days ago, the car had power but wouldn’t start or turn over. This morning, it had no power, so I jumped it, and it started. After turning it off, it wouldn't crank again. I suspect it might be an electrical issue, but I’m not certain. Any ideas?
+
+ANSWER 1 (id: 1648_0):
+jump start it to get it running again and test the battery voltage. could be your alternator. there's nothing wrong with the starter if it went on a jump.
+
+ANSWER 2 (id: 1648_1):
+I would definitely check all the grounding locations and make sure they're tight and there's no corrosion, especially the battery ground cable since you been around there recently.
+
+ANSWER 3 (id: 1648_2):
+Turn the key into the on position. Then jump pins 11 and 14 in the diag plug under the hood. See if the car will start every time you did this. It could be in your ignition switch. Also the main relay can take a shit as well
+
+ANSWER 4 (id: 1648_3):
+If you jumped and it started it sounds like you had a flat battery, or loose cables. since it started after a jump and wouldn’t restart, you either didn’t let the alternator charge the battery enough or the alternator is not charging. doesn’t sound like a starter or ignition
+
+ANSWER 5 (id: 1648_4):
+It could also be that the starter is seizing up. If you have plenty of power, sometimes wacking the starter will free it up enough to spin. But as everyone else said, start with making sure you have power. With a new battery, the car should be able to sit for well over a week and still have enough juice to start. Start with checking your fuses. Then you could test the relays to make sure they function and test the input power and ground for them. Then you could test for power at the starter motor. At some point you'll find something not working right.

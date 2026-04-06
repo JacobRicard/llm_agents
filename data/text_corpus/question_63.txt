@@ -1,0 +1,13 @@
+QUESTION ID: 63
+
+QUESTION:
+Hey everyone, as many of you know, I recently got the dumpster fire back in the road. Took it to a cruise event tonight, and ran into an issue. Something in the swich circuit to the relay for the cooling fan shorted and blew a fuse. I don't remember for sure, but I think it was fuse 21. I'm pulling the power for that circuit from the constant hot for the radio (IIRC). When it happened, I lost the radio, fan, and the tach/econo gauge. When I got home, I fixed the short, and replaced fuse 10, 12, and 21. 10 and 12 were ok, but were the wrong amperage. 21 was questionable, and REALLY wrong amperage, it was a 15, suppose to be a 7.5. My fault for not confirming the right fuses were in the right locations all those years ago. anyways, I got the radio, and fan back, but still no tach/econo gauge. Any ideas what I should look at next? I'm not sure where to start.
+
+ANSWER 1 (id: 63_0):
+Usually, the tach/ecno go out because of dead SI board batteries on late cars (not early 318i and 325e). I just had to put in new batts, after all these years, for the 1st time and the new batts made a world of difference - my cluster is back to full functionality. I suspect the cluster can still function with slightly lower voltage, but not as well.
+
+ANSWER 2 (id: 63_1):
+Originally posted by packratbimmer Usually, the tach/ecno go out because of dead SI board batteries on late cars (not early 318i and 325e). I just had to put in new batts, after all these years, for the 1st time and the new batts made a world of difference - my cluster is back to full functionality. I suspect the cluster can still function with slightly lower voltage, but not as well. I'll check it out, the dumpster fire started life as a 87 325e, but I also swapped the cluster.
+
+ANSWER 3 (id: 63_2):
+Update: pulled the gauge cluster out, and checked the IS batteries, I have the later cluster, with the lithium batteries. Both batteries tested out to 1.7 volts. While I was at it, I pulled the tach, and played with it. When I put voltage to pin 1 and 2, the tach would rise off the pin about 1 mm. Apply voltage to 3 and 4, it would go up to like 3000 or so. Pin 5 and 6, and pin 7 and 8 made the econo gauge jump to like 10 or so. So, I suspected the tach/econo gauge is able to function at the least. So I feared that I burned something else up. Slapped the whole thing back together and back in the dash. Then decided to fire it up, just to make sure that everything else was working. Holy shit, out of the blue, the tach and the econo gauge are working again. I don't know how I did what I did, I just did it. I'm glad it's not something else fried somewhere.

@@ -1,0 +1,40 @@
+QUESTION ID: 39
+
+QUESTION:
+So, been working on this car since April. yes 6 months. I have replaced tons of parts; needed to be done anyway, but now this is what it is doing.... I pressurize the fuel system and the snap-on pressure gauge shows 32-35 psi. Then I try to start the car and if it does start it is blowing unburt white smoke:gas: and runs really bad. Then I pull the fuel pump fuse, start the car and it runs great at 750 rpm and no smoke, no gas smell, revs up fine until it runs out of gas:) The car is over fueling; but I have put in 3 different fpr, the temp sensor is in spec. injectors have been cleaned and do not leak; checked that with the gauge. I have replaced the fuel pump, relay, ignition module, checked the ecu. I am thinking all these items would have to be running fine if the car runs good when the fuse is out.... So, something is making the fuel pressure go up, or change. I tried running the return line into a bottle; I thought the line was plugged; so that would back up and cause too much pressure but no change....I have no idea what to do next, except, tomorrow I am going to put the original pump back in and see what happens.. Any help would be great....I know this is something simple. Oh, one other thing, I have to give it lots of throttle to get it to even run when the pump is running...so lots of fuel/ not enough air... Hate to take it to the shop at 150/hr, but have to get this car running before the snow flies:) thanks, jm
+
+ANSWER 1 (id: 39_0):
+is that a uro afm ? i wouldn't trust that as far as i could throw it. if it is you may have found the issue. aside from that what is the running pressure when the fuel pump fuse is left in when running ?
+
+ANSWER 2 (id: 39_1):
+Hi: The fpr is uro, was concerned about that but the boush one gives the same issues, I could change it out again; the pressure on the gauge when the fuel pump fuse is out is zero; no fuel pump. I was wondering how it could be running with no pressure to the rail; but not sure how that works. thanks again for the reply, jm
+
+ANSWER 3 (id: 39_11):
+The car has been doing this back in April; when we thought the injectors were leaking. We sent the stock injectors out to be repaired, all were leaking, but the shop said they were working great when they finished. After putting them in car did not want to start, but that was due to the fuel sender line being plugged up....fixed that, car started, but still too much gas. So now it runs and starts fine, but too much gas lots of black smoke. When I pull the fuse the car runs fine. I noticed that the distributor vac line was off; put it back on but no major changed except now the car will thottle up better...guess if would with the vac adv. on. Right now I am working on a big exhaust leak. Not sure what to do on the fuel problem. Only thing I can think of is the timing is off, but when we checked it the timing was set to the Zero mark??? not the Z mark. 323i does not have an 02 sensor.
+
+ANSWER 4 (id: 39_12):
+has there been any movement on this ? hoping you had found some answers. i stumbled across this article describing l-jet and how it works : HyperDocument (xwebforums.com)​ not sure it will help but it may explain a few things.
+
+ANSWER 5 (id: 39_13):
+Thanks for the reply. The car is starting which is better, but still getting too much fuel. I am going to check a few things tomorrow when the garage temps are up:). and then talk to the shop next week if I do not find the problem. I am now thinging the timing is off 22 degrees because when we timed the car it was set to zero on the crank pully not Z. That would make it run bad, but does not explain the over fueling. thanks, jm
+
+ANSWER 6 (id: 39_2):
+When out and checked the car; with the fuse in the pressure is 38psi and when I pull the fuse pressure is about 10psi. Car started and ran for about 20 sec with the pump on.... but does not want to stay running. When I pull the fuse car runs for at least 3-4 minutes until fuel is used up. thanks, jm
+
+ANSWER 7 (id: 39_3):
+well, the above comment is not completly accurate. The pressure with the fuse out is 36 too, but of course it goes down as the gas is being used up. and it goes down to about 5-10 lbs.
+
+ANSWER 8 (id: 39_4):
+it sounds like your fpr is close to spec. what is that uro tag by the afm ? my guess was the afm was reading the air volume wrong and over compensating by adding fuel.
+
+ANSWER 9 (id: 39_6):
+Your fuel pressures seem to be in spec, so I’m not sure pump change will result in much difference. This is certainly unusual, but I have an idea based on something I have seen. Had a over fueling situation which was intermittent ( wide O2 sensor detected ). Turns out the throttle position switch for WOT was defective and “ on” all the time.
+
+ANSWER 10 (id: 39_7):
+That is interesting: Do you know how I would check this tps: it is the one under the throttle body? thanks for the reply, Any ideas are welcome. I was thinking the pump because the pressure is too high and I have changed out the fpr. thanks, jm
+
+ANSWER 11 (id: 39_8):
+Is it possible the fuel filter has to be in the pressure line for the engine to run correctly? I did get the car to start and run; but it is still obvious the fuel pressure is too high; maybe by 4 psi. I replaced the filter with a pressure gauge, so there is no fuel filter in the line; would that make a difference? I will find out in a few hours, but just wondering if the fuel filter is designed to lower the fuel pressure just a little bit??? jm
+
+ANSWER 12 (id: 39_9):
+Do you know when and how this issue started? You mention working on it since April, was it new to you then or did this issue start suddenly? Maybe some history will spark an idea from the group. What have you done with the fuel injectors themselves? If they are flooding the intake ports, that would make the engine run without the pump for a brief time. Your fuel pressure doesn't look high enough to me to cause fuel blowing by a good injector. How about the O2 sensor (is there one on the 323)? I think the engine warms up first before looking at the O2 but I'm not sure.

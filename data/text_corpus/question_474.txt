@@ -1,0 +1,19 @@
+QUESTION ID: 474
+
+QUESTION:
+As stated in the title, my OBC is very dim (as it looks when bulbs burn out) even after a new light bar. It still works, but is hardly legible. Any ideas on what could fix this? I have tried replacing all fuses with relation to the obc. If I can't fix it, the euro 316i hvac panel I have is going in. Fuck this shit, lol.
+
+ANSWER 1 (id: 474_2):
+Originally posted by reelizmpro New OEM lightbar or aftermarket LED bar? Aftermarket led… now that I say that, I would not be surprised if that is the issue.
+
+ANSWER 2 (id: 474_3):
+Originally posted by roguetoaster Perhaps low voltage on the input, or a bad dimmer, or you never adjusted the dimmer control on the headlight stalk. Will check for the voltage. My dimmer control works fine and moving it has no effect on obc… it’s stuck barely legible.
+
+ANSWER 3 (id: 474_4):
+If there is one valuable lesson I've learned, it's to not overthink the issue and jump to conclusions. Check the obvious things first. Apply voltage to the light bar terminals and test it.
+
+ANSWER 4 (id: 474_5):
+Did you ever figure this out? Same problem here, very dim numbers even after new light bar (x2). I got voltage at the pins of the OBC light. I also tried to test my led light bars. This was not successful. I put paperclips in the pin receptacles, used 6 volt battery, switched wires, could not get light to turn on. My inkling is I'm doing it wrong, as I was unsuccessful on two different new light bars.
+
+ANSWER 5 (id: 474_6):
+Originally posted by tkeenan Did you ever figure this out? Same problem here, very dim numbers even after new light bar (x2). I got voltage at the pins of the OBC light. I also tried to test my led light bars. This was not successful. I put paperclips in the pin receptacles, used 6 volt battery, switched wires, could not get light to turn on. My inkling is I'm doing it wrong, as I was unsuccessful on two different new light bars. Nope. Only clue I have is that my SI board is an aftermarket battery-less one that seems to have a couple other malfunctions… If you ever find yourself with your cluster out, check that? Other than that I’ve kinda just learned to deal with it. The code function still works and is even more effective now because a thief wouldn’t be able see the display haha.

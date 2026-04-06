@@ -1,0 +1,7 @@
+QUESTION ID: 484
+
+QUESTION:
+My temperature has been reading 30s when it’s 60s outside. No better with a new sensor. Just noticed that once I turn off the ignition. Temp readings jump to 80s and with ignition on, drops back down to 30s. Any ideas
+
+ANSWER 1 (id: 484_0):
+Amazing that you posted this today. Mine is reading -30 (no reading default?) and I too just replaced the sensor with a new one today and nada. What should we check next? I have the 6 button OBD. Last year it did read correctly but only occasionally then never. Contacts on the back of the computer? Anyone had experience here?

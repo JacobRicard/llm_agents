@@ -1,0 +1,13 @@
+QUESTION ID: 3603
+
+QUESTION:
+Sup guys. I tried doing a few searches and had very little luck with this. I have a E34 and there isnt much topic regarding the Getrag250 which is on the 93-95 E34s , so I come here for some help since I know the E30 does use this tranny, and I am assuming theres a few of ya with a S50/52 with this tranny. My questions is I plan on dropping a S50/52. Willthis Getrag 250 tranny be sufficient with the S50/52? and what are your experiences with this? I've been googling it, some people say yes, some say no (due to it being weak). This will be going into a e34 Touring if that matters (weight). All ive seemed to find is "Getrag 250s are known weak transmissions and are known to break if driven hard."
+
+ANSWER 1 (id: 3603_0):
+e30s use a getrag 260 transmission. getrag 250 is the transmission from the OBD1 e36 M50-equipped chassis, and probably others. It is a weak transmission, weaker than the 260. People run the 260 behind S52s relatively frequently and it holds up fine. The 250 is not recommended behind that much power, but it will bolt up and work if you're not dumb with it.
+
+ANSWER 2 (id: 3603_1):
+Originally posted by kronus e30s use a getrag 260 transmission. getrag 250 is the transmission from the OBD1 e36 M50-equipped chassis, and probably others. It is a weak transmission, weaker than the 260. People run the 260 behind S52s relatively frequently and it holds up fine. The 250 is not recommended behind that much power, but it will bolt up and work if you're not dumb with it. Ahh ok. is the 250 a lot weaker? this will be a commuter car for me to use and itll be nice to have the extra power. Just wondering about this 250 because i can pick one up fairly cheap.
+
+ANSWER 3 (id: 3603_2):
+I've heard its a weak transmission too, but I have one in my Z3 and I drive the absolute piss out of it. The few times I've actually seen one break its always been on a track car.

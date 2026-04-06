@@ -1,0 +1,13 @@
+QUESTION ID: 191
+
+QUESTION:
+I took what I thought was the sending unit out and there was a fuel pump in the tank with it??? All the information I have read said the fuel pump is outside the tank under the driverside wheel, or just infront of it, which yes there is one there. My question is: can I wire up a fuel pump from in the tank over to the wires on the outside in-line pump and have two pumps? Will if hurt anything since the fpr controls the pressure and the wires are outside the tank? thanks for any help, jm
+
+ANSWER 1 (id: 191_0):
+I'm not familiar with the 323i euro. However, on my 85 E, there are indeed two pumps, the in tank pump is a low pressure lift pump. The one under the car is the high pressure pump. There are write-ups on replacing the in-tank pump with a high pressure pump and eliminate the one under the car.
+
+ANSWER 2 (id: 191_1):
+all the later i cars have only an in-tank pump. it wouldn't be too difficult to change the system over. many folk consider the two pump system to be superior to the later single in-tank pump though.
+
+ANSWER 3 (id: 191_2):
+ok, I guess I could run wires over to the in-line pump under the car to pick up the power to run the pump. They would both run when the key is turned on, and of course when the car is running.

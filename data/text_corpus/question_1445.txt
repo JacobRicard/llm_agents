@@ -1,0 +1,7 @@
+QUESTION ID: 1445
+
+QUESTION:
+May have a Brake Master cylinder issue on my IX - not getting any fluid from the the rear port I see these are a bit on the expensive side. Is there anyway that a regular one from a E30 could be fitted - or better question hat is the difference between the IX Brake master cylinder and the IX? The angle of the output? Is there a rebuild kit available? Has anyone tried to rebuild one?
+
+ANSWER 1 (id: 1445_0):
+It is possible to get them apart, but I wonder about kit availability. The clip can be tricky at the end and there might be a central locking device of some kind.

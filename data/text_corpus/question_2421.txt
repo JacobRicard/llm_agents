@@ -1,0 +1,19 @@
+QUESTION ID: 2421
+
+QUESTION:
+I have a zf320 laying around and an automatic 1989 e30. Would a zf320 fit my e30. I mean why not better gearbox overall.
+
+ANSWER 1 (id: 2421_0):
+it would. you will need a custom transmission mounting brace and selector rod to account for the 10% of tilt, since the bell housing pattern isn't 100% the same. e36m3 shifting assembly and driveshaft are required, and to make your life easy, i'd just run an e36m3 clutch kit and flywheel, so all the parts are from the same car. so short answer, yes, it will fit, you just need to get creative with a couple aspects.
+
+ANSWER 2 (id: 2421_2):
+precisely. a few PRO3 folks i know, started running ZF boxes, since Getrag 260 boxes have been getting more scarce. of course, neither are getting more common.
+
+ANSWER 3 (id: 2421_3):
+Originally posted by e30austin it would. you will need a custom transmission mounting brace and selector rod to account for the 10% of tilt, since the bell housing pattern isn't 100% the same. e36m3 shifting assembly and driveshaft are required, and to make your life easy, i'd just run an e36m3 clutch kit and flywheel, so all the parts are from the same car. so short answer, yes, it will fit, you just need to get creative with a couple aspects. so to fix the tilt all i need is an e36 m3 shifting assembly? For the drive shaft would i need to shorten it? And do i need the full drive shaft or just half of it? Is there anything else im missing that i should know about? Thanks
+
+ANSWER 4 (id: 2421_4):
+For the M20, you have to cut and weld the shifter arm and carrier, turning them 10 degrees. The drive shaft is probably the correct length. The transmission output flange diameter is different, though. ZF transmissions have a bigger one.
+
+ANSWER 5 (id: 2421_5):
+precisely. a few PRO3 folks i know, started running ZF boxes, since Getrag 260 boxes have been getting more scarce. CHEATERS !!!! no wonder I always lose... t is now fitting a Jerico sequential.

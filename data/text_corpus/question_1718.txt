@@ -1,0 +1,31 @@
+QUESTION ID: 1718
+
+QUESTION:
+Need to do a clutch job on my 88 325i vert. The piolet bearing has failed. Trying to decide if its worth the added cost to get lighter flywheel. Does anyone have experience with this? Any other tips are welcome. Thanks
+
+ANSWER 1 (id: 1718_0):
+Do you like torque or horsepower? How do you drive the car? The 325i flywheel is fairly light already (it's not dual mass nor a 325e boat anchor). You would certainly gain throttle response and pull to redline with a super lightweight wheel for sure. The setbacks could include a rattle in your gearbox at idle, rougher idle, decreased "driveability" at low -like in traffic- speeds and less torque down low.
+
+ANSWER 2 (id: 1718_1):
+I like the idea of Turner's "lightened" flywheel. it isn't as light as an aluminum flywheel but it's lighter than the OE one. I don't know if OEM or BMW flywheels are still available.
+
+ANSWER 3 (id: 1718_2):
+Can anyone point me to anywhere that explains this clutch rattle phenomenon? I want to understand why lightening the flywheel creates a rattle, since I see this discussed but never a thorough explanation of why/how the rattle occurs. I hate rattle sounds but was considering shaving a few lbs off my flywheel until reading about this.
+
+ANSWER 4 (id: 1718_3):
+Originally posted by 88Sedan Can anyone point me to anywhere that explains this clutch rattle phenomenon? A heavier dual mass flywheel has mass to offset the instantaneous reversals inherent to the inline 6 cylinder. The dual mass flywheel dampens the reversals. The choice of fluid can mitigate most the the gearbox rattle. I have used straight RedLine MTL. This will cause slow shifts in cold weather. A 50/50 mix of RedLine MTL and RedLine D4-ATF, usually dampens the rattle and does not adversely affect shifting. Originally posted by Zzyzx85 I like the idea of Turner's "lightened" flywheel. it isn't as light as an aluminum flywheel but it's lighter than the OE one. I don't know if OEM or BMW flywheels are still available. I believe the Genuine OE M20 flywheel p/n 11221706573 and Genuine LuK appears to be NLA.
+
+ANSWER 5 (id: 1718_4):
+Originally posted by Caldreamer Need to do a clutch job on my 88 325i vert. The piolet bearing has failed. Trying to decide if its worth the added cost to get lighter flywheel. Does anyone have experience with this? Any other tips are welcome. Thanks i like mine a lot but recommend more than a lightweight fw by itself if you are going to mod the car. i run the rhd fw in my car. edit: for a vert i'd just get the original resurfaced. verts are better as cruisers. i'd only get a lighter fw if you needed a new one and it was cheaper. you will lose mpg.
+
+ANSWER 6 (id: 1718_5):
+Originally posted by 88Sedan Can anyone point me to anywhere that explains this clutch rattle phenomenon? I want to understand why lightening the flywheel creates a rattle, since I see this discussed but never a thorough explanation of why/how the rattle occurs. I hate rattle sounds but was considering shaving a few lbs off my flywheel until reading about this. it's just clutch rattle. lighter flywheels transfer more vibration from the engine. when the clutch is disengaged, it freewheels and picks up more of the vibration. a heavier fw dampens the vibration instead of transmitting. edit: mine does it. it doesn't affect anything and i don't mind. i'm the only one who notices usually.
+
+ANSWER 7 (id: 1718_6):
+if you dont like rattling dont convert to a single mass from dual mass or lighten a single mass to the nth degree. The G260 is not as bad as some for being noisy and depends how loose it is but you will be lucky if it is not rattly. There is no cure using magic potions, at best they will delay the onset as the only mechanism at play is viscosity and higher viscosity oils eventually reach the same or sometimes higher temps when the car has run for a decent time for the trans oil temps to get a work out
+
+ANSWER 8 (id: 1718_7):
+The best way to understand the dynamics of a flywheel is to envision a tractor shutting down. There is so much energy stored in the massive flywheel that the engine actually takes awhile to come to rest. The flywheel is the reason a 50HP engine can power a machine that will plow a field. The good news is that the flywheel can be adapted so that the machine (like a car) can do whatever you want it to do. Also, your vert is a bit heavier than a topped car - good reason to retain low end torque. I would resurface the stock flywheel.
+
+ANSWER 9 (id: 1718_8):
+Please remove - weird! The best way to understand the dynamics of a flywheel is to envision a tractor shutting down. There is so much energy stored in the massive flywheel that the engine actually takes awhile to come to rest. The flywheel is the reason a 50HP engine can power a machine that will plow a field. The good news is that the flywheel can be adapted so that the machine (like a car) can do whatever you want it to do. Also, your vert is a bit heavier than a topped car - good reason to retain low end torque. I would resurface the stock flywheel and use it again.

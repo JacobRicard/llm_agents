@@ -1,0 +1,7 @@
+QUESTION ID: 136
+
+QUESTION:
+I bought my e30 only a couple months ago and since then I have adjusted the valves (cold) replaced the ignition system, replaced the fan clutch, AFM and o2 sensor but it’s ticking and the engine is generally pretty un smooth and I’m overheating at idle with my temp gage moving pretty often up and down. Any suggestions?
+
+ANSWER 1 (id: 136_0):
+Forget the ticking and figure out why its overheating! Check for bubbles in the over flow bottle, if it passes that test make sure the thermostat is working properly (remove it and put it in boiling water and make sure it opens) and whilst you are at it remove the radiator and flush it with a garden hose with the radiator upside down. Then if it still over heats, coolant system pressure test and cylinder compression test will tell all. This assumes you dont have any vaccum leaks, but they will make it run ordinary at light loads/idle, wont make it overheat.

@@ -1,0 +1,7 @@
+QUESTION ID: 145
+
+QUESTION:
+I got this turbo m20 not too long ago it was running absolutely perfect when i got it but about I week in it started running really rich with smoke but the car still has full power and doesn’t sputter, it only sputters once the spark plugs get clogged up from the excess gas. But when it’s cold and once it’s warmed up it runs rich you can really smell it too. I checked the connection on the coolant temp sensor which I read was a common problem but it was fine and I replaced the air filter any suggestions?
+
+ANSWER 1 (id: 145_0):
+What kind of engine management are you running? Tuned stock ecu? Standalone ECU? Rising rate FPR? Do you have a wideband O2 sensor and gauge installed?

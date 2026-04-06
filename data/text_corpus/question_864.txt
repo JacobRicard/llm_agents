@@ -1,0 +1,37 @@
+QUESTION ID: 864
+
+QUESTION:
+I am about to embark on the S50 engine matted up to the G260 transmission. I am interested in knowing everyone's recommendations in regards to the clutch, pressure plate, flywheel, throw out bearing, pilot bearing, pivot pin etc. What did you use? What are the things I need to buy or tricks I need to know or do to make this process smooth? Thanks
+
+ANSWER 1 (id: 864_0):
+It's no different than your usual clutch job. I always use a late G260 behind a 24v engine and use all stock OE replacement clutch/flywheel/driveline/starter parts from a 325i. I run a stage two clutch masters kit in my red car and have been happy with it. If you want a firmer pedal, use a stock 325i clutch kit, and use the sport "618" Sachs pressure plate.
+
+ANSWER 2 (id: 864_1):
+Any reason why you didn't use the beefier S50 or M50 clutch kit? Originally posted by e30austin It's no different than your usual clutch job. I always use a late G260 behind a 24v engine and use all stock OE replacement clutch/flywheel/driveline/starter parts from a 325i. I run a stage two clutch masters kit in my red car and have been happy with it. If you want a firmer pedal, use a stock 325i clutch kit, and use the sport "618" Sachs pressure plate.
+
+ANSWER 3 (id: 864_11):
+Did you happen to purchase new flywheel and pressure plate bolts? If so what pressure plate bolts and which flywheel bolts? Originally posted by e30austin Stock 325i flywheel, back side shaved down to the ring gear for oil pan clearance
+
+ANSWER 4 (id: 864_2):
+Originally posted by benloveless1 Any reason why you didn't use the beefier S50 or M50 clutch kit? Yes, a stock E30 325i clutch will hold the power just fine. If you are worried about it not holding the power (which is a non issue as I've done dozens of these conversions and used a stock clutch kit every time), buy the sport pressure plate.
+
+ANSWER 5 (id: 864_3):
+So M20 325i clutch kit, flywheel, pressure plate, pilot bearing, slave cylinder all for the getrag 260? Originally posted by e30austin Yes, a stock E30 325i clutch will hold the power just fine. If you are worried about it not holding the power (which is a non issue as I've done dozens of these conversions and used a stock clutch kit every time), buy the sport pressure plate.
+
+ANSWER 6 (id: 864_4):
+Originally posted by benloveless1 So M20 325i clutch kit, flywheel, pressure plate, pilot bearing, slave cylinder all for the getrag 260? Correct. It all works well. Note that you'll need the 10 deg tilted trans brace and modified selector rod, as well.
+
+ANSWER 7 (id: 864_5):
+Yes sir I have ordered necessary parts to correct this. What about clutch pivot pin? Plastic? Brass? Stainless Steel? Originally posted by e30austin Correct. It all works well. Note that you'll need the 10 deg tilted trans brace and modified selector rod, as well.
+
+ANSWER 8 (id: 864_6):
+Originally posted by benloveless1 Yes sir I have ordered necessary parts to correct this. What about clutch pivot pin? Plastic? Brass? Stainless Steel? Put back in what it already had, the stock plastic unit works just fine.
+
+ANSWER 9 (id: 864_7):
+FX250 kit? Originally posted by e30austin It's no different than your usual clutch job. I always use a late G260 behind a 24v engine and use all stock OE replacement clutch/flywheel/driveline/starter parts from a 325i. I run a stage two clutch masters kit in my red car and have been happy with it. If you want a firmer pedal, use a stock 325i clutch kit, and use the sport "618" Sachs pressure plate.
+
+ANSWER 10 (id: 864_8):
+Originally posted by benloveless1 FX250 kit? That's what I installed, yes. Pedal feel is comparable to stock and engagement is right at the top of the pedal.
+
+ANSWER 11 (id: 864_9):
+aluminum or steel flywheel Originally posted by e30austin That's what I installed, yes. Pedal feel is comparable to stock and engagement is right at the top of the pedal.

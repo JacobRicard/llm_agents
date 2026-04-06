@@ -1,0 +1,28 @@
+QUESTION ID: 834
+
+QUESTION:
+Can someone please shine some light on this, is this even a correct combo; s52 converted to obd1 intake manifold e30 ix brake booster, push rod has been shortened '95 e36 m3 master cylinder 2002 fluid reservoir 5 lug swap e36 m3 front suspension and brakes, rear 318ti suspension and brakes Everything was working ok with original e30 booster until switched to ix booster for "better" fitment and "better" braking lol Brakes lock up after engine warms up, very little pedal play. Push rod been shortened a while ago and just don't remember whether I cut too much or not enough. Bled the system twice, calipers and hoses are ok
+
+ANSWER 1 (id: 834_0):
+Not so much the booster, but is your brake bias off from the e36 m3/Ti 5 lug swap? The e36 m3 front caliper is pretty big step up from the 4 lug caliper piston (48mm to 60mm), while the 318ti caliper is nearly the same size as the stock e30 rear (33mm to 34mm). So you might need a proportioning valve or bump up the rear caliper size closer to the front. SRS Concepts sells a bracket to use e46 325/328 calipers on the e30 trailing, which bumps up the piston to 40mm in the back plus the larger e46 rotor.
+
+ANSWER 2 (id: 834_10):
+I had this problem on my 1985 e30 after fitting a new master cylinder, it only happened when the brakes wormed up, simple fix, I gave the rod ajustment a bit more free play whilst the brakes were hot i ajusted the linkage until i could rock the car back and forth, that was a few years ago and its still ok.
+
+ANSWER 3 (id: 834_11):
+Originally posted by E30 Wheels I had this problem on my 1985 e30 after fitting a new master cylinder, it only happened when the brakes wormed up, simple fix, I gave the rod ajustment a bit more free play whilst the brakes were hot i ajusted the linkage until i could rock the car back and forth, that was a few years ago and its still ok. ^ I'd look into this first. I did not modify anything on my E90 booster and the rod length is fixed.
+
+ANSWER 4 (id: 834_3):
+Originally posted by 2mAn Can you swap back to the original MC? I don't have it anymore, plus the fitment with intake boot n stuff. I could prolly source one but mainly just want to find out where/what to start with
+
+ANSWER 5 (id: 834_6):
+Heres a few random things I found, not sure if any of it means anything to you... Regarding anti lock brakes: The E34/36 harnesses have no power provision for the ABS. This requires you to splice in switched 12v to power the ABS pump. Tap into the thick wire coming off T87 of the E34/6 Main relay. Note: this only pertains to 89+ production years where the abs power runs through the c101 rather than the body harness. Not sure if this site works, or if my work is blocking it http://www.e30tech.com/forum/showthread.php?t=76315 ​
+
+ANSWER 6 (id: 834_7):
+Originally posted by 2mAn Heres a few random things I found, not sure if any of it means anything to you... Regarding anti lock brakes: The E34/36 harnesses have no power provision for the ABS. This requires you to splice in switched 12v to power the ABS pump. Tap into the thick wire coming off T87 of the E34/6 Main relay. Note: this only pertains to 89+ production years where the abs power runs through the c101 rather than the body harness. Not sure if this site works, or if my work is blocking it http://www.e30tech.com/forum/showthread.php?t=76315 ​ Thx Simon, yeah the link doesn't work. I talked to Jordan, he says the ABS pump runs completely passive and doesn't affect the braking
+
+ANSWER 7 (id: 834_8):
+I think the same thing happened to me with the E90 booster and brakes locking. The shop changed the calipers but it turned out to be a bad booster. Changed the booster and the problem went away.
+
+ANSWER 8 (id: 834_9):
+Originally posted by reelizmpro I think the same thing happened to me with the E90 booster and brakes locking. The shop changed the calipers but it turned out to be a bad booster. Changed the booster and the problem went away. Oh wow, can you please elaborate more. Any idea how to "test" the booster? Did you cut the pushrod, if so how much? THX in advance!

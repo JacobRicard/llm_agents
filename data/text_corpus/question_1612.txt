@@ -1,0 +1,19 @@
+QUESTION ID: 1612
+
+QUESTION:
+As I gear up to do a TC rebuild, I’d like to source substitute bearings that are NLA from BMW OEM. I see the dimension spec for each bearing on realoem however I’m shown a number of choices from motion’s website. I assume a German brand is desired but what other subtleties in spec am I looking for? I see differences in: 1) internal clearance: C0, C3, CN (which I think is the same as C0) 2) closure: I believe these are all open vs sealed vs shielded vs with contact seals (single vs double) 3) snap ring: w or w/out 4) manufacturer choice: FAG(schaeffler), SKF/MRC, Timkin/fawner seem to be the premium Marques... Any insight would be appreciated.
+
+ANSWER 1 (id: 1612_0):
+I just went through this and went with these bearings. I went with normal clearance.. 1x NTN K 15X21X15 1x SKF 6007 1x SKF 6005 2x SKF 16009 1x SKF CR 32X47X7 HMSA10 V 1x SKF CR 35X47X7 HMSA10 V 2x SKF CR 44X60X10 HMSA10 V 1x SKF 6009-2Z 1x INA HK3224
+
+ANSWER 2 (id: 1612_1):
+Originally posted by D.Martijn I just went through this and went with these bearings. I went with normal clearance.. 1x NTN K 15X21X15 1x SKF 6007 1x SKF 6005 2x SKF 16009 1x SKF CR 32X47X7 HMSA10 V 1x SKF CR 35X47X7 HMSA10 V 2x SKF CR 44X60X10 HMSA10 V 1x SKF 6009-2Z 1x INA HK3224 Thanks for all this! do you recall which bearings are single/double shield vs open (if any)? I haven’t yet dissembled... Also it seems as if 123bearing prices are much cheaper than motion industries, not sure of anyone has an opinion on suppliers...
+
+ANSWER 3 (id: 1612_2):
+No problem. Only one bearing is shielded (metal cover), SKF 6009-z2. I ordered all but one on Lagertechniek in the Netherlands as I am from Belgium myself. The INA needle sleeve bearing I got from a seller on Ebay as I couldn't found it anywhere else.
+
+ANSWER 4 (id: 1612_3):
+I just ordered some 16009 bearings from 123bearings (6 of them incase I mess them up during install and because they are so cheap). I'll let you know how it goes. I can tell you I already messed up 2 16009 bearings I ordered from VXB bearing on amazon. I pounded them in using an old bearing on top of the new one. I spun them after installation and they sounded worn out already so I'm pretty sure pounding them in is not the way to go. I'm going to try to press them in using an adapter that only presses on the outer race. Just food for thought when you install your new bearings. Please post your progress!
+
+ANSWER 5 (id: 1612_5):
+Originally posted by Eskie D.Martijn--- How did you install your bearings? You mentioned a bearing driver kit, was it used in conjunction with a hammer or a hydraulic press? Driver kit and the included hammer, had no real trouble installing them. Try heating up the aluminium casing if you have trouble fitting the bearings.

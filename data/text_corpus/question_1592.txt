@@ -1,0 +1,10 @@
+QUESTION ID: 1592
+
+QUESTION:
+My exhaust hanger broke along with the metal bracket that mounts to the transfer case. I've searched RealOEM but nothing looks right, and what's close is discontinued. It's the bracket with two holes, on the bottom of this picture. It bolts to the tab in front of the cat, in this pic. If this isn't available anymore I'll just have someone weld it back together or fabricate a new bracket, but unfortunately I need it quick.
+
+ANSWER 1 (id: 1592_0):
+Looks like it's PN 11761711726, call out #4 here: https://www.realoem.com/bmw/enUS/sho...diagId=18_0170 Just because it says ended doesn't mean there's no stock anywhere. Google the PN, maybe you get lucky.
+
+ANSWER 2 (id: 1592_2):
+Ok that makes sense, the diagram just isn't accurate and none of the retailers have photos. I got it welded but it's not too expensive if it breaks again. Thanks guys!

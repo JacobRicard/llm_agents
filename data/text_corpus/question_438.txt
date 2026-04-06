@@ -1,0 +1,10 @@
+QUESTION ID: 438
+
+QUESTION:
+Hi gang Speedo in my 325 vert doesn't work. I've verified the sensor is working properly, and the wiring is fine at the plug under the back seat, with the correct 0/infinite resistance changes as the wheels turn. The signal is not present at the cluster, and I have 3 spare clusters to verify that it really is a wiring problem. Somewhere between the back seat and the cluster is an issue. Anyone have any guesses? I'd like to try find a potential area before I pull the entire interior apart to chase wires.
+
+ANSWER 1 (id: 438_1):
+"The two wires from the speedo sensor are the brown wire on pin 8 and the brown/red wire on pin 12 of the white plug to the cluster." Check for signal here. If yes, then it's a cluster issue. If not then you'd have to find the break or run new wiring.
+
+ANSWER 2 (id: 438_2):
+Yeah, no signal on the white plug. I am hoping there's a plug somewhere in the loom that's got water in it and somebody can tell me where the wires run so I can shortcut finding it

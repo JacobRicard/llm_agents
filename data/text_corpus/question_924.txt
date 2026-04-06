@@ -1,0 +1,10 @@
+QUESTION ID: 924
+
+QUESTION:
+Hi r3v, My pedal box recently broke in my s50 swapped '87 325is, and I changed out the clutch master cylinder at that time. I didn't swap the slave, but I have one on hand. It took a long time being very careful to bleed the system, but finally the clutch got back to normal. Fast forward, it's been about a month and suddenly my clutch pedal does not like to return all the way up. If I pull the pedal up, it stays there, but with use, keeps dropping lower. I don't seem to have any leaks, but now I have a bigger issue. My clutch slips at WOT in 5th at low rpms. I wouldn't think air in the system would cause that, and my fluid level is fine. Is the slave failing internally or something??
+
+ANSWER 1 (id: 924_0):
+I would re-bleed and try again. If its not returning, that should be air in the line. As far as the clutch slipping, it could be with the slave not disengaging fully.
+
+ANSWER 2 (id: 924_1):
+Sorry - meant to update earlier. The slave blew and shot fluid onto the clutch. I replaced the slave and the clutch and now all is back to normal. Very frustrating to have an easily replaced $25 part cause "major" work like the clutch. That's life I guess haha

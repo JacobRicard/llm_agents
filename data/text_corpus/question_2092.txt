@@ -1,0 +1,10 @@
+QUESTION ID: 2092
+
+QUESTION:
+Hi, on my e30 my passenger side mirror is not working, I tried switching the motors from the driver side and both of them are operational. When I try to position the mirror up or down I hear a click from both of the mirrors,but when I try to possition it left or right there is no click from either of them. I tested the connections from the black connector under the plastic/tweeter to the switch on the driver side and they all have connection and from the connector to the mirror motors there is also a connection. I don't know where to go next I tried cleaning the switch maybe its not working because I didn't clean it enough?
+
+ANSWER 1 (id: 2092_0):
+Maybe the side selector switch needs to be cleaned better or isn't making contact because of a bent or damaged contact. I had to clean the contacts of my mirror switches on both my E30 and E34 thoroughly to get them to work.
+
+ANSWER 2 (id: 2092_1):
+Try another switch. I had a similar problem in one of my cars. When I pushed DOWN it would go LEFT. I replaced the switch and everything was gravy. I suppose opening the switch and cleaning with 90% Isopropyl Alcohol might fix it if there's gunk in there.

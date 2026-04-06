@@ -1,0 +1,7 @@
+QUESTION ID: 602
+
+QUESTION:
+Aloha everyone from Hawaii! Thanks for all the great forums and I apologize if this has been discussed but I just spent an hour trying to find the answer to this and couldnt find it. Anyway I am wanting to run the high beam delete intake (I know it’s not a power upgrade just a looks/sound preference so please let’s stick to how to make the high low beam work) and would like to make the low beam on the side I delete also work as a high beam. I assume I would need to get a new headlight for like a Jeep from amazon or something that has the dual function built in but as far as parts and wiring what else would I need to do this? Is this even possible? I would prefer to just modify the one side and keep the other side stock if possible as well 😅 If so how can I do this. Thank you!🤙🏼
+
+ANSWER 1 (id: 602_0):
+I guess you don't have sealed-beam headlights. The sealed outer headlights already combine low and high beams. You can improve them by buying a replacement H4 Hella lights. https://www.bimmerworld.com/Lighting...Kit-71456.html So, the easiest factory way is to install the sealed-beam frame.

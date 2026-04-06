@@ -1,0 +1,7 @@
+QUESTION ID: 3558
+
+QUESTION:
+Hey guys, I'm overhauling the wiring harness in my M3 and am stumped on this one. The housing for the lines that break out of the main harness to go to the brake wear sensor have become brittle and dry rotted over time, so i want to replace them while the harness is out. ECS lists p/n 61121367674, which is this: My line looks JUST like that except it has two lines instead of three: The thicker rubber areas on mine are mounting points and a protective cover, which oddly are different part numbers. Anyways - has anyone done this repair before? IF so care to enlighten me? If i cant find the right PN I'll probably just recover the existing line with some heavy duty shrink wrap that will hopefully take exposure better than this one did. Thanks!
+
+ANSWER 1 (id: 3558_2):
+Yeh. Thought about that approach but if the new wire is like my original one the rubber is actually extruded around the wires, meaning pulling one out will leave a gap in the housing. Might be worth a try though. That or dust off my McMaster Carr catalogue and start looking at different gauges of heat shrink tubing Sent from my iPhone using Tapatalk

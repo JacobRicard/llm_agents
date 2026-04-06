@@ -1,0 +1,25 @@
+QUESTION ID: 78
+
+QUESTION:
+onto my next problem, the hazard lights keep coming on all the time, i keep pressing the hazard button but the stay on, i move the indicator stalk frantically, they stay on, then for no reason they stop momentarily, of course they come back on a few minutes later. it's so annoying. anyone else had this problem?
+
+ANSWER 1 (id: 78_0):
+You’re going to have to do some electrical troubleshooting. I recommend you consult the ETM for your year and model of e30. Easiest test may be to substitute a known good hazard switch and see if that cures the issue. The solder traces on the instrument cluster going bad could also cause this type of problem, and are more difficult to troubleshoot.
+
+ANSWER 2 (id: 78_1):
+Here is the ETM for your 1990 325i convertible: https://www.millerperformancecars.com/files/bmw%20electrical%20manual/1990%20BMW%20325i%20Convertible%20Electrical%20Tro ubleshooting%20Manual.pdf see pages 6313.0 and 6313.1 for the hazard/turn switch wiring diagram. this member has a ton of switches for sale @$10 each, including the hazard: https://www.r3vlimited.com/board/forum/e30-classified-forums/for-sale-wanted/parts-for-sale/10104373-window-defrost-hazard-switches-for-sale Here’s an interesting discussion of a similar issue: Indicator Problem... - E30 Zone https://www.e30zone.net/forum/viewtopic.php?t=10502 This youtube video specifically addresses four potential causes of hazard light malfunction: https://www.youtube.com/watch?v=cZlbPWOBNAA&t=149s
+
+ANSWER 3 (id: 78_2):
+thanks for all that info. really appreciate the effort people go to. I've been trying to have a sort out with it today, its weird. when I open the drivers door they start flashing but if I pull the. hazard switch out once or twice and press it a few times they stop, I think it's possessed 🤣
+
+ANSWER 4 (id: 78_3):
+The switches on E30 cars are serviceable. Try popping it apart and look for fried contacts. Window switches, for instance will sometimes go on for years after a "failure". I clean them up and put a sparing amount of dielectric grease on the contacts. Can anyone here confirm that the hazard switch is serviceable?
+
+ANSWER 5 (id: 78_5):
+Originally posted by packratbimmer The switches on E30 cars are serviceable. Try popping it apart and look for fried contacts. Window switches, for instance will sometimes go on for years after a "failure". I clean them up and put a sparing amount of dielectric grease on the contacts. Can anyone here confirm that the hazard switch is serviceable? My hazard switch was sticky, I took it apart and attempted to clean the contacts. Unfortunately, this switch is a little complicated in its actions and after trying for an hour to put it back together, it never worked properly again. I was happy to get a good replacement for $10.
+
+ANSWER 6 (id: 78_6):
+Originally posted by dnguyen1963 This might sound weird, but replace all the signal light bulbs can solve this problem. I had the same thing happened to my car years ago. I agree. I had a working (it lit up) bulb in my left front signal and it actually had my check panel illuminated. Try to find genuine bulbs not the cheapies from the chain stores. Look for the stainless case around the bottom of the bulb.
+
+ANSWER 7 (id: 78_9):
+changed all my indicator bulbs, the issue it seems is sorted, just took it out for an hour not once did the hazard lights come on, the only time it happens now is when I open and close the drivers door, flashes about 10 times then goes off, I assuming that this is related to a old alarm that was once on it, I can definitely live with this. Thanks again to everyone who replied to me, really appreciate it.

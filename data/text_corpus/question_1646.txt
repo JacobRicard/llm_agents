@@ -1,0 +1,19 @@
+QUESTION ID: 1646
+
+QUESTION:
+I bought Bilstein sport shocks for my 1987 325is and asked my mechanic to install them. He is reluctant to install them because he sees play between the shock rod and the opening in the shock mount. Take a look at the video he sent me and let me know what you think please. https://photos.app.goo.gl/wABdu6FDcDm6m68cA
+
+ANSWER 1 (id: 1646_0):
+Not sure if this applies up front, but I know that the Stems on the rear Bilsteins & Konis are ~2mm difference. I also know theres a thick washer missing from that top mount that goes under the big nut
+
+ANSWER 2 (id: 1646_1):
+Yes he needs to have the large bottom washer that covers the bearing. Even then, it looks like the play is marginal. When he torques everything down, it won't be an issue.
+
+ANSWER 3 (id: 1646_2):
+The Bilstein shaft should be about 14mm and the strut mount should be a nice fit. I'm going to say the upper strut mount he ordered is for a larger shock, not the standard stock.
+
+ANSWER 4 (id: 1646_3):
+Originally posted by OttoBob I bought Bilstein sport shocks for my 1987 325is and asked my mechanic to install them. He is reluctant to install them because he sees play between the shock rod and the opening in the shock mount. Take a look at the video he sent me and let me know what you think please. https://photos.app.goo.gl/wABdu6FDcDm6m68cA Geometry Dash It could be due to purchasing the wrong shock absorber code for the housing, or a worn or warped mount/strut tower. I think you should check the shock absorber code against the E30's 51mm front strut housing for the 6-cylinder and IS, or try replacing the mount/plate/lift/reinstallation to see if it fits better.
+
+ANSWER 5 (id: 1646_4):
+Not an issue. to echo what was said, when everything is torqued down you’re not going to have any play. shocks going thru shock mounts in the front don’t have tight tolerances like they do in the rear. You also have the force of the spring keeping everything snug when it’s loaded

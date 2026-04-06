@@ -1,0 +1,10 @@
+QUESTION ID: 1843
+
+QUESTION:
+Having an exact sound to the linked video. Center carrier bearing? It sounds like a whining noise from outside the vehicle. Reddit - Please wait for verification https://www.reddit.com/r/E30/s/m2VBsWS8F0
+
+ANSWER 1 (id: 1843_0):
+Does it make the sound when not moving? If so, fuel pump may be the culprit. If not, I’d check your bearings. Put it on jack stands and try to shake the rear wheels to check for slop in the wheel bearings. Try the same with your driveshaft.
+
+ANSWER 2 (id: 1843_2):
+Originally posted by redwagin Does it make the sound when not moving? If so, fuel pump may be the culprit. If not, I’d check your bearings. Put it on jack stands and try to shake the rear wheels to check for slop in the wheel bearings. Try the same with your driveshaft. Yeah only when moving. The wheel hubs have no play which is why I’m leaning towards center bearing

@@ -1,0 +1,13 @@
+QUESTION ID: 776
+
+QUESTION:
+A common issue with these cars is the failure of some plastic connectors for non-critical sensors. I believe this was due to German regulations forcing biodegradable plastics use during the 80's and 90's. Whether or not it was intentional, they commonly become extremely brittle and basically useless. This would be a rather straightforward fix - buy new connector shells and install - but there is an overmolded plastic part that surrounds the pins on these parts which also has a tenancy to crumble. The only way to fix this I could think of was to use a plastic clamshell to take its place. Since I have access to a 3d printer, I decided to try and print some parts. You can find the files here: https://www.thingiverse.com/thing:3011306 Make sure to use ABS (doesn't absorb water) or another durable filament and print multiple parts on a raft. I found they didn't like to stay down if they were printed directly onto the heated bed. These fit perfectly inside the OEM connectors and because the connectors close around them, it's not even necessary to glue them together (although I did on the oil/coolant sensors just to make it easier to assemble). Designed to work with the following connectors:BMW 61131378410 - Turn Signal / AC temp switch BMW 61131378408 - Coolant / Oil / Fuel Pump May work with others, I haven't run across any other ones that use this style, but I'd assume they are all the same. If there's enough interest, I could see what it would cost to tool up and injection mold some parts, but I don't really have any interest in printing parts for people.
+
+ANSWER 1 (id: 776_0):
+Pretty sharp idea man. I have been wondering about this. Half of the connectors under my hood have crumbled as I mess with them. Sent from my iPhone using Tapatalk
+
+ANSWER 2 (id: 776_1):
+Very nice. If you're not looking to make them yourself, you could put them up on a site like Shapeways so we can just order them directly, printed by other people. Any chance you could also do the brake and clutch switch connectors, or the fog light connectors? Mine are all hacked together as they disintegrated years ago.
+
+ANSWER 3 (id: 776_2):
+Given that the stock 2.5mm snap-in wires are $8 each (16 needed to redo the headlights + foglights, excluding the cost of connectors themselves), I say nice work.

@@ -1,0 +1,10 @@
+QUESTION ID: 1090
+
+QUESTION:
+Hi All, Has anyone looked at or tried converting a S14 (Motronic 1.3) to Motronic 1.7 ? Cheers, Dave.
+
+ANSWER 1 (id: 1090_0):
+the S14 runs on Motronic 1.0, not 1.3, and I think you would need to add a 60-2 wheel for it to work at all. It could be done - but I'm not sure it would really be worth the effort. Motronic 1.7 is still positively ancient, and you'll have to do all sorts of reverse engineering and tuning to make it run properly on the S14. I mean, not impossible - but how comfortable are you with hex editing and burning ROMs? Probably better off going another route - MS2 or MS3 might be a good option if you want to go sequential/COP.
+
+ANSWER 2 (id: 1090_1):
+Sorry. did I say "Motronic 1.3" ?.. I meant 3.1, as used on the E30 320is (S14B20. ECU 0 261 200 087) :D. If you take the T out of Motronic, you're left with "Moronic" ! Nando, Many thanks for your reply. Sequential injection would be great, COP is the real attraction for me. Advice or the benefit of your experience most welcome.

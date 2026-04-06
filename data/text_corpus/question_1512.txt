@@ -1,0 +1,25 @@
+QUESTION ID: 1512
+
+QUESTION:
+My '88iX is spraying power steering fluid out of a pipe that goes along the top of the rack. I have a spare rack, but I'd rather not break it down since it is complete. Are these pipes available anywhere? I barely drive this but I want to drive it this weekend. I put just over 1000 miles on it since October, 2014. Thanks for any help here!
+
+ANSWER 1 (id: 1512_10):
+thank you for that picture! I was just about to take pictures of my spare. I don't want to drive this to my shop so hopefully I can get to it on ramps. Or maybe I can remove the PS belt for the drive to the shop. Its supposed to snow here tomorrow so sometime this week. I'll update when I work on this.
+
+ANSWER 2 (id: 1512_11):
+Can't help with a replacement pipe, but if you want to send me the old one when you have it off I could make you a replacement - I have one of those nice (aka expensive) MasterCool hydraulic flaring tools that I'm trying to justify the cost of. Don't want any money other than shipping and tube cost (unless you have a length you can send).
+
+ANSWER 3 (id: 1512_12):
+Minor thread redirection - I too have a leaking and old (200,000+mile) ps system in my 88 iX, although not from the rack. Anyone have experience with a proper ps delete on an iX, which would entail removing all unnecessary parts and use a fancy plate to loop the fluid? I understand the potential challenges of parking... So: replace all of the things, (reservoir, lines and rebuild/replace pump) or remove all of the things. Thanks for the input :pimp: tk
+
+ANSWER 4 (id: 1512_2):
+Can you just cap the bolts? I thought there needed to be fluid passage from one side to the other as you turn it? That's why people sell the PS delete plates.
+
+ANSWER 5 (id: 1512_4):
+I'm not sure that will work. that pipe doesn't connect to the PS hoses, it's like a bypass line or something for the rack. It will probably still leak although not as badly if you disconnect the hoses.
+
+ANSWER 6 (id: 1512_5):
+Maybe... MAYBE... clean it really really really well. Coat everything in a thin coat of that blue gasket sealer. Get a 2" piece of fuel or heater hose or whatever. Give it one cut longitudinally so you can slip it over the metal pipe. Give the inside a thin coat of the hose a coat of blue gasket sealer again. Use 3 hose clamps. 2 on the ends and one right over the pinhole leak. Let it sit for a few hours before turning the wheel or whatever. Maybe it'll hold. Maybe you'll waste an hour.
+
+ANSWER 7 (id: 1512_7):
+The way that's leaking, it's a pressure hose. Sealer won't cut it. Just take the belt off. It'll suck for a weekend, but then you can order a new pipe. http://www.realoem.com/bmw/enUS/show...diagId=32_0267 Number 2 in this diagram, maybe?

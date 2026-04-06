@@ -1,0 +1,10 @@
+QUESTION ID: 58
+
+QUESTION:
+Hello, I just purchased a 1989 325I. The car was running, it was slightly rough, but it would start and run without any problems. I have been doing some work on it. New battery, exhaust pipe and rebuilt the gear linkage. I went to pull it out of the garage, and it stalled and will not start. Its turning over and has spark. There is a fuel smell, and the spark plugs are wet when I take them out. I did the stomp test, and I am not getting any codes. I have checked the Idle control valve, cleaned it and it seems to be working. Has this happened to anyone else? What would you try next? Thanks! ​
+
+ANSWER 1 (id: 58_1):
+Thank you! Its the first time I have had a car that has spark and fuel but not doing anything! The post lists a couple of things to try. Is there anyone in particular that you would try first? Thanks!
+
+ANSWER 2 (id: 58_2):
+To be honest I'm not sure. I've ran into some problems with my car trying to start and it's always been different issues. Once I had a bad main relay. One time it was my fuel pump wiring. Another was my CPS. Best thing to do is go around and check everything. All fuses, all relays, make sure everything is actually plugged in, etc. It's kind of one of those issues that you will have to trouble shoot to find.

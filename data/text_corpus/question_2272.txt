@@ -1,0 +1,22 @@
+QUESTION ID: 2272
+
+QUESTION:
+In need of help ASAP. my 1986 325 with a 2.7 is acting very weird. it’s got all new fuel and ignition components from pumps to injectors and distributor to plugs. just changed the timing belt and water pump. when I start the car, it idles high, but it is a very unsteady idle. And when given throttle, it bogs down and stutters. I haven’t found any vacuum leaks, and all connections are plugged in. many suggestions or ideas on why this is happening? I also have video of startup and revs if anyone needs. all help is appreciated
+
+ANSWER 1 (id: 2272_0):
+Originally posted by Kotyman In need of help ASAP. my 1986 325 with a 2.7 is acting very weird. it’s got all new fuel and ignition components from pumps to injectors and distributor to plugs. just changed the timing belt and water pump. when I start the car, it idles high, but it is a very unsteady idle. And when given throttle, it bogs down and stutters. I haven’t found any vacuum leaks, and all connections are plugged in. many suggestions or ideas on why this is happening? I also have video of startup and revs if anyone needs. all help is appreciated Possibly something wrong with the idle control valve or its associated computer? These cars are getting to an age where any original solid state electronics can start exhibiting issues
+
+ANSWER 2 (id: 2272_1):
+Gonna agree with above. Start the car and unplug the ICV while it's running to see if it has any effect on the idle. Here's a quote of Albie having a similar issue and it was fixed just by jamming the connector on tighter: Originally posted by Albie325 Started the car and still had the same idle as before. Unplugged and replugged the ICV harness a couple times, initially no change. Then I got pissed and really jammed the harness on as far as it would go and... she purred like a kitten. Well actually more like a sewing machine but you get the picture. I'll be damned. The ICV harness was just a little loose, I'll have to find a way to tighten it up so it doesn't wiggle it's way back off from engine vibration. I also had an idle issue on my 325e with symptoms similar to yours. I thought I didn't have a vacuum leak for a few months before I finally bit the bullet and got it smoke tested. My problem ended up being a leak from the bitch tube/oil return tube. I had tried the carb cleaner spray test and got no results, but the smoke test I did ended up showing the vacuum leak clearly so you may consider having one done after troubleshooting other systems since tests can be costly. Before getting a smoke test and after testing the ICV, I'd recommend you run through this website to troubleshoot every system associated with your idle. It's very in depth and should help you find your problem. If none of these tests reveal anything, then you're probably like me and had a vacuum leak the entire time.
+
+ANSWER 3 (id: 2272_2):
+So I replaced the AFM, and it didn’t seem to change anything. I found that the oil return tube wasn’t seated all the way as I had thought. I put it back in place where it seemed to seat just fine. But the engine runs WORSE. It sounds like it’s running on 2 cylinders for about 5 seconds and then dies…
+
+ANSWER 4 (id: 2272_4):
+That’s what I plan on doing tomorrow. I’ll swap the print and see what happens. I’m also going to double check the injectors are seated fine as well. If that’s not the fix. Idk what is. I found this forum post from a few years ago, but they post no solution to the problem. https://www.bimmerfest.com/threads/85-325e-no-start-rough-idle-misfiring.525455/ There is a YouTube video that he made and linked in the post, with the solution being the run wire for the starter (mine is fine) and a bad ignition rotor, which I replaced last December.
+
+ANSWER 5 (id: 2272_5):
+Had a problem with a 325i which sounds similar, bad idle, stalling when pressing gas. It turned out not to be the typical bad actors but the diagram in the FPR was leaking fuel into the intake thru the vacuum line. It caused some cylinders to run extremely rich while others were ok. Replaced FPR problem gone.
+
+ANSWER 6 (id: 2272_6):
+Originally posted by twright Did you change the o'ring on the oil return tube? There could some big time air leaks here. I replaced the o-rings on that today. It didn’t change anything. it’s running rich too. Black smoke comes from the exhaust when on throttle. And I’ll have to try the FPR. I replaced it last December as well.

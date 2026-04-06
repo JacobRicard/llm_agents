@@ -1,0 +1,31 @@
+QUESTION ID: 1460
+
+QUESTION:
+I'm redoing my suspension and I'm trying to find OEM springs to get the oem ride height how ever I only can find the rear springs and it seems that the OEM front springs have been discontinued. Does anyone of a spring manufacture that makes springs that will keep the OEM ride height and will require no modification?
+
+ANSWER 1 (id: 1460_1):
+Yeah I understand that, however the one I need 31331127503 has been discontinued, unless 31331131943 will keep the same ride height? I'm just thinking it won't considering it fits other e30s as well so I'm assuming its a lower ride height
+
+ANSWER 2 (id: 1460_11):
+Originally posted by TheSnowBimmer Don’t springs sag over time? It might be fine but I feel like it’s sagged after a while as it doesn’t look as high as it looks in photos yeah they do a bit but it's generally negligible. it'd be a bitch if you went to the trouble and wound up essentially at the same place. i've yet to meet a mechanic that advises swapping springs out as a wear item. edit : most times they'll recommend a shock / insert change and call it a day at most. also i think h&r may have a listing for an oe replacement, but not bmw branded if you go with a swap. they supplied the oe springs.
+
+ANSWER 3 (id: 1460_2):
+Originally posted by TheSnowBimmer Yeah I understand that, however the one I need 31331127503 has been discontinued, unless 31331131943 will keep the same ride height? I'm just thinking it won't considering it fits other e30s as well so I'm assuming its a lower ride height Are you sure about those part numbers? When I put 31331127503 into realoem, those show up for "Swedish model with or without airconditioning" 31331131943 is for convertible models. I think you should have a look at: 31331129880 or 31331125341
+
+ANSWER 4 (id: 1460_3):
+Originally posted by D.Martijn Are you sure about those part numbers? When I put 31331127503 into realoem, those show up for "Swedish model with or without airconditioning" 31331131943 is for convertible models. I think you should have a look at: 31331129880 or 31331125341 Looking back to realoem my part number is 31331125341 I was accordingly looking at the superseed I believe, Either way though it looks like 31331125341 has still been discontinued along with the other part number you have sent
+
+ANSWER 5 (id: 1460_4):
+Originally posted by TheSnowBimmer Looking back to realoem my part number is 31331125341 I was accordingly looking at the superseed I believe, Either way though it looks like 31331125341 has still been discontinued along with the other part number you have sent When I have a look at some of the European suppliers they list it as available. (I live in the EU) Maybe your local dealership can get them for you?
+
+ANSWER 6 (id: 1460_5):
+There is a good write-up in the Bentley manual about springs and includes a chart/s. I remember something about the numbers on the springs not being actual part numbers ( one has to add a one or two depending on the stripe color ) - read page 20 in the steering and suspension section "The identifying numbers..." According to the chart, the 341 spring will only lower the car 4MM when replacing 503
+
+ANSWER 7 (id: 1460_6):
+Originally posted by packratbimmer There is a good write-up in the Bentley manual about springs and includes a chart/s. I remember something about the numbers on the springs not being actual part numbers ( one has to add a one or two depending on the stripe color ) - read page 20 in the steering and suspension section "The identifying numbers..." According to the chart, the 341 spring will only lower the car 4MM when replacing 503 So from what you're saying If I used 503 there wouldn't be a drop or a noticeable one at least? Because I think I found a place that has one. But now I'm wondering if the rear springs I found would work, real oem says I need 33539061592 but I was wondering if I could use 33539058926, I'm unsure as my cars prod month was 09/88 but33539058926 says from 09/89 on pelican do you think they would be interchangeable? As for the ones realoem says I need, the 33539058926 I'm only able to find here or on websites like this https://www.thebmwminipartstore.com/...30-33539061592 and I'm not sure if websites like that are trusted
+
+ANSWER 8 (id: 1460_7):
+Be aware that ride height with 503 (as seen on the spring itself) will be pretty high. A stock iX will often squat in the back when hauling stuff in the trunk. I actually ran taller springs in the back from a 325e and even tried E36 sedan springs once. Unfortunately, your question does not have an easy answer and might involve some labor intensive experimentation. Though I cannot say that the spring rate was correct for an iX, stock rwd 325i springs in the front resulted in the best stock spring setup on my iX cars. I was not driving in harsh conditions so they worked great. BTW: What size tires do you plan to run? Do you need height for tire clearance? Just looking to get back to factory stock stance?
+
+ANSWER 9 (id: 1460_8):
+I don’t need the ride height as I’m planning on running 205/55 I just prefer the look of the oem height and I’m trying to fully refresh the suspension to get it to oem or oem+ as I’m trying to make it a nice daily

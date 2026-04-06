@@ -1,0 +1,7 @@
+QUESTION ID: 1795
+
+QUESTION:
+Went to buy spark plugs for my e30. I've always used NGK BPR5ES. The guy asked if I was buying them for a lawnmower.
+
+ANSWER 1 (id: 1795_2):
+The zone only had four in stock, went down the street to Rielly and got two more. They came in the regular box and cost $1 more a piece. Tried to look up when I last did my plugs. No entry in my notebook, was changed before i started tracking maintenance. More than seven years and 26k miles ago. Plugs had normal wear and the gaps were about 0.010" more than spec of 0.028". Car was throwing CEL for O2 sensor. Sensor was replaced ~2 years ago. Cleared the codes after changing the plugs. Only put on 60 miles since but looking good so far.

@@ -1,0 +1,10 @@
+QUESTION ID: 2000
+
+QUESTION:
+I acquired a free 2000 740i (automatic) that was in an accident and isn't worth fixing, so I'm just going to pull some parts off of it to sell and then take it to the scrapper. It has a healthy and well maintained 160k mile M62TUB44 that I'm considering pulling out to sell as a swap package and wondering if it's worth the effort. I'm learning that it's a complicated swap into another chassis with the EWS and what not, but since I have an entire donor car I could pull all the necessary bits to include. I know the throttle pedal and cable will need to come out, and I saw something about having to pull the entire steering column, is this true? What all would I need to remove from the car in order to provide a complete swap package? Any help is appreciated
+
+ANSWER 1 (id: 2000_0):
+I think to have the DME work without the car, you need to flash it. I have read about a 740i manual swap where a guy went over the details for getting that to work (with INPA or ITSA I think). You can also "flash" or program out the EWS. Then you would have an engine and computer that are independent of the car. This will take research, and I have not seen too many people swapping the M62B44TU engine in an e30. It's usually the ODB1 non vanos engine.
+
+ANSWER 2 (id: 2000_1):
+2000 era EWS isn't too bad- it's discrete, and if the E46 is any indication, nothing's encrypted yet. I'd stuff it into an E39, but that's because I have a couple. t

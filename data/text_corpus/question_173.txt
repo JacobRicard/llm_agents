@@ -1,0 +1,28 @@
+QUESTION ID: 173
+
+QUESTION:
+Hello, I've had my 1988 325i for about 5 years now. Something I've always wondered... the A/C has blown ice cold from the day I drove it home. I'm wondering if a previous owner converted it from the original R-12. Is there an easy way to know for sure if the refrigerant has been updated? Thanks! :)
+
+ANSWER 1 (id: 173_0):
+Originally posted by blastcaves Hello, I've had my 1988 325i for about 5 years now. Something I've always wondered... the A/C has blown ice cold from the day I drove it home. I'm wondering if a previous owner converted it from the original R-12. Is there an easy way to know for sure if the refrigerant has been updated? your lines, compressor, dryer, condenser, and valve will have been changed out if it has. it's possible the compressor wasn't swapped but most original compressors will have stopped working a long time ago by now. have a look at your components. there are also a few cans of r12 kicking around that folk can source to recharge older systems. most are sold as second hand.
+
+ANSWER 2 (id: 173_1):
+I've seen plenty of conversions using the original lines- but 99% of them have the valves converted to the R134 spec. R12 is capable of cooling to a lower temperature than R134, so it's entirely possible that you still have R12 in there. My '92 Ferd pickup's still R12, and works great. t
+
+ANSWER 3 (id: 173_2):
+Originally posted by blastcaves Hello, I've had my 1988 325i for about 5 years now. Something I've always wondered... the A/C has blown ice cold from the day I drove it home. I'm wondering if a previous owner converted it from the original R-12. Is there an easy way to know for sure if the refrigerant has been updated? Thanks! :) What do your charge fittings look like, this is 95% the way to tell which charge you have. The minimum needed, albeit, the proper way, is to remove the oil and freon from compressor and replace it with r134a and put in a new drier. R134a will work just find but can easily acquire leaks and will not be as efficient as if you change out a few items but oil and freon is all you really need.
+
+ANSWER 4 (id: 173_3):
+Originally posted by monty23psk What do your charge fittings look like, this is 95% the way to tell which charge you have. Here are photos of the fittings. I'm guessing these are stock R-12 valves. Can you confirm? Attached Files
+
+ANSWER 5 (id: 173_4):
+First pic of it by shock tower is old r12 fitting. The other on the inside of fender looks to be r134a, but probably r12. It is a bad angle to tell. Do they look the same? You can still use r134a with the old fitting but very rare to see that.
+
+ANSWER 6 (id: 173_5):
+Originally posted by monty23psk First pic of it by shock tower is old r12 fitting. The other on the inside of fender looks to be r134a, but probably r12. It is a bad angle to tell. Do they look the same? You can still use r134a with the old fitting but very rare to see that. They are exactly the same. I'm going to assume I still have the R-12. Thanks for the help!
+
+ANSWER 7 (id: 173_6):
+Sounds like you have R12 in there. if it works fine - don’t touch it. while R12 is not great for the environment-it’s a very efficient refrigerant and suits the e30 set-up
+
+ANSWER 8 (id: 173_7):
+Originally posted by Tzantushka Sounds like you have R12 in there. if it works fine - don’t touch it. while R12 is not great for the environment-it’s a very efficient refrigerant and suits the e30 set-up Yep! Blows ice. I'll leave it alone and look at recharging options with R-12 if/when the need arises.

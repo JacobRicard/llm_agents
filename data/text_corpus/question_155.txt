@@ -1,0 +1,7 @@
+QUESTION ID: 155
+
+QUESTION:
+I have an intermittent starting issue. Sometimes, my 88 320i fires right up but then other times it cranks but won’t fire. Not a battery issue, as I have a new battery. I keep it in a battery tender, and the other day it started on the first key turn but then when I shut it off after 2 mins it would not re-fire. I’m wondering if it is my ignition coil?
+
+ANSWER 1 (id: 155_0):
+Originally posted by Auburn BMW I have an intermittent starting issue. Sometimes, my 88 320i fires right up but then other times it cranks but won’t fire. Not a battery issue, as I have a new battery. I keep it in a battery tender, and the other day it started on the first key turn but then when I shut it off after 2 mins it would not re-fire. I’m wondering if it is my ignition coil? could be a number of things. first would be any number of possible air leaks. it's also a common symptom for a failing fpr or leaking injectors. smoke test the car to find and eliminate the air leaks, and tee a pressure gauge on to the fuel rail to test the fpr and injectors.

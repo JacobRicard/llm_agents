@@ -1,0 +1,13 @@
+QUESTION ID: 184
+
+QUESTION:
+I've read through past threads on fuel sensors/gauge issues which have been helpful but didn't find anything that fully matched my symptoms. 1990 325i original cluster, nut is tight on fuel gauge. Gauge reads 3/4 with a full tank, gauge does not bounce and needle goes down with fuel usage but does so quicker than it should and reads empty after using about only 5-6 gallons. The low fuel light will eventually come on but only when the tank is actually almost empty. The light suggests that the passenger-side sensor is working. Replaced both passenger and driver-side sensors with new ones a while back and no change. I've gotten used to the quirk but will be opening things up to replace a leaking fuel pump o-ring so revisiting this again in hope that I'm missing something obvious that I can address while I'm in there. Insights welcomed!
+
+ANSWER 1 (id: 184_0):
+if both sending units have been replaced i'd look at gauge itself edit : sending unit could be sticking but it wouldn't make sense on a new one. grab a copy of your etm to trace the electrical before the resource closes. you can get it here : 404 Not Found http://wedophones.com/Manuals/BMW/
+
+ANSWER 2 (id: 184_1):
+Thanks for the reply. I rechecked my records last night and it turns out I only replaced the passenger-side with a new one. I just pulled it as part of replacing a leaking pump gasket and retested it this morning and all good. No record of ever replacing the driver's side sender. Ohm test on empty on that one while still in the tank is 41 so next step is to pull and try cleaning it. I have a working spare so can swap that out and see if that solves things. The ETM is a great resource. Thanks again.
+
+ANSWER 3 (id: 184_2):
+Update: Both senders out of the tank test fine ("full" at under 5 ohms, and "empty" at 67+). Added some gas and reinstalled the senders: with about 5+ gallons both senders read 34 ohms and nothing registers on the fuel gauge. With 8 gallons, the fuel gauge reads steady at 1/4 tank and driver's side sender reads 22 ohms and passenger side sender reads 18. With those readings shouldn't the gauge be closer to 1/2? Tank is 16 gallon but dented from improper shop lifting from sometime in its history, so "full" is 15 gallons maybe.

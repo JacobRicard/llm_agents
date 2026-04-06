@@ -1,0 +1,34 @@
+QUESTION ID: 3500
+
+QUESTION:
+In many cases when I open up a thread there are pictures that I can't see for some reason. Unfortunately, the threads with pictures that would be extremely helpful are always the ones that I can't see. Does anyone have any idea why this is happening? Also, I'm from Atlanta, GA and I'm about to finally pick up my first e30. Looks like I'll need to retrofit the 134a AC in it, and the timing belt has about 40k on it. (How long before I need to be worried??) Does anyone have any advice on how hard it would be for me to take these projects on without having much experience working on cars? I'm mostly thinking about specialty tools or issues I'm going to run into thats common knowledge for the average experienced DIY guy. OR Is there anyone in the ATL area who would be willing to help me take these projects on? Thanks
+
+ANSWER 1 (id: 3500_0):
+Might be that the thread is old and the host links to the pictures are no longer valid. Retrofitting 134a only takes basic hand tools to R&R the components (although some of the hose connectors are adjustable wrench territory). However, to do it effectively you'd want to replace from inside to out, the expansion valve; hoses; compressor; drier; pressure switch/wiring and the condenser. It's a fairly straightforward job on M42 equipped cars, and shouldn't be much worse on M20s. If you're in ATL you ought to change the location in your profile.
+
+ANSWER 2 (id: 3500_1):
+The complexity of the A/C retrofit depends on the year of the car.. at the very least you need to replace the expansion valve and dryer Pick up a set of allens you can use with a ratchet and some torx wouldn't hurt either
+
+ANSWER 3 (id: 3500_10):
+Originally posted by Griff_ Non of my three current cars have AC. When it does get hot here I just roll a window down. The only issue is that, without a functioning AC, my defroster doesn't work so I have to crack a window/sunroof in freezing temps. Is it your blower motor that's out?
+
+ANSWER 4 (id: 3500_2):
+Thanks guys I really appreciate it. I guess I need to pick up a set of good tools pretty soon, anyone have any advice on the best brand/place/tool set to get? Also, I'm gonna keep my location as Denver because I'll only be back in ATL for about a week but wanted to get the timing belt job done before the grueling ride from ATL to Denver, but I'm moving to Denver pretty soon. Thanks for the advice though!
+
+ANSWER 5 (id: 3500_3):
+For starters, a large Craftsman kit will do nicely. Get one that goes past 18mm in socket/wrench sizes, and preferably one that contains ratcheting flat wrenches. You'll also want a breaker bar and a comprehensive selection of pliers, both locking and not.
+
+ANSWER 6 (id: 3500_5):
+Take a look at the Mountain regional forum if you're moving this way, we have a fair amount of active and knowledgeable members here in CO and UT area. To be fair, I'm not one of them, I just hang out in the mountains with my e30 like a recluse.
+
+ANSWER 7 (id: 3500_6):
+Originally posted by quikveedb2 Take a look at the Mountain regional forum if you're moving this way, we have a fair amount of active and knowledgeable members here in CO and UT area. To be fair, I'm not one of them, I just hang out in the mountains with my e30 like a recluse. Thanks man I appreciate that and I will make sure to do that. So I have been researching a ton and found some people talking about the BEST alternative to a non-functioning r12 system. Specifically on this thread: http://www.r3vlimited.com/board/showthread.php?t=213615 One of the guys in this post mentioned this: "Change your drier, locate and repair your leaks, pump down, and recharge with R414b. It is an R12 drop in, so no oil hassles, no expansion valve problems, no pressure issues." Additionally many others have said that the r134a retrofit is not the best option. So I guess what I am asking is has anyone tried recharging with r414b? Most importantly I want to know what's the best way to get cold/long-lasting AC in my 89is?
+
+ANSWER 8 (id: 3500_7):
+Originally posted by Jdub Most importantly I want to know what's the best way to get cold/long-lasting AC in my 89is? Roll down your windows? You're in CO! Do the timing belt, tensioner, and water pump at the same time. Do a flush and replace the coolant with BMW blue coolant. Do this before your trip or risk your engine. BMW coolant is available from Blunttech along with everything else you need. Just call Steve and tell him you need all that stuff.
+
+ANSWER 9 (id: 3500_8):
+Originally posted by itsonlygeorge Roll down your windows? You're in CO! I've heard this many times, but Im not in CO yet so I don't really know how serious people are when they say that, surely it has to get hot enough to need some AC there in the summer! And I have to spend my whole summer in Orlando, FL so I NEED some cold air, I just don't have much to spend, and on top of all this I am really trying to learn how to DIY so I can build the car myself, timing belt and all.
+
+ANSWER 10 (id: 3500_9):
+Non of my three current cars have AC. When it does get hot here I just roll a window down. The only issue is that, without a functioning AC, my defroster doesn't work so I have to crack a window/sunroof in freezing temps.

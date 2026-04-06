@@ -1,0 +1,19 @@
+QUESTION ID: 351
+
+QUESTION:
+There is a clunk coming from the front left when i hit a pot hole or a speed bump also when i first release the break after coming to a stop. When i jacked up the car it only made any noise when i tried to move the wheel front to back. I have bilstein struts, h&r springs, k-mac camber kit, bmp cab's and new control arms. any thoughts before i start taking everything apart
+
+ANSWER 1 (id: 351_10):
+Originally posted by SchnellerVert Tighten it with impact gun to over come the spinning of the strut tube or with hand tools? toque spec is only like 50lb/ft for the shock top nut, you don't really need a impact gun, if that's what you are suggesting.
+
+ANSWER 2 (id: 351_12):
+Originally posted by SchnellerVert Tighten it with impact gun to over come the spinning of the strut tube or with hand tools? You are asking for trouble tightening this with an impact gun. You run the risk of twisting the strut. James
+
+ANSWER 3 (id: 351_2):
+Check the caliper mounting bolts -- I was having the similar mystery noises that ended up being the caliper slowly unbolting itself due to insufficient torque. (A bad thing.)
+
+ANSWER 4 (id: 351_3):
+when i hit the brakes the wheel shifts backwards about a half an inch or so. im going to look at the caliper tonight and see if the bolts are tight. Also this weekend im putting treehouse cabs on it to see if it makes a difference.
+
+ANSWER 5 (id: 351_4):
+well i put the cabs on today and made sure all the bolts in the breaks were tight, also checked all the bolts on the strut tower and they were fine. The car is still making the clunk but its not as bad. What else could it be?

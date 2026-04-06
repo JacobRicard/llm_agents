@@ -1,0 +1,7 @@
+QUESTION ID: 929
+
+QUESTION:
+New to this forum but I've searched up on here and can't seem to find what I need. Ive got a 1984 318i with the m10 and the motor is blown. Instead of rebuilding the m10, for the money I'd rather just swap in an m50 (I want some power). I understand most of what I'll need to get it done, but a lot of what I read seems to be very mixed up as what swaps over and people confusing the m10 with the m42. Im just looking for a list of almost anything I will need to do the whole swap. And would it be easiest to just buy a wrecked 92-95 325i and get almost most of the drivetrain out of it? Thanks
+
+ANSWER 1 (id: 929_0):
+The swap is fairly straightforward as it is with any other E30. The tricky part with the early model M10 is wiring as you will route most (~7) wires through the C101 and then 3 more through the C104, which is located in the passenger side glovebox area. The car is also lighter than the 86 and later E30s so it will be a lot of fun with even just the basic M50 swap.

@@ -1,0 +1,7 @@
+QUESTION ID: 1518
+
+QUESTION:
+So. We started to change out things on our 325ix. And there was a slight cracking in our oil pan so we decided that we could change it our self. We got the subframe off no problem. So we started on the diff. And we can’t get it out. We found all four bolts. But don’t know what to do because it isn’t just sliding off for us. Any tips or pictures?
+
+ANSWER 1 (id: 1518_0):
+have you already removed the CV shafts? Also, the diff is sort of pressed into the oil pan (with a rubber seal). So once the bolts are out, you'll have to pry it away from the oil pan.

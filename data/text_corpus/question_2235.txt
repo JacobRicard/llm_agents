@@ -1,0 +1,13 @@
+QUESTION ID: 2235
+
+QUESTION:
+Hi, Does any one have access to a free vin check for full vehicle history? Thanks!
+
+ANSWER 1 (id: 2235_0):
+I've used the Ebay method for the last few cars I bought. Reddit - Please wait for verification https://www.reddit.com/r/LifeProTips/comments/2nf1fn/lpt_get_a_free_used_car_report_using_ebay/
+
+ANSWER 2 (id: 2235_1):
+In free VIN decoders you will not find the full history of the car, but there is a free BMW VIN Decoder can tell whether the car was sold on auctions or not: https://vinsonar.com/vin-decoder/bmw. For some VIN's I’ve checked, there were photos from Copart - a good way to check for auction listings for free.
+
+ANSWER 3 (id: 2235_3):
+There are VIN check websites with detailed information about dealership repairs. But they probably are not applicable to the E30 as they rarely visit dealerships.

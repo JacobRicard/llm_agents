@@ -1,0 +1,10 @@
+QUESTION ID: 1011
+
+QUESTION:
+Have an m52 motor swapped 86 e30, its an early model which did not come w/ a check engine light. How would I wire in a check engine light? Its OBDI swapped. Thanks in advance!
+
+ANSWER 1 (id: 1011_0):
+In Europe there was no "check engine" light on any of the BMW all the way until year 1999. You could wire in 12v LED, provide 12+ to it then negative trigger will come from the DME, that is your check engine.
+
+ANSWER 2 (id: 1011_1):
+Originally posted by DesertBMW You could wire in 12v LED, provide 12+ to it then negative trigger will come from the DME, that is your check engine. One last question, which wire is the negative trigger? I thank you kindly friend!

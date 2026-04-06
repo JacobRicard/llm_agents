@@ -1,0 +1,28 @@
+QUESTION ID: 588
+
+QUESTION:
+Hi! I will be putting e34 tweeters and mid ranges to replace my front speakers with after reading about them being a bolt-in upgrade. The e30 premium mid ranges have built-in crossovers in the form of a coil and a capacitor that leads to the tweeters. By putting in an E34 mid range instead, I no longer half a crossover. Before I install this setup, will this sound worse than before due to the lack of crossover? What do guys typically do to make this simple speaker replacement sound best without spending much more cash?
+
+ANSWER 1 (id: 588_0):
+I ran this setup with the GAS local PCN (crossovers), which I believe he made for this recommended upgrade. You may be able to get a cheap in line crossover to at least filter out the lower frequencies for the tweeters.
+
+ANSWER 2 (id: 588_1):
+I decided to buy cheap eBay crossovers. Hopefully this sounds better than stock! I’ll find out when I find another e34 tweeter (one of mine was blown) and passenger side midrange
+
+ANSWER 3 (id: 588_2):
+Originally posted by Cairn I decided to buy cheap eBay crossovers. Hopefully this sounds better than stock! I’ll find out when I find another e34 tweeter (one of mine was blown) and passenger side midrange Any updates? I'm thinking about a set of e34 speakers to replace my JL Audio Co-Axials up front
+
+ANSWER 4 (id: 588_3):
+Dont use another set of 30 year old speakers. I used Alpine Type R 5.25 inch components in the front of my E30 and they blow away the E34 speakers in every possible way. I would consider the E34 speakers to be a factory replacement, not an upgrade at all. In fact, to replace a speaker with a 30 year old version is a downgrade compared to using a new speaker.
+
+ANSWER 5 (id: 588_4):
+Thank you for the input. I actually found a brand new set for a good price. From what I've read it sounds like the stock speaker are a better fit for the space. I was going to get JL Audio C2-525 components but I think I will try these out and see if I like them. I don't mind spending money however I don't like wasting it either.
+
+ANSWER 6 (id: 588_5):
+I got good condition e34 woofers and tweeters in the front with cheap ebay crossovers and it’s night and day difference of improvement over the e30 speakers. That’s coming from a Berklee music production/audio engineering grad. Trust me.
+
+ANSWER 7 (id: 588_6):
+Originally posted by Gregs///M Dont use another set of 30 year old speakers. I used Alpine Type R 5.25 inch components in the front of my E30 and they blow away the E34 speakers in every possible way. I would consider the E34 speakers to be a factory replacement, not an upgrade at all. In fact, to replace a speaker with a 30 year old version is a downgrade compared to using a new speaker. The price for the new e34 speakers was double from what the website said so I went ahead and ordered the JL components
+
+ANSWER 8 (id: 588_7):
+How did the C2-525’s work for you? I’m thinking about trying to get the C2-600 to fit in the same space - the 600’s aren’t as deep as the 525 and only slightly larger diameter opening (4.56” vs 5.00”)...

@@ -1,0 +1,13 @@
+QUESTION ID: 841
+
+QUESTION:
+Hello everyone ! new to the forums but not new to builds! hello everyone ! so i have done swaps on motorcycles and only a engine replacement not a swap so looking for some insight and please do not bash how this is a waste of time .. just because you don't have the time and tools to do it doesnt mean someone else doesn't. I have a donor car that works perfectly 2001 330xi (auto) needed axles changed and some cosmetic work. but i did that and decided to make it a donor car to the e30 (1986 325) shell that i have. so my question is besides all the m54b3o swap guides and DIY guides.. mine is a XI and how would i go on fitting the subframe or just drivetrain from the xi? will the length be a problem for the drivetrain and i needed it machined or will i have to use a different driveshaft from a model to make this work. or should it be plug in play if i have all the parts from the 330xi? Suspension ? will i be able to just swap over the subframe meaning suspension... (struts, axles, control arm, sway bar, brakes etc?) and if anyone has a m54b30 e39 wire harness or a x5 let me know ill cash you out !
+
+ANSWER 1 (id: 841_0):
+https://www.r3vlimited.com/board/forum/e30-technical-forums/325ix-technical-and-discussion/276465-24v-awd-swap-knowledge-base The E30 325iX subframe is completely different than the 325i subframe, and even bolts to different locations on the frame rails. The E30 325iX subframe will not fit the E46 Xi pan. On the E46 body, the E46 Xi subframe bolts to the lollipop bushing mount locations at the rear, and a pair of vertical bolts at the front. I guess it could work depending on how much you want to cut/weld on the E30 chassis. https://www.realoem.com/bmw/enUS/sho...diagId=31_0562 The E46 Xi transfer case has an open center diff. The E46 depends on brake application by the traction control system to minimize wheel spin.
+
+ANSWER 2 (id: 841_1):
+I'm going to say this is a waste of time. To buy a manual trans for the M54 and do a RWD swap will cost you less and take at most 1/4 the time as trying to make a RWD E30 AWD, and will be a better car in almost every way That said, converting a RWD chassis E30 to AWD has been done at least once in some rwd chassis Baur. If you choose to do it, I think the worst transmission+transfer case choice would be an E46 open centre diff T-case and an automatic.
+
+ANSWER 3 (id: 841_2):
+One other thing to think about... The E46 oil pan puts the axle too far forward under the engine to work in the E30 chassis. You'd need an e53 oil pan to put the axle in the right place, but that may or may not be compatible with the E46 subframe. And fitting the T-case and front driveshaft will require modifying the transmission tunnel in your RWD recipient shell.

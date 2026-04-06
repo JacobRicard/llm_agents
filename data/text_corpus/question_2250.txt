@@ -1,0 +1,25 @@
+QUESTION ID: 2250
+
+QUESTION:
+I have a '91 318is with an aftermarket cat the previous owner put in to pass smog. Based on my experience with the car in replacing things and going through receipts, he was a bit of a penny pincher, as evidenced from the rattling of the catalyst material on the inside of it right now and the crappy welding/adapters used. I just put on a new Supersprint and really liking the sound and volume. Would the volume increase significantly from this (even with the large SS muffler on the back)? Better to put a resonator in it's place or another cat? The car is registered in AZ without any need to smog it, so no concerns there. Thanks!
+
+ANSWER 1 (id: 2250_0):
+Add a typical 14 to 16 inch resonator behind the cat, there is just no point to deleting a catalyst in just about every case, including dedicated track cars.
+
+ANSWER 2 (id: 2250_1):
+Originally posted by roguetoaster Add a typical 14 to 16 inch resonator behind the cat, there is just no point to deleting a catalyst in just about every case, including dedicated track cars. The sound right now is actually great outside of the catalyst material in the cat rattling around. Might go with just a high flow cat replacement then. I’ve read no real gains from the straight pipe, but any dyno tests show it?
+
+ANSWER 3 (id: 2250_2):
+My 323i didnt come with a cat (pre 1986 here in aus no cat) and ive just bought one to put it in. It just stinks! And i let a mate drive the car the other day and i drove behind it and i just could stand the smell. Unless theres a good reason i think all petrol cars should have cats. even classics that dont originally come with them. Aftermarket cats can be had quite cheaply and are quite small.
+
+ANSWER 4 (id: 2250_4):
+If the cat is rattling, it's not working well because it's crumbling inside. If it's not working well and you don't have emissions testing, you may as well remove it. I'd put a resonator in its place. M42s are not nice sounding engines so anything that helps control the rasp. Decades of motorcycles and classic cars have removed my aversion to catless exhaust.
+
+ANSWER 5 (id: 2250_5):
+One of the POs of my '91 318i sedan (also M42) put Borla mufflers and cut off the cat. It sounded horrible and looked stupid as the exhaust didn't even stick out all the way. I imagine I pissed off a lot of people here in my area and probably ended up getting laughed at from afar. I drove it like this for over a year before I got around to thinking about fixing it. Thought about putting a resonator to try and tame the noise but I ended up just buying a Supersprint catback off Turner Motorsport and a DEC aftermarket cat off eBay. Sounds WAY better. If you're interested, it sounds a bit like this:
+
+ANSWER 6 (id: 2250_6):
+Originally posted by ube91 One of the POs of my '91 318i sedan (also M42) put Borla mufflers and cut off the cat. It sounded horrible and looked stupid as the exhaust didn't even stick out all the way. I imagine I pissed off a lot of people here in my area and probably ended up getting laughed at from afar. I drove it like this for over a year before I got around to thinking about fixing it. Thought about putting a resonator to try and tame the noise but I ended up just buying a Supersprint catback off Turner Motorsport and a DEC aftermarket cat off eBay. Sounds WAY better. If you're interested, it sounds a bit like this: Great camera work and actually a couple vids that helped me decide on the Supersprint! Any chance you'd have the item # or link for that cat?
+
+ANSWER 7 (id: 2250_7):
+Originally posted by BoxE30 Great camera work and actually a couple vids that helped me decide on the Supersprint! Any chance you'd have the item # or link for that cat? The DEC cat's part number is BMW1433. Bought it off bigredautoparts on eBay. Bimmerworld carries this cat as well. I had some fitment issues with the cat but I took the car to an exhaust shop to sort it out. The flange where the muffler connects to the cat was rubbing against the frame if I recall correctly. I'm not sure if it was because of the cat itself or how I had it installed onto the car. As for the Supersprint, it may take awhile to come here seeing as they're on backorder and have to be ordered from Italy and brought to the US by ECS Tuning, (that also happens to own Pelican Parts and Turner Motorsport) which is the only company in the US that distributes and sells Supersprint exhausts.

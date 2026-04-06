@@ -1,0 +1,25 @@
+QUESTION ID: 437
+
+QUESTION:
+I'm just doing conversion from manual to electric windows. The co-driver actuator is already installed, wiring is missing but powering it directly by a battery will move the window smoothly. But. How it is supposed to behave when the window reaches its upper limit? Should the motor stop or - just like in my case - should the motor continue to run and the mechanism just rattle as the gear is "slipping"?
+
+ANSWER 1 (id: 437_10):
+Originally posted by reelizmpro Good job figuring out a fix for this issue. In all my years, I've always heard people prefer the later scissor style window lifts vs the early style. I'm guessing this is one of those reasons. They are better, but swapping those to the old door is not easy as well. You need new glass guide and different glass at least. I have the bronze glasses, and I don't know if they even exist for the later model...
+
+ANSWER 2 (id: 437_11):
+This is offtopic, but maybe you can answer since you had it apart. Can the regulator be modified to lower the bottom stop slightly? There is always a small bit of window edge glass sticking up on my car, makes it uncomfortable to put arm on windowsill.
+
+ANSWER 3 (id: 437_12):
+Originally posted by Panici This is offtopic, but maybe you can answer since you had it apart. Can the regulator be modified to lower the bottom stop slightly? There is always a small bit of window edge glass sticking up on my car, makes it uncomfortable to put arm on windowsill. Yes, it can, a bit. I noticed the same thing... Remove the extra limiter, use only the squeezed tube front end as a stopper. It will let the glass go a bit deeper.
+
+ANSWER 4 (id: 437_4):
+The driver window actuator gear is slipping when pushing against the lower limiter. And I think the co-driver mechanism is mirrored (can't see it atm) because it is slipping at the upper position. The gear system is shown in the linked picture. When going down the gear is turning counterclockwise. The gear is a helical gear and when going counterclockwise the gear pushes the "spring" downwards due to the geometry. Because there is a little slack (video) there is room for the gear to start slipping. I think this might be the case, or there is too much tolerance at the contact point. I may try to squeeze the tube a little from the lower side, so that at the contact point there won't be such a slack. Or just somehow get the spring and gear a bit closer to each other at the contact point. This is another possibility. May help, or not. But easy to test as this driver side actuator is not installed into the door yet. Picture https://photos.app.goo.gl/qXPSMQyvftk6Psdn7 Video https://photos.app.goo.gl/DzhJQLzpuWrHhDPTA
+
+ANSWER 5 (id: 437_5):
+Ok, the driver side actuator seem to be fixed. Just squeezing a little the snake tube at the contact point removed the little slack between the snake and the gear. When driving the actuator to the lower limit the motor just stops, like it should. But. The co-driver side is problematic. The same method did not help, the gear is slipping at the upper limit. In fact nothing will help, since the snake is badly worn at the upper position. There's no way to get it working. Plan B. Take the snake from the manual version and replace the worn one with it = cheap, difficult At first glance it seems to be quite difficult, or maybe impossible. The window supports won't slide through the curves. At least the front window support has to be removed from the snake, then the snake may slide out from the rear end. But how? Has anyone succesfully removed the snake? Plan C. Try to attach the motor to the manual one = cheap, difficult Plan D. Try to find a working one = expensive
+
+ANSWER 6 (id: 437_8):
+Originally posted by MikkoR Fixed, not a bad task. Check this. Saved that page for later! Also archived here if anyone finds this thread in the future: How to fix slipping BMW E30 window regulator https://web.archive.org/web/20260226142936/https://rantakallio.fi/E30/fix.html
+
+ANSWER 7 (id: 437_9):
+Good job figuring out a fix for this issue. In all my years, I've always heard people prefer the later scissor style window lifts vs the early style. I'm guessing this is one of those reasons.

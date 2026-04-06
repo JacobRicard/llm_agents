@@ -1,0 +1,22 @@
+QUESTION ID: 87
+
+QUESTION:
+anyone have the ratings on what the resister should test at? I have a multimeter but not sure what settings to put is at to test the resister thanks in advance
+
+ANSWER 1 (id: 87_0):
+found it!! (for future reference) Go to the bottom of the screen BMW E30 Network - Technical: Ventilation only works in high (4) position http://e30.bmwdiy.info/blower-resistor/index.html
+
+ANSWER 2 (id: 87_1):
+Knowing the values really isn't needed. When the resistor fails, it's generally because one of the coils as broken, meaning you will get an "open" reading. If you do measure ohms of any amount, the resistor is fine.
+
+ANSWER 3 (id: 87_2):
+UPDATE: After removing the resistor, I was tried greasing up the contacts with dielectric grease, but it didn't help. Then I remembered the last time it failed, all I needed to do was drag some fine sand paper b/t the two tine contacts on the board. once I cleaned them up, the board was fine again :D I think this failure occurs when the car is not driven for extended periods. I find it interesting that I've never had a coil fail on either of my e30's, just these points that need cleaning once every 5-10 years :S
+
+ANSWER 4 (id: 87_3):
+Resurrecting a 7 year old thread since I just went through this lol. Cleaning the connectors fixed the issue for me as well. These are the connectors to be cleaned: ​ As far as testing, you can test for continuity from this pin (red) to any and all of the other pins. If there is no continuity, those tiny contacts above are not connecting and should be cleaned. ​
+
+ANSWER 5 (id: 87_4):
+Back when people were replacing these I was preaching the cleaning/resurfacing method. I have never had to replace a resistor pack in any of my E30's (32 years now). Cleaning the contacts was a trick I picked up when I was working in a BMW shop. It's a solid state device that's pretty straightforward so they don't wear out per se but oxidation does build up. I did have one where the contact fell off the thermoswitch and I couldn't get it to close so I just soldered it with a tiny bit of solder. One should probably replace the pack for safety at this point but I've kept it in mind and haven't had any issues.
+
+ANSWER 6 (id: 87_5):
+My fan would run sometimes, then for no reason it would not run at all. I just got into my heater area on the 91 318is, (tight to move the wiring harness behind the engine to say the least). Pulled out the resistor with a long nose angle head needle nose pliers and following the advice posted above, I cleaned the contact points w/ 1/8" x 2" 400 grit sandpaper. Put the resistor back in and now the fan ran but only on high speed. That told me there was an issue with the resistor coils. Pulled it out again, cleaned the factory crimped ends on the coils and put a small drop of solder on all 6 of them. Put it back in and all of the functions work great. I would try this before going through the PIA of pulling the fan motor assembly. BTW it looked like the '91 318is has a 4" fan not 5" if you are ordering one from FCP Euro.

@@ -1,0 +1,16 @@
+QUESTION ID: 2440
+
+QUESTION:
+I'm about to tear into my window regulator, and want to order the square plastic slider pieces (with clips) but need a part number. I looked on realoem, but they are not pictured/listed in the diagram Anyone? Beuller?
+
+ANSWER 1 (id: 2440_0):
+Post the picture from realoem and maybe we can help You can also email sales@bluntech.com and they could probably find you what you're looking for based on your description
+
+ANSWER 2 (id: 2440_1):
+https://www.realoem.com/bmw/enUS/sho...diagId=51_0330 I assumed it would be on this diagram, but don't see it Wound up calling dealer, and they had (part number 51-32-1-938-884) from https://www.pelicanparts.com/bmw/tec...er-Windows.htm I hope those are right, but only a few $$ with CCA discount
+
+ANSWER 3 (id: 2440_2):
+The part you linked is for E36s & other later chassis, and those shouldn't fit E30s since they use a riveted on plastic roller. Undoubtedly you could remove the roller and replace it with something, but I doubt you can find an actual P/N for one since they are likely considered part of the E30 regulator assembly. That all assumes that you do mean the end bits on the regulator that slide in the "tracks" of the system, and if so, I've never seen one break on an E30.
+
+ANSWER 4 (id: 2440_3):
+10-4, that makes sense. The link indicated e30 and e36 at top of page. So, my driver's side window is slow as hell up and down. I'll just open it up and try to find the weak link. Is it easy to swap out the motor without removing the regulator? Prob not, but trying to gather info before digging into it

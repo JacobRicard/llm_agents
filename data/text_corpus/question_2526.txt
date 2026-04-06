@@ -1,0 +1,13 @@
+QUESTION ID: 2526
+
+QUESTION:
+So I have been trying to figure out all the options that came on one of my e30's. I know back in the day someone linked to a website that was able to pull all the options that came on the car using the vin. The original link in that thread does not work anymore so I was wondering if anyone knew of a website or a way to obtain the info I am looking for?
+
+ANSWER 1 (id: 2526_1):
+www.mdecoder.com I don't think you will get option codes like on newer BMWs - it is possible to pull options I think from somewhere else (BMW Classic?), but E30s are much more basic and the codes were not standardized back then. If you want to know where all this comes from, it's actually the ETK database (the same one used for parts searches). Since none of the sites I can find list options for E30s, and they are all certainly using the ETK, I have to conclude that it's not possible to list individual options on the older BMWs because they're not in the database, or what is there is limited. For example, mine says AT (but that comes directly from the VIN, not the options), Sterling-silber paint (244), and gray leather (0292), but that's it.
+
+ANSWER 2 (id: 2526_2):
+Originally posted by nando www.mdecoder.com I don't think you will get option codes like on newer BMWs - it is possible to pull options I think from somewhere else (BMW Classic?), but E30s are much more basic and the codes were not standardized back then. If you want to know where all this comes from, it's actually the ETK database (the same one used for parts searches). Since none of the sites I can find list options for E30s, and they are all certainly using the ETK, I have to conclude that it's not possible to list individual options on the older BMWs because they're not in the database, or what is there is limited. For example, mine says AT (but that comes directly from the VIN, not the options), Sterling-silber paint (244), and gray leather (0292), but that's it. yeah maybe ill give my local bmw parts guy a call and see if he can pull it up. I have tried all the vin decoders and most of them just give very basic info. I know the info is somewhere because I found this old thread where someone left what looks like a login for etk and people were pulling there options lists. This is the thread I am referring to http://e30performance.info/viewtopic.php?t=1671
+
+ANSWER 3 (id: 2526_4):
+Originally posted by Jon_E30_vert I I have had great success with the www.mdecoder.com as well. Yeah I have used mdecoder but it give the most basic info, and not quite what I am looking for.

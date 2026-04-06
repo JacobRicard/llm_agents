@@ -1,0 +1,19 @@
+QUESTION ID: 120
+
+QUESTION:
+Does anyone know the numbers on the 323i afm. The one I have on right now is for a 325e...maybe if does not make any difference?:) thanks,
+
+ANSWER 1 (id: 120_0):
+Originally posted by 2002jm Does anyone know the numbers on the 323i afm. The one I have on right now is for a 325e...maybe if does not make any difference?:) thanks, partly depends on build date. for the most part they are different. 1362754977 would be 323i original until sometime in 85. realoem lists 13621710546 as the replacement. neither show up on either an i or e car. early e car afm might work. later ones changed after 85.
+
+ANSWER 2 (id: 120_1):
+Thanks for the reply:). I have the 066 afm in the car but it starts runs for 3 sec. and then turns off. I checked and the 066 afm is for an 85 325e. Would the airflow meter keep a car from running? I had a problem with the car flooding out while running, put in another ecu and now it is not flooding, but it is not running either. I have changed just about everything one can change except the coil?
+
+ANSWER 3 (id: 120_2):
+Originally posted by 2002jm Thanks for the reply:). I have the 066 afm in the car but it starts runs for 3 sec. and then turns off. I checked and the 066 afm is for an 85 325e. Would the airflow meter keep a car from running? I had a problem with the car flooding out while running, put in another ecu and now it is not flooding, but it is not running either. I have changed just about everything one can change except the coil? my limited understanding is that it will run but the signal the ecu receives won't be correct so the fueling will not work right. try reaching out to bavrest. they are likely the only north american source to have worked on them. they can rebuild the original or at the very least tell you if it is defective or worn. only other thing to try is a reman or used unit from the EU. some guys have gotten lucky with a reman unit from rockauto, they only cover the north american cars though. there has to be some interchangeability, as ford branded afms from rockauto have worked with no issues on bmws.
+
+ANSWER 4 (id: 120_3):
+ok, thanks for the reply; will look into this; also, going to put the original coolant temp sensor back in...just in case the new one is not working. jm
+
+ANSWER 5 (id: 120_8):
+I have some spare parts from my 323i as my engine blew, I changed it out for a 2.5. It is difficult to know what you need as the 323i is kinda rare and there is not much info. They also change the jetronic system over the years, as in removing the 7th injector and vacuum pluming. What is really helpful is https://www.realoem.com/bmw/enUS/par...4-E30-BMW-323i, but this differs from production years. I also found a forum post on the vacuum pluming because that is a mess on these things https://www.bimmerforums.com/forum/s...esource-Thread . If you are interested in some parts send me a message I would like to help you, but I have see how to get it to you as I am in the Netherlands

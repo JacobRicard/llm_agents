@@ -1,0 +1,16 @@
+QUESTION ID: 733
+
+QUESTION:
+I acquired a copy of the Bentley, and have optimized it the best I could from the copy I received. It is now a ClearScan file, with 300dpi grayscale, fully OCR'd with an embedded search index. I got it down to 162MB, then RAR'd it to 153MB. https://www.retrobmw.co.uk/downloads/e30bentley.rar (URL edited, thanks to Supertim for finding a new copy on the interwebz!) The rar is password protected to prevent Rapidshare from examining the file. The password is bmw, and that is also noted in a file inside the rar. You'll need Winrar to extract the file, and you'll also need Acrobat 9 to view this file. Fox It Reader 3+ I believe also works, but doesn't search as well. Anyone with their own host for this file should download it and host it, as I doubt it will stay put on these free servers for long. I fully expect that anyone downloading this already owns the book. I do, and 2 copies of the Haynes. Give Bentley the money they deserve for an excellent manual. The only thing it was missing was CTRL-F.
+
+ANSWER 1 (id: 733_0):
+Wow, that's really nice! Thanks! The 318is I just picked up came with a Bentley manual, and I have one for my MINI. I don't suppose you could ferret out a PDF for the MINI, too, eh? :D
+
+ANSWER 2 (id: 733_1):
+Note that the M42 motor isn't covered in the Bentley, but the E36 Bentley covers that motor well. This is not my rip, but here it is anyway: http://rapidshare.com/files/11811720/boembi.rar.html If there is demand, I have the E36 Bentley converted to Clearscan, etc too at a smaller file size. I'll keep my eye out for the Mini. Which model, R53 or R56? Here is the E34 Bentley too (an older reconvert of mine): http://rapidshare.com/files/11879834/Bentley_BMW_5-Series_Service_Manual_Searchable.pdf
+
+ANSWER 3 (id: 733_6):
+Originally posted by E30AWDAZ I downloaded it but my computer won't open it NOOO!! what program do you guys use to open it with? You need WinRAR to extract it.
+
+ANSWER 4 (id: 733_8):
+Originally posted by everlast ^ yep, http://www.rarlabs.com/download.htm Oh and thanks for putting this up dude :) I have the actual bentley manual for the E30 and E36 but nice to have in pdf format too :up:

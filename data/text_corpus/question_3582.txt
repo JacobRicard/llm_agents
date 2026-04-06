@@ -1,0 +1,7 @@
+QUESTION ID: 3582
+
+QUESTION:
+Where is the fuel line check valve in a 1991 325I? Anyone have a p/n?
+
+ANSWER 1 (id: 3582_0):
+Are you talking about the fuel system being able to hold pressure when the pump isn't running? I don't believe the car has a separate check valve. It's built into the fuel pump. That being said, some members have added a check valve. One for a 5/16" fuel line is fine.

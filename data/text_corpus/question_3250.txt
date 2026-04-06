@@ -1,0 +1,22 @@
+QUESTION ID: 3250
+
+QUESTION:
+So, I broke the inside door handle on my M3. Replace it, no big. Put the door panel back on and notice the upper part that goes under the window is broken. Shocker, I know. Call BMW (after looking on RealOEM) and basically you have to buy the whole friggin' door panel to get this part that is "heat adhered to the door panel". Fuck that jazz. Don't mine the tape/excessive Gorilla glue. I want to fiberglass the entire inside of the panel when I recover it, but I want this piece so it is held to the door correctly. I don't want to steal some from shitty panels as they're probably just as brittle as these. Main part is the rectangle that the clip goes into to hold the panel to the door. They are all cracked and broken. Basic questions: Is this something that can be made with a 3d printer? How much would be to do something like this? Does anyone make these already? I tried searching, but IDK what they are called and don't have a part number off the part. Looks like the part I'm missing altogether would have the # on it, but it's gone. Never had it. Thanks guysss! <3
+
+ANSWER 1 (id: 3250_1):
+From searching around, seems like people would love to be able to get new ones. They're busted up on about every car, so getting used ones that aren't broken is near impossible....and even if you do they'll probably break when you look at them.
+
+ANSWER 2 (id: 3250_10):
+Oh shit! Didn't think of that! I took all the CAD classes in HS and was damn good at it. Hopefully the teacher I had hasn't retired and I can roll in and see if they got a printer. Dad taught there too so I can usually just walk in no problemo.
+
+ANSWER 3 (id: 3250_3):
+Originally posted by lolcantturn I believe the solution is to pull the motor and junk the car. ;) <3 I'd be doing that if I hadn't swerved to avoid some old woman who didn't look before pulling out of her driveway. I need to tone down my initial reaction to avoid such things and just let what's going to happen happen to this car.
+
+ANSWER 4 (id: 3250_7):
+Originally posted by 10Toes A 3d printed part would probably be weaker then the original That's not a very high hurdle. I just want something that is together. I can barely use the little reinforcement metal things because I'm missing the plastic they go onto. :(
+
+ANSWER 5 (id: 3250_8):
+Crazy glue and baking powder works great for holding plastic parts together. Glue em together then put some powder on top while the glue is wet Be prepared it'll dry near instantly Sent from my Galaxy Nexus using Tapatalk 2
+
+ANSWER 6 (id: 3250_9):
+If you had the ability to 3d model them, the 3d printing wouldnt cost very much. But handing the pieces to someone that is willing to CAD them for you could be expensive. I recommend driving to your local engineering school and pay a student to do it. They will probably have a 3d printer on site. I know we have 3. I am sure you could get someone to do it for 20-40 bucks. Could even talk to a professor and see if they could make it a class project

@@ -1,0 +1,22 @@
+QUESTION ID: 1833
+
+QUESTION:
+Sorry - I have searched - but I am not seeing what the TORQUE SPEC is...(for this differential nut) I may be searching under the wrong term ,,, I replaced the front seal, now I am putting it back together - 3.91 for my 325ix
+
+ANSWER 1 (id: 1833_0):
+Assuming no real torque spec ? - just align my initial nut marks? tighten then align marks or if I cant tighten another 360 degrees then stop? pinion load then is the same as it was before?
+
+ANSWER 2 (id: 1833_1):
+If you're taking it off just to replace the seal, mark the nut and shaft and just torque it back to where it was. There isn't a torque spec because the nut adjusts the preload of the pinion bearings.
+
+ANSWER 3 (id: 1833_2):
+if changing the pinion and crush sleeve it's 25 in/lbs on a drag tool. you might go through 2 or 3 sleeves to get it. you can't re-use a sleeve. edit: if just the seal it should be as directly above. mark it before touching it. mine was marked previous though.
+
+ANSWER 4 (id: 1833_3):
+There is no torque for that nut, as everyone else has said. You set the preload for the pinion bearings with it, as it crushes the sleeve inside (which takes a horrific amount of torque) but the preload is in inch- pounds, so it's not all that easy to get right until you get a feel for what you're doing. There are specs for 'new bearings' and 'reused bearings'. t
+
+ANSWER 5 (id: 1833_4):
+Originally posted by TobyB There is no torque for that nut, as everyone else has said. You set the preload for the pinion bearings with it, as it crushes the sleeve inside (which takes a horrific amount of torque) but the preload is in inch- pounds, so it's not all that easy to get right until you get a feel for what you're doing. There are specs for 'new bearings' and 'reused bearings'. t Are there any good technical references on this? I plan to rebuild a diff soon and was going to follow a handful if writeups I've saved, but it'd be really nice to have some sort of factory procedure on this.
+
+ANSWER 6 (id: 1833_5):
+Originally posted by McGyver Are there any good technical references on this? I plan to rebuild a diff soon and was going to follow a handful if writeups I've saved, but it'd be really nice to have some sort of factory procedure on this. it's all by feel. make sure to get to have more than one fresh crush sleeve on hand. getting the pinion in proper was the only hard part of the job. mine was done the same as this : Part 16: 🔧 How-to 🚗 build your E30 Differential From Start To Finish! A complete guide! (youtube.com) relevant part comes in about 14:30. he torques to 15in/lbs, mine was to 25in/lbs. you may want to stick to the 15in/lbs cited in the vid. ​

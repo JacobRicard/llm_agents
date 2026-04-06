@@ -1,0 +1,7 @@
+QUESTION ID: 1302
+
+QUESTION:
+I'm trying to find the part number for the seal that goes along the inside of the driver's side window. Based on the RealOEM diagram, I would've thought it was part 7 but I ordered it and what I received looks more like part 12: https://www.realoem.com/bmw/enUS/sho...diagId=51_0895 This is what I ordered to match the diagram and you can see it has this hook at the end and is at least 6 inches too short to run the length of the window: https://www.fcpeuro.com/products/bmw...ft-51361942823 Any idea what the actual part number is?
+
+ANSWER 1 (id: 1302_1):
+I work at BimmerWorld, and decided to add this to our site. Price is lower than FCP or ECS. Here is a link: https://www.bimmerworld.com/Inner-Wi...1987-1993.html

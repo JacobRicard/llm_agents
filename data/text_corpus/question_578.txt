@@ -1,0 +1,7 @@
+QUESTION ID: 578
+
+QUESTION:
+Hi guys, I have just bought an E36 dome light to be fitted in my E30 Sedan. I know this isnt a straight installation but it's ok, I like a little tinkering about. The thing is, I have very little experience with wiring. I'm hoping that you guys can help me. Can anyone tell me what these wires are for? I have put numbers on the picture for easy referencing Thanks guys Attached Files
+
+ANSWER 1 (id: 578_1):
+Originally posted by prisonerofdoom83 Are you putting this in the overhead? Yessir. ​​​​​​The previous owner installed a dome light from another car and I didnt like the shape of it. So all i did was to modify the current hole Update: I manage to connect the 2 wires (hot 12v and ground) and leave the rest alone since I couldnt be bothered running wires under the dash. The downside is the car has to be in ACC mode to switch on. I can live with that

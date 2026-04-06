@@ -1,0 +1,19 @@
+QUESTION ID: 1009
+
+QUESTION:
+I've just completed swapping in a 1993 E36 M50B25 into a 1990 316i. Relays are good, red label DME from the same car. I pulled the engine out of a running car. It is getting plenty of fuel. It cranks over, but there is no spark. Do I need to ground the DME itself to something like a bracket? I have it plugged in, but not mounted to anything yet. All ground wires are connected.
+
+ANSWER 1 (id: 1009_1):
+I think it relays for me as well. I changed out the fuel pump and DME relays and still nothing. It's a mid 1993 DME so I don't think it's anything to do with anti-theft. Getting frustrated as everything else is ready to go.
+
+ANSWER 2 (id: 1009_2):
+I'm actually having the same problem. I know it's getting fuel and there is nothing wrong with the motor. Checked for spark and didn't get anything. I'm assuming it's a bad or no ground of some sorts on the motor or for the DME. I'm wondering if someone knows where all the grounds are that is required to start the car?
+
+ANSWER 3 (id: 1009_3):
+How do you know its getting fuel? If its not getting spark its likely not getting fuel either. Try to see if your crank position sensor is correctly attached; the e34 oil pan sensor plug actually fits the crank position sensor harness side
+
+ANSWER 4 (id: 1009_4):
+Try to swap crank sensor and camshaft sensor, maybe they are inversed :) when you turn the key do you here a click on the white relay? if not, plug a ground wire on the white relay and it will amorce it.
+
+ANSWER 5 (id: 1009_5):
+I had a similar issue initially with my swap. Try jumping the main and fuel pump relay before you replace your fuel pump. Google how to do it there are a few threads out there with plenty of info. Also, some 413 red label dme have ews. Mine did, ended up having to get an ews delete chip. Although mine is an s50, and I was able to start it on the stock chip from the 413, it came from an e34 m50 Last thing to check is obc lockout f your car has obc but that should reset if you unplug the battery for a little while. Also check grounds Look through some other people's no start threads there are plenty, diagnose similarly. Best of luck with finishing up-

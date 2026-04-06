@@ -1,0 +1,10 @@
+QUESTION ID: 1236
+
+QUESTION:
+I've read several times over the years that there are supposed to be rubber/plastic covers for the pins on the convertible top frame front locks. I purchased part # 54311971255​, which is part #27 on the attached diagram. Assuming this is the right part, how do I secure them to the pins? They will fit over the pins, but they seem to be hard plastic with no obvious way to secure them. I tried pushing them into the holes in the windshield header with the same result - they sit in there with no obvious way to secure them. Thanks, Cory
+
+ANSWER 1 (id: 1236_1):
+Originally posted by bradnic They just snap on over the metal pins Thanks. Guess I need to push harder. Didn't see anything on the pins that would hold them. They have no flexibility whatsoever, so maybe I'll heat them up a little bit too.
+
+ANSWER 2 (id: 1236_3):
+To close the loop on this: I got the caps installed. Had to whack them harder than anticipated with a plastic hammer, but they finally clicked into place. Thanks again for the guidance!

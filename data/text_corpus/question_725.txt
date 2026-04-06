@@ -1,0 +1,13 @@
+QUESTION ID: 725
+
+QUESTION:
+Alright so I plan on revamping my A/C that currently doesn't blow cold and converting to R134a...I took her out of the garage today for a nice 60degree drive. When I went to take the battery tender off I noticed one of the A/C caps (fill point...I think low side) were down by the windshield reservoir and upon further inspection I noticed it was because the arm of the hood (bonnet) rubs up against it. Anyone know if this is a normal spot for it?...Is the line in the wrong position? Also is there anyway to tell from these pictures if at some point; a PO converted to R134a already Any help is appreciated
+
+ANSWER 1 (id: 725_0):
+Looks like a R134a port adaptor. If you unscrew that you'll see the original R12 (schrader valve) style port. From memory mine is in the same location. You can gently bend the hose back a bit if need be. Most likely the PO may have had a shop swap the ports over, change a few O rings they can easily reach and say 'it's good to go'.
+
+ANSWER 2 (id: 725_4):
+I have not been able to find a 134a adapter that will not interfere with the hood hinge. Instead of bending something, I just keep the adapter in the glove box and install it when I hook up gauges.
+
+ANSWER 3 (id: 725_5):
+Originally posted by cory58 I have not been able to find a 134a adapter that will not interfere with the hood hinge. Instead of bending something, I just keep the adapter in the glove box and install it when I hook up gauges. I bought this kit and it has the proper sized adapters. Santech - A/C System Retrofit Kit - 559807901. Worked just fine for me... no interfernce problems.

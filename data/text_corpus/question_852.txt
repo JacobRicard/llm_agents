@@ -1,0 +1,16 @@
+QUESTION ID: 852
+
+QUESTION:
+Have a RHD E30 with a purple tag rack already installed. Looking to know, will the purple tag steering rack fit along side an M54b30 swap? I spoke to a friend today who had also done the swap and was told bluntly "NO". Curious if anyone with a RHD M54 swapped E30 managed to fit a purple tag rack and can give some insight on how you got it to work! Thanks, Riz.
+
+ANSWER 1 (id: 852_0):
+I've got a RHD M52 swap with a purple tag rack with no issues. I don't see why the M54 would be any different ​ I'm running the stock e36 power steering lines. Not sure what engine you currently have, but you'll probably need to swap the lines.
+
+ANSWER 2 (id: 852_1):
+I should mention, you'll need to modify the exhaust headers to clear the steering rack, but this is standard for RHD swaps regardless of your steering rack.
+
+ANSWER 3 (id: 852_2):
+Originally posted by nick496 I should mention, you'll need to modify the exhaust headers to clear the steering rack, but this is standard for RHD swaps regardless of your steering rack. When you say modify the exhaust headers, would the usual e36 M52 headers not fit? Or am I looking at having to find a way to modify those around the steering linkage?
+
+ANSWER 4 (id: 852_3):
+You'll have to modify the E36 M52 headers to get them to clear the steering linkage. E30zone has a brief example: https://www.e30zone.net/e30wiki/inde..._-_M5x#Exhaust I'm no welder, so ended up taking them to a fabricator to get them modified.

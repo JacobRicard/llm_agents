@@ -1,0 +1,22 @@
+QUESTION ID: 1193
+
+QUESTION:
+Could someone recognize this chip please?
+
+ANSWER 1 (id: 1193_1):
+JEC is known Japanese electronics company. They made electronic parts for cars. But that chip has hand written label so it must be some amateur tuned chip.
+
+ANSWER 2 (id: 1193_2):
+I guess is a cheap ebay chip too... But at least the car runs great, but I've never driven a stock chip, so I can't tell if it better or not. Where would be a good place to buy a quality chip?
+
+ANSWER 3 (id: 1193_3):
+Its conforti, email him and ask. Or email turner/bimmerworld and confirm. If you look at the old mailing lists, Jims email was JEC@us.dynix.com which although I believe to be defunct, gives you an insight to JEC.
+
+ANSWER 4 (id: 1193_4):
+Conforti chips were professional had quality labels on them, looks like someone copied a chip on a burner and just sells them on ebay. I have a Conforti/TMS and an Iigomotive ss93 in my other car. The Iigomotive is more responsive by far.
+
+ANSWER 5 (id: 1193_5):
+^might be a copy. Or.... It may be a totally stock ecu, and chip. Their a few companies that "re-manufacturer" BMw ecu's and even OBC light bars. (as far as I know(could be wrong) they they buy them in bulk from scrap yards, test them, and ship them out - I don't think they really do much to them) I'd peal up the label, and see what's under it.
+
+ANSWER 6 (id: 1193_6):
+Originally posted by federal I guess is a cheap ebay chip too... But at least the car runs great, but I've never driven a stock chip, so I can't tell if it better or not. Where would be a good place to buy a quality chip? Like others have said, Turner, Jim Conforti (Bonneville Motor Works), Mark D'Sylva and IIGO.

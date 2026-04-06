@@ -1,0 +1,31 @@
+QUESTION ID: 2614
+
+QUESTION:
+The dream engine swap for my 318is used to be the 228hp turbo 3-cylinder from the i8 (B38A15T0). But Koenigsegg's new engine has taken that spot. Koenigsegg “Tiny Friendly Giant” Three-Cylinder Twin-Turbo Engine The dry sump-lubricated, coil-on-plug-ignition 2.0-liter engine’s long block—that’s the full rotating assembly plus block, heads, and valvetrain, minus things like the intake and exhaust system, fuel system components, and accessories—weighs only 154 pounds and apparently fits in a “typical carry-on luggage case. The difference is that while Koenigsegg’s engine has all of the lightweight and small size advantages of a three-cylinder, it has the power of a much larger engine. Despite this diminutive size, it makes 295 lb-ft of torque at only 1,700 RPM, and cranks out a maximum of 443 lb-ft between 2,000 RPM and 7,000 RPM before making its peak power of 600 HP at 7,500 RPM and reaching redline at 8,500 RPM. It is outfitted with four valves per cylinder and two turbochargers, and it also has a little ghost on it, per Koenigsegg tradition. Each of those turbochargers receives exhaust gases from each of the three cylinders, but that doesn’t mean each exhaust port splits off into two exhaust pipes. Actually, there are six exhaust ports—one per exhaust valve—and they each get their own outlet pipe. Koenigsegg describes this “two stage turbo system” (which can build up to 29 psi of boost)...one turbo is connected to three exhaust valves – one from each cylinder. The second turbo is connected to the other three exhaust valves. During low rpm and part to high load, all exhaust gasses are pushed to only one turbo, by only opening one exhaust valve per cylinder – thereby doubling the exhaust gases to that turbine. When adequate boost is reached, the second exhaust valve is opened to start the second turbo.
+
+ANSWER 1 (id: 2614_0):
+Originally posted by Slybeanx Holy balls what is that engine The future of internal combustion. Looks like those test bed Chinese freevalve cars have really paid off.
+
+ANSWER 2 (id: 2614_1):
+The Swedes have outdone the Germans with their engineering. Those torque numbers look amazing for a puny 2.0L engine. I wonder how long that thing will last if it was used as a daily engine. It looks scarily complicated though
+
+ANSWER 3 (id: 2614_10):
+I wonder just how 'high pressure' the "high pressure pneumatics" are and other engineering details that are understandably left out of promotional material. A modicum of detail is available for a brief moment in an old youtube video, but it isn't enough to satisfy my curiosity for the details of the inner workings and control systems. There's also this master's thesis from 2009. Koenigsegg seems to be the only auto manufacturer that is currently doing something actually innovative in getting this system into a production vehicle (however limited) where many other manufacturers have tried and failed, and I applaud it.
+
+ANSWER 4 (id: 2614_2):
+In theory with freevalve range the engine could really reduce load in day to day operations, but I'd bet engine stress is spectacular under load. Better question, what is the unit cost for a powerplant and controller, not that they are selling them? I'd figure R&D aside, production costs of just over 20k USD per, but with fewer bespoke components, and simplification they can probably get that down to 6, and if they reduce power by 25% probably in to the mid 4s. That still leaves it out of reach as a real production engine.
+
+ANSWER 5 (id: 2614_3):
+OE level design could simplify that significantly... The cost of the freevalve actuators is probably the big question. They're apparently pneumatic, as it needs a compressor to run them. It doesn't *need* to be dry-sumped for production in a normal car. The compressor is a cost over/above conventional engines, but nothing else is too out of line.
+
+ANSWER 6 (id: 2614_4):
+Originally posted by roguetoaster In theory with freevalve range the engine could really reduce load in day to day operations, but I'd bet engine stress is spectacular under load. Better question, what is the unit cost for a powerplant and controller, not that they are selling them? I'd figure R&D aside, production costs of just over 20k USD per, but with fewer bespoke components, and simplification they can probably get that down to 6, and if they reduce power by 25% probably in to the mid 4s. That still leaves it out of reach as a real production engine. how would $4500 production cost leave it out of reach as a production engine?
+
+ANSWER 7 (id: 2614_5):
+Originally posted by hkv how would $4500 production cost leave it out of reach as a production engine? When toned down you'd probably end up with a higher cost per HP than conventional tech, at least initially, which would leave the only real benefit of potentially reduced emissions, which while beneficial, can probably be achieved in other ways. All guesswork of course since we don't really know what it costs, or how it would perform if simplified. Don't misunderstand me, this is a great way to extend the life cycle of internal combustion, but it might have come a bit too late considering the increase in energy density of battery tech. OTOH, it would be perfect for a generator/range extender, if only some company wanted to go that way again.
+
+ANSWER 8 (id: 2614_8):
+Freevalve has allowed them to do sequential turbocharging by using only the exhaust valves, independently actuated. Very nice. large pics didnt come post correctly earlier:
+
+ANSWER 9 (id: 2614_9):
+It might not be as expensive as everyone thinks. With the free-valve design, there are no camshafts, which means no timing chain/belt and all associated hardware. The head is incredibly simple as it is just valves with an air actuator on top of each. Then the rest of the engine is pretty "normal". And being only 3 cylinders means even less parts/materials. I wonder how much of the torque comes from the electric motor on the crank?

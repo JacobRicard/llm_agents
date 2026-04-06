@@ -1,0 +1,10 @@
+QUESTION ID: 709
+
+QUESTION:
+I pulled my fuel rail since I suspect that an injector is dribbling (losing fuel pressure over an hour, long hot start, fuel smell when starting car). I have heard it is safe to run the fuel pump to pressurize the rail to check for dribbling on the injectors. Whats a safe way to run the fuel pump manually? I have an early model M20B25 car with 2 fuel pumps and a return line. EDIT: I already had my injectors cleaned and flow tested with new o-rings 4 years ago, from what I've heard injector dribbling just means the injector is junk. Is this true?
+
+ANSWER 1 (id: 709_0):
+I can't answer your question, but do you know that the FPR is good? Hooking up a fuel pressure gauge and letting it sit overnight might be a good first diagnostic. I believe there is also a check valve in the in the filter or pump that could go bad.
+
+ANSWER 2 (id: 709_1):
+CTFordza to jump the fuel pump you want find the fuel pump relay and jump pin 30 & 86. You can see on the bottom of the relay which pins are which. Youll hear the pump turn on and you can feel the fuel hose tense up to know its working.

@@ -1,0 +1,19 @@
+QUESTION ID: 3101
+
+QUESTION:
+Just waited 15 days on a special order ps pump rebuild kit through pelican parts. It is genuine bmw. When it finally got here, it was missing an o-ring. The one that is missing is 1 of 3. So I can size the existing one for a replacement instead of waiting on this part to be shipped in from Germany again. Do I need any particular kind of o-ring? What material should I use? Is there any reason I shouldn't do this and instead wait on the RMA process for another? (~10 days) I was thinking of going to my mechanic (or possibly the dealership) and asking them to match the existing one I have. Only asking b/c all my options are closed currently.
+
+ANSWER 1 (id: 3101_0):
+You need a material that will put up with the Power steering fluid, which is essentially something that will put up with hydrocarbons. o-rings designed for water applications will not be suitable. Best of going to an industrial o-ring supply shop, with either the sizes or your old one and tell them what you are doing and they will suggest an o-ring material to suit. Last time i did this was for the FPR o-ring on the m20, got some uber fancy o-ring material that could put up with fuel. and it cost like $1.... Based on a quick search Viton material would be suitable for your application. Viton is good for petrol and all hydrocarbons apparently.
+
+ANSWER 2 (id: 3101_1):
+As long as the OD and ID match, you will be fine. If you can, go for the Viton rings, they last much longer. EDIT: Reply came in before I hit send... Originally posted by e30davie Last time i did this was for the FPR o-ring on the m20, got some uber fancy o-ring material that could put up with fuel. and it cost like $1.... Based on a quick search Viton material would be suitable for your application. Viton is good for petrol and all hydrocarbons apparently. I haven never had an issue with the o-ring kits, even used them in our shop hydraulic equip for years - but - you are correct and why I also suggested Viton (what we generally use now). BMW used Neoprene for a long time which "was" cutting edge years ago, but we know from all the Vanos rattling that they didn't last.
+
+ANSWER 3 (id: 3101_2):
+What about Nitrile o-rings? No one around me can source viton easily especially with custom measurements. Don't really have an o ring "supplier" near by. I do have a fastenal which can source an o-ring of my size in nitrile. Says it's good with petroleum based oils and fuels. But also says to avoid use with break fluid for example. Doesn't mention power steering fluid. Bmw didn't have anything that exactly matched. My main concern is also with measuring the o-ring... the guy at fastenal measured several times and was getting slightly different readings for OD/ID as the o-ring itself is maleable. I just contacted pelican parts to start up the RMA process b/c I would rather wait 10 days than have the incorrect material or size o ring in there.... (not positice if nitrile is good enough)
+
+ANSWER 4 (id: 3101_3):
+Head to a local hydraulic shop and they will likely have the size and material requirements you need. (All industrial areas will have a hydraulic hose or line shop)
+
+ANSWER 5 (id: 3101_5):
+Originally posted by e30davie What size is the o-ring? Can you find the part on realoem? Realoem often has the size listed. It does not have the O-ring size listed on realOEM. This is a multi o-ring/gasket set. also, it seems all the hydraulic shops aren't interested in getting one tiny O-ring for me. They mostly just do commercial applications. I'm just going to get this RMA process going. Too much trouble, time, and gas money driving around to these places only to be looked at like this "O_o"

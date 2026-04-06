@@ -1,0 +1,7 @@
+QUESTION ID: 73
+
+QUESTION:
+Hey guys, I was going to replace my Seiko Seiki AC compressor today with a Bosch Behr because they’re supposed to be interchangeable. I quickly learned they have different electrical components - circled in red on the Seiko Seiki while the two other Bosch Behrs don’t have this wiring. How can I make one of the Bosch’s work in my car? My Seiko Seiki only blows cold while driving but then stops blowing cold when I come to a stop, in traffic or idling. I took it to the AC repair shop and the tech said they could get it to turn on but couldn’t get it to compress and thinks the problem might be the electrical component circled in red. He mentioned that maybe it needs the right voltage and coincidentally I replaced the voltage regulator on the alternator today and the brushes on the old regulator were very low. Does anyone know what the thing in red is? Thanks​ Attached Files
+
+ANSWER 1 (id: 73_0):
+The difference in wiring may have something to do with the one pressure switch set up vs. two pressure switch set up. Have you read the AC retrofit DIY? You say that it cools while driving but not at idle. Is the compressor clutch still engaged at idle? Are you sure the system is fully charged with refrigerant? Many things can cause that symptom beyond a bad compressor.

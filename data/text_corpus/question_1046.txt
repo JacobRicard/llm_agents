@@ -1,0 +1,10 @@
+QUESTION ID: 1046
+
+QUESTION:
+Hi all, I was wondering if there was an issue with the transmissions in these cars where the Reverse gear is sticky? It seems to need to have the clutch held in and out a few times, and gently push the shifter lever in. The PO did make me aware of this prior to purchase, but it seems odd that Reverse, of all gears, would go bad. Is there any fix or rebuild to this issue? I havent had much luck finding a replacement transmission and am now looking to just fixing what I have since it's like finding a needle in a hay stack... Thanks!
+
+ANSWER 1 (id: 1046_0):
+reverse doesn't have a syncro so the gear might still be spinning while trying to engage causing issue try putting clutch in then selecting any forward gear to stop gears rotating then try selecting reverse to see if that helps. only other thing i can think of would be worn linkage issue or bent /worn shift shaft or bent shift fork
+
+ANSWER 2 (id: 1046_1):
+I think some versions of the 265 have synchronized reverse and some dont. I have very vague memory of a conversation with a handful of E30M3 guys about different years and models of the 265 and someone saying some of them had syncros on the reverse and some didnt. Now,,, that could have been 265/5s not 265/6s,,, it was years ago and Im not reallly clear on the memory. Maybe someone remembers / knows this more in detail. But yes, its perfectly possible that your 265 does not have a syncro on the reverse.

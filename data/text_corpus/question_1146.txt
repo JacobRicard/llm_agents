@@ -1,0 +1,10 @@
+QUESTION ID: 1146
+
+QUESTION:
+Evening all. In the process of mounting an aftermarket oil cooler with AN10 threads. Need to purchase adapters from the oil cooler to the AN female ends. I think the threads are M18x1.5. Can anyone confirm?
+
+ANSWER 1 (id: 1146_0):
+You are correct, 18mm X 1.5. I just ordered and installed fittings similar to what you're looking at in order to run a Setrab unit for my S14. Best of luck with the project!
+
+ANSWER 2 (id: 1146_1):
+FWIW I also installed fittings with 90* bends to better direct the new lines around the intake plenum and intake since it can be tight working around those. Especially if you plan to run aftermarket senders to new gauges off the housing eventually.

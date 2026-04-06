@@ -1,0 +1,25 @@
+QUESTION ID: 603
+
+QUESTION:
+Looking for a link on wiring instructions for a new car stereo installation,late model no amp no fader. The stereo sticky link only covers with an amp wiring. I have gone through pages and either missed it when I was tired or ? Thanks
+
+ANSWER 1 (id: 603_0):
+Therefore, it should be straightforward. Look up the wiring schematic for your particular year and model to verify your headunit wiring. https://www.the12volt.com/installbay...yeard/BMW.html
+
+ANSWER 2 (id: 603_1):
+Originally posted by reelizmpro Therefore, it should be straightforward. Look up the wiring schematic for your particular year and model to verify your headunit wiring. https://www.the12volt.com/installbay...yeard/BMW.html Wow - that web site is a great resource. Thanks! Cory
+
+ANSWER 3 (id: 603_2):
+The information is all wrong. https://www.the12volt.com/installbay...tail/2316.html Left Front (+) White Left Front (-) Black Right Front (+) White Right Front (-) Black Rear Speakers 5 1/4" Side Panels Left Rear (+) White Left Rear (-) Black Right Rear (+) White Right Rear (-) Black
+
+ANSWER 4 (id: 603_3):
+The 12volt is usually a good site with accurate info. For more in depth electrical diagrams, see the ETM manuals here http://wedophones.com/Manuals/BMW/
+
+ANSWER 5 (id: 603_4):
+Originally posted by Vincenze The information is all wrong. https://www.the12volt.com/installbay...tail/2316.html Left Front (+) White Left Front (-) Black Right Front (+) White Right Front (-) Black Rear Speakers 5 1/4" Side Panels Left Rear (+) White Left Rear (-) Black Right Rear (+) White Right Rear (-) Black Are you saying the info from the12volt you copied and pasted into your post is wrong?
+
+ANSWER 6 (id: 603_5):
+It says "White/Black" for all the speaker wires which isn't correct. Speaker wire color isn't that hard to figure out though. Of course, you could always run your own wiring.
+
+ANSWER 7 (id: 603_6):
+Originally posted by cory58 Are you saying the info from the12volt you copied and pasted into your post is wrong? You can download the wiring diagram for your year and check yourself. E30 (1983 to 1992 3 Series) Wiring Diagrams https://www.armchair.mb.ca/~dave/BMW/e30/ The diagram shows colors: YL/BK YL/RD BU/BK BU/RD Each color is described in the first section "How to use this manual".

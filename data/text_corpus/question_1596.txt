@@ -1,0 +1,16 @@
+QUESTION ID: 1596
+
+QUESTION:
+Hello community, After doing some maintenance on my 325ix, namely an Oil Change, the car has been making a strange noise. It sounds like it would be a wheel bearing, but It also occurs in neutral, and when parked. Apparent turning hard lefts. Only probable cause would be when I let the car down from the jacks, the engine bumped up and hit the hood. ( I already feel dumb about this). Now this noise sounds like a scraping combined with droning it's very faint, but It's there. In neutral and while not moving, the sound is still there just very faint. I popped the hood, and It sounds like it is coming from the passenger side of the engine. There is nothing obvious which it could be upon inspection. This sound comes on a little harder when turning left and has no effect from speed of the car. It does sound like it could be coming from the front of the engine as well, but its really hard to pinpoint, and the turning phenomenon makes it a little more strange to diagnose. Edit: Can be heard when Cranking, and when Engine Shuts off too, almost faint like flywheel scraping or something? Edit: Maybe coming from the Fan? or inside the fan clutch? it seems to be independent of vehicle speed or RPMS. Fan itself seems to have moved inside the little housing. Off-Center so to speak. Seems to be the jacking of the car. The engine seems really tight, so it wouldn't make sense for it to be a mount of some sort.
+
+ANSWER 1 (id: 1596_1):
+I lifted the car up by the front differential and lowered it onto the floor once I remove the jackstands. So I suppose that the engine was still up even though the tires were on the floor before it fully released
+
+ANSWER 2 (id: 1596_2):
+Got it. I wonder if your engine mounts are shot? I dont think there should be enough movement in the mounts to allow the engine to hit the hood? They are easy to replace and relatively cheap (just did mine as a matter of fact).
+
+ANSWER 3 (id: 1596_3):
+The motor is solid In its place when I try and rock then engine back and forth; however, maybe up and down it shifts??? Is jacking up from front differential a no-no? It honestly would make sense. I just would have to inspect them? how would you recommend I test this? are m20 Ix vs is mounts the same? Edit: how do you feel about factory vs urethane mounts?
+
+ANSWER 4 (id: 1596_4):
+No real way of checking them that I know of. If they are original then just replace them, they are around $50 each and easy to do. I just replaced my poly mounts with OEM rubber. Not a huge difference between the 2 but the rubber seemed to smooth things out a bit. I would be happy to sell you my poly mounts for a good price if you want them.

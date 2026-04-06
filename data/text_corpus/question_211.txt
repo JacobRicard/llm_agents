@@ -1,0 +1,16 @@
+QUESTION ID: 211
+
+QUESTION:
+I recently locked my engine so I am looking at options. It is a m54b25 from a 01 325i. Called a friend and he said I could have a s52b32 engine he has laying around with low compression. What parts are interchangeable internal wise from the bottom end. Wanting to use crank and rods with m54 pistons. I want to Frankenstein build this engine. I have a full turbo kit, m50 manifold kit, 1000cc injectors, 400lph e85 pump I ordered a week before this happened. Anyone want to throw some knowledge this way and smack my wrist before I waste my time
+
+ANSWER 1 (id: 211_0):
+S54 or S52 title says one the thread says another? forget about s54 stuff its got a different snout on crank not worth hassle plus better to leave it intact...... s52 crank is same as M54B30 so it fits, s52 rods are same length 135mm as m54b30. pistons size different on S52 is like 86.4 and M54 stuff is 84mm, youd want to find a m54b30 pistons
+
+ANSWER 2 (id: 211_1):
+I miss typed s52, but hey maybe that was a sign 😂 so that would align with my plans using the crank and rods and m54 pistons. I’m sure some light block clearance may need to be accomplished. And I would net 3.2l?
+
+ANSWER 3 (id: 211_2):
+it will be 3L with 84mm bore and 89.6 stroke from m54b30/s52b32 crank, i dont think you can take the m54 to 86 or larger bore, or at least not without great expense.
+
+ANSWER 4 (id: 211_3):
+I later thought of that and saw it is the same crank as the b30 so I might as well just find a b30 crank or core engine for rebuild since I probably need a new block anyway. Rebuild it for boost with a good set of pistons and the whole 9 yards for boost and have some fun! Thanks guys!

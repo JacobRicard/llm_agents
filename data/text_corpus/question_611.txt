@@ -1,0 +1,28 @@
+QUESTION ID: 611
+
+QUESTION:
+Today I tested my stock radio that I picked up a few weeks ago to replace the after market radio that was installed by the previous owner. When I started it up, the display was blank! All of the lights appear to work and the back light is there but there is no text showing the station or anything else. Is my display broken? Can this be fixed?? Thanks!
+
+ANSWER 1 (id: 611_1):
+If the code didn't work, and you reset the radio and entered the code correctly, then something else may be going on. You can get these radios refurbished for about $145.
+
+ANSWER 2 (id: 611_2):
+Originally posted by dlmpsy If the code didn't work, and you reset the radio and entered the code correctly, then something else may be going on. You can get these radios refurbished for about $145. How do they go about refurbishing? I have a stocker with harness and when I quickly hooked it up it wouldn't even turn on :( --Mike
+
+ANSWER 3 (id: 611_3):
+I would never pay $145 to refurbish a factory stereo. So many good used one out there for practically nothing. Not to mention 100's of better aftermarket options. What does it look like with the headlights off?
+
+ANSWER 4 (id: 611_4):
+Here are some places that do refurbs...with a warranty. As far as stock or aftermarket that's your call. I like my original factory radio and the ability to have weather stations. http://www.cdplayerrepair.com/ Short Circuit Car Audio Repair – Contact Us Today! http://www.shortcircuitrepair.com/index.htm Radioman provides car audio radio repairs for Mercedes BOSE Becker Alpine BMW Honda Nissan Lexus Jaguar Porsche VW Toyota Audi Mazda Chrysler Ford Volvo in San Diego http://www.radiomanrepair.com/
+
+ANSWER 5 (id: 611_5):
+Thanks for the links, might see if those guys know anything about this problem For reference here is a close up picture. When the radio is off, nothing shows on the display.
+
+ANSWER 6 (id: 611_7):
+Originally posted by profbooty Any audio? Mine has no audio, but lights up just like that. Code light isn't on either. Not sure yet, the previous owner cut all of the connectors, I have new ones but haven't spliced them in yet. Also somewhere along the way the amp in the back got lost, along with the connector so I haven't had a chance to test the audio yet.
+
+ANSWER 7 (id: 611_8):
+Did you found a solution for this problem? My radio has similar issues only it does work sometimes. Other times it's just the backlight that lights up and nothing on the screen.
+
+ANSWER 8 (id: 611_9):
+There is not much to the radio, power, ground, antenna output, speaker output. If your radio powers on and the display does not work, your radio is bad, plain and simple.

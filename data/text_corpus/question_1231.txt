@@ -1,0 +1,10 @@
+QUESTION ID: 1231
+
+QUESTION:
+Largest Battery possible in a vert? Whats the largest class battery that one can install in a vert without modification of the stock battery tray and mounting hardware?
+
+ANSWER 1 (id: 1231_2):
+I once ran a T6 grp 91 based on Autozone's recommendation but it didn't last very long. Anyway, after some research, I found that T6 is about 3/4" shorter height than grp 48/H6.
+
+ANSWER 2 (id: 1231_3):
+Originally posted by reelizmpro I once ran a T6 grp 91 based on Autozone's recommendation but it didn't last very long. Anyway, after some research, I found that T6 is about 3/4" shorter height than grp 48/H6. Correct - T6 is smaller, which I prefer. Mine last about 5 years. Just had to replaced one with a 2017 production date. I don't treat them great or buy high end batteries. Both cars sit for long periods without use and are only intermittently on a battery tender.

@@ -1,0 +1,10 @@
+QUESTION ID: 1190
+
+QUESTION:
+Sorry, I am posting this here since the S14.net is down. Need some help figuring out what could be the reason for the car to have a loud ticking noise after it warms up. It seems to get worse the warmer it gets. Any ideas? Thanks!
+
+ANSWER 1 (id: 1190_2):
+Originally posted by CleanE30 No I haven't, but that should be worst when the engine is cold, shouldn't it? no not necessarily ,everything in the engine expands as it heats up (on an engine that gives both hot and cold valve clearance spec's the hot will allways be larger) also on a cold engine the oil is thicker so will help to dampen some valve noise. check for exhaust leaks also , a major cause for ticking noise on these engines
+
+ANSWER 2 (id: 1190_4):
+Loud ticking... I had a buddy tell me my ticking was too loud and to adjust my valves. I adjusted them, all fine. Engine had obvious rod knock a month later (spun bearing). I read somewhere that with the aluminum oil pan, small rod knock is perceived as valve tick. I believe I had a bearing on the way out that was producing the sound.

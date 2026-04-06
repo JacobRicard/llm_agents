@@ -1,0 +1,10 @@
+QUESTION ID: 288
+
+QUESTION:
+Lately I have the impression that when turning right the car is more prone to oversteer than when I turn right (same speed and everything...). Its weird and maybe my false impression,but anyways I d like to make a question about this.If it s really the case,what could cause it? I recently changed suspension (6 months old) and tyres (month old). Didn't notice anything suspicious and the car handles much better... N.
+
+ANSWER 1 (id: 288_3):
+Originally posted by a3ternus Lately I have the impression that when turning right the car is more prone to oversteer than when I turn right So, which way is more prone to oversteer? -Erik
+
+ANSWER 2 (id: 288_6):
+From experience I'd say that most e30's tend to oversteer more to left,not much but usually noticeable. Check rear subframe bushes, if just one is damaged it might cause that.

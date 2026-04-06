@@ -1,0 +1,7 @@
+QUESTION ID: 1133
+
+QUESTION:
+So just got the 88 M3 running after it has sat in a barn for about ten years. After reaplceing all fuel lines and pumos and all electric wires/cap/plugs etc everything is good except temp gauge on dash only comes up into the mid blue range. Is it a sensor thing or gauge. How do I trouble shoot the temp switches. I see on Real oem there is one in the radiator and two in the lines. Which one connects to the gauge and if I ground them out should the gauge go the far right kinda like a gas gauge?. Any help?
+
+ANSWER 1 (id: 1133_0):
+don't know what your issue is but the single wire sensor in the coolant pipe is connected to the temp guage in the instrument cluster. I would probably start there, cheap enough of a part and first hand experience of one failing. Kyle

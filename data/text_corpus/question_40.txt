@@ -1,0 +1,10 @@
+QUESTION ID: 40
+
+QUESTION:
+Turner Motorsports Skid plate with garagistic XBrace. Wanted to make a post because I haven’t seen anyone talking about this but I currently have a garagistic X Brace and I’m looking for a skid plate. I really like the turner motorsport one but they mount in the same spot, has anyone tried to make these two work together? My car at some point before my ownership had a red46 one cause it’s got the holes for it, no core support damage either. Was considering getting one of these but I’ve heard bad things about them too. I don’t know someone to weld up a HIK one either. I’m really just trying to hear if anyone has tried to make them work.
+
+ANSWER 1 (id: 40_0):
+Originally posted by MustBeNice Turner Motorsports Skid plate with garagistic XBrace. Wanted to make a post because I haven’t seen anyone talking about this but I currently have a garagistic X Brace and I’m looking for a skid plate. I really like the turner motorsport one but they mount in the same spot, has anyone tried to make these two work together? My car at some point before my ownership had a red46 one cause it’s got the holes for it, no core support damage either. Was considering getting one of these but I’ve heard bad things about them too. I don’t know someone to weld up a HIK one either. I’m really just trying to hear if anyone has tried to make them work. Could you elaborate, I have been looking to and do not know the history of these. MY 318 had the plate that mounts on the rack and front valance and I quickly realized that's not stopping shit if you hit anything serious.
+
+ANSWER 2 (id: 40_1):
+I'm not sure if this is helpful, but I was able to mount a skid plate and an under brace still utilizing the factory plastic undertray. I had to space the skid plate downward to clear the mounting ears of the underbrace. If I could weld, I would trim the underbrace ears and rebrace them and get back ~.5" in ground clearance.

@@ -1,0 +1,13 @@
+QUESTION ID: 2353
+
+QUESTION:
+Hey beemerz! I had this amasing litle box for 10 years now, but it was like 9 years since ive driven it 😁 it was 500$ car, so you can imagin the shitwork behind that beutiful paint 😆 had so much problem sorting out the engine, and i just gave up on the m20, so i found a m30b35 that had been in a e30, so just plug and play. But nooo! Offcourse it came from a facelift e30, so im having some problems whit the electric. Not at all the same wiring. So what do i do here? I dont want to start cuting cables and shit before i have more info. I allready have the facelift speedometer, so need to make that work too. anyone who can give me som directions? And maybe some pics on how you did it? it seems like alot of you guys did this swap, but cant really find anything for the pre facelift cars. Will get some pics for you later! Peace ✌
+
+ANSWER 1 (id: 2353_0):
+If you're having trouble with the harness, just buy one (or the adapter) from the guy that is always advertising in the Swap section. It will save you a lot of headaches.
+
+ANSWER 2 (id: 2353_1):
+So your m30b35 is plug-and-play with a late model car's wiring as long as you plug in the correct ECU. That's what I did on my 1989 convertible that I swapped, and it was pretty easy. You could either make an adapter, cut and splice a compatible plug on either side (engine or car harness), de-pin and swap wires onto a compatible plug, or just swap out some of the body harness to make it work. Some people sell adaptors. While that works, you're going to have real problems if you run into any issues down the road. I'd suggest using the Electrical Troubleshooting Manuals to figure out what each wire does and modify the harness yourself (if you're going that route). 404 Not Found http://www.wedophones.com/BMWManualsLead.htm I've also got a totaled late model e30 that I'm stripping if you're interested in buying my harnesses. I'm in San Francisco.
+
+ANSWER 3 (id: 2353_2):
+MacGyver , i got the e36 m3 ecu, it came whit the engine. Yes also thinking just to "make it fit". But would really like everything to work inside also. How much do you want for the harness? And how long do you Think it will take to ship to Sweden? thanks for the help!!!

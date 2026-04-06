@@ -1,0 +1,7 @@
+QUESTION ID: 582
+
+QUESTION:
+Hello, My left rear speaker is not working, i measured at head-unit terminals and there is no resistance, took out the speaker and it measures fine. Does anyone know where the wiring harness is for the rear speakers on a touring? Thanks!
+
+ANSWER 1 (id: 582_0):
+I don't recall which side it goes forward on, but it should be easy to trace since both speaker pairs will meet up in a common harness. My suspicion is that it travels on the left side of the car. Either way, it goes forward under the carpet, but should be accessible with plenty of trim removal.

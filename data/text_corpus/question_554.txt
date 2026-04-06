@@ -1,0 +1,13 @@
+QUESTION ID: 554
+
+QUESTION:
+Is the cable soldered inside the radio, or does it simply plugged into the radio internally, in a way that I can simply buy a donor radio, take the cover off of my radio, and plug that uncut cable into my radio?
+
+ANSWER 1 (id: 554_1):
+Originally posted by bradnic please post a pic hard to tell what you're talking about. if it's that the power connector was cut off, you will need to replace it. Thank you for the response, I am referring to the attached photo. I know the resoldering will most likely not affect anything, but I still rather replace it with an uncut cable if possible. Attached Files
+
+ANSWER 2 (id: 554_2):
+Those two wires are for the radio lighting. You will need a replacement connector to hook them up to your car. is your car wiring for the radio complete? there's a black connector for radio power. Here's the power and speaker wiring for an E30 89+ car without premium audio (BMW SOUND SYSTEM) Here are the connections for the back of the radio the black connector is for power. it goes on the IGN and GND pins. Speakers go on the right PWR ANT is a thin white wire. Your missing white connector on the radio connects to the white connector in the first picture
+
+ANSWER 3 (id: 554_3):
+Your view doesn't look like it will work on the CM5907, if you look at the updated example photo that I am attaching, it looks like that cable is embedded into the radio Attached Files

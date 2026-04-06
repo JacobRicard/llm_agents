@@ -1,0 +1,10 @@
+QUESTION ID: 685
+
+QUESTION:
+I keep blowing fuse 23 when light switch is pulled to first position. I have checked all the manuals and all years of E30s but none of the wiring diagrams match my switch. Were Canadian spec cars wired differently? My switch has only one power supply wire from fuse 23 to terminal 7 (green/grey) and none from fuse 22. I can't troubleshoot without a matching wiring diagram ,Please help, I need my car!
+
+ANSWER 1 (id: 685_0):
+Originally posted by goldilocks I keep blowing fuse 23 when light switch is pulled to first position. I have checked all the manuals and all years of E30s but none of the wiring diagrams match my switch. Were Canadian spec cars wired differently? My switch has only one power supply wire from fuse 23 to terminal 7 (green/grey) and none from fuse 22. I can't troubleshoot without a matching wiring diagram ,Please help, I need my car! wiring ETM manuals here match to the year and model of your car.
+
+ANSWER 2 (id: 685_1):
+Thanks for the information. I have tried every year and model e30 light switch diagrams and they all the same. They show two power wires coming in and the remaining wires are all grey with stripes. They also show all the switch wires pass through the 30 pin connector C102. My harness has completely different wire colors and they do not go to the c102. The switch itself has a different part # than shown in OEM. 61311380683. Perhaps my car (89 Cab) was fitted with a European switch and harness. Any idea were I can find a Euro ETM?

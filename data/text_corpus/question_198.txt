@@ -1,0 +1,28 @@
+QUESTION ID: 198
+
+QUESTION:
+It's come on... It's goes off... only 3 times now in the last week of 22 yeaes daily driving...throttle loses air intake it seems... once it stabilizes I'll gun it to 6k a couple times... it goes off. all aside the m20 is in very good shape. No oil leaks. Vacuum is tight. recent 5 speed swap. afm is new refurb... last year. can I guess maybe the o2 sensor is the case... no stomp test done. not necessary yet... I think... What's the average life of the o2 sensor? sent fresh from hell using tapatalk
+
+ANSWER 1 (id: 198_0):
+a CEL that turns itself off, especially when performing the "italian tuneup", is usually indicative of a fuel mixture issue. start with the oxygen sensor.
+
+ANSWER 2 (id: 198_1):
+I had a 1987 325is that did that. On mine, it was a vacuum leak caused by the o'ring that goes on the bottom of the vent tube that goes from the intake manifold to the block.
+
+ANSWER 3 (id: 198_2):
+To echo what austin said in addition to the oxygen sensor, I would smoke test the intake, especially if you're getting it on at idle and it will turn off with a throttle 'blip' I would say an oxy sensor is reliable for about 100k
+
+ANSWER 4 (id: 198_3):
+Just out of curiosity do you have a MAF conversion? My car does something similar to this every once in awhile. It throws a 1215 code (afm/maf) and if I blip the throttle it goes away. I have a SSSquid MAF.
+
+ANSWER 5 (id: 198_4):
+Mine would do this, stomp test showed a "Lambda Control" code, which can mean a lot of things. O2 sensor, AFM, Vacuum leaks are all possibilities IIRC.
+
+ANSWER 6 (id: 198_5):
+No MAF conversion. She is OEM. Will attempt another smoke test but i know she's tight. I can't find an O2 replacement in my service records anywhere... If that's the case it's well over 100k... New O2 sensor goes on today... Thanks guys. sent fresh from hell using tapatalk
+
+ANSWER 7 (id: 198_8):
+after replacing sensor, fucking CEL came on again. settled out after a rest and test and a couple hefty throttle pulls... can someone review the stomp test procedures and when do I perform it? sent fresh from hell using tapatalk
+
+ANSWER 8 (id: 198_9):
+Stomp test - key to on, within 10s of key turn, fully depress throttle pedal 5 times, try to pause at WOT momentarily, wait for flashes. If not working from inside you can do the same by manually actuating the throttle in the engine bay. If it works, adjust your throttle cable. If neither work at all you've found that your TPS or associated wiring is faulty. Or you know, the DME could be boned. Also, IIRC pre 88 cars will not support the test without a DME swap or only certain DMEs/configs support it at all.

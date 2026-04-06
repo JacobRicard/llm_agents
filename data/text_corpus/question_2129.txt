@@ -1,0 +1,7 @@
+QUESTION ID: 2129
+
+QUESTION:
+Looking to buy a set of smileys with no plugs so I would have to make the wiring and plugs from scratch. I need these receptacles https://www.schmiedmann.com/en/produ...1-13-0-007-446 My question is do they work as both ground and power? Since one plug requires two of these pigtails but they’re both green and ground is brown. What I think is I follow the brown wire from the housing on the headlight and see which green wire it connects to and therefore that will be the ground wire that connects to the brown chassis wire? Euro ellipsoid / smiley headlight wiring connectors plugs for E30 - ClassicEuroParts https://www.classiceuroparts.com/product/bmw-e30-euro-smiley-headlight-connectors-plugs-wiring-pigtails-318-320-323-325/ An set of Euro Headlight connectors (plugs) with some length of wire attached ( so called pigtails) for E30. These are great when doing Euro Smiley headlight That’s an example of what I would have to do. Notice both power and ground are green receptacles.
+
+ANSWER 1 (id: 2129_1):
+Originally posted by venerated It's fine to use the wire for power or ground, they don't need to be different. Wires are just color coded for identifying. AHHHH I see I see thank you!! Much appreciated

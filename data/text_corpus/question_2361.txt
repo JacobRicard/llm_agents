@@ -1,0 +1,13 @@
+QUESTION ID: 2361
+
+QUESTION:
+My wiper fuse blows instantly. If i change it as soon as i turn the key i can hear it pop. I tried to look for obvious cuts in wires, tried with the relay out and also tried disconnecting the wiper motor. That leaves either the wiring or a short in the switch. Where should I start? Where do the wires run? Thanks in advance
+
+ANSWER 1 (id: 2361_0):
+Disconnect the wires as close to the switch as possible. See if it still blows a fuse. You might have to disconnect wires one at a time to figure out what's going on. Or, you could just try a new switch. They're not too expensive used.
+
+ANSWER 2 (id: 2361_1):
+Between the turn signals and the wipers, I seem to find lots of wiring disasters in the steering column. Maybe it's just the cars I've had, but it seems like the cable management in the column was almost as bad as a 1998 Saab 9000's. As in, there wasn't any. Take the cover off and have a look- it's something easy to try. t
+
+ANSWER 3 (id: 2361_2):
+To help diagnose remove fuse and connect up a 12v 55watt headlight bulb in to where the fuse goes. Using the headlight means the wires and the short circuit do not get hot or damaged. When the light is bright there is a short to earth - disconnect plugs or wiggle wiring to find short. When the light is dim or off all is good no short.

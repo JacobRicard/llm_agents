@@ -1,0 +1,22 @@
+QUESTION ID: 2514
+
+QUESTION:
+Couldn't get a quick answer on other boards. This is E36 related,,,,,(but might be related to swap engine owners?) CEL is on with a 1421 error. Should I place the Check Valve along with the SAP? Has anyone tried aftermarket units? OEM is shy of $600 in parts. I say spend a little with the check valve since it might affect the SAP. Hope everyone is doing well.
+
+ANSWER 1 (id: 2514_0):
+I thought you could check valve opening % or duty cycle with a scanner. Maybe see if you can get a reading on operation? If the code has been going for some time and the valve is stuck open you are probably SOL and will have to replace both. But you could just throw a valve at it in any case as they are not too expensive IIRC.
+
+ANSWER 2 (id: 2514_1):
+The SAP has been making horrific noises for two years....now its super quiet :( I went aftermarket on the pump and OEM on the return valve. For $200 on the SAP....it was worth it.....that should work for a while until things calm down with everything going on now.
+
+ANSWER 3 (id: 2514_2):
+It is recommended you change both at the same time as a faulty diverter valve can ruin the pump. The yards here have tons of cars with SAP's so I've just been buying used. Having changed the SAP twice and diverter valve once on my E39...I can't believe people are actually swapping this POS system over on E30's.
+
+ANSWER 4 (id: 2514_3):
+You can use any BMW SAP. They all have the same connector. The junkyards are full of them and used ones are cheap on eBay. I'm using one for an E90 N51 SULEV on my M44 because it's smaller than the older ones.
+
+ANSWER 5 (id: 2514_4):
+Parts come in tomorrow. Ended up buying the rubber mounts as well. Is it safe to drive the car 150 miles (one day round trip) ? Unscheduled trip today. Since the pump turns on for two minutes, I would imagine so. I just don't want to cause anymore problems. SAP just cleans the cat, right? Once the car is warmed up, it should make no difference whether I drive 15 miles or a 150 miles!
+
+ANSWER 6 (id: 2514_5):
+Originally posted by Javier h Parts come in tomorrow. Ended up buying the rubber mounts as well. Is it safe to drive the car 150 miles (one day round trip) ? Unscheduled trip today. Since the pump turns on for two minutes, I would imagine so. I just don't want to cause anymore problems. SAP just cleans the cat, right? Once the car is warmed up, it should make no difference whether I drive 15 miles or a 150 miles! Life - is a risk. You will not try you will not know

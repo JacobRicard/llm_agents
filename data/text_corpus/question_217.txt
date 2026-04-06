@@ -1,0 +1,31 @@
+QUESTION ID: 217
+
+QUESTION:
+Hey! So recently I bought myself my first e30, It's a early model 318i with no rust and I'm trying to figure out what will be a good suspension setup for an early model car, I know that the strut towers measure 45mm so that means I can't run a 51mm setup unless I convert the towers in the future but I'm basically looking for something that can fit the 45mm housings in the meantime. I'm also converting the car to all discs with 5 lug as there's more options vs drums and 4 lugs. If anyone has advice for this. I would appreciate it. ​ Attached Files
+
+ANSWER 1 (id: 217_0):
+Here is how I’ve setup my 84 318i: 1) 205/50-15 tires 2) H&R Sport Spring. 3) Koni adjustable struts and shocks. 4) A stock 325i rear sway bar. 5) E36 steering rack. Afterthoughts: The sport springs are a little stiff on some of the rough roads here in New Hampshire. The steering rack switch is a major upgrade reducing 4 turns lock to lock to 3.3. Bilstein struts and shocks would probably been just as good, but the Konis were a super deal at the time. Remember that the 318i is about 300 lbs lighter then the 325 with 51mm struts, so unless you’re swapping motors they are not necessary.
+
+ANSWER 2 (id: 217_1):
+Since I'm going to buy a Z3 rack within the next 3 months and get the hardware to do a conversion, I think buying a set of Bilstein strut and shock combo with H&R Sport springs will make wonders compared to OEM, I'm not worried about swapping the engine since I plan to mess around with the M10 but I'm definitely going to do more research!
+
+ANSWER 3 (id: 217_10):
+Good luck with the build. In many ways I miss driving my M10 cars! They just love to be red-lined all day long and don't complain much until about 175K when they need new exhaust valve guides. They take a beating and keep on growling. Keep a good listen on the rod bearings and oil pressure after roughly 175K as both oil pump and rod bearings might need freshening depending on how the engine was run. After those items are addressed (if needed), back to normal for many miles ahead...
+
+ANSWER 4 (id: 217_2):
+I am finishing up a new motor for my car which I hope to install in the spring. I sourced another 84 donor motor. Bored 1 mm over, crankshaft from a 2002, custom forged pistons (9.6:1), resulting in 2035 cc and 284 degree reground camshaft. Eventually I’ll go from the L-Jet to an aftermarket ECU.
+
+ANSWER 5 (id: 217_3):
+How do you plan to drive the car? KYB gas strut inserts work well on a 318i, are cheap and are less harsh than Bilstein. I have had Koni (45MM) but I am not sure if Billies and KYB come in 45MM. One of the awesome things about an M10 powered E30 is that they just glide over road imperfections - they make great dirt road cars. It is completely straightforward to throw in 51MM strut housings BTW. I don't think the weight is much different. Also, The front springs are a different rate so keep that in mind. A lot depends on whether you intend to retain stock height or lower. One last thing is that the Cabriolet front sway bar is a cheap stock unit to pop in at 19MM.
+
+ANSWER 6 (id: 217_5):
+If you plan to keep the car long term, look for 51mm strut housings & vented brakes & rear disc trailing arms off a 325 e30. You'll want the matching master cylinder as well. It'll all swap over to your e30 318i (the towers are the same, just the strut housing itself that's smaller on the m10 318i). Most performance suspension options are based around the larger diameter struts too which makes sourcing parts later on a little easier. If there are specific wheels in 5 lug that you want to run, I totally get it, but having recently done a 5 lug swap, it starts to spiral out of control pretty quick and can cause some funky alignment issues and brake bias depending on the parts you choose to use.
+
+ANSWER 7 (id: 217_7):
+Beware of all of the weight adding up on the 318i. I drove those cars for eight years back in the day (had four) and noticed a big difference in performance both from added weight in the car and from heavier wheels / tires. Honestly, I used to leave the spare at home unless I was going on long trips - I could feel a difference. Cars in the 100 HP range must be kept light! I guess if you really wanted to run more weight and heavy wheels you could run 4.10, 4.27 or 4.44 gears out back, but I think the M10 is great with a light chassis and light wheels. 2.0 liter 2002 manual cars came with 3.64 gears to give some food for thought. The 2002, E21 M10 cars and the E30 M10 cars were all fairly close in weight. It is really easy for a bunch of upgrades to add 250 lbs. to an E30 build.
+
+ANSWER 8 (id: 217_8):
+Noted! I think i might stick to a 4 lug set up for now as when i dial in the fitment and geometry, I'd want to keep it simple and light in all aspects! Hunting for an affordable and lightweight wheel will be simple enough.
+
+ANSWER 9 (id: 217_9):
+Under 12 LBS and good grip from 7" wide wheel: https://www.tirerack.com/wheels/WheelCloseUpServlet?target=runWheelSearch&initialP artNumber=W29075501LG&wheelMake=Sparco%20Flow%20Fo rm&wheelModel=FF1&wheelFinish=Light%20Grey&showRe a r=no&autoMake=BMW&autoModel=318i&autoYear=1984&aut oModClar=

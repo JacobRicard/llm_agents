@@ -1,0 +1,28 @@
+QUESTION ID: 1888
+
+QUESTION:
+Hi all, so ive o-ringed an M20 block with copper wire and I wanted to be informed of what to expect in the first 500k's/miles I'm using ARP studs torqued at 70ft lbs in 3 equal stages on an elring HG. I found the torque down a bit spongy to begin with but I guess that's to be expected seeing there is some give in the copper wire. I ran the car up to temp, let it cool down and retorqued the head without backing off the nuts. I found a fair few nuts were out of spec and I just torqued them back up to 70ft lbs. I did find a very small amount of coolant spots in the oil but could of been residual from the failed Cutring gasket I had. Not sure if this can be expected before the retorque before the engines been heat cycled. Would it be expected that I should retorque the head after a certain period of time AGAIN?
+
+ANSWER 1 (id: 1888_0):
+I've used thin copper wire o-rings with both cast iron heads and aluminium heads. Never done re-torquing more than once, not necessary even that. But those have been N/A racing engines. Thick copper fire rings are another story. They may require many rounds of re-torquing before stopping leaking all possible fluids.
+
+ANSWER 2 (id: 1888_11):
+Never had a head welded, is it more that it's impossible to correct a crack without xraying it or that it will just become a stress raiser for another one?
+
+ANSWER 3 (id: 1888_12):
+From what I have seen it works temporarily but It will recrack again eventually as it becomes inferior to the original as cast material due to the welding process. Also the area is subject to contaminants from oil infusion so welding quality is often suspect. I have also heard the particular alloy is harder to weld due to the magnesium content. Basically not worth the effort on something you want to last
+
+ANSWER 4 (id: 1888_13):
+Yeah, welding aluminum almost always results in inferior material properties at or surrounding the weld due to the welding process itself, the heat affected zone, and the lack of control over the resulting material. I do not know what alloy was used in these heads but it was most certainly heat treated, even if you used filler of the same exact alloy or an alloy that interacts favorably with the HAZ, you won't be re heat-treating your head. Welding as well as preheating to weld will, to put it simply, screw all of that up, and that's in addition to the poorly controlled grain structure. We're really spoiled because of the durability and longevity of these engines, but unfortunately the design is flawed and that's why they crack so easily. There's two realistic ways to stop it from happening, reduce the stress (don't overheat) or add material for extra strength. If you could weld reinforcements in you may be able to make a permanent repair but we've seen where they crack.
+
+ANSWER 5 (id: 1888_2):
+yep stock gasket, 70ft-lbs is what ARP specify for PN 201-4305 2000 series the copper ring is in the block so under the gasket it, it turned out in the end the motor pushed water into the oil even after a retorque with about 15 minutes of driving. Gasket stuck to the rings pretty well and there are no obvious signs of where the trouble spot was. Sending the head back to the shop to pressure test it for cracks tomorrow as coolant was found in this position over pot 5 on two occasions. At retorque and at strip down after water was found in the sump. no coolant anywhere in the head exception to here so its a bit concerning. Cam removed I couldn't find any signs in the tunnel of cracking but il need to pressure test it. Head is as straight as an arrow even after removal. Quick checks with a dial guage protrusion of the ring was at .008" after its been clamped so not sure.. Maybe I had too much protrusion on the rings. Need to pull the block and really look it over. Knew I shouldn't of cut the bloody things in the car. Attached Files
+
+ANSWER 6 (id: 1888_5):
+Originally posted by Northern $20 says head cracked above Cyl 5 under the cam. What's the consensus on repairing 885 Heads currently? I know prices aren't what they were when people were pulling okay junkyard heads and doing a 'cheap' rebuild and replace instead of getting their cracked heads welded and repaired professionally
+
+ANSWER 7 (id: 1888_6):
+Originally posted by alpinaseeone What's the consensus on repairing 885 Heads currently? I know prices aren't what they were when people were pulling okay junkyard heads and doing a 'cheap' rebuild and replace instead of getting their cracked heads welded and repaired professionally If you can see where it's leaking and you're able to weld cast aluminum, which is not simple to do correctly, then why not?
+
+ANSWER 8 (id: 1888_7):
+Yeh I'm waiting for the call to stay its cracked, they're checking it in a bath at operating temp with a dye so should be reliable. I looked real hard on the journal and couldn't see anything at all, will suck if it is after spending the amount of time and money on it I have. I will try save it tho if possible. Got a feeling it hasn't been pressure checked since the cutring install which I requested. Silly me said don't worry about an invoice.

@@ -1,0 +1,10 @@
+QUESTION ID: 908
+
+QUESTION:
+Does anyone have any tips or tricks on the fastest and easiest way possible to remove either single or dual VANOS units from any M50/52/54 engine? Keeping the timing at TDC isn't important, as these are going to be pulled from end-of-life cars at junk yards to be remanufactured and used in other cars. I'm probably going to be pulling several per trip and would love to save as much time as possible. I have a VANOS tool kit for single VANOS, but I'd like to know if there's a faster way of removing them without using the tools if timing doesn't matter. Thank you!
+
+ANSWER 1 (id: 908_0):
+you don't actually need the vanos kit or special tools to remove the unit, it's only useful for installation - pull coils - pull valve cover - unplug solenoid - unbolt oil feed line banjo bolt from vanos unit - unbolt vanos unit - pull toward front of car (might need some persuasion of the intake cam) should take 20 minutes tops if the intake cam is cooperative. might need the cam spinning tool if not.
+
+ANSWER 2 (id: 908_1):
+Originally posted by kronus you don't actually need the vanos kit or special tools to remove the unit, it's only useful for installation - pull coils - pull valve cover - unplug solenoid - unbolt oil feed line banjo bolt from vanos unit - unbolt vanos unit - pull toward front of car (might need some persuasion of the intake cam) should take 20 minutes tops if the intake cam is cooperative. might need the cam spinning tool if not. Awesome, thanks! I assume dual VANOS would be about the same, but with another cam that might give me issues?

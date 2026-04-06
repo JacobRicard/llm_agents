@@ -1,0 +1,7 @@
+QUESTION ID: 2281
+
+QUESTION:
+I'm not doing my best searching - can't find in the forums or on the Internet if there is a separate part for the little three-light pipe guy for the vent sliders. Is that available as a separate part, or do I just buy the whole assembly? (My middle one is broken)
+
+ANSWER 1 (id: 2281_0):
+The slider assemble is all one part from BMW. The lights are fiber optic wires that go to the bulb sock. The 3 button covers and flat piece that cover the screws are separate PNs. If you look at the ETK (realoem.com) you will see it. Check my project thread for pics, I just replaced my mechanism recently.

@@ -1,0 +1,16 @@
+QUESTION ID: 1523
+
+QUESTION:
+Hey, I am writing looking for some advice. I have a NOS Dinan D900-2532 chip I want to put in my iX. I have been told mixed things about whether this chip will work alright in the iX (supposedly it was not originally designed for the AWD system). I wrote Dinan regarding the chip, and they have no records of ever making a chip with that part number, and figure old records may have been lost. I have seen some people on this forum running it on other e30s, but curious what info people have on putting it in an iX. I am also looking at new air intakes, specifically from KAMotors, any experiences? Thanks all!
+
+ANSWER 1 (id: 1523_0):
+A chip will work the same in an iX as it would a rear-wheel drive 325i e30. First thing I'd do is check to see which ECU your car currently has installed. Most of the chips are designed for the ECU ending in "173", but you can try your chip in your ECU to see if it will fire up (just keep the notch orientation the same). Otherwise if it doesn't, you can get a chip for your particular ECU. As for an aftermarket intake, the stock airbox is actually pretty good. Intakes on an otherwise stock motor are more for show or increased noise. I have used a KAMotors intake on my 24v swap and it worked perfectly fine, but that's because the factory airbox doesn't bolt up directly.
+
+ANSWER 2 (id: 1523_1):
+Originally posted by mtech325 A chip will work the same in an iX as it would a rear-wheel drive 325i e30. First thing I'd do is check to see which ECU your car currently has installed. Most of the chips are designed for the ECU ending in "173", but you can try your chip in your ECU to see if it will fire up (just keep the notch orientation the same). Otherwise if it doesn't, you can get a chip for your particular ECU. As for an aftermarket intake, the stock airbox is actually pretty good. Intakes on an otherwise stock motor are more for show or increased noise. I have used a KAMotors intake on my 24v swap and it worked perfectly fine, but that's because the factory airbox doesn't bolt up directly. Thanks for the advice, I will def give the chip a try. I thought the intake may give me a bit of performance gain, if that's not the case I am perfectly happy keeping the stock airbox. I just want a bit more power to make u[ for the AWD system. Any other simple recs on simple ways to do this?
+
+ANSWER 3 (id: 1523_2):
+Originally posted by aj701 Thanks for the advice, I will def give the chip a try. I thought the intake may give me a bit of performance gain, if that's not the case I am perfectly happy keeping the stock airbox. I just want a bit more power to make u[ for the AWD system. Any other simple recs on simple ways to do this? Yes, get a RWD model.
+
+ANSWER 4 (id: 1523_4):
+OP, an ix should run about even with a standard 325i in a real world scenario, and obliterates them through high speed corners, so there is nothing to make up for.

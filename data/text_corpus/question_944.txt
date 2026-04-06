@@ -1,0 +1,13 @@
+QUESTION ID: 944
+
+QUESTION:
+So my current setup is a 1988 325is m50tu with obd1, but my motor is ticking, and I just got a steal on a m52 obd2 engine.. $500. I have a red 413 ECU, but was thinking that rather than converting down to obd1 with my new engine, i could use the same ECU and convert to obd2? Worst case scenario, I do have access to the ECU and EWS and harness for the donor engine, but id have to buy them as the car lives in the scrap yard, and im doing this on a fixed budget. im trying to do this swap within a weekend, as this car is my daily, and im starting to wonder if that's easier said than done.
+
+ANSWER 1 (id: 944_1):
+Originally posted by R1dd1ck913 You in spring hill KS? Any ways a obd1 ecu is just that obd1. It is not obd2 and never will be. You could take the obd2 m52 and convert it to obd1. Spring Hill TN.. and okay, well I guess I'm stuck with obd1 for the time being.. Ballin on a budget
+
+ANSWER 2 (id: 944_3):
+Originally posted by dude8383 i'd save all of the OBD2 stuff for the future then. these motors run better with OBD2 not to mention the diagnostics is better too. Well, I dont own the obd2 parts from the donor car, I'd have to buy them from the scrap yard. but I'll save up and purchase them asap. now, that being said, my ECU is set to run a 2.5.. Am I gonna need a chip to run a 2.8 motor because of different parameters? I will be putting my obd1 intake on the car.
+
+ANSWER 3 (id: 944_4):
+whatever happened with this? I hope you just yanked the crappy M50 out, and swapped in the M52 in using all the OBD1 stuff. Later I would convert to OBD2

@@ -1,0 +1,10 @@
+QUESTION ID: 1541
+
+QUESTION:
+Hey guys so I’ve seen them at picture with an e30 on it’s side showing all the different jack points. I want to know how you guys jack up the front of your iXs. Is there somewhere in the middle you can jack both sides up at the same time with a floor jack or do you have to jack up driver and passenger side separately to put in jack stands? in the picture it shows that you can hack up the front in the middle by the cross member, but on my car (1991 4 door 5 speed iX) there’s this protective cover over the very front portion and directly behind that is the engine oil pan and the front diff. I don’t see a crossmember section to jack from like in that picture. so far I’ve been jacking driver side and passenger side one at a tile by the gram rails and putting jack stands on the same frame rails. thanks all for the help and info!
+
+ANSWER 1 (id: 1541_0):
+Keep doing what has been working for you. I have jacked up from the center, but there is a good chance of cracking the splash guard. Worse yet, what if the jack slips and hits the oil pan?
+
+ANSWER 2 (id: 1541_1):
+I'm in the process of pulling my transmission on my iX. For the most part I also jack it up from one side then the other. But because I need to jack it up quite high so I'm able to slip the trans from under the car, I did the following. I first jacked it up from side to side, just enough so I can get a small jack stand under the frame rails. I then went to the front and jacked the car even higher so my bigger heavy duty jackstands fit under the car. Then it's on to the rear, jacking it from the diff and placing the jackstands at the end of the subframe.

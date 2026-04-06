@@ -1,0 +1,7 @@
+QUESTION ID: 1215
+
+QUESTION:
+Back when I initially got the car I noticed the PO sloppily had this area filled with some orange sealant and, unsurprisingly, it has recently started leaking oil. I'm not too clear what this plugged hole is and was hoping to get some insight from you guys. Thank you Pictured here
+
+ANSWER 1 (id: 1215_0):
+I believe it's just a plug, similar in theory to a freeze plug. See below image of an S38 motor for reference: (Found on Google, couldn't find an S14 variant)

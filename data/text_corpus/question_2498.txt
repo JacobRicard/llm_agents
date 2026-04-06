@@ -1,0 +1,7 @@
+QUESTION ID: 2498
+
+QUESTION:
+I bought an oe radio for my ‘89 325i coupe. It’s a CM5905 bmw unit. Do I need to have the balance slider on my dash for this radio to work? I was randomly watching a video on an e30 dashboard swap today where a CM5905 radio was removed and I noticed the car had the balance slider on the dash so I’m wondering if I can install the radio without having that balance slider? Hoping I don’t need to return/resell the radio. Thanks for any help!!
+
+ANSWER 1 (id: 2498_0):
+I presume that by “balance slider” you’re referring to the fader knob. It’s not strictly necessary. If I have this right, the CM5905 was put into cars with the simple 4-speaker setup. The CM5905 radio has two internal 18W amps that drive four 8-ohm speakers wired in parallel (at least this is how it is on my 86 325, which has the fader control) - a ghetto way to turn 2 channels into 4. The fader is supposed to act as a bridge between the front and rear speakers but you could do that connecting the wires that it connects to. Only extra functionality the fader has is it lets you bias the sound stage towards the front or rear speakers. I supposed BMW added the fader knob as a extra little gizmo/toy (like the OBC) to lure buyers who back when these cars were new. But I think you may have the wrong radio for your 89. If you have the 8-speaker premium setup, your car likely came with the higher-end CM5908.
