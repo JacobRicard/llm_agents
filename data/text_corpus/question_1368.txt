@@ -1,7 +1,0 @@
-QUESTION ID: 1368
-
-QUESTION:
-Friends, I'm in the middle of swapping some motor parts between cars but for the life of me can't figure out how to get these levers in the top storage separated from the motor in the trunk? What I thought was a screw in the lever doesn't seem to fit any kind of tool so I know I'm doing something wrong... Thanks for taking the time to respond and help! Attached Files
-
-ANSWER 1 (id: 1368_1):
-It should be a hex head. M5x40. It's possible someone has rounded it off using the wrong tool. Do you have a better close up? Sent from my Pixel XL using Tapatalk

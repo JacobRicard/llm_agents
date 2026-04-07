@@ -1,7 +1,0 @@
-QUESTION ID: 154
-
-QUESTION:
-Hey guys, bare with me here I just got into E30s and don't really know what I am doing. Recently bought a '90 325i convertible with unknown milage. Drove it back 2 hours no issues last week. was driving 2 days ago with my lights on when suddenly the instrument cluster lights went out as well as my speedo - everything else on the cluster works fine and the other lights in the centre work too. Checked fuse box - no blown fuses, smacking the dashboard will cause the speedo needle to wobble slightly (never past or close to 0, always below). I checked the ground behind the dash and all the wires seemed to be contacting There is a weird thing going on, whenever I turn off the headlights - stalk all the way in, the OBC digital display backlight works perfectly fine, when I pull the headlights and turn them on, the OBC backlight goes off but it still works. Please be patient with me and any pointers would be hugely appreciated
-
-ANSWER 1 (id: 154_0):
-No easy answer for you. Start with the wiring diagrams for your year and model here: http://wedophones.com/Manuals/BMW/ As old as these cars are today, wires, connectors and grounds can cause real headaches. Good luck and let us know how it goes for you.

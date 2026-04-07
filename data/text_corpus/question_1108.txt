@@ -1,7 +1,0 @@
-QUESTION ID: 1108
-
-QUESTION:
-Where is it , I need to add fuel and cannot find the damn thing. Thanks.
-
-ANSWER 1 (id: 1108_0):
-I believe it locks/unlocks with the central locking system but it does not work on my car either. If you pull the passenger trunk side panels, you can see the solenoid and pull back manually.

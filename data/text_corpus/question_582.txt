@@ -1,4 +1,5 @@
 QUESTION ID: 582
+TOPIC: speaker_upgrade
 
 QUESTION:
 Hello, My left rear speaker is not working, i measured at head-unit terminals and there is no resistance, took out the speaker and it measures fine. Does anyone know where the wiring harness is for the rear speakers on a touring? Thanks!

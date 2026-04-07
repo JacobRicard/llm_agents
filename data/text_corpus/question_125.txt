@@ -1,7 +1,0 @@
-QUESTION ID: 125
-
-QUESTION:
-When I open the door, while I’m driving, and when I shut off the vehicle, my dash lights, rear side markers, and license plate lights flash for about 30 seconds and then stop. If I leave my door open and the car is not on, it will flash, stop for about a minute and then flash. Same while driving. I hear the constant click of the flashing. My door switches are good, no alarm although there may have been one previously. There’s a LukeBox and amp. Kind of annoying haha … I can’t upload a video. Any ideas?
-
-ANSWER 1 (id: 125_0):
-Got it. PO has, what looks like, a kill switch under the dash. I flipped it and everything works as it should. I’ll have to spend some time tracing that later.

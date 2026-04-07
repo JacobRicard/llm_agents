@@ -1,7 +1,0 @@
-QUESTION ID: 1344
-
-QUESTION:
-Hi, I have a m30 swapped vert My e30 is currently experiencing some issues with getting power to a few things. I have no power to my top, I have no power to my ac blower motor and AC button. Have no power to my windows. About a week ago I had all of these things powered up. So as far as functionality, I think all motors are good. I am trying to figure this out: any help would be greatly appreciated. Also to know. Installed an aftermarket radio and messed around with my cluster pulling it in and out. Idk if this affects anything.
-
-ANSWER 1 (id: 1344_1):
-Anyone else got any ideas before I send it off to a professional to break it down. is the wiring to the cluster and radio linked with the ac buttons, power top and the window switches?

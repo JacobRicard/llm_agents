@@ -1,4 +1,5 @@
 QUESTION ID: 495
+TOPIC: speaker_upgrade
 
 QUESTION:
 Previous owner of '91 318is had installed the OEM E34 radio, and I'm replacing it with a bluetooth-capable head unit. I decided on the VDO/Continental TR7412UB-OR for its clean, period-correct aesthetic. Ordered these from ECS:VDO TR7412UB-OR Head Unit (ES#: 3427250) VDO Headunit Wiring Harness (ES#: 3619860) Upon removing the factory head unit, the internal wires are twisted and electrical-taped together to the factory wiring harness wires. Much of the electrical tape is loose and melted. I'll clean up this jumble of tape & wires by cutting and re-connecting each wire with heat-shrink butt connectors. I have a BMW stereo harness adapter (Scosche BW01B) on its way, so I can easily swap out to OEM unit in the future if needed. Taking stock of the existing wire colors, I referenced them against the Pelican Parts article and VDO manual: The "GAL" wire, which appears to supply speed signal for adjusting the volume based on the driving speed, will be unused in the new VDO unit. I noticed the "Illumination" wire is missing in my configuration. Hopefully this is not necessary?

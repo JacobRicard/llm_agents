@@ -1,7 +1,0 @@
-QUESTION ID: 579
-
-QUESTION:
-Hey there, I was just wondering if there is any form of documentation about the OBC connector, and how it works? Thanks!
-
-ANSWER 1 (id: 579_1):
-Originally posted by Gregs///M Search BMW ETM manual and you will find all the electrical connection info. Thanks! Found this pretty easily and looks pretty thorough.

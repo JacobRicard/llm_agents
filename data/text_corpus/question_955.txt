@@ -1,7 +1,0 @@
-QUESTION ID: 955
-
-QUESTION:
-Dears, My opinion logic say that the short stroke big bore is better for performance Guys what about your opinion ? advantage and disadvantage? Regards, w
-
-ANSWER 1 (id: 955_0):
-Small bores don't fit big valves. Big valves are required for big airflow. Big airflow is required for big power (at least N/A). QED. Unfortunately with BMW engines (at least the 6's), small bore long stroke is the only option. However, small bore engines can run more boost as the small bore is more detonation resistant and there's less total force trying to lift the head off the block.

@@ -1,7 +1,0 @@
-QUESTION ID: 593
-
-QUESTION:
-I bought a CM5907 off ebay to put the canteloupe radio bluetooth board into. Unfortunately, it appears that the radio did not come with the code to unlock it. How would I go about getting this code? There aren't any BMW dealerships near me either. Serial Number: F70813947 Thanks
-
-ANSWER 1 (id: 593_0):
-Call dealerships, if you get a good one they'll do it by phone. The guys at Thompson BMW are usually cool about it, many are not, so it may take a few calls to find the right one.

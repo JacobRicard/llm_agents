@@ -1,7 +1,0 @@
-QUESTION ID: 2271
-
-QUESTION:
-I have an '89 touring with a 2000 m3 engine...(full swap). Recently, when I shut the car off the fuel pump will kick back on, the CE light will come on, & run for a couple seconds then shut off (CE light goes off). Then the fuel pump will come back on (CE light)... This will happen 3-4 times before finally stopping. Does anyone have a suggestion of what's going on? I have changed nothing in the car, this simply started happening. I look forward to reading the ideas. Many thanks, Erik
-
-ANSWER 1 (id: 2271_0):
-S54 has a fuel pump controller, right? My idea would be to hook up to the dme and the fuel pump controller and see what they think is happening. www.bmwteka.com for wiring diagrams, but it doesn't seem like the fuel pump controller should have power with the key off. But maybe it does. IMPORTANT LINKS https://www.e46fanatics.com/threads/important-links.1130405/ A list of important threads containing a wealth of information every E46 owner should know, especially if you're new to the car or this forum. Information E46 Buyer Guide E46 Wiki Abbreviations and Acronyms How to Search Bentley Manual PDF Download RealOEM - Part Number Lookup VIN Lookup Gear... Bali has various threads where he links BMWScanner 1.4 and the BMW tools, if you don't have them. hth, t

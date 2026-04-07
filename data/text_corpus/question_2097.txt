@@ -1,7 +1,0 @@
-QUESTION ID: 2097
-
-QUESTION:
-I have a problem with my e30 I recently brought a e30 325i 1988 2 months ago. I changed the timing belt, water pump, spark plugs, distributor, and the rotor as well. I made sure to lined up with the timing marks then turn it 2 times. I put everything back together but now my car doesn’t want to start at all but it will crank, it does have spark but doesn’t want to start🤦🏽‍♂️Now I’m completely lost. can you please help me, I’m new to working on bmw’s.
-
-ANSWER 1 (id: 2097_1):
-Try jumping, with key all the way in the on position, pin 11 and 14 in the obd port under the hood. If it starts that way it could be your ignition. Also check the CPS as well as the Main Relay and Fuel Pump relay.

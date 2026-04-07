@@ -1,7 +1,0 @@
-QUESTION ID: 1822
-
-QUESTION:
-Hi all- i had my interior redone and the shop used a set of sliders from a late model e30 versus the originals. I am having trouble getting the studs to have enough length to properly secure the nuts on. Additionally, the one bolt near the driveshaft tunnel is not long enough to grab the nut. I know I can use a longer bolt for that, but anyone deal with this before?
-
-ANSWER 1 (id: 1822_0):
-The seat rails for earliest E30 cars (1984-5) are different than all later seat rails. You can easily get two longer M10 bolts (OEM part # 07119915189 is 32mm long with 1.5 pitch). The other six built-in studs would require welding in new, longer studs to fit the later style rails. Your other alternative is to grind down the later seat rails, effectively shortening them, so that the existing studs extend further so the nuts will engage. I am not sure you could substitute the earlier rails with later seat frames. See this discussion: ​https://www.r3vlimited.com/board/for...t-length-issue and https://www.r3vlimited.com/board/forum/e30-technical-forums/appearance-cosmetic/interior/315882-seat-bolt-question-newer-sport-seat-in-older-e30

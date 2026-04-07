@@ -1,7 +1,0 @@
-QUESTION ID: 439
-
-QUESTION:
-I was working on replacing the capacitors on my CM5908 when this fell out of it. Any idea where it goes? Im stumped.
-
-ANSWER 1 (id: 439_0):
-And I thought I was the only one working on one :) i just put mine back together last week. I did find some photos that may help. Basically, it goes behind the front circuit board/faceplate, in a slot between the front of the cassette assembly. With the angle facing forward and the tabs over the circuit board. If that doesn’t help, I can take mine apart again. ​​

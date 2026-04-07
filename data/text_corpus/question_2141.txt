@@ -1,7 +1,0 @@
-QUESTION ID: 2141
-
-QUESTION:
-I am looking for the part number for a 58 liter fuel tank fuel gauge? It's for an early 84 318i. I though there was a chart somewhere that showed all the fuel gauge part numbers and what fuel tanks they go to.
-
-ANSWER 1 (id: 2141_3):
-I saw videos about sending unit repairs https://www.youtube.com/watch?v=5OXdkznEILw They are pretty expensive new. There is a resistor that connects the + (FULL) terminal of the fuel gauge to +12V. I guess it can be changed to match the full tank level. It's 68Ω.

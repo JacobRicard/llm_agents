@@ -1,7 +1,0 @@
-QUESTION ID: 2776
-
-QUESTION:
-Hey guys, What do I have here? 260 km/h and 60l fuel gauge. Never saw "regular" 260 km/h cluster, except m3, hartge ..
-
-ANSWER 1 (id: 2776_1):
-I'm not sure there's a lot of value here just to have euro gage faces. You could print new overlays pretty cheap, and the cluster probably needs reconditioning too (SI batteries, odometer gears, typical broken traces, etc). So whatever a regular US cluster is worth minus the cost of shipping it from europe... if it was an original M3 or Alpina (not a replica), then you might have something.

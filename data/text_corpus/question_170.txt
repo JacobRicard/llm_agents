@@ -1,7 +1,0 @@
-QUESTION ID: 170
-
-QUESTION:
-Summary: 84 325e with dual pumps, Car wouldn't start after sitting for like 2 weeks, found no fuel coming out of the FPR hose. Fuel pump relay works, can click it on via the DME pins, also took it out and powered the pins themselves, seems to close contacts fine. Have battery power at pin 30 on fuel pump relay. Took the main and auxiliary fuel pumps out of the car and powered directly off car battery, both work fine.​ Found that with both fuel pumps unplugged, I can measure battery voltage across either of the terminals by either closing the fuel pump relay via the DME pins, or jumpering pin 30 and 87. However, plugging in either pump causes the voltage reading to drop to like 0.1V, and neither pump runs when plugged in. Anybody seen something like this?
-
-ANSWER 1 (id: 170_0):
-Yes. Meter the supply to the relay. If the supply holds up, but the relay doesn't output power, it's a bad relay. If the supply also drops to effectively zero, it's the supply to the relay. Trace it back to its source 404 Not Found http://www.wedophones.com/BMWManualsLead.htm and see what's not conducting. You can also use the meter across components (relay, fuse, etc) to see what's conducting and what's not. t

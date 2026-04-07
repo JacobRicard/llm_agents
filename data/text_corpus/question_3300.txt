@@ -1,4 +1,5 @@
 QUESTION ID: 3300
+TOPIC: cooling_system
 
 QUESTION:
 What do? Supposedly it has a "blown HG" Guy said it would run fine for 30 minutes, then peg hot, then you could turn it off, re-start it, and it would be normal, run 30 minutes, peg hot, over and over. So they replaced everything ancillary on the engine, then the engine. Gave me the "core". Don't see milkshake in the coolant or oil. Everything smells kosher. Bascially I have a engine, sans DISA, WP, t-stat, harness, exhaust manis, crank sensor, coil packs, etc. Ancillary stuff they replaced they kept, but said I could have them in a couple weeks if the car didn't come back. Going to do a leakdown test on it and see what comes back, but it looks alright to put back together, maybe slam into the GF's e28. ...but it is a B25....so yeah, worth it? Thoughts?

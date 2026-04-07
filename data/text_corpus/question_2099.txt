@@ -1,4 +1,5 @@
 QUESTION ID: 2099
+TOPIC: cooling_system
 
 QUESTION:
 Hi dear All, I hope that you are well. :-) Has anyone added or considered adding a tracking device to their car? In short, I'm thinking of attaching an Apple AIrTag (inside a waterproof case/holder) to my car. I though maybe behind the front grill somewhere - not near the radiator, fan, or moving parts. I live in a pedestrian friendly city and park my car on the street. Many people (carrying phones) will naturally walk by the car each day - allowing the tag to report its location. This is why behind the grill is my first thought - to allow the tag to communicate with bypassing cell phones. Pls let me know your thoughts. Best, Kelly

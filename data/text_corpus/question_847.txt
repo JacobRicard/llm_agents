@@ -1,7 +1,0 @@
-QUESTION ID: 847
-
-QUESTION:
-Im building an M50 with M54 rotating assembly, stock m50 cams & boosting it with a. GT3587, shooting for 450ish. I see there’s a lot of different options for head gaskets & I’m not sure which direction to go. I hear a lot of luck with the copper spacer & cut ring combo. Is it worth it/ necessary to do both or would I be fine with just the cut ring gasket. I hear more mixed things abt the MLS head gaskets so not sure about those. Any able to help/give advice? Only ever built motorcycle engines so this is a little new to me
-
-ANSWER 1 (id: 847_0):
-Basically depends on fuel/power goals. If you want to run just the cut ring, the higher (~10:1) compression ratio is going to force your power goal down unless you run ethanol or race gas. Adding the spacer drops CR down to ~8.5:1 so you can run more boost on cheaper fuel. For your goal of 450, I think you're a touch over what you can do on stock CR and pump gas, I think 350-400 is doable but the engine will be prone to knock so a good tune is key. If you plan to run E85, you'd be fine

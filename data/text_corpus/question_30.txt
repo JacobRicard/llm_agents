@@ -1,7 +1,0 @@
-QUESTION ID: 30
-
-QUESTION:
-Hey R3V- I have followed jlevie's wiper motor diagnosis procedure multiple times and poured over ETMs, but still have an electrical issue has plagued my '89 325iS since purchase. The wiper motor intermittently loses power. When testing this, if I remove/install the wiper relay, I temporarily get power back at the wiper motor (confirmed via multimeter). I have also ohmed out and continuity checked the chassis harness from the wiper motor plug to the fuse box, to the wiper motor switch and to ground, and compared these values to a car with a goo working wiper system to no avail. The wiper relay (and several others I tested) are good. Switch tests out good at relay pins in fuse box, but have also tried several spares to no avail. I thought maybe the wiper stalk g201 ground (steering column) was no good so I relocated it to the g200, which did nothing. Occasionally with the motor plugged in and running on low speed it'll "click out" like a glitch and softly engage the horn. The car has quite the checkered past- wondering if maybe wiper wiring over to the level sensor/pump may be causing issues with the whole system? Any ideas?
-
-ANSWER 1 (id: 30_1):
-Originally posted by It's Soda Not Pop Clock spring maybe or a short some where in the steering wheel assembly. I've already relocated the steering column ground in the event it wasn't grounding properly there :/

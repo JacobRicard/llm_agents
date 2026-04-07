@@ -1,7 +1,0 @@
-QUESTION ID: 100
-
-QUESTION:
-Have a manual '87 eta with ~118.5k miles on it, and recently noticed a mid-rear shake when accelerating the car in second and 3rd, around ~1500-2000 rpm, however it stops past 2000 rpm, and its specific to 2nd and 3rd gear. To add, it only really happens when accelerating, and not when decelerating, or revving the engine in neutral, or while slowing down/engine braking. I haven't noticed any loss in power-to-ground transmission or the gearbox itself. I've heard everything from it being a wheel or center driveshaft bearing, to an engine/transmission mount to a clutch. I did see another post that was similar to my issue, which points towards a csb, but it was pretty vague, not to mention old. Any suggestions are helpful!
-
-ANSWER 1 (id: 100_0):
-csb starting to fail is the most likely culprit. it would be prudent to check all of the driveline components and bushings. axles, diff, driveshaft, csb, etc.

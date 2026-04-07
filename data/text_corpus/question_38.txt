@@ -1,4 +1,5 @@
 QUESTION ID: 38
+TOPIC: engine_swap
 
 QUESTION:
 1990 325i, m20 engine.. so how do you get that plug thats underneath the intake manifold off? I've got the injector plugs off, but there is that last plug that I can't seem to figure out how to disconnect from its bracket. The other end of the plug comes off easily(just screw off) but the end that is connected to the injector harness is still connected to a metal bracket which is bolted down. any ideas? i'm trying to get these injectors out to see if they're the cause of my idle problem... thanks!
@@ -10,4 +11,4 @@ ANSWER 2 (id: 38_2):
 thanks! got it, couldn't see that extra ring down there. though I realized that I could have just examined that giant version of the same connector that sits up top by the intake mani.. it comes apart the same way.
 
 ANSWER 3 (id: 38_3):
-Thank you for this thread, you guys saved my salty bacon, when I was trying to replace my fuel injectors the past weekend🙏🙏🙏. After reading the responses I got my injector harness unplugged and untwisted, and it of the way of my fuel rail.
+Thank you for this thread, you guys saved my salty bacon, when I was trying to replace my fuel injectors the past weekend. After reading the responses I got my injector harness unplugged and untwisted, and it of the way of my fuel rail.

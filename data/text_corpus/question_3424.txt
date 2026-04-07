@@ -1,7 +1,0 @@
-QUESTION ID: 3424
-
-QUESTION:
-I thought I'd ask this for shits and giggles... anyone tried one of these HHO Kit system that purports to increase your fuel economy? I've seen some friends post about these in the last couple of days, and I did some quick googling and DuckDuckGoing... and it sounds like a total sham to me. Popular Mechanics, several years ago, seems to agree... http://www.popularmechanics.com/cars/a3499/4276846/ among other naysayers.
-
-ANSWER 1 (id: 3424_1):
-I remember reading about this stuff years ago when it was making rounds on the hypermiler websites, there's still no way these systems are going to decompose water through electrolysis efficiently enough to offset the energy cost of doing so, let alone improve fuel economy enough to pay for the system. Hell you'd be better off with the magnets on your fuel lines or capacitor that plugs into your cigarette lighter outlet, since they're cheaper.

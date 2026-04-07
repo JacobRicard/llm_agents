@@ -1,7 +1,0 @@
-QUESTION ID: 1673
-
-QUESTION:
-Just picked up my first E30 last weekend and was searching for a (detailed) VIN Decoder. I couldn't seem to find an active one on this forum so I wanted to share this with everyone: Here is the link to the thread at E30Performance.info: Decode your BMW VIN including factory option list - E30 Performance http://e30performance.info/viewtopic.php?f=28&t=1671 The instructions seem to have changed a bit since originally posted in 2009 but it still works if you play around with it. Note: At times the site loads in German instead of English...I have no idea why. Here is mine:
-
-ANSWER 1 (id: 1673_1):
-I use this one: http://www.bmwarchive.org/vin/bmw-vin-decoder.html Works great for looking up options on cars at the junkyard before I even bother going.

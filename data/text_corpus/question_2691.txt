@@ -1,7 +1,0 @@
-QUESTION ID: 2691
-
-QUESTION:
-I have a '86 325es with an m50. I need help figuring out what my options are for a 7k cluster. I currently have a 5k VDO cluster without a coding plug. Is there any particular cluster that I need to avoid (like form a 4 cylinder), or will any cluster from any car will work. Thanks for the info.
-
-ANSWER 1 (id: 2691_0):
-From what I know, you will need an early cluster (3 red lights on the SI board) with a coding plug for a 325i. It is likely that you could swap the correct coding plug and a 7k tach into your existing cluster. You could use either a MotoMeter or VDO tach, as long as it came from an early cluster.

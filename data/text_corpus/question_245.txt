@@ -1,7 +1,0 @@
-QUESTION ID: 245
-
-QUESTION:
-I need to replace my front control arm bushings and wanted to purchase some bushings that are already pressed into the wishbone/lollipop brackets. For some reason FCP lists the preassembled bushing/bracket set as incorrect fitment for my 87 325i convertible. The brackets look to be exactly the same for e30 and e36. Am I missing something? Can I use e36 lollipop brackets and e36 control arm bushings on my e30? Just want to make sure it won’t change the geometry or something I’m not thinking of.
-
-ANSWER 1 (id: 245_0):
-The bushing may be a different style, but the bracket should be the same, and has the same part number. Ultimately any bushing/bracket that fits an E36 should fit an E30.

@@ -1,7 +1,0 @@
-QUESTION ID: 203
-
-QUESTION:
-Hi My 1990 325is has a kind of metallic engine noise when it reaches operating temperature. The car runs well, uses no oil and the noise appears only at 1600-1700 RPM when the engine reaches its operating temperature. When it's cold or above 1700 RPM or under 1600 it's quiet. It's quiet on idle as well. Changed oil recently, 15W-40. Mineral oil but high quality SN. Before it ran on a 5W-40 synthetic oil but no change with the thicker oil. The car has high mileage but burns no oil. Timing belt was changed about 3 years ago and it has run about 15000-20000 miles since. Adjusted the valves as per the Bentley manual, 0.25 engine cold a year ago. Any help or ideas with this would be appreciated Thanks Peter
-
-ANSWER 1 (id: 203_1):
-I'll try but I am not quite sure how to do that. A mechanic told me I should try a hot engine valve adjust. With a .30mm gauge. Or .012 inches. As the engine is quiet when cold. Not sure if it makes any difference.

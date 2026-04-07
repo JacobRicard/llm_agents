@@ -1,4 +1,5 @@
 QUESTION ID: 3131
+TOPIC: engine_swap
 
 QUESTION:
 I know this is e36 related but I'm sure some of you have work on e36 before. So I took my e36 m3 to get smog and the computer failed it. It passed everything except two codes for the automatic tranny. The car is no longer an automatic and there are no check engine light on. With an obd2 scanner the codes do show up on the scanner. How can I clear the codes? By the way, my e36 m3 have a m50 manifold w/ the turner adapter kit. Just for future reference if anyone want to know if a m50 manifold on s52/m52 will pass smog or not.

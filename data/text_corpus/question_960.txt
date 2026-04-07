@@ -1,7 +1,0 @@
-QUESTION ID: 960
-
-QUESTION:
-1986 E30 swapped w/ m52 obd1 & ''Racing Pro's chip'' Have been driving with the swap for more than a year now and has ran fine. Although the entire time I have had engine codes indicating DME failure (1211) and o2 sensor. I have swapped the old DME with another one. DME is grounded to body of car and engine is grounded to frame rail, also reset codes yet both engine codes persisted. o2 sensor is new im not too worried about the o2 sensor as it is probably just a vacuum leak, but has anyone here with a swapped e30 dealt with this DME Failure code? not sure what to do next.
-
-ANSWER 1 (id: 960_0):
-Its because the 'tuner' of your chip didn't bother with the checksum calculation which triggers the 1211 code. 1211 is nothing to worry about, but you should figure out the 02 code.

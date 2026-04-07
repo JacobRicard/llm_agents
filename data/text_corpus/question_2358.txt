@@ -1,7 +1,0 @@
-QUESTION ID: 2358
-
-QUESTION:
-X5 M54 3.0I LOOM ISSUES Past 3 months I have been swapping my 1984 e30 323i to the popular 24v M54 3.0l option Swap has been fairly straight foward as there is plenty instructions online about the swap itself but having a hard time finding resources about the loom. I am using the 2001 X5 3.0i Loom that came with the engine and had an early model e30 to x5 m54 loom adapter made up. After a week of troubleshooting I've narrowed it down to not knowing what connects to the translucent connector which looks like a x6011? and whether or not it needs to be connected to anything, doesnt help that every loom is entirely different and everyone is saying conflicting information So any help would be hugely appreciated. Attached Files
-
-ANSWER 1 (id: 2358_1):
-I have both an e30 (or 3) and a 2001 m54 X5 and a Bentley manual with the X5 wiring diagram. Where does the other end of the photo go? I’ll take a look.

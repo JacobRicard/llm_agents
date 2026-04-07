@@ -1,7 +1,0 @@
-QUESTION ID: 1374
-
-QUESTION:
-I am struggling to source the gasket for the 3rd stop lamp that is mounted on the trunk lid. I can't find the part number on realm.com. Any assistance on part number and sourcing would be greatly appreciated
-
-ANSWER 1 (id: 1374_0):
-BMW never sold the gasket by itself. It was sold as one piece with the third brake light. An OEM replacement is available but is around $250. Part number is 63251386147. My suggestion: Measure the width, thickness, and length of the gasket, buy some neoprene on amazon that has adhesive backing and matches the dimmensions you measured. Apply it under the light where the old gasket was, use extra adhesive if you feel it needs it. Call it a day.

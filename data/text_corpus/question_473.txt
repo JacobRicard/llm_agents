@@ -1,7 +1,0 @@
-QUESTION ID: 473
-
-QUESTION:
-Hi R3V, Does removing plastic "trays" inside the kickpanel speaker housings yield more volume and bass? Is it safe to remove? (There is some box or module underneath the driver side tray and the tray doesn't appear to come out without breaking) My passenger side tray is missing and that side Nokia woofer produces noticeably more bass all else equal. Crossovers are GAS, I tested a spare woofer on the driver side to rule out a problem there. Thanks!
-
-ANSWER 1 (id: 473_0):
-Update: I was able to remove the tray without breaking it. You have to push out at least one of the white mounting screw pins. Underneath is the Zeutsteuergerät, interior light delay module. I didn't get better bass response with the tray removed which answers my 1st question. That leaves the crossover. Attached Files

@@ -1,7 +1,0 @@
-QUESTION ID: 12
-
-QUESTION:
-I was cleaning up my AFM and accidentally loosened the clip holding the large black gear in place. It did not move much, but not sure i got it back on the correct cog. Can anyone tell me which setting it needs to be at? Attached Files
-
-ANSWER 1 (id: 12_0):
-Follow this to get it back to factory: How to test E30 Bosch AFM (Bench test) | RTS - Your Total BMW Enthusiast https://www.rtsauto.com/how-to-test-e30-bosch-afm-bench-test/ There is only one correct way to test an E30 AFM, and that's by using an oscilloscope. The most common mode of failure is the wearing of the carbon strip within the AFM. In simple terms, the AFM is one big variable resistor. It takes a +5V supply, and the carbon strip provides variable resistance

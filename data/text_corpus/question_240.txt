@@ -1,7 +1,0 @@
-QUESTION ID: 240
-
-QUESTION:
-Coilovers are too expensive and aftermarket springs are too soft. I found out you can buy a set of bc springs for around 160€. I know i want 10k front and 8k rear spring rates and i know the diameters but i dont know what free length to choose. Can someone measure the free length of H&R race springs? its the length of the spring when its not loaded nor preloaded. I tried calculating with hooke's law and wheelrates but not so sure about that.
-
-ANSWER 1 (id: 240_2):
-8" front Hyperco's and 5" rear. I use sleeves on the front, and shims in back, since the 5" spring is almost perfect as- is, and there's not really room (or need) for a sleeve. t supplier of meaningless data points.

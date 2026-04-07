@@ -1,7 +1,0 @@
-QUESTION ID: 2033
-
-QUESTION:
-I removed the lower center console and this blue wire was not connected to anything. Anyone know where it goes? I’m not finding it in the Bentley manual yet. Attached Files
-
-ANSWER 1 (id: 2033_3):
-you are missing that plunger (above post) that goes into that gray metal bracket hole at the end of the handbrake lever. that blue wire gets inserted in that plunger and gets grounded when the hand brake is pulled up

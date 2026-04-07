@@ -1,7 +1,0 @@
-QUESTION ID: 933
-
-QUESTION:
-I had built this car 5 years ago and put a lot of miles on it since with almost no problems to speak of, however the clutch is clearly on its last legs and I really need to change it out. When I built it I did everything on the bench and installed the motor and trans together. I really don't want to pull it all out to get the tranny off. Someone here must have done it in the past with the motor in the car. I know there are usually many ways to do the same job so I am looking for any and all suggestions. The head is really close to the firewall so I'm not sure how much tilt I can get to get that top bolt. FYI the car is a 91 formerly M42 motor and I am using the G240 Gearbox. Thanks, Seth
-
-ANSWER 1 (id: 933_0):
-To access the top mating bolts, you'll have to loosen the engine mounts, and with your jack supporting the tail of trans, lower the drivetrain at the prop shaft end. This is hard on the engine mounts, so if you are using M5 factory mounts, be prepared for a shorter lifespan from them. you do get some support from the front sway bar. I use several 3/8 drive wobbly extensions, and torx socket, but drive them with a long handled 1/2'' drive flex ratchet with a 1/2" to 3/8" reduction adapter. For some reason, both my s52/320 drivetrains require a lot of force to separate/ connect, so I prefer to pull the radiator and drivetrains. With the engine installed, access to the starter bolts after gearbox reconnection is an absolute bear, so make sure that the locating nub for the starter does not bind. m

@@ -1,7 +1,0 @@
-QUESTION ID: 2043
-
-QUESTION:
-Hi, I wonder if someone can recommend a good place where I can connect my turbo water cooling in and out line to the cooling system. Perhaps if you have some pics. I also have a E34 radiator which has a extra output under expansion tank to auxiliary pump. M20 radiator doesn't have this. Where is the best to connect this or should I just blank it off. Cheers
-
-ANSWER 1 (id: 2043_1):
-I've always used the throttle body coolant lines as well, basically deleting the throttle body heater. No issues to speak of, although I don't have anything to compare to.

@@ -1,7 +1,0 @@
-QUESTION ID: 842
-
-QUESTION:
-Working on creating this wiring diagram for us pre '85 folk. If anyone who has already done this swap would be willing to cross reference me and let me know if anything is incorrect that would be fantastic. This is for people who want to retain their C101 and transfer their 24v harness to the rectangular connector. Everything I grabbed from was linked to other R3V threads, just trying to consolidate the info into one place. This is a full conversion chart -- https://docs.google.com/spreadsheets...it?usp=sharing
-
-ANSWER 1 (id: 842_1):
-Originally posted by Mr Mpower Wow really nice work in my opinion but unable to see some points because the quality of the forum, can you upload in any good resource ? Sure, here is a better view of it. This is a full conversion chart -- https://docs.google.com/spreadsheets...it?usp=sharing

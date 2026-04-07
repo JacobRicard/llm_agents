@@ -1,7 +1,0 @@
-QUESTION ID: 1803
-
-QUESTION:
-Hello all. I have a 1990 325i that’s missing at idle and sometime under load. But not always. I replaced the plugs, wires, distributor, rotor, coil, injectors, fpr, vacuum lines, and fuel filter. I’m not sure what’s next to check. Any advice and help would be appreciated
-
-ANSWER 1 (id: 1803_1):
-Check the connector under the intake. It's for the fuel injector harness and coolant temp sensors.. Sometimes you'll find some corrosion or loose pins..

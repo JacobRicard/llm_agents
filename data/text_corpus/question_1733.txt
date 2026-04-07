@@ -1,7 +1,0 @@
-QUESTION ID: 1733
-
-QUESTION:
-I have a 1993 325IC, and whenever I visit an auto parts store, their system identifies my car as an E36 model. To obtain the correct parts, I have to ask them to change it to 1992. Interestingly, when I searched for '1993 BMW 325IC' online, E36 also appeared in the search results. Does anyone have an idea why this might be happening?
-
-ANSWER 1 (id: 1733_1):
-I had a 1993 e30 325i convertible for a short while and ran into this as well. Most of the chain auto parts stores show the e30 as 1984-1991 in their systems because 1992 was the first year of the e36 being sold in the US, so they usually don't account for the staggered generation change between the body styles. For an m20 car like that I usually plug in 1990 or 1991 when dealing with chain auto parts stores to keep things simple.

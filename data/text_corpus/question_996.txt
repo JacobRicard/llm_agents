@@ -1,4 +1,5 @@
 QUESTION ID: 996
+TOPIC: clutch_replacement
 
 QUESTION:
 I have a 1991 318is e30 that I would like to swap an m50 into. It comes with a ZF transmission out of a m3. I kinda don't want to use any of the g240 stuff because its weak. It also comes with a giubo adapter. -First question is with a m50 and ZF and the giubo adpator, can I run my stock e30 driveshaft? Do I need different tranny mounts? Do I need to mess with my shifter linkage to make it straight? *Also, I need to get the bellhousing for the ZF, and instead might buy this complete getrag 260 tranny and block I found for cheap. If I do that, will all the m20 stuff bolt up to the m50? -My second question is what flywheel, clutch, slave cly, and starter should I get? Will m20 or m42 stuff work? Or should I go all e36 stuff? Money IS AN issue. -Third question is can I use my stock m42 clutch fan, or should I go electric? -Last question is will my stock m42 o2 sensor work with the m50, or does it need to be messed with? Thanks! Any other advice on doing this swap is DEEPLY appreciated.

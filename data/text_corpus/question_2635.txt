@@ -1,7 +1,0 @@
-QUESTION ID: 2635
-
-QUESTION:
-I have a 1991 325i and am just about done with a manual swap. The transmission is out of a 87 325i and linkage likewise. Last night I put the interior back together and in 1st,3rd, and 5th but mainly 3rd gear the shifter hits the console. If you barely push the lever into 3rd it wont hit the console but if you put any force behind the shift motion then the lever hits the console. This is also without the boot inserted yet. I have checked all that I can think of. Bushings had recently been replaced before in the donor car. And when in gear there's not very much slop and reverse does not hit the console so I dont think its the bushings. The only thing I can think of next is the "sheet metal" carrier bushing. Any ideas on what could cause the shifter to sit more forward in the opening than usual?
-
-ANSWER 1 (id: 2635_1):
-I installed my shift selector (z3) backwards but it doesn't touch the console (too lazy to fix it haha). Make sure the right side of the console sits flush against the dash... But it looks like you'll need to disconnect the linkage from the bottom and flip the selector 180 degrees. It'll be a pain but I'm pretty sure you won't have to disconnect the driveshaft. Good luck!

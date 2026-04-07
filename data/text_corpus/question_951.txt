@@ -1,7 +1,0 @@
-QUESTION ID: 951
-
-QUESTION:
-I've done my fair share of searching and I still have a lot of questions. I can find plenty of information about M50 swaps for e30's but I haven't been able to find a solid answer for the wiring side of the swap. (I have an 85 manual ETA) Also I don't need to go away from the 5 speed manual that is already in my car correct? Sorry in advance for my noobness. Thanks for your time.
-
-ANSWER 1 (id: 951_0):
-Originally posted by Kalimari I've done my fair share of searching and I still have a lot of questions. I can find plenty of information about M50 swaps for e30's but I haven't been able to find a solid answer for the wiring side of the swap. (I have an 85 manual ETA) Also I don't need to go away from the 5 speed manual that is already in my car correct? Sorry in advance for my noobness. Thanks for your time. The wiring isn't hard, just look up a wiring diagram for the M50, and a wiring diagram for your ETA, compare the two and wire away. You can keep the Getrag tranny if you wish, but I would recommend getting a ZF, they're stronger and in my opinion they just feel better. That being said, if you go ZF, you'll need to get a 98 328 driveshaft/guibo. My m50 swap I kept the getrag, now my new m52 turbo swap I went the zf route.

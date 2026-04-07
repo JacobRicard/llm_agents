@@ -1,10 +1,11 @@
 QUESTION ID: 1810
+TOPIC: cooling_system
 
 QUESTION:
 My early model 318i M10 radiator has some cracks, I'm planning to repair it but I know its gonna be soon until something else leaks again. So I've been searching for OE replacements and all brands seem to be NLA Radiator, Nissens - BMW E30 318i M10 Coupe/Sedan (1984-1985) https://www.bimmerworld.com/Cooling/Radiators/OEM-Radiator-E30-318i-84-85-Standard.html Direct replacement radiator with cap . Replaces BMW part #17111709336 Are there radiators from other e30 specs that could fit into the 318i m10 without major modifications? BMW E30 318i, E36 318i, Z3 1.9 (M42/M44) OEM Behr Radiator https://www.bimmerworld.com/Cooling/Radiators/E30-318i-E36-318i-Z3-19-M42-M44-OEM-Behr-Radiator-BMW-17111728907.html Direct replacement main cooling radiator from the original source. Replaces BMW part #17111728907 This one is for the late model 318i but I don't have a clue if I can fit it on mine. Thank you.
 
 ANSWER 1 (id: 1810_0):
-The top one is correct for a 85-85 318i. The bottom example is for the later 318i with the M42 engine. There are all aluminum radiators for the early 318i on ebay. Can’t vouch for them but their appearance is correct and the price very reasonable.
+The top one is correct for a 85-85 318i. The bottom example is for the later 318i with the M42 engine. There are all aluminum radiators for the early 318i on ebay. Cant vouch for them but their appearance is correct and the price very reasonable.
 
 ANSWER 2 (id: 1810_1):
 I would try to find a direct replacement. I have used an old school Volvo 240 series cross-flow, but you have to mount a reservoir. Check out E21 dimensions, though I have no experience with that one.

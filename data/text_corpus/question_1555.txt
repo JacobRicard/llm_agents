@@ -1,7 +1,0 @@
-QUESTION ID: 1555
-
-QUESTION:
-I’ve got a ‘91, four door, five speed iX noticed after turning my car on that it’s hard to put the car in gear. When I go to push the shifter into first there’s a lot of resistance and it feels like if I push any harder I might break it. Putting it into 5th is a little easier and then I can usually then shift down the gears and get into 1st. With the engine off I can shift through all the gears no problem and it feels great. Also while driving there has been no grinding noises or anything while shifting. anyone know what could be causing this? Is it the shift linkage? Do I need to change the transmission oil?
-
-ANSWER 1 (id: 1555_0):
-could be any number of things. bad clutch master/slave cylinder, bad shifter bushings, worn out pressure plate/fork/throwout bearing. I mean, if it's a 1991 and it's potentially all original - it might be time to replace some of that stuff, obviously starting with what's easiest to access. The trans can definitely wear over time but the Getrag is pretty stout. Mine has well north of 300k, and while it's a little notchy sometimes, it still shifts just fine.

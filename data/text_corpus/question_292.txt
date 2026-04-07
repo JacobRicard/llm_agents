@@ -1,7 +1,0 @@
-QUESTION ID: 292
-
-QUESTION:
-So last night, i was on real oem all night trying to compile a list of parts that i will need in order to refresh the suspension that is overdue for replacement. I am starting to think of sourcing a set of Mtech IX springs in conjuction with Bilstein HDs since i want to keep it at roughly the same height. The question is this. On real oem they have a couple of options. they have the "guide support" for the top mount for the front shocks, one listed as normal, part no. 31331701167, and the other as "guide support camber correction +30 MIN", part no. 31331701168. Also for the front they have listed Spring pad lower 3mm part no. 31331124322, and another listed as "only applies to coil spring red spring pad upper 9mm" part no. 31331128522 what is the meaning of all this, and which would be the better way to go in this situation. let me know guys, i'd appreciate an answer since im not familiar myself. joe.
-
-ANSWER 1 (id: 292_0):
-the camber correction mounts give you *positive* camber, about .5 degrees. you cannot switch them around to get negative camber.. the spring pads are really up to you, you can mix and match them if you like. I'm not sure taller pads will really make any difference in the height of the car (since the spring has to be compressed to fit in the assembly, it's realy the strut insert that determines the height). but they will probably decrease your suspension travel some.

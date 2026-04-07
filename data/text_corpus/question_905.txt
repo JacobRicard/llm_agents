@@ -1,7 +1,0 @@
-QUESTION ID: 905
-
-QUESTION:
-Ok so i have recently performed an s52 swap on my 91 318is. Everything went smooth until i let the car warm up. I'm tuning the car using open source so when i let my car warm up i was watching all the perimeters on my computer and realized once the o2 started to perform corrections bank one was pulling out 4-6% of fuel which i believe is fine since the injectors are slightly bigger then stock. Now bank 2 is pegging the computers limit adding 28% of fuel. Now onto diagnosing the issue: Start by attacking the easy thing first which was o2 sensors. So i swap the sensor(This is all in regards to pre cat) from bank 1 to bank 2 and the issue followed the sensor from bank 2 and now tells me bank 1 is pegging 28%. Pretty simple go buy a bosch o2 sensor replace bank 2 sensor and same thing is happening. Then i started to read up and saw that some bosch sensors don't work with the siemens ecu so i went and got a ntk sensor and the same thing is happening... Whats the possibility of getting 2 bad o2 sensors? do i have to drive the car to get the o2 to start reading properly? please any advise may help.
-
-ANSWER 1 (id: 905_0):
-I would drive it. If you have something goofy like an open/leaking brake booster line, that'll affect trims/fueling a lot less under load. And then see what happens. Idle is only one of many driving conditions... Are you sure banks 1 and 2 aren't swapped? all I got. t

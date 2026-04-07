@@ -1,7 +1,0 @@
-QUESTION ID: 2839
-
-QUESTION:
-Hello, I was wondering if anyone know if there is one for our cars? I have one for my 1975 2002tii and I love the functionality of controlling the curve/revlimiters and also anti theft option. I am having trouble finding one for E30's, has anyone had any luck? Thank you in advance. I have provide a link to what my 02 has. Unfortunately the company does not provide one for M20's. BMW with 4 cyl. M10 engines (TUNE+ 4-R-V-BMW) Bluetooth (Suitable for use with Kugelfischer Injection) http://123ignitionusa.com/bmw-with-4-cyl-m10-engines-tune-4-r-v-bmw-bluetooth-suitable-for-use-with-kugelfischer-injection/ Your US Distributor of electronic ignition distributors for classic cars 123ignition
-
-ANSWER 1 (id: 2839_0):
-our distributors don't work that way. we have computers that control all that stuff like modern cars do - all the distributor does is change which cylinder in the cycle gets a spark, it has nothing to do with ignition advance or the rev limiter.

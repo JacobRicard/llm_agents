@@ -1,4 +1,5 @@
 QUESTION ID: 700
+TOPIC: speaker_upgrade
 
 QUESTION:
 My Violet 316i Touring arrived yesterday, YEA. Central locking is out cold meaning that I cannot open the passenger door nor the rear doors, even from the inside, BOO. I only have a German language manual so I cannot tell if there is a setting that is preventing it from working (I have read about "Valet mode" and "Arrest mode" that may have an impact, but I don't know how to activate or deactivate them). Also, I see that there are known issues with the relay in the driver's kick panel behind the speaker and the red-black wires in the same place. I did not see a discussion of this issue, forgive me if I am missing the obvious. Are there things I should try before taking everything apart? Other than that, I disassembled the cluster and replaced the odo gears, oil change tomorrow followed by a first drive! I will post pictures on the Touring pages asap.

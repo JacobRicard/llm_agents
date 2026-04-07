@@ -1,7 +1,0 @@
-QUESTION ID: 1534
-
-QUESTION:
-Sorry if this if this question has been asked but couldn’t find it in here but I did some suspension work on my 90 iX put some H&R springs and koni shocks and right after axles started making noise. Before that work there was no noise, could it over been cause of the new suspension? Or is there something I can do, new sway bars? Any help is helpful!
-
-ANSWER 1 (id: 1534_0):
-Worn axles are amplified when lowered. Jack one side of the rear up (and lock the parking brake is it's open diff), then rotate the tire that's in the air back-and-forth. You should only have a few degrees of rotation, if it's closer to 15° on either side, the CV is worn.

@@ -1,7 +1,0 @@
-QUESTION ID: 410
-
-QUESTION:
-I’m sure there’s a ton of writing on wheel setups, but havnt found anything on my situation. I bought a set of BBS RS wheels from OZRIMS.com. The guy is awesome and set me up with a set of 16x8.5 rears and 16x7 fronts. I need to find tires with small stretch and a meaty type of fitment. I was thinking 215/45r16 and 205/50r16 for the fronts I want to lower the car and possibly roll and pull the fender VERY little. I’m looking for the same sidewall height and the same stretch on both, essentially just enough to clear the fenders. If there’s already something on these sizes please link them. Thanks guys. Attached Files
-
-ANSWER 1 (id: 410_0):
-Use the tool at https://www.willtheyfit.com/ to compare stock setup to different tire options. If you measure clearance on stock, you should have an idea of clearance with the new wheel.

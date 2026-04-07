@@ -1,7 +1,0 @@
-QUESTION ID: 3
-
-QUESTION:
-Pulled off the steering linkage (airbag Car) to replace the guibo and do a steering rack upgrade. I noticed that some of the rubber on the U joint disintegrated and I’m wondering if I can use this joint or if I’ll need to get a new steering linkage. Any thoughts?
-
-ANSWER 1 (id: 3_1):
-I mean the actual cv/u joint inside the steering knuckle. There seems to be some rubber that has degraded in it that might hold in grease? It’s super rusty so wondering if I can just clean it up and throw lithium grease on it.

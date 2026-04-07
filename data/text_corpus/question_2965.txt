@@ -1,7 +1,0 @@
-QUESTION ID: 2965
-
-QUESTION:
-so when i go to start my car on a cold start, it will rev up once and die. with gas it will start and warm up fine. after driving and shutting off the car, it will require alittle bit of throttle to start. i have recently replaced both fuel pumps and the relay just as they have gone bad over the years. any info will help as this isnt a major issue but i would love for it to be fixed
-
-ANSWER 1 (id: 2965_0):
-Welcome to the forum. Try replacing the idle control valve or cleaning it well with carb cleaner. Also, look for leaks in your intake manifold. Likely cracks in the rubber intake boot.

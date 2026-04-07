@@ -1,7 +1,8 @@
 QUESTION ID: 1025
+TOPIC: suspension_upgrade
 
 QUESTION:
-Hello everyone, I am considering upgrading the suspension on my E30 M3 to improve handling and ride quality. I have researched some information and manuals but would love to hear your experiences and recommendations. Do you find the brands good and durable on the track? Do you have any tips on installation or adjustments after the upgrade? Hope everyone's opinions help me upgrade my car! Thanks you,​
+Hello everyone, I am considering upgrading the suspension on my E30 M3 to improve handling and ride quality. I have researched some information and manuals but would love to hear your experiences and recommendations. Do you find the brands good and durable on the track? Do you have any tips on installation or adjustments after the upgrade? Hope everyone's opinions help me upgrade my car! Thanks you,
 
 ANSWER 1 (id: 1025_0):
 I had H&R Race springs + Bilstein sports for a while and while good on the track it was very harsh on the street and I'd say that Austin, TX has pretty decent roads. Last year I switched to MCS 2WNR working with Bimmerworld and this setup is both much better on the track but also more comfortable on the street by backing out the compression a few clicks. It is also much more expensive. In general install is just like any other E30 with the exception that the front strut tubes are crazy expensive, maybe pop on over to s14.net for more M3 eyes on this topic? A couple of manufacturers have started offering M3 coilovers without having to molest a set of strut tubes. The KW setup I believe will fit stock 15" wheels. The Ground Control offering I believe with their bump steer decisions do not play nice with 15" wheels.

@@ -1,7 +1,0 @@
-QUESTION ID: 853
-
-QUESTION:
-Hi guys, I just finished swapping my 1990 sedan from a 4 cyl M40B18 to M52B28 combined with E36 Getrag gearbox (off of a 323i I think). I noticed that the car tilts the the right a bit. When I measured it from a level ground to the top of the front arch, the difference is around 1 cm (right side being lower). Current suspension setup right now is Eibach spring (for 6 cyl E30) with Bilstein B4 shocks. Does anyone have the same problem as me? Thanks Sent from my SM-T875 using Tapatalk
-
-ANSWER 1 (id: 853_1):
-I seem to have the same problem... but to the drivers side, I found that my rear driver side subframe bushing has a lo of play when I put it up, may want to check that out

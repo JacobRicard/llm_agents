@@ -1,7 +1,0 @@
-QUESTION ID: 1187
-
-QUESTION:
-So I cut some zip ties that PO had on these vac lines and then saw why he had them there. The metal end of the vacuum line that runs from the brake vacuum servo comes loose very easily. There isn't anything holding the end of the line down, so I can pull it off with no resistance. Is there supposed to be a rubber grommet or something in there between the metal end and the intake manifold keeping it in place? My issue is that I'm not finding this part on any of the parts websites looking under brakes OR intake. Anyone have any guidance? Sent from my iPhone using Tapatalk
-
-ANSWER 1 (id: 1187_0):
-its is just a vacuum elbow that is part of the throttle body so wont be available seperately which is why you can find it . it is just a press fit and over time with heat cycles has worked loose ,remove it clean it and apply green loctite (for sleeve/press fit) to it and re-install you should not have an issue again , while your at it check the fitting on the end of the plenum as it will do the same thing and come out when you least expect it causing a big vacuum leak/rough running.

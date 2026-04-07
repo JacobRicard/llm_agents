@@ -1,7 +1,0 @@
-QUESTION ID: 526
-
-QUESTION:
-Hi there, upon further searching around under my dash I found this black box thing packed around foam up above a type of bracket space above where my ECU goes...
-
-ANSWER 1 (id: 526_2):
-If it no longer works, go ahead. If you're starter cranks but engine doesn't start then it's not the alarm. All alarms to my knowledge only disable the ignition switch so if you turn the key and nothing happens then look for a starter kill relay under the column and bypass it. If the engine is cranking and just not starting then you have another issue, like faulty OBC (if you have one) relay box.

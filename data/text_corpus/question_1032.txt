@@ -1,7 +1,0 @@
-QUESTION ID: 1032
-
-QUESTION:
-I’m looking for wasted spark info on s14 or s38. I been researching for a while. Most coil packs are custom to fit. I would appreciate any links or leads.
-
-ANSWER 1 (id: 1032_0):
-There’s not much to a wasted spark system in terms of setup, so long you have all the required components; coils, spark drivers (quadspark or diy), and stand-alone ecu. It’s pretty universal so long you have a standalone ecu. If you want to mount coils, you’ll need to make your own brackets.

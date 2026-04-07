@@ -1,7 +1,0 @@
-QUESTION ID: 1836
-
-QUESTION:
-So i bought my e30 for $200, given the price it was and still is missing a great many things. Im currently trying to figure out how the positive cable wiring works, i know some e30s have a terminal block but mine doesnt have one, i was told that the positive battery cable comes straight from the fuse box. Can anyone help me out with more information? Are the 2 wires below both meant to be connected to the battery itself or do I need to swap them out for a single cable?
-
-ANSWER 1 (id: 1836_0):
-did you try looking at the etm for the routing ? verts have the battery up front in that tray and do not have a power block at that location. to trace wiring and components download the appropriate etm for your car and year. there are vert specific manuals. Index of /Manuals/BMW (wedophones.com)​

@@ -1,7 +1,0 @@
-QUESTION ID: 2115
-
-QUESTION:
-AC blows very cold air while driving and accelerating but only blows air but not cold air while idling. Any ideas?
-
-ANSWER 1 (id: 2115_1):
-If it's blowing cold while driving and not cold when idling, my guess is the aux fan is not coming on. Could be a few reasons, start from the simple ones. Check the aux fan fuse is not blown, or the wiring itself, is there voltage? You can short the low temp or high temp wires in the radiator to see if the fan will come on at all. If all that is doing good, then I guess the AC circuit is the next one. In the wiring diagram the aux fan signal goes from the evaporator temp switch to the relay. I would suggest you start looking behind the relay, there should be a black/white wire going to the low speed relay command circuit on the 86 terminal. Hope that helps.

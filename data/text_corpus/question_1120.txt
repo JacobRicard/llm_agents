@@ -1,7 +1,0 @@
-QUESTION ID: 1120
-
-QUESTION:
-hi guys I have an issue with the sunroof motor, it only opens it doen´t closes the sun roof, I tested using different switches and motors and the relay as well, you guys have any suggestions for this type of matter It looks like the motor is not changing polarity I LL APRECIATE YOUR HELP
-
-ANSWER 1 (id: 1120_0):
-can you close it manually with the hand crank allen ? so its not bound/locked up... does relay click when switch is pushed for "close " position ,will motor work both directions if you jumper ground and 12v to it ? Attached Files

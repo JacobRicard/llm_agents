@@ -1,7 +1,0 @@
-QUESTION ID: 2427
-
-QUESTION:
-Afternoon! Trying to find my original thread regarding this problem, but looking for some advice. Problem: The brake lights on my coupe are constantly on. When turning on the ignition, the "brake" warning on the dash does not light up as it should. Attempts to Fix: I checked fuses and replaced any to be safe. I then went to the brake light switch in the brake pedal which I'd replaced in the last year or so and unplugged the connector. I plugged it into a new replacement switch to see if that was the problem and it did not correct. One thing I did notice was that when I unplugged the connector and started the car, the "brake" warning lights up in the dash, BUT, the brake lights don't illuminate when the brake pedal is applied. So it's either brake lights are constantly on or no brake lights. Any ideas what to look for next?
-
-ANSWER 1 (id: 2427_0):
-E30 cars are well known to develop shorts in the wiring harness near the center console and trunk bulkhead. I would pull the connector from the brake light circuit, find the brake light wire and trace it down to the switch. Be sure the switch is showing correct operation and not constantly switched on. The check panel does not come one because it thinks your foot is on the pedal always.

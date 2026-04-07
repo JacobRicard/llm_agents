@@ -1,7 +1,0 @@
-QUESTION ID: 1143
-
-QUESTION:
-Hi Guys Please could you help identify, pistons, cams and crank in the pictures below. Motor was built a some 10 to 12 years ago and never used. Regards Elton Sent from my iPhone using Tapatalk
-
-ANSWER 1 (id: 1143_1):
-So I've found out it's a Turner Motorsport 2.5L stoker kit, thankfully I opened the ECU and saw the turner chip. Now just to find out if cams are EVO III, valves are larger and valve springs are MS springs Sent from my iPhone using Tapatalk

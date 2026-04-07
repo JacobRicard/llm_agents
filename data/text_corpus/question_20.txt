@@ -1,7 +1,0 @@
-QUESTION ID: 20
-
-QUESTION:
-Hello, I just bought my first car the other day, a 1990 E30 318is. As expected for a first car, it has its share of problems, like small dents and cosmetic issues. The engine was swapped with a later E36 engine due to a previous idling problem. Now, the engine has a rough idle when it's cold, and if I don't gently warm it up, it tends to stall. A quick search online suggested that the throttle body might be the culprit, but my mechanical skills are quite limited. Has anyone experienced this issue? Any advice on what it could be?
-
-ANSWER 1 (id: 20_0):
-Welcome! I'll be the first to say that it's exceedingly unlikely to be the throttle body itself. Air leaks are the 2nd thing to look for, after you check your plugs and wires. Then the idle air motor's worth checking, to make sure it's not sticking. It's probably not, but worth checking. Then just go through the usual 'rough running' list, from fuel pressure to clogged or leaking injectors. What you're likely to find is that it may be a combination of several things that stack up. Oh- if your engine has been swapped, it's worth making sure that you have the right injectors for your DME. t notabot.

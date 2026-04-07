@@ -1,4 +1,5 @@
 QUESTION ID: 3019
+TOPIC: cooling_system
 
 QUESTION:
 So we all know the E30's heating system has some weak links. Heater valve, heater core, etc. So, I'm putting my M3 back together and order this... and i get this... Different color plastic, obviously, aluminum lines inside, with some plastic spiral thingies running through them - maybe to improve fluid dynamics or something? The old ones didnt have these Then, the old heater control valve seems to be NLA Then this guy shows up So whats the deal? Did BMW re-engineer a 30 year old heating system? [EDIT: Noticed its not a new part - ECS pics dated 2015, but the old version going NLA is new to me] I'm wondering if I use the new heater control valve, if i might be able to get away with not doing the inline thermostat fix. It was only introduced because the heater control valve would fail and leak onto the driver's foot.

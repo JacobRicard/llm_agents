@@ -1,7 +1,0 @@
-QUESTION ID: 2400
-
-QUESTION:
-Looking to replace the gasket on the front bumper turn signal on my 90. Came up with this part# 63131370397 on realoem. However when I see it in ECS tuning or anywhere else its showing to be a round circular REALOEM ECS gasket as opposed to a rectangular one fitting the turn signal lamp. Can someone confirm if I have the correct part#?
-
-ANSWER 1 (id: 2400_1):
-Don't know for sure, but a round gasket could fit around a rectangle. Besides, if it's the wrong thin g you could just tell the vendor and they should refund/replace it. That said, $14 for a gasket is stupid, and I would measure the perimeter, make an educated guess about gasket height needed and order a generic o ring.

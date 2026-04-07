@@ -1,7 +1,0 @@
-QUESTION ID: 846
-
-QUESTION:
-Hello I recently bought camshaft for my e30 with m50b25 non vanos with part number 1301109. The cam is made from billet steel can I install this cam with stock hydrolic followers.. .I'm afraid that steel camshaft will damage hydrolic follower and cause premature wear to the camshaft. I have heard that steel camshaft should be used with dlc coated lifters to prevent premature wear. they recommend use of oem hydraulic follow any previous experience with catcams made of billet steel ? thank you
-
-ANSWER 1 (id: 846_0):
-Nothing special here. Use new lifters from BMW if you're going to run it hard. Get INI ones if you're going to put around. Size out the lifters that your motor has, big or smaller diameter. Can cam designates hydraulic followers because they do also have a solid lifter setup. You really though need upgraded valve spring and retainer kit, supertech makes a nice kit. What other mods do you have?

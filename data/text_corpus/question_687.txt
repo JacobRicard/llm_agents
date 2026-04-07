@@ -1,7 +1,0 @@
-QUESTION ID: 687
-
-QUESTION:
-This is for a 1991 318i (e30). The (Motometer) speedo, odometer and fuel economy (km/l) gauges are functioning intermittently. They all either work together or not. A local shop has replaced the differential sensor, and (apparently??) tested that it is providing signals and ground at the cluster plug end. What is the likely problem? I understand (??) that a gear failure would not effect the speedo, just the odometer alone. Does this indicate the problem is either a faulty solder connection and/or component failure(s) somewhere in the cluster? If yes, can someone recommend a reliable and fair cost shop to rebuild the cluster or purchase a refurbished cluster from? Another question is whether there are retro gauges, likely digital, that are designed to replace the various gauges in the e30 cluster with updated technology? Thank you! Brian Vancouver, Canada Re; speedometer; e30; instrument cluster; odometer
-
-ANSWER 1 (id: 687_0):
-Intermittent failures where everything dies could be many things, but I would start by looking at the solder joints. It's relatively simple to remove the cluster, remove the face, and then remove the spedo. At that point, any soldering iron could be used to heat up and re-flow the solder joints. In my case, I could see a broken solder joint that occasionally made contact. Once reflowed, I regained full function of the cluster. Try taking it apart by yourself and see what you find!

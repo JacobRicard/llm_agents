@@ -1,7 +1,0 @@
-QUESTION ID: 2833
-
-QUESTION:
-So I pulled a Getrag 260 trans from a Pull-a-part to do a 5 speed swap in my 2002. Unfortunately it grinds when going into 4th so I pulled it out and took it to my local transmission shop. They are having a hard time finding replacement parts. Anyone know of a good place to source shift gears, bearings, synchronizers etc?
-
-ANSWER 1 (id: 2833_0):
-Realoem is your friend. This is just one diagram and parts list from the Getrag 260. There are more parts listed in other diagrams. Go to a parts house like ECS, Blunttech, etc. and search for the desired part using the part number you found on RealOem. Parts are expensive, however. https://www.realoem.com/bmw/enUS/sho...diagId=23_0145

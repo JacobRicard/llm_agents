@@ -1,7 +1,0 @@
-QUESTION ID: 568
-
-QUESTION:
-Hi, Sorry to be the newb to ask these kinds of questions, but I have done my searching and reading before posting this and I just want to cut to the chase PLEASE, if you can help me out. I believe I have the CM5907 HU and I cant for the life of me figure out or find a clear identification of the Wires I have coming out of this thing. Can anyone just give me a brief Breakdown on what they are? I think I have a few of them: A:? B: Purple/gray -Power IN 12v fuse12? C:Brown/black - Ground D:? E:Blue - to fader control for Right channels? F:? G:? Which are which? BOTH A and F appear white - Whites on the diagrams ive looked at seem to be for one to power antenna and one to the light switch? BOTH D and G look yellow - Yellows look like they're for Left channel fader control and one to always HOT? My HU powers up and asks for security code, which i got directly from my bmw dealer, but it does not turn on after i punch my code in. I will likely just get an after market HU and rewire a complete system, but IDK.
-
-ANSWER 1 (id: 568_1):
-Originally posted by cory58 Some people say this is helpful. https://www.the12volt.com/installbay...yeard/BMW.html Thanks Cory and that looks like a good resource, but it didnt help.

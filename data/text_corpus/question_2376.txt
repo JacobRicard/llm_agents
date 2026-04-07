@@ -1,7 +1,0 @@
-QUESTION ID: 2376
-
-QUESTION:
-Can you please help me id those wires. Bought somebody elses project and cant id them. He had the ac system removed and i bought ac compressor and condenser from pre face lift. How can i wire that up to my face lift? Tia
-
-ANSWER 1 (id: 2376_0):
-The three together are probably for the fan switch in the radiator, the white 90 degree is probably the washer fluid pump, and the last ones are probably the dealer implemented R12 to R134 pressure switch conversion.

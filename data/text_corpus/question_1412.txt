@@ -1,7 +1,0 @@
-QUESTION ID: 1412
-
-QUESTION:
-i'd really appreciate it if someone would hit me back with a part number for the factory interior timer/delay module (the courtesy light adjacent to the overhead check panel) for a '92 cabrio ... my delay worked until a couple of weeks ago & i'd like to get it working again ... thanks
-
-ANSWER 1 (id: 1412_1):
-The relay sits beside the lock control module in the driver's kick panel on my 1992 vert. Realoem indicates 61311373974. Control unit for interior light. You might want to pull yours to double-check if it is indeed the relay and the part number. Sent from my Pixel XL using Tapatalk

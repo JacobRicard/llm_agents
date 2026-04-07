@@ -1,7 +1,0 @@
-QUESTION ID: 147
-
-QUESTION:
-Bit of a weird one here, I have a 85 E car square plug, converting to a round c101 for an m30 swap. still going To use the m20 harness, but using a late model m20 engine harness (c191). Question, is a about a bit of clarification on the early Unloader relay wiring. The new round chassis side had no pin 15 "unloader circuit", so I'm assuming its an early model 1.3 plug (donor plug unknown car) but the old square plug does on pin 15, since I have a good bit of unused contacts, I was just going to transfer a contact over to 15 and wire them both up. safe to assume it should function correctly?
-
-ANSWER 1 (id: 147_0):
-and digging in the ETM the Unloader looks to ground through the Widings Via 18 Start wire on the 87 drawing, and through Pin 8 (start wire) on the 85.. I used e30 zone as a quick refrence when i did the connector swap. but in cant find this pin 15 they claim to be the unloader wire anywhere in the ETM.

@@ -1,7 +1,0 @@
-QUESTION ID: 139
-
-QUESTION:
-Hi all, I have a 1987 325is and I am attempting to replace the driver seat. I bought sport seats from a convertible (don’t know the year) and while the design of them is slightly different, they seems to bolt in ok. The problem I am having is that one seat rail will not engage and lock, it’s the same for the passenger and drive seats and it’s always the rail opposite of the handle. They seem to lock fine when not installed, but when I install them and go to move the seat, the one side won’t lock. Has anyone experienced this? I don’t see an easy way to disassemble the rail and the spare rails are a different design that don’t quite fit on the seat right. When I installed the other rails they would not fit the bolt pattern in the car. Happy to post photos if it helps!
-
-ANSWER 1 (id: 139_0):
-Look up part # 52101906587 on realoem. That's what moves the release on the opposite side from the handle. Is that piece missing, bent or not releasing/locking the rail when the handle is activated and released? ​

@@ -1,7 +1,0 @@
-QUESTION ID: 2428
-
-QUESTION:
-These are original factory service cd's from very early to 2001 all model bmws,even motorcycles.Have them loaded onto my laptop and can open them up but need help in navigating through them to find exactly what I'm looking for.Can anyone help me out please?
-
-ANSWER 1 (id: 2428_1):
-Dropbox https://www.dropbox.com/sh/s560mp1bi9oofxx/AABdd9tJHvun8s2wEeoWZsU_a Everything is very-very easy:Unscrew a part using the special tool N1 Unscrew the next part using the special tool N2 Test the thing using the special tool N3. Install back using the special tool N4.

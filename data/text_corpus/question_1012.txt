@@ -1,7 +1,0 @@
-QUESTION ID: 1012
-
-QUESTION:
-Hey guys, I've got an e30 m3 with an odb1 s52 swap. The car sat for 10 years with the swap in the last owners driveway and I've been going through the car for the last two years clearing every code that's come up. The car came with a silver label 413 and I installed a miller war chip and a few weeks later I got the 1281 cel code which is dme memory supply. I replaced the silver label with a red label 413 and it's been a couple of weeks and the code has come back again. Has anyone experienced this or have any idea on some checks I could do to correct this fault? I've reset the dme multiple times and done the full reset with disconnecting the dme for at least 15 minutes, idle for 5, and drive above 30mph for 5 minutes. It throws the code the second I go above 2500rpm. Once the check engine light comes on, the power and tq are substantially down and the car stumbles badly above 6500rpm. I'm thinking that it's either a faulty war chip or there's an issue in the wiring. Miller's customer service has been non-existent. Thank you for any help in resolving this!
-
-ANSWER 1 (id: 1012_0):
-More trouble shooting has shown that my battery and alternator are working perfectly and my dme case is thoroughly grounded. Next test was to replace my miller chip with a stock 413 chip and see if the light comes back on. After a full dme reset, the stock chip didn't get the cel. Time to call miller.

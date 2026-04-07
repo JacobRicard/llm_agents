@@ -1,7 +1,0 @@
-QUESTION ID: 592
-
-QUESTION:
-Replacing a mid-90s Pioneer unit with a modern continental unit with bluetooth, so I pulled the HU to find this craziness. Connected from the car's ACC power (RD/GN wire) is a 10a fuse, and then a mystery box (in the photos) before getting to the head unit. Secondly, there's a 100ma fuse between the car's antenna up/down signal wire (WT), and the head unit. What/why are these here, and am I find to remove them? I'm wondering if it has anything to do with Euro wiring to a NA head unit, or if it was just a relic of some previously installed head unit...Any insight appreciated!
-
-ANSWER 1 (id: 592_0):
-Typical old radio installation stuff, the box is a noise filter and they used to put fuses inline. Now the fuses are in the radio units by the pigtail plugin.

@@ -1,7 +1,0 @@
-QUESTION ID: 1251
-
-QUESTION:
-I am trying to figure out how the motor engages the bowden cables. I got both motors working, but there are two parts for the lid motor to turn, the lid moves fine, but the bowden cable part doesn't seem to have a way to connect to the motor. There is a tab on the side, but it doesn't engage with the lid lever. Pictures attached. Also here is a video I made showing how they don't engage. https://youtube.com/shorts/ng_pqqkzFUc?feature=share What am I missing?
-
-ANSWER 1 (id: 1251_0):
-I have detailed convertible top analysis and pics on my 91 Calypso build thread. 2017 or so. Check my sig or start here https://www.r3vlimited.com/board/for...24#post6787224

@@ -1,4 +1,5 @@
 QUESTION ID: 13
+TOPIC: clutch_replacement
 
 QUESTION:
 Ever since I got my new-to-me E30, I have been able to start it without pushing the clutch in. Seems very suspicious, so I looked at the wiring diagram and saw this: If I am researching correctly, the Black/Yellow wire is the wire that actually triggers the start solenoid? If so, does that mean that the Factory never had a clutch interrupt switch for starting the motor? Also, what exactly does the Black/Green wire do? What is its purpose?

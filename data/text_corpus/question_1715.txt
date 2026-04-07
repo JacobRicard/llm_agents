@@ -1,7 +1,0 @@
-QUESTION ID: 1715
-
-QUESTION:
-Good afternoon guys I have a serious problem. My E30 came up with this code 1222 came to find out was my cap and rotor bad. So I replaced it but I gotta buy spark plugs and coil as well. The spark plugs I put in was NGK but it’s still running bad then after I replace it. I have some Bosch spark plugs coming in this weekend but now this code is 1252 which fuel is coming out my exhaust manifold like is spitting out. I really need help I really love my E30 I don’t mind reading and finding out what’s the problem but I feel like I’m at the end of the wall. I rebuild my fuel injectors today but still doing the same thing. I don’t know if my injectors or bad or my spark plugs and coil are bad but I need help please.
-
-ANSWER 1 (id: 1715_0):
-Code 1222 is AFR out of spec. so why on earth did you go buying all ignition parts? id be starting with air leaks for that code based on initial google search.

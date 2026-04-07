@@ -1,7 +1,0 @@
-QUESTION ID: 2582
-
-QUESTION:
-Hey guys, does anyone know how/where to find the part shown in the image/at the link below but without the wire? I'd like to crimp the black part (the housing/socket) directly onto my factory wire. https://www.fcpeuro.com/products/bmw...mm-61130007442 The issue I'm having is at my front right turn signal, the wire had cracked just behind this housing and corroded. The entire plug is super brittle so I'll be replacing it with this part too but like I said, the real problem is where the wire cracked behind this whole plug assembly. I found a really good thread here: https://www.bimmerforums.com/forum/s...cal-Connectors However, looking on sites like newark.com and mouser.com, I had no luck finding these plugs?
-
-ANSWER 1 (id: 2582_1):
-Your request should have been posted under General Technical but here's the info: BMW connector plugs/wires for fuel pump, turn signals, washer fluid level sensor, brake fluid level sensors, and coolant level sensor connectors (also/maybe washer fluid pump - although these are at a right angle): 61130007441 connector housing for fuel pump, washer fluid level, brake fluid level, and coolant level: 61131378408 connector housing for turn signals (maybe fog lights, have to confirm): 61131378410 connectors and housing for washer fluid pump: tbd My personal notes, please excuse any bs.

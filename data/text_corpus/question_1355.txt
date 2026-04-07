@@ -1,4 +1,5 @@
 QUESTION ID: 1355
+TOPIC: electrical_gremlins
 
 QUESTION:
 Anyone know the difference in the wiring for the central locking of a vert compared to a coupe? I have 2 thick red/black wires going into the door plug and 1 coming out. I have 1 thin red/black in the relay and 1 thin red/black in the control unit. Trying to bypass the loop so I can start checking stuff of to get my locks working. Sent from my iPhone using Tapatalk
@@ -10,10 +11,10 @@ ANSWER 2 (id: 1355_1):
 Fuse is good, relay has been swapped and no rust on the connections. I removed the loop according to the diagram but still nothing. Next step is replacing actuators. Sent from my iPhone using Tapatalk
 
 ANSWER 3 (id: 1355_3):
-Very central locking So the wiring info I posted above it correct for coupes as well? Doesn’t seem that way from the pic below. Sent from my iPhone using Tapatalk
+Very central locking So the wiring info I posted above it correct for coupes as well? Doesnt seem that way from the pic below. Sent from my iPhone using Tapatalk
 
 ANSWER 4 (id: 1355_4):
-All actuators are good, control unit and relay are good. From the pic posted above I don’t have the jumper wire going from the relay to control unit this is why I asked if the verts had different wiring. Sent from my iPhone using Tapatalk
+All actuators are good, control unit and relay are good. From the pic posted above I dont have the jumper wire going from the relay to control unit this is why I asked if the verts had different wiring. Sent from my iPhone using Tapatalk
 
 ANSWER 5 (id: 1355_5):
 Did you check the thermal fuse inside the CU ? Its a low temp solder so its quite visible if bad and if you do decide to repair it do not use regular solder (AMHIK). I did that and blew every actuator in the car :-)

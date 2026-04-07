@@ -1,7 +1,0 @@
-QUESTION ID: 2925
-
-QUESTION:
-Hi guys, i'm new there and my english isn't very good... I'm a french canadian,I have an cirrusblau 1985 325E and i am planning to do a manual swap on my M20B27 (325E motor, 6cyl) but i'd like some help to be sure I have all the parts, I already have : -Transmission Getrag 260 -Manual Drive Shaft - Clutch, PP -Manual flywheel I need: -Manual e30 pedals with Master Cyl. -hose for hydraulic clutch - Slave cylinder - Clutch fork - Throw out bearing - DSSR - urethane bushing for shifter -Transmission Fluid - Manual transmission mounts Is it all I need ? I would appreciate if someone who already did the swap could help me out on this ! Thank you very much !
-
-ANSWER 1 (id: 2925_0):
-Clutch fork stop/pin & retaining spring, flywheel/PP bolts, probably a flex disc, rear shifter carrier, cabin shifter boot (& the rest of the shifter parts). Just have a look at realOEM or bmwfan.info and compare diagrams if language slows you down when it comes to DIYs on forums. FYI, your language skills are just fine.

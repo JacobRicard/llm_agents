@@ -1,7 +1,0 @@
-QUESTION ID: 573
-
-QUESTION:
-Hi folks, on my '84 325e, the overhead oil fault indicator light comes on whenever the brakes are depressed. Has anyone seen this happen before?
-
-ANSWER 1 (id: 573_0):
-Did this issue start after you did any work? Can't help with your exact issue, but when weird stuff like this happens its often a missing ground somewhere.

@@ -1,7 +1,0 @@
-QUESTION ID: 2340
-
-QUESTION:
-So i bought an 89 e30 and it only unlocks from the trunk. turning the key from the trunk locks/unlocks the entire car so the central locking system is fine. Should i be looking to replace the door lock cylinders, and if so, is there a way to replace both driver and passenger locks while still keeping my same existing key? part numbers or links would be much appreciated!! Thanks
-
-ANSWER 1 (id: 2340_0):
-I'm kinda going through a similar rectification on my car. Same symptoms until not even the trunk would work. What I've found so far is a broken driver door cylinder. Both fcp euro and ecs have replacement cylinders for both sides. Any cylinder can be matched to any key is how I understand it. You arrange the shims? In the same sequence as your existing cylinder. There are some straight forward video tutorials out there.

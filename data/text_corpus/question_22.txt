@@ -1,7 +1,0 @@
-QUESTION ID: 22
-
-QUESTION:
-I'm going through my entire AC system to get it back to 100% I have replaced/rebuilt almost everything. I am converting from dual pressure switches to a single pressure switch with both high and low sensors. This sensor (64538390971) attaches to a Schrader valve on the new single-sensor receiver dryer. I don't know if it requires an O-ring, Teflon tape, or nothing in order to seal properly. Also, putting it on the dryer finger tight didn't seem to release the pressure in the new dryer. Does anybody know what it is supposed to use to seal to the dryer? Thanks
-
-ANSWER 1 (id: 22_1):
-I must have lost it. I ended up putting a spare o-ring in there to test with vacuum and pressure, and now it's good to go. In the end I replaced: Condenser Receiver/drier Compressor shaft seal and associated large o-rings + switch to PAG46 Evaporator Expansion valve (from old R12 to R134) Converted dual pressure sensor system to single R134 sensor. Flushed lines All o-rings everywhere And I can still only get about 55*F out of the center vents at 2000 RPM (parked). Running recirc I can get it down to the low 40s, which is good enough I guess. I give up because I'm building an S50 which will require me to open the whole system again when it goes in.

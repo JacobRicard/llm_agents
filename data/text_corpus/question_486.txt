@@ -1,7 +1,0 @@
-QUESTION ID: 486
-
-QUESTION:
-I'm planning to upgrade the front speakers (keeping the original 5.25" size and going to coax) and a sub for my Touring. I think since the front speakers are so small it makes sense to use a high-pass filter around 100-150Hz since I'll have the sub to fill in the lows. What's the best way to go about this? Should I just get passive cross overs for the fronts and a mono amp for the sub? Or a 3 channel amp that has a high pass filter for two channels and low pass for the sub? Can all multi-channel amps do this? I'm not planning to touch the rear speakers at this point.
-
-ANSWER 1 (id: 486_0):
-There are many ways to go about this but what I have done is upgraded to modern head units that have built in high power amp (50wx4), electronic HIGH/MID/LOW filters, EQ, Bluetooth, etc etc. You can also use a capacitor (passive HPF) or active HPF to protect the tweeters if you want them on a different order than the mids but it's not necessary. I use the headunit to tune the cabin speakers on the fly, then use a dedicated mono amp 1 or 2 ohm stable for the subwoofer. It really depends on how you like your sound. For me, this is fine for my tastes nowadays. I'm not trying to be the loudest anymore or show off at car meets.

@@ -1,7 +1,0 @@
-QUESTION ID: 667
-
-QUESTION:
-My manual sunroof has some cracked sliders, the plastic bits that are on the ends of the cables. Before I go and buy two fully new cables to replace those plastic pieces, is there a way to remove the sliders / reinstall new ones? I found these 3d files -- https://cults3d.com/en/3d-model/arch...t-cable-slider The ends of the cables look like they are capped, not sure if its possible to remove that cap, slide on the new slider and recap it and have it actually work. Anyone have experience with this?
-
-ANSWER 1 (id: 667_0):
-Originally posted by Dawskip The ends of the cables look like they are capped, not sure if its possible to remove that cap, slide on the new slider and recap it and have it actually work. Anyone have experience with this? i'd try if you have nothing to lose anyway. an alternative is maybe using some heat shrink tubing if they can't be re-capped.

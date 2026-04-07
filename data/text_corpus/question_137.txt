@@ -1,7 +1,0 @@
-QUESTION ID: 137
-
-QUESTION:
-Hello Fellow R3Vlimiters, I did an R134a conversion on my 325iC in December before moving. It passed the vac test with flying colors and works well for a 37-year-old car. I noticed that my belt was a little loose and slightly squeaking at idle with the A/C off, and then it went away when I turned the A/C on. However, when the A/C is running and the engine is under load i.e. acceleration or deceleration, there is a very apparent whirring noise. Below is a video after I tightened up the belt...This noise was present before the tightening of the belt but is more apparent now. Any help is appreciated! https://youtube.com/shorts/B4DwH-CNYj4?feature=share
-
-ANSWER 1 (id: 137_0):
-hard to tell a noise in the video. My first thought is the bearing in the clutch on the compressor. which is replaceable i believe. if you remove the belt and spin the compressor clutch freely maybe you can hear if the bearing is bad? or bearings in the compressor itself, and those old compressors are hard to get serviced.

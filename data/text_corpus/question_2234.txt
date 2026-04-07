@@ -1,7 +1,8 @@
 QUESTION ID: 2234
+TOPIC: cooling_system
 
 QUESTION:
-So I’m still looking for a George graves wideband afr gauge. Been looking pretty hard, came across a new gauge: BMW E30 E24 E28 smart multigauge 4in1 https://blackstarmanufacture.com/produkt/multigauge/ E30 Digital Multigauge 4in1 features: – voltmeter – oil pressure – oil temperature – air/coolant temperature All in one compact display hidden in a console button switch. It reminded me of the one that e30 innovative goods had planned. Wondering if anyone else had come across it. I am still looking for a wideband g-gauge though.
+So Im still looking for a George graves wideband afr gauge. Been looking pretty hard, came across a new gauge: BMW E30 E24 E28 smart multigauge 4in1 https://blackstarmanufacture.com/produkt/multigauge/ E30 Digital Multigauge 4in1 features:  voltmeter  oil pressure  oil temperature  air/coolant temperature All in one compact display hidden in a console button switch. It reminded me of the one that e30 innovative goods had planned. Wondering if anyone else had come across it. I am still looking for a wideband g-gauge though.
 
 ANSWER 1 (id: 2234_1):
 Hi, not sure why someone delete my post but here it goes again: The 4in1 is operated as a normal button switch. You can toggle between voltmeter, oil temp, oil pressure and coolant temp. It also goes off into "stealth mode" when you hold the button for 2sec.

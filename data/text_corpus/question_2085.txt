@@ -1,4 +1,5 @@
 QUESTION ID: 2085
+TOPIC: speaker_upgrade
 
 QUESTION:
 Hey gentlemens, I decided on replacing my original radio/tape with a new Continental TR7412UB with blutooth from ECS Tuning, along with the VDO wiring harnesses from ECS to make things a little simpler. I removed my original radio, hooked up power, ground and other functions, now getting ready to hook up the speaker wires. My car has premium sound with the dash mounted fader which I removed. With very limited instruction, I was able to identify 4 wires coming out of the fader that I could use to reach all 4 speakers. Problem is, they will go trought the amp which isn't ideal.... And most importantly, I won't have any NEG (-) wires to hook up to my new head unit. I may be dumb, but how would you guys wire this considering the rear amp only seem to handle the (+) wires and no (-) wires seems to be present in the dash... Thanks in advance for your feedback. I haven't been able to find a clear answer so far.

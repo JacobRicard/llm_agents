@@ -1,7 +1,0 @@
-QUESTION ID: 2411
-
-QUESTION:
-My ABS light is on all the time I found several treads on the troubleshooting the system and narrowed it to the ABS unit itself ( thanks for the good info). I went thru the pin jumping on the ABS unit and all I hear is crickets, no sound from the pump or valves. Before I go thru the paining the ass of replacing the ABS unit with my ( known to be good) spare can someone tell me what the incoming voltage should be at the pump and valve relays pin 87? I am getting 5 volts. A power distribution problem could explain the no response at the pump.
-
-ANSWER 1 (id: 2411_0):
-Answered my own question thru additional review of the BMW Electrical Troubleshooting Manual it's 12volts. Turns out my ABS light is a result of (now) 0 volts at the ABS unit. Traced it to a ( mouse) crew thru of the supply line which runs from the positive bus bar in the engine compartment, across and under the fuse box and down to the ABS. Damage was under to fuse box.
